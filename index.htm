@@ -1,7 +1,7 @@
 <html><body>
 <script>
 window.onload=function turl(){
-var xmlhttp;    
+var xmlhttp;
 if(window.XMLHttpRequest)    
 {    
     xmlhttp = new XMLHttpRequest();//其他浏览器    
@@ -27,14 +27,13 @@ xmlhttp.open("GET",FileURL,false);
 xmlhttp.send();
 if(xmlhttp.readyState==4){
     if(xmlhttp.status==200){
-        var myDate = new Date((new Date).getTime() - 4*60*60*1000);
-        var time = myDate.toJSON().split('T')[0];
-        location.assign("Maoism-Datasets/" + time + "/index.htm");
+        location.assign(FileURL);
     }
     else{
         var myDate = new Date((new Date).getTime() - 28*60*60*1000);
         var time = myDate.toJSON().split('T')[0];
-        location.assign("Maoism-Datasets/" + time + "/index.htm");
+        FileURL="Maoism-Datasets/" + time + "/index.htm";
+        location.assign(FileURL);
         window.alert("News are not produced today, Perhaps, You can review some past news by change link date.\n今天的新闻还未产出，也许你可以通过修改链接日期看看过去的新闻。");
     }
         
