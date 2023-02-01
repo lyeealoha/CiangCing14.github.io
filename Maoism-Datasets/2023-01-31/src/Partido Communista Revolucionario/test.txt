@@ -1,0 +1,149 @@
+
+                    <main id="main" class="site-main" role="main">
+                        <div id="noticias-page-listado" class="listado-noticias">
+                            
+
+                                <div class="row">
+                                    <div  class="noticia col-md-4 noticia-pcr">
+        <div class="noticia-imagen" style="background-image: url(https://pcr.org.ar/wp-content/uploads/2023/01/bahía-blanca-portal-del-Este-1-300x225.jpg);">
+    		<a class="tag" href="https://pcr.org.ar/?taxonomy=categoriasnotas&term=lucha-popular">Lucha popular</a>        	<a class="permalink" href="https://pcr.org.ar/nota/fin-de-ano-en-portal-del-este/"></a>
+                <div class="noticia-copete">
+                    Bahía Blanca: El mejor regalo,  la sonrisa de un niño                </div>
+        </div>
+        <a href="https://pcr.org.ar/nota/fin-de-ano-en-portal-del-este/"><h1 class="noticia-titulo">Fin de año  en Portal del Este</h1></a>
+        <a href="https://pcr.org.ar/nota/fin-de-ano-en-portal-del-este/"><div class="extracto">
+            <p>En el marco del festejo de navidad, el grupo Comedor-Merendero “Pancitas Llenas” y las promotoras de Salud del Barrio Portal Del Este de Bahía Blanca perteneciente a la Corriente Clasista y Combativa organizaron una recaudación para solventar gastos y lograr la celebración. La compañera Lucía le contaba a nuestro corresponsal: “Todo comenzó por el mes [&hellip;]</p>
+ <a href="https://pcr.org.ar/nota/fin-de-ano-en-portal-del-este/" class="vermas">VER MÁS</a>
+        </div></a>
+</div><div  class="noticia col-md-4 noticia-pcr">
+        <div class="noticia-imagen" style="background-image: url(https://pcr.org.ar/wp-content/uploads/2023/01/Brasil-intento-de-golpe-300x169.jpeg);">
+    		<a class="tag" href="https://pcr.org.ar/?taxonomy=categoriasnotas&term=politica-internacional">Internacional</a>        	<a class="permalink" href="https://pcr.org.ar/nota/intento-de-golpe-bolsonarista-en-brasil/"></a>
+                <div class="noticia-copete">
+                    A una semana de la asunción  de Lula da Saliva                </div>
+        </div>
+        <a href="https://pcr.org.ar/nota/intento-de-golpe-bolsonarista-en-brasil/"><h1 class="noticia-titulo">Intento de golpe bolsonarista  en Brasil</h1></a>
+        <a href="https://pcr.org.ar/nota/intento-de-golpe-bolsonarista-en-brasil/"><div class="extracto">
+            <p>El 1 de enero asumió por tercera vez la presidencia de Brasil Luiz Inácio «Lula» da Silva, tras derrotar en la segunda ronda electoral al fascista Jair Bolsonaro. Recordemos que Lula obtuvo el 50,9% de los votos contra el 49,1% de Bolsonaro. Apenas una semana después de su asunción, en Brasilia bandas fascistas seguidoras del [&hellip;]</p>
+ <a href="https://pcr.org.ar/nota/intento-de-golpe-bolsonarista-en-brasil/" class="vermas">VER MÁS</a>
+        </div></a>
+</div><div  class="noticia col-md-4 noticia-pcr">
+        <div class="noticia-imagen" style="background-image: url(https://pcr.org.ar/wp-content/uploads/2023/01/2-300x182.jpg);">
+    		<a class="tag" href="https://pcr.org.ar/?taxonomy=categoriasnotas&term=politica-internacional">Internacional</a>        	<a class="permalink" href="https://pcr.org.ar/nota/bolivia-detienen-al-golpista-camacho/"></a>
+                <div class="noticia-copete">
+                    En Santa Cruz de la Sierra                </div>
+        </div>
+        <a href="https://pcr.org.ar/nota/bolivia-detienen-al-golpista-camacho/"><h1 class="noticia-titulo">Bolivia: detienen al golpista Camacho</h1></a>
+        <a href="https://pcr.org.ar/nota/bolivia-detienen-al-golpista-camacho/"><div class="extracto">
+            <p>La Justicia boliviana ordenó el 30 de diciembre pasado el arresto y la prisión preventiva por 4 meses del golpista Luis Fernando Camacho, gobernador del departamento de Santa Cruz (una de las regiones más ricas del país) y ex candidato presidencial, que quedó detenido en una cárcel de máxima seguridad en la ciudad de La [&hellip;]</p>
+ <a href="https://pcr.org.ar/nota/bolivia-detienen-al-golpista-camacho/" class="vermas">VER MÁS</a>
+        </div></a>
+</div>                                        </div><div class="row">
+                                            <div  class="noticia col-md-4 noticia-pcr">
+        <div class="noticia-imagen" style="background-image: url(https://pcr.org.ar/wp-content/uploads/2023/01/josé-maría-sison-300x200.jpg);">
+    		<a class="tag" href="https://pcr.org.ar/?taxonomy=categoriasnotas&term=politica-internacional">Internacional</a>        	<a class="permalink" href="https://pcr.org.ar/nota/jose-maria-sison/"></a>
+                <div class="noticia-copete">
+                    Fundador y presidente del Partido Comunista de Filipinas                </div>
+        </div>
+        <a href="https://pcr.org.ar/nota/jose-maria-sison/"><h1 class="noticia-titulo">José María Sison</h1></a>
+        <a href="https://pcr.org.ar/nota/jose-maria-sison/"><div class="extracto">
+            <p>El 16 de diciembre del año pasado, a los 83 años, murió el fundador y dirigente del Partido Comunista de Filipinas José María Sison, en Utrecht, Países Bajos, donde vivía desde la década del 80. Creador y líder del Nuevo Ejército del Pueblo (NPA), ala militar del Partido Comunista de Filipinas, Sison se desempeñó además [&hellip;]</p>
+ <a href="https://pcr.org.ar/nota/jose-maria-sison/" class="vermas">VER MÁS</a>
+        </div></a>
+</div><div  class="noticia col-md-4 noticia-pcr">
+        <div class="noticia-imagen" style="background-image: url(https://pcr.org.ar/wp-content/uploads/2023/01/3-300x200.jpg);">
+    		<a class="tag" href="https://pcr.org.ar/?taxonomy=categoriasnotas&term=partido">Partido</a>        	<a class="permalink" href="https://pcr.org.ar/nota/brindis-por-el-55-aniversario-del-pcr/"></a>
+                <div class="noticia-copete">
+                    Un Partido para la revolución                </div>
+        </div>
+        <a href="https://pcr.org.ar/nota/brindis-por-el-55-aniversario-del-pcr/"><h1 class="noticia-titulo">Brindis por el 55 aniversario del PCR</h1></a>
+        <a href="https://pcr.org.ar/nota/brindis-por-el-55-aniversario-del-pcr/"><div class="extracto">
+            <p>Brindis central El 9 de enero se realizó el brindis por el 55 aniversario del PCR organizado por el Comité Central partidario. Participaron camaradas del CC, delegaciones de zonas del Partido, comisiones nacionales, la delegación de la JCR e invitadas e invitados. Se leyeron las adhesiones de partidos hermanos de Paraguay y Uruguay (ver recuadro). [&hellip;]</p>
+ <a href="https://pcr.org.ar/nota/brindis-por-el-55-aniversario-del-pcr/" class="vermas">VER MÁS</a>
+        </div></a>
+</div><div  class="noticia col-md-4 noticia-pcr">
+        <div class="noticia-imagen" style="background-image: url(https://pcr.org.ar/wp-content/uploads/2022/01/Otto-Vargas-1-300x168.jpg);">
+    		<a class="tag" href="https://pcr.org.ar/?taxonomy=categoriasnotas&term=partido">Partido</a>        	<a class="permalink" href="https://pcr.org.ar/nota/sobre-la-asimilacion-5/"></a>
+                <div class="noticia-copete">
+                    Grageas de Otto Vargas                </div>
+        </div>
+        <a href="https://pcr.org.ar/nota/sobre-la-asimilacion-5/"><h1 class="noticia-titulo">Sobre la asimilación</h1></a>
+        <a href="https://pcr.org.ar/nota/sobre-la-asimilacion-5/"><div class="extracto">
+            <p>Sobre la asimilación La asimilación es un problema mucho más complejo de lo que aparentemente pareciera y no son una o dos medidas las que pueden resolverlo. En primer lugar la asimilación está íntimamente ligada a nuestra labor de masas, a su orientación, contenido y forma. En segundo lugar a la habilidad, que no se [&hellip;]</p>
+ <a href="https://pcr.org.ar/nota/sobre-la-asimilacion-5/" class="vermas">VER MÁS</a>
+        </div></a>
+</div>                                        </div><div class="row">
+                                            <div  class="noticia col-md-4 noticia-pcr">
+        <div class="noticia-imagen" style="background-image: url(https://pcr.org.ar/wp-content/uploads/2014/03/manuel-alvarez-300x285.jpg);">
+    		<a class="tag" href="https://pcr.org.ar/?taxonomy=categoriasnotas&term=partido">Partido</a>        	<a class="permalink" href="https://pcr.org.ar/nota/manuel-alvarez-hasta-la-victoria-siempre-6/"></a>
+                <div class="noticia-copete">
+                    A 47 años de su secuestro en Tucumán                </div>
+        </div>
+        <a href="https://pcr.org.ar/nota/manuel-alvarez-hasta-la-victoria-siempre-6/"><h1 class="noticia-titulo">Manuel Álvarez ¡hasta la victoria siempre!</h1></a>
+        <a href="https://pcr.org.ar/nota/manuel-alvarez-hasta-la-victoria-siempre-6/"><div class="extracto">
+            <p>Manuel Álvarez, dirigente del Sindicato de Trabajadores de la Industria Textil y Afines (Setia) de Grafanor fue secuestrado sacándolo de su casa en Famaillá, provincia de Tucumán, el 17 de enero de 1976 en pleno Operativo Independencia llevado a cabo por el ejército, en medio de los preparativos golpistas. Manuel Álvarez, miembro del Comité de [&hellip;]</p>
+ <a href="https://pcr.org.ar/nota/manuel-alvarez-hasta-la-victoria-siempre-6/" class="vermas">VER MÁS</a>
+        </div></a>
+</div><div  class="noticia col-md-4 noticia-pcr">
+        <div class="noticia-imagen" style="background-image: url(https://pcr.org.ar/wp-content/uploads/2020/01/Claudio-Spiguel-300x201.jpg);">
+    		<a class="tag" href="https://pcr.org.ar/?taxonomy=categoriasnotas&term=partido">Partido</a>        	<a class="permalink" href="https://pcr.org.ar/nota/claudio-spiguel-un-intelectual-al-servicio-del-pueblo-2/"></a>
+                <div class="noticia-copete">
+                    Profundo conocedor del marxismo-leninismo-maoísmo                </div>
+        </div>
+        <a href="https://pcr.org.ar/nota/claudio-spiguel-un-intelectual-al-servicio-del-pueblo-2/"><h1 class="noticia-titulo">Claudio Spiguel:  Un intelectual al servicio del pueblo</h1></a>
+        <a href="https://pcr.org.ar/nota/claudio-spiguel-un-intelectual-al-servicio-del-pueblo-2/"><div class="extracto">
+            <p>Claudio Spiguel, el camarada Marcos, Claudito para los amigos, fue un extraordinario y apasionado intelectual comunista. Era un profundo conocedor del marxismo-leninismo-maoísmo, docente universitario, historiador e investigador, autor de numerosas publicaciones, gran amigo, formador de centenares de camaradas del Partido y la Juventud en la doctrina marxista-leninista-maoísta y en la línea del PCR. Todos los [&hellip;]</p>
+ <a href="https://pcr.org.ar/nota/claudio-spiguel-un-intelectual-al-servicio-del-pueblo-2/" class="vermas">VER MÁS</a>
+        </div></a>
+</div><div  class="noticia col-md-4 noticia-pcr">
+        <div class="noticia-imagen" style="background-image: url(https://pcr.org.ar/wp-content/uploads/2023/01/2-1-300x183.jpg);">
+    		<a class="tag" href="https://pcr.org.ar/?taxonomy=categoriasnotas&term=partido">Partido</a><a class="tag" href="https://pcr.org.ar/?taxonomy=categoriasnotas&term=politica-nacional">Política</a>        	<a class="permalink" href="https://pcr.org.ar/nota/poemas-esenciales/"></a>
+                <div class="noticia-copete">
+                    Un poemario sobre los mártires  del PCR y la JCR                </div>
+        </div>
+        <a href="https://pcr.org.ar/nota/poemas-esenciales/"><h1 class="noticia-titulo">Poemas esenciales</h1></a>
+        <a href="https://pcr.org.ar/nota/poemas-esenciales/"><div class="extracto">
+            <p>Acaba de aparecer, en formato digital, este poemario del camarada Enrique Moreno. Poemas esenciales, como titula el autor con certeza a esta obra, tiene un norte, y un hilo que lo enlaza, que son los mártires del Partido Comunista Revolucionario de la Argentina y su JCR en la lucha contra el golpe de Estado de [&hellip;]</p>
+ <a href="https://pcr.org.ar/nota/poemas-esenciales/" class="vermas">VER MÁS</a>
+        </div></a>
+</div>                                        </div><div class="row">
+                                            <div  class="noticia col-md-4 noticia-pcr">
+        <div class="noticia-imagen" style="background-image: url(https://pcr.org.ar/wp-content/uploads/2023/01/Placa-historias-del-PCR-300x159.png);">
+    		<a class="tag" href="https://pcr.org.ar/?taxonomy=categoriasnotas&term=partido">Partido</a>        	<a class="permalink" href="https://pcr.org.ar/nota/historias-del-pcr/"></a>
+                <div class="noticia-copete">
+                    Un partido para la revolución                </div>
+        </div>
+        <a href="https://pcr.org.ar/nota/historias-del-pcr/"><h1 class="noticia-titulo">Historias del PCR</h1></a>
+        <a href="https://pcr.org.ar/nota/historias-del-pcr/"><div class="extracto">
+            <p>A mediados de 2022, el multimedio de la Corriente Clasista y Combativa de Quilmes, Berazategui y F. Varela, Noticias Populares, a partir de la propuesta del Partido de la Zona, comenzó un segmento audiovisual llamado «Historias del PCR». Un encuentro que llevó tiempo, estudio y dedicación de todas y todos los que formamos parte. Un [&hellip;]</p>
+ <a href="https://pcr.org.ar/nota/historias-del-pcr/" class="vermas">VER MÁS</a>
+        </div></a>
+</div><div  class="noticia col-md-4 noticia-pcr">
+        <div class="noticia-imagen" style="background-image: url(https://pcr.org.ar/wp-content/uploads/2023/01/revolución-cubana-fidel-y-el-che-entrando-a-santiago-de-cuba-gray-300x204.jpg);">
+    		<a class="tag" href="https://pcr.org.ar/?taxonomy=categoriasnotas&term=temas-ideologicos">Temas Ideológicos</a>        	<a class="permalink" href="https://pcr.org.ar/nota/la-revolucion-cubana/"></a>
+                <div class="noticia-copete">
+                    1° de enero de 1959                </div>
+        </div>
+        <a href="https://pcr.org.ar/nota/la-revolucion-cubana/"><h1 class="noticia-titulo">La Revolución Cubana</h1></a>
+        <a href="https://pcr.org.ar/nota/la-revolucion-cubana/"><div class="extracto">
+            <p>Plantea el Programa del PCR: “En 1959 el triunfo de la revolución cubana conmovió América Latina. Se inició en el campo con la guerrilla de Sierra Maestra, surgida a partir del desembarco de un grupo de combatientes organizado por el Movimiento Revolucionario 26 de Julio dirigido por Fidel Castro, donde se encontraron con guajiros dirigidos [&hellip;]</p>
+ <a href="https://pcr.org.ar/nota/la-revolucion-cubana/" class="vermas">VER MÁS</a>
+        </div></a>
+</div><div  class="noticia col-md-4 noticia-pcr">
+        <div class="noticia-imagen" style="background-image: url(https://pcr.org.ar/wp-content/uploads/2023/01/4-300x183.jpg);">
+    		<a class="tag" href="https://pcr.org.ar/?taxonomy=categoriasnotas&term=temas-ideologicos">Temas Ideológicos</a>        	<a class="permalink" href="https://pcr.org.ar/nota/la-disputa-por-la-hegemonia/"></a>
+                <div class="noticia-copete">
+                    13° Congreso del Partido Comunista Revolucionario de la Argentina                </div>
+        </div>
+        <a href="https://pcr.org.ar/nota/la-disputa-por-la-hegemonia/"><h1 class="noticia-titulo">La disputa por  la hegemonía</h1></a>
+        <a href="https://pcr.org.ar/nota/la-disputa-por-la-hegemonia/"><div class="extracto">
+            <p>La disputa imperialista por la hegemonía en América Latina y en la Argentina tiñe la política en nuestro país. En el bloque dominante de la Argentina, durante el gobierno de Macri, se produjo una profunda penetración de bancos y fondos de inversión yanquis e ingleses en empresas y bancos argentinos. Esos poderosos usureros fueron grandes [&hellip;]</p>
+ <a href="https://pcr.org.ar/nota/la-disputa-por-la-hegemonia/" class="vermas">VER MÁS</a>
+        </div></a>
+</div>                                        </div><div class="row">
+                                                                            </div>
+
+                                <a class="prev page-numbers" href="https://pcr.org.ar/noticias//page/4">Anterior</a>
+<a class="page-numbers" href="https://pcr.org.ar/noticias/">1</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class="page-numbers" href="https://pcr.org.ar/noticias//page/3">3</a>
+<a class="page-numbers" href="https://pcr.org.ar/noticias//page/4">4</a>

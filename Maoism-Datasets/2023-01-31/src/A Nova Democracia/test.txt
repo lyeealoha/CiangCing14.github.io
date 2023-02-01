@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pt-br" lang="pt-br" dir="ltr">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<base href="https://anovademocracia.com.br/noticias/18634-chacina-em-nova-mutum-ro-novas-denuncias-apontam-para-torturas-e-privacao-de-direitos-durante-ataque-da-pm" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="LIGA DOS CAMPONESES POBRES, LCP, RONDONIA, MARCOS ROCHA, LATIFÚNDIO, TOMADA DE TERRAS DO LATIFÚNDIO, VIOLÊNCIA POLICIAL, CHACINA, MASSACRE" />
+<meta name="author" content="Gabriel Artur" />
+<meta name="description" content="Na manhã do dia 28 de janeiro, em pleno sábado, o Batalhão de Operações Especiais (Bope) da Polícia Militar (PM) de Rondônia assassinou dois camponeses e levou terror a mais de 100 famílias (300 camponeses) em um novo ataque aos camponeses do Acampamento Tiago Campin dos Santos, em Rôndonia. Em 31/01, a Associação Brasileira dos Advogados do Povo - Gabriel Pimenta (Abrapo) divulgou um Relatório e a Liga dos Camponeses Pobres (LCP) da Amazônia Ocidental publicou uma nota sobre a chacina. Os dois documentos dão conta da atuação covarde e terrorista neste que é o terceiro ataque desde a ocupação em 2020.
+
+" />
+<title>Chacina em Nova Mutum/RO: Novas denúncias apontam para torturas e privação de direitos durante ataque da PM - A Nova Democracia</title>
+<link href="/images/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+<link href="/templates/shaper_helix3/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+<link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,700,700italic&amp;subset=latin-ext" rel="stylesheet" type="text/css" />
+<link href="//fonts.googleapis.com/css?family=Open+Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic&amp;subset=greek-ext" rel="stylesheet" type="text/css" />
+<link href="/cache/com_templates/templates/shaper_helix3/de1b07beaf1dcf8f03d592094b0b3941.css" rel="stylesheet" type="text/css" />
+<link href="/media/mod_social_slider/css/style.css" rel="stylesheet" type="text/css" />
+<link href="/media/syw/css/fonts-min.css" rel="stylesheet" type="text/css" />
+<link href="/cache/mod_latestnewsenhanced/style_197.css?8b03433a6d57d88d71b3827b81eb2601" rel="stylesheet" type="text/css" />
+<link href="/modules/mod_latestnewsenhanced/styles/common_styles-min.css?8b03433a6d57d88d71b3827b81eb2601" rel="stylesheet" type="text/css" />
+<link href="/media/mod_pwebbox/css/layout.css" rel="stylesheet" type="text/css" />
+<link href="/media/mod_pwebbox/css/animations.css" rel="stylesheet" type="text/css" />
+<link href="/media/mod_pwebbox/css/themes/magazine.css" rel="stylesheet" type="text/css" />
+<link href="/media/mod_pwebbox/cache/d6860febecc51468e3e31306fe52b9a2-220.css" rel="stylesheet" type="text/css" />
+<link href="/media/mod_pwebbox/css/ie8.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+body{font-family:PT Sans, sans-serif; font-weight:normal; }h1{font-family:PT Sans, sans-serif; font-size:36px; font-weight:normal; }h2{font-family:PT Sans, sans-serif; font-size:32px; font-weight:normal; }h3{font-family:PT Sans, sans-serif; font-size:26px; font-weight:normal; }h4{font-family:PT Sans, sans-serif; font-size:18px; font-weight:normal; }h5{font-family:PT Sans, sans-serif; font-size:10px; font-weight:normal; }h6{font-family:PT Sans, sans-serif; font-size:12px; font-weight:normal; }.sp-megamenu-parent{font-family:Open Sans, sans-serif; font-size:18px; font-weight:300; }.videos_youtube_homepage-container {
+    display: flex;
+    flex-direction: row;
+    /*flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;*/
+
+}
+
+.videos_youtube_homepage-children {
+    flex-basis: 25vw;
+    flex-grow: 1;
+    flex-shrink 1;
+}
+
+@media (max-width: 800px) {
+    .videos_youtube_homepage-container {
+      flex-direction: column;
+    }
+  } 
+#sp-top-bar{ background-color:#ed1c24;color:#999999;padding:10px 5px 10px 0; }#sp-top-bar a{color:#ffffff;}#sp-top-bar a:hover{color:#ffffff;}#sp-header{ background-color:#e41c23;color:#ffffff;padding:0 0 0 0 ;margin:0 0 0 0; }#sp-header a{color:#ffffff;}#sp-main-body{ padding:0 0 0 0;margin:30px 30px 30px 20px; }#sp-section-12{ background-color:#f3f3f3;padding:20px 10px 0 25px;margin:0 0 0 0; }#sp-edicao-impressa{ background-color:#f3f3f3;padding:30px 0 30px 20px;margin:0 ; }#sp-footer1{ color:#303030;margin:30px 10px 0 20px; }#sp-footer1 a{color:#303030;}#sp-footer1 a:hover{color:#ed1c24;}#sp-rodape{ background-color:#f3f3f3;padding:20px 10px 0 5px;margin:30px 0 0 0; }#sp-footer{ background-color:#f3f3f3;color:#303030;padding:0 0 0 0;margin:0 0 0 0; }#sp-footer a{color:#303030;}#sp-footer a:hover{color:#ed1c24;}.jj_sl_navigation li a {
+			background-color:#ff4953;
+			text-align:left;
+			color:#ffffff !important;
+		}
+		.jj_sl_navigation .jj_sprite {
+			background-image: url(https://anovademocracia.com.br/media/mod_social_slider/icons/sprite-white.png);
+		}@media screen and (max-width: 480px){
+				.jj_sl_navigation { display: none; }
+			}.jj_sl_navigation { top:210px;
+			}.jj_sl_navigation .jj_sl_custom1 a:hover{
+			background-color: #cc252c;
+		 }
+		 .jj_sl_navigation .jj_sl_custom2 a:hover{
+			background-color: #4099ff;
+		 }
+		 .jj_sl_navigation .jj_sl_custom3 a:hover{
+			background-color: #ff6600;
+		 }
+		 .jj_sl_navigation .jj_sl_custom4 a:hover{
+			background-color: #41b583;
+		 }
+		 .jj_sl_navigation .jj_sl_custom5 a:hover{
+			background-color: #000000;
+		 }
+				.jj_sl_navigation .jj_sprite_custom.jj_custom1 {
+					background-image: url(https://anovademocracia.com.br/media/mod_social_slider/icons/youtube.png);
+				}
+				.jj_sl_navigation .jj_sprite_custom.jj_custom2 {
+					background-image: url(https://anovademocracia.com.br/media/mod_social_slider/icons/twitter.png);
+				}
+				.jj_sl_navigation .jj_sprite_custom.jj_custom3 {
+					background-image: url(https://anovademocracia.com.br/media/mod_social_slider/icons/rss.png);
+				}
+				.jj_sl_navigation .jj_sprite_custom.jj_custom4 {
+					background-image: url(https://anovademocracia.com.br/media/mod_social_slider/icons/email.png);
+				}
+				.jj_sl_navigation .jj_sprite_custom.jj_custom5 {
+					background-image: url(https://anovademocracia.com.br/media/mod_social_slider/icons/icon.png);
+				}
+	</style>
+<script type="application/json" class="joomla-script-options new">{"csrf.token":"d1fc670d5152e42430c767628661dc79","system.paths":{"root":"","base":""},"system.keepalive":{"interval":300000,"uri":"\/component\/ajax\/?format=json"}}</script>
+<script src="/cache/com_templates/templates/shaper_helix3/6201402f0ddb262a23584d50b28243da.js" type="text/javascript"></script>
+<script src="/media/syw/js/purepajinate/purePajinate.min.js?8b03433a6d57d88d71b3827b81eb2601" type="text/javascript"></script>
+<script src="/media/mod_pwebbox/js/jquery.pwebbox.min.js" type="text/javascript"></script>
+<!--[if lt IE 9]><script src="/media/system/js/polyfill.event.js?8b03433a6d57d88d71b3827b81eb2601" type="text/javascript"></script><![endif]-->
+<script src="/media/system/js/keepalive.js?8b03433a6d57d88d71b3827b81eb2601" type="text/javascript"></script>
+<script type="text/javascript">
+jQuery(function($){ initTooltips(); $("body").on("subform-row-add", initTooltips); function initTooltips (event, container) { container = container || document;$(container).find(".hasTooltip").tooltip({"html": true,"container": "body"});} });jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+var sp_preloader = '0';
+
+var sp_gotop = '1';
+
+var sp_offanimation = 'default';
+document.addEventListener("readystatechange", function(event) {if (event.target.readyState === "complete") {var pagination = new purePajinate({containerSelector: '#lnee_197 .latestnews-items',itemSelector: '#lnee_197 .latestnews-item',navigationSelector: '#lnee_197 .items_pagination',wrapAround: true,pageLinksToDisplay: 28,itemsPerPage: 4,onInit: function() {var news = document.querySelector("#lnee_197.newslist");if (news.classList) { news.classList.add("show"); } else { news.className += " " + className; }},navLabelPrev: "<span class='SYWicon-arrow-up2'></span>",navLabelNext: "<span class='SYWicon-arrow-down2'></span>"});}});
+	</script>
+<meta property="og:url" content="https://anovademocracia.com.br/noticias/18634-chacina-em-nova-mutum-ro-novas-denuncias-apontam-para-torturas-e-privacao-de-direitos-durante-ataque-da-pm" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Chacina em Nova Mutum/RO: Novas denúncias apontam para torturas e privação de direitos durante ataque da PM" />
+<meta property="og:description" content="Raniel Barbosa Laurindo (conhecido como “Mandruvá”) de 24 anos e Rodrigo Hawerroth (conhecido como “Esticado”), de 34 anos, foram assassinados após tortura..." />
+<link rel="canonical" href="https://anovademocracia.com.br/noticias/18634-chacina-em-nova-mutum-ro-novas-denuncias-apontam-para-torturas-e-privacao-de-direitos-durante-ataque-da-pm" />
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NDF9FD4');</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-3289832-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Raniel Barbosa Laurindo (conhecido como “Mandruvá”) de 24 anos e Rodrigo Hawerroth (conhecido como “Esticado”), de 34 anos, foram assassinados após torturas pela PM de Rondônia. Foto: Banco de Dados A" />
+<meta name="twitter:image" content="https://anovademocracia.com.br/images/esticado-nova_11.jpg" />
+<meta name="twitter:site" content="@jornaland" />
+<meta name="twitter:title" content="Chacina em Nova Mutum/RO: Novas denúncias apontam para torturas e priv" />
+<meta property="fb:app_id" content="" />
+<meta property="og:description" content="Raniel Barbosa Laurindo (conhecido como “Mandruvá”) de 24 anos e Rodrigo Hawerroth (conhecido como “Esticado”), de 34 anos, foram assassinados após tortura" />
+<meta property="og:image" content="https://anovademocracia.com.br/images/esticado-nova_11.jpg" />
+<meta property="og:image:height" content="485" />
+<meta property="og:image:width" content="640" />
+<meta property="og:site_name" content="A Nova Democracia" />
+<meta property="og:title" content="Chacina em Nova Mutum/RO: Novas denúncias apontam para torturas e priv" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://anovademocracia.com.br/noticias/18634-chacina-em-nova-mutum-ro-novas-denuncias-apontam-para-torturas-e-privacao-de-direitos-durante-ataque-da-pm" />
+
+</head>
+<body class="site com-content view-article no-layout no-task itemid-100281 pt-br ltr  sticky-header layout-fluid off-canvas-menu-init">
+<div class="body-wrapper">
+<div class="body-innerwrapper">
+<section id="sp-top-bar" class=" hidden-xs hidden-sm"><div class="container"><div class="row"><div id="sp-top1" class="col-sm-6 col-md-6"><div class="sp-column "><div class="logo"><a href="/"><img class="sp-default-logo" src="/images/logo/logo2.png" alt="A Nova Democracia"></a></div><div class="sp-module "><div class="sp-module-content">
+<div class="custom">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NDF9FD4"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript></div>
+</div></div></div></div><div id="sp-top2" class="col-sm-3 col-md-3"><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
+<div class="custom">
+<div class="idioma"><a href="/english-editions">ENGLISH</a></div>
+<div class="idioma"><a href="/espanol">ESPAÑOL</a></div></div>
+</div></div></div></div><div id="sp-search" class="col-sm-3 col-md-3"><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
+<div class="pweb-modal pwebbox-plugin-any_module pweb-theme-magazine pweb-horizontal" dir="ltr">
+<div id="pwebbox220_toggler" class="pwebbox220_toggler pwebbox_toggler pweb-closed pweb-theme-magazine pweb-icon pweb-icon-icomoon"><span class="pweb-text">LOGIN</span><span class="pweb-icon"></span></div></div>
+<div id="pwebbox220" class="pwebbox pweb-static pweb-offset-right pweb-modal pwebbox-plugin-any_module pweb-theme-magazine pweb-horizontal" dir="ltr">
+<div id="pwebbox220_modal" class="pwebbox-modal modal fade" style="display:none">
+<div id="pwebbox220_box" class="pwebbox-box pweb-modal pwebbox-plugin-any_module pweb-theme-magazine pweb-horizontal " dir="ltr">
+<div class="pwebbox-container-outset">
+<div id="pwebbox220_container" class="pwebbox-container modal-dialog">
+<div class="pwebbox-container-inset">
+<button type="button" class="pwebbox220_toggler pweb-button-close" aria-hidden="true" data-role="none">&times;</button>
+<div class="pwebbox-content" id="pwebbox220_content">
+
+<div class="pwebbox-module-container">
+<div id="pwebbox_module_220">
+<form action="https://anovademocracia.com.br/noticias/18634-chacina-em-nova-mutum-ro-novas-denuncias-apontam-para-torturas-e-privacao-de-direitos-durante-ataque-da-pm" method="post" id="login-form">
+<div id="form-login-username" class="form-group">
+<div class="input-group">
+<span class="input-group-addon">
+<i class="icon-user hasTooltip" title="E-mail"></i>
+</span>
+<input id="modlgn-username" type="text" name="username" class="form-control" tabindex="0" size="18" placeholder="E-mail" />
+</div>
+</div>
+<div id="form-login-password" class="form-group">
+<div class="controls">
+<div class="input-group">
+<span class="input-group-addon">
+<i class="icon-lock hasTooltip" title="Senha"></i>
+</span>
+<input id="modlgn-passwd" type="password" name="password" class="form-control" tabindex="0" size="18" placeholder="Senha" />
+</div>
+</div>
+</div>
+<div id="form-login-remember" class="form-group">
+<div class="checkbox">
+<label for="modlgn-remember"><input id="modlgn-remember" type="checkbox" name="remember" class="inputbox" value="yes">Lembrar de mim</label>
+</div>
+</div>
+<div id="form-login-submit" class="form-group">
+<button type="submit" tabindex="0" name="Submit" class="btn btn-primary">Entrar</button>
+</div>
+<ul class="form-links">
+<li>
+<a href="/nome-de-usuario">
+</a>
+</li>
+<li>
+<a href="/redefinir-senha">
+Esqueceu sua senha?</a>
+</li>
+</ul>
+<input type="hidden" name="option" value="com_users" />
+<input type="hidden" name="task" value="user.login" />
+<input type="hidden" name="return" value="aHR0cHM6Ly9hbm92YWRlbW9jcmFjaWEuY29tLmJyL25vdGljaWFzLzE4NjM0LWNoYWNpbmEtZW0tbm92YS1tdXR1bS1yby1ub3Zhcy1kZW51bmNpYXMtYXBvbnRhbS1wYXJhLXRvcnR1cmFzLWUtcHJpdmFjYW8tZGUtZGlyZWl0b3MtZHVyYW50ZS1hdGFxdWUtZGEtcG0=" />
+<input type="hidden" name="d1fc670d5152e42430c767628661dc79" value="1" />
+</form>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+jQuery(document).ready(function($){pwebBox220=new pwebBox({id:220,bootstrap:3,theme:"magazine",layout:"modal",position:"static",offsetPosition:"right",togglerNameClose:"",closeOther:0,modalEffectDuration:100})});</script>
+
+</div></div><div class="sp-module "><div class="sp-module-content"><div class="search">
+<form action="/noticias" method="post">
+<input name="searchword" id="mod-search-searchword" maxlength="200" class="inputbox search-query" type="text" size="20" placeholder="pesquisar" /> <input type="hidden" name="task" value="search" />
+<input type="hidden" name="option" value="com_search" />
+<input type="hidden" name="Itemid" value="100281" />
+</form>
+</div>
+</div></div></div></div></div></div></section><header id="sp-header"><div class="container"><div class="row"><div id="sp-menu" class="col-sm-12 col-md-12"><div class="sp-column "> <div class='sp-megamenu-wrapper'>
+<a id="offcanvas-toggler" class="visible-sm visible-xs" aria-label="Helix Megamenu Options" href="#"><i class="fa fa-bars" aria-hidden="true" title="Helix Megamenu Options"></i></a>
+<ul class="sp-megamenu-parent hidden-sm hidden-xs"><li class="sp-menu-item"><a href="/">Início</a></li><li class="sp-menu-item sp-has-child"><a href="javascript:void(0);">Linha Editorial</a><div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 300px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a href="/editorial">Editorial</a></li><li class="sp-menu-item"><a href="/situacao-politica">Situação Política</a></li><li class="sp-menu-item"><a href="/linhaeditorial">Linha Editorial</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a href="javascript:void(0);">Nacional</a><div class="sp-dropdown sp-dropdown-main sp-dropdown-mega sp-menu-full container" style=""><div class="sp-dropdown-inner"><div class="row"><div class="col-sm-4"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a href="/nacional">Nacional</a></li><li class="sp-menu-item"><a href="/luta-pela-terra">Luta pela Terra</a></li><li class="sp-menu-item"><a href="/povos-indigenas">Povos Indígenas</a></li></ul></li></ul></div><div class="col-sm-4"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a href="/farsa-eleitoral">Farsa Eleitoral</a></li><li class="sp-menu-item"><a href="/crimes-contra-o-povo">Crimes contra o povo</a></li><li class="sp-menu-item"><a href="/intervencao-militar">Intervenção militar</a></li></ul></li></ul></div><div class="col-sm-4"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a href="/presos-politicos-do-brasil">Presos Políticos</a></li><li class="sp-menu-item"><a href="/herois-do-povo-brasileiro"> Heróis do Povo Brasileiro</a></li><li class="sp-menu-item"><a href="/luta-classista">Luta Classista</a></li></ul></li></ul></div></div></div></div></li><li class="sp-menu-item sp-has-child"><a href="javascript:void(0);">Internacional</a><div class="sp-dropdown sp-dropdown-main sp-dropdown-mega sp-menu-full container" style=""><div class="sp-dropdown-inner"><div class="row"><div class="col-sm-4"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a href="/internacional">Internacional</a></li><li class="sp-menu-item"><a href="/america-latina">América Latina</a></li><li class="sp-menu-item"><a href="/libertacao-nacional">Libertação Nacional</a></li></ul></li></ul></div><div class="col-sm-4"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a href="/presos-politicos">Presos Políticos</a></li><li class="sp-menu-item"><a href="/guerra-popular">Guerra Popular</a></li></ul></li></ul></div><div class="col-sm-4"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a href="/figuras-da-classe-operaria">Figuras da classe operária</a></li><li class="sp-menu-item"><a href="/datas-memoraveis-do-proletariado">Datas Memoráveis do Proletariado</a></li></ul></li></ul></div></div></div></div></li><li class="sp-menu-item sp-has-child"><a href="javascript:void(0);">Nova Cultura</a><div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 300px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a href="/nova-cultura">Nova Cultura</a></li><li class="sp-menu-item"><a href="/agenda-cultural">Agenda Cultural</a></li><li class="sp-menu-item"><a href="/realizacoes-socialistas">Realizações socialistas</a></li><li class="sp-menu-item"><a href="/100-anos-da-grande-revolucao-bolchevique-de-1917"> 100 anos da Grande Revolução Bolchevique de 1917</a></li><li class="sp-menu-item"><a href="/50-anos-da-grpc">50 Anos da GRPC</a></li></ul></div></div></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item sp-has-child"><a href="/anteriores">Edição impressa</a><div class="sp-dropdown sp-dropdown-main sp-dropdown-mega sp-menu-full container" style=""><div class="sp-dropdown-inner"><div class="row"><div class="col-sm-12"><div class="sp-module "><div class="sp-module-content">
+<div class="custom">
+<div class="anter">Nº 249<a href="/no-249"><img src="/images/0-2022/09/outros/and-249.jpg" alt="" width="146" height="207" /></a></div>
+<div class="anter">Nº 248<br /><a href="/no-248"><img src="/images/248/capap.jpg" alt="248" /></a></div>
+<div class="anter">Nº 247<br /><a href="/no-247"><img src="/images/247/capap.jpg" alt="247" /></a></div>
+<div class="anter">Nº 246<br /><a href="/no-246"><img src="/246/capaP.webp" alt="246" /></a></div>
+<div class="anter">Nº 245<br /><a href="/no-245"><img src="/245/capaP.webp" alt="245" /></a></div>
+<div class="anter">Nº 244<br /><a href="/no-244"><img src="/244/capaP.webp" alt="244" /></a></div>
+<div class="anter">Nº 243<br /><a href="/no-243"><img src="/243/capaP.webp" alt="243" /></a></div>
+<p></p>
+<p></p></div>
+</div></div><div class="sp-module "><div class="sp-module-content">
+<div class="custom">
+<p><a href="/anteriores" class="readon-button">Veja todas as edições</a></p></div>
+</div></div></div></div></div></div></li><li class="sp-menu-item"><a href="https://anovademocracia.lojavirtualnuvem.com.br/">Loja</a></li></ul> </div>
+</div></div></div></div></header><section id="sp-main-body"><div class="container"><div class="row"><div id="sp-component" class="col-xs-12 col-sm-12 col-md-7"><div class="sp-column "><div id="system-message-container">
+</div>
+<article class="item item-page item-featured" itemscope itemtype="http://schema.org/Article">
+<meta itemprop="inLanguage" content="pt-BR" />
+<div class="entry-header">
+<dl class="article-info">
+<dt class="article-info-term"></dt>
+<dd class="createdby" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<i class="fa fa-user"></i>
+<span itemprop="name" data-toggle="tooltip" title="">Gabriel Artur</span> </dd>
+<dd class="published">
+<i class="fa fa-calendar-o"></i>
+<time datetime="2023-01-31T17:42:11-03:00" itemprop="datePublished" data-toggle="tooltip" title="Data de Publicação">
+31 Janeiro 2023	</time>
+</dd>
+</dl>
+<h2 itemprop="name">
+Chacina em Nova Mutum/RO: Novas denúncias apontam para torturas e privação de direitos durante ataque da PM </h2>
+</div>
+
+<div itemprop="articleBody">
+<p><img src="/images/esticado-nova_11.jpg" /></p>
+<p><span class="legenda">Raniel Barbosa Laurindo (conhecido como “Mandruvá”) de 24 anos e Rodrigo Hawerroth (conhecido como “Esticado”), de 34 anos, foram assassinados após torturas pela PM de Rondônia. Foto: Banco de Dados AND</span></p>
+<p><span style="font-weight: 400;">Na manhã do dia 28 de janeiro, em pleno sábado, o Batalhão de Operações Especiais (Bope) da Polícia Militar (PM) de Rondônia assassinou dois camponeses e levou terror a mais de 100 famílias (300 camponeses) em um novo ataque aos camponeses do Acampamento Tiago Campin dos Santos, em Rôndonia. Em 31/01, a Associação Brasileira dos Advogados do Povo - Gabriel Pimenta (Abrapo) </span><a href="https://drive.google.com/file/d/1mdOqfEU0y22iq_lFptbWfzUEUzYTFDtx/view?usp=share_link"><span style="font-weight: 400;">divulgou um Relatório</span></a><span style="font-weight: 400;"> e a Liga dos Camponeses Pobres (LCP) da Amazônia Ocidental publicou </span><a href="https://resistenciacamponesa.com/luta-camponesa/policia-assassina-camponeses-durante-ataque-contra-familias/"><span style="font-weight: 400;">uma nota</span></a><span style="font-weight: 400;"> sobre a chacina. Os dois documentos dão conta da atuação covarde e terrorista neste que é o terceiro ataque desde a ocupação em 2020.</span></p>
+<p><span style="font-weight: 400;">A macabra chacina perpetrada pela PM assassina do governador coronel Marcos Rocha ocorreu na área do Acampamento Tiago Campin dos Santos, localizado nas Fazendas Arco-íris e Norbrasil. Segundo a Abrapo, o suposto dono daquelas terras é a empresa Leme Emprendimentos, do latifundiário Antônio Martins. “Galo Velho”, como é conhecido na região, é citado no "Livro Branco da Grilagem de Terras” como um dos maiores grileiros do país, está sendo investigado pelas polícias Civil e Federal, em conjunto com o Ministério Público, pelo financiamento de pistoleiros na região para a grilagem de terra e expulsão de camponeses.</span></p>
+<p><span style="font-weight: 400;"><img src="/images/IMG-20230128-WA00560.jpg" /></span></p>
+<p><span style="font-weight: 400;" class="legenda">Camponeses e advogados denunciaram crime contra o povo. Foto: Reprodução</span></p>
+<p><span style="font-weight: 400;">O ataque brutal contra as famílias camponesas ocorreu durante uma operação de reintegração de posse na sede da fazenda Norbrasil. Três batalhões da PM deslocaram-se no dia 28/01 com dezenas de viaturas e drones. As tropas militares reacionárias balearam três camponeses (dois morreram após torturas), agrediram fisicamente centenas de camponeses e roubou os pertences individuais dos camponeses. Marcos Rocha, governador do estado, é denunciado pela LCP por se posicionar ao lado dos latifundiários grileiros de terra. O movimento camponês afirma também que a operação foi para defender os “privilégios e interesses ilegais do Galo Velho”. </span></p>
+<p><span class="entretitulo"><b>A OCUPAÇÃO DA SEDE DA FAZENDA NORBRASIL</b></span></p>
+<p><span style="font-weight: 400;">No mesmo local já havia ocorrido um ataque no dia 22 de janeiro. Segundo a LCP, bandos militares de pistoleiros do Galo Velho foram até a área em uma caminhonete preta e realizaram disparos em direção às famílias, homens, mulheres e crianças desarmados.</span></p>
+<p><span style="font-weight: 400;">No dia anterior, aproximadamente 100 famílias (cerca de 300 pessoas) ocuparam a sede da fazenda Norbrasil, que fica na beira da BR-364. O interesse em ocupar aquela parcela de terra era compartilhado não somente pelas 100 famílias, mas por todos do Acampamento Tiago Campin dos Santos pois a única alternativa para se chegar às casas é dando uma volta de mais de 100 km. Além disto, aquela parcela de terra é o principal ponto para escoar a produção camponesa, pela proximidade com a  rodovia federal.</span></p>
+<p><span style="font-weight: 400;"><img src="/images/esticado-nova_21.jpg" /></span></p>
+<p><span style="font-weight: 400;" class="legenda">Rodrigo Hawerroth trabalhando em sua criação. Foto: Reprodução</span></p>
+<p><span class="entretitulo"><b>INVASÃO POLICIAL: POLÍCIA COMETEU CHACINA E SÉRIE DE ILEGALIDADES </b></span></p>
+<p><span style="font-weight: 400;">Os policiais chegaram pela BR-364 atirando e lançando bombas de efeito moral e gás lacrimogêneo. Outros grupos de policiais estavam em outros pontos, de tocaia. Junto a estes também estavam pistoleiros que prestam serviço ao Galo Velho, segundo as denúncias do movimento camponês e da Abrapo.</span></p>
+<p><span style="font-weight: 400;">Os camponeses assassinados, </span><span style="font-weight: 400;">Rodrigo Hawerroth (conhecido como “Esticado”), de 34 anos e Raniel Barbosa Laurindo (conhecido como “Mandruvá”) de 24, estavam no grupo de camponeses que se afastou das bombas. O grupo decidiu atravessar o Rio Cotia, fazendo a travessia de barco. Foi aí que foram rendidos pelos policiais. Três camponeses foram baleados (além de Rodrigo e Raniel, Kenedy também foi alvejado e levado para o hospital João Paulo II).</span></p>
+<p><span style="font-weight: 400;"><img src="/images/Screenshot_from_2023-01-31_17-14-5612.jpg" /></span></p>
+<p><span class="legenda">Crianças foram atingidas por balas de borracha e gás lacrimogêneo. Foto: Reprodução</span></p>
+<p><span style="font-weight: 400;" class="legenda"><img src="/images/Screenshot_from_2023-01-31_17-12-5712.jpg" /></span></p>
+<p><span style="font-weight: 400;" class="legenda">Famílias ficaram o dia inteiro sem alimentação debaixo de sol. Foto: Reprodução</span></p>
+<p><span style="font-weight: 400;" class="legenda"><img src="/images/Screenshot_from_2023-01-31_17-16-0312.jpg" /></span></p>
+<p><span style="font-weight: 400;" class="legenda">Caminhão transportando camponeses até a Vila Alípio de Freitas, no Acampamento Tiago Campin dos Santos. Foto: Reprodução</span></p>
+<p><span style="font-weight: 400;">Os três camponeses atingidos foram levados ainda com vida pelos policiais, porém dois deles foram executados sumariamente após sofrerem severas torturas. O Relatório da Abrapo aponta que “os camponeses rendidos foram torturados, as marcas estão em seus corpos, tendo o Rodrigo apresentado hematomas no corpo e rosto condinzentes com coronhadas de armas, corte na boca, olho furado e língua cortada”. A Abrapo afirma que não há a certeza de que estas informações constarão no laudo cadavérico (documento que é de responsabilidade da Segurança Pública do governo do estado de Rondônia).</span></p>
+<p><span style="font-weight: 400;">Após este ataque, os policiais iniciaram um cerco às famílias acampadas no Barracão das Máquinas, na sede da fazenda. As famílias presentes tentaram voltar em direção ao rio, mas foram impedidas pelos militares reacionários. Os camponeses resistiram, gritando que haviam mulheres, inclusive grávidas, e crianças no local, o que foi ignorado pela PM, que prontamente começou “a atirar bala de borracha, jogar bomba de efeito moral, onde crianças foram atingidas e apresentaram reação de sufocamento”, denuncia o Relatório. </span></p>
+<p><span style="font-weight: 400;">Os camponeses afirmam que os policiais estavam todos sem identificação nos uniformes e eram acompanhados por pistoleiros da fazenda. O responsável pelas tropas (tenente-coronel Pontes) insultou os camponeses de criminosos e os militares reacionários afirmaram que a orientação era de “matar todo mundo”. As famílias resistiram à tentativa de jogá-los em um ônibus sem informar do destino e  foram novamente agredidas. Bombas de efeito moral foram lançadas e as famílias recuaram, desta vez para a margem da BR-364 (na frente da fazenda). E ficaram ali no sol escaldante, sem acesso a água ou alimentos. Um camponês foi encaminhado ao mesmo hospital pois teve ataque cardíaco. Muitos ficaram feridos por balas de borracha e sufocados pelo gás lacrimogêneo. Mulheres desmaiaram e crianças ficaram sem alimentação.</span></p>
+<p><span style="font-weight: 400;"><img src="/images/esticado132.jpg" /></span></p>
+<p><span style="font-weight: 400;" class="legenda">Rodrigo Hawerroth durante atividade coletiva Foto: Reprodução</span></p>
+<p><span style="font-weight: 400;" class="legenda"><img src="/images/esticado21.jpg" /></span></p>
+<p><span style="font-weight: 400;" class="legenda"><span>Rodrigo Hawerroth durante atividade coletiva. Foto: Reprodução</span></span></p>
+<p><span style="font-weight: 400;">Somente alguns camponeses conseguiram permissão para retirar uma bolsa de roupa de dentro do barracão. O restante das roupas, comidas, freezer com alimentos, botijões de gás, celulares, colchões, remédios e demais pertences pessoais não foram autorizados. A maior parte dos objetos dos camponeses ficaram nos barracões, que foram todos destruídos pelos policiais. Os camponeses denunciaram aos advogados que viram os militares reacionários roubando seus pertences (celulares e dinheiro). Além disso, os policiais também envenenaram cães e contaminaram poços de água, além de fotografarem os camponeses que estavam no local.</span></p>
+<p><span style="font-weight: 400;">A fim de intimidar os camponeses, a polícia passou com os corpos dos camponeses assassinados à mostra nos carros. Também com o mesmo objetivo, alguns camponeses foram levados para a sede da fazenda e ameaçados e agredidos. As famílias que ficaram na beira da estrada também foram fustigadas pela PM e pistoleiros que ficaram no local fazendo rondas ostensivas. Alguns camponeses foram fichados e assinaram um termo circunstancial criminal e vão responder por desobediência no Juizado Especial Criminal (JEC).</span></p>
+<p><span style="font-weight: 400;">No fim da tarde do dia 29/01, as famílias deixaram o local e foram para a Vila Alípio de Freitas, localizada dentro do Acampamento Tiago Campin dos Santos. De acordo com o relatório, os camponeses mostraram “muita indignação com as execuções e a forma de agir da PM em proteção ao latifúndio.”.</span></p>
+<p><span style="font-weight: 400;">Leia o </span><a href="https://drive.google.com/file/d/1mdOqfEU0y22iq_lFptbWfzUEUzYTFDtx/view?usp=share_link"><span style="font-weight: 400;">relatório da Abrapo</span></a> <span style="font-weight: 400;">e a </span><a href="https://resistenciacamponesa.com/luta-camponesa/policia-assassina-camponeses-durante-ataque-contra-familias/"><span style="font-weight: 400;">nota da LCP</span></a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;"></span></p>
+<p><strong>ATENÇÃO: IMAGENS SENSÍVEIS</strong></p>
+<p><span class="legenda"><strong></strong></span></p>
+<p><span class="legenda"><strong><img src="/images/Screenshot_from_2023-01-31_17-11-50.jpg" /></strong></span></p>
+<p><span class="legenda">Corpo de Rodrigo Hawerroth com marcas de torturas. Foto: Reprodução</span></p>
+<p></p>
+<p><span class="legenda"><strong><img src="/images/Screenshot_from_2023-01-31_17-10-5812.jpg" /></strong></span></p>
+<p><span class="legenda">Corpo de Rodrigo Hawerroth com marcas de torturas. Foto: Reprodução</span></p>
+<p><span class="legenda"><strong><img src="/images/assassinados_112.jpg" /></strong></span></p>
+<p><span class="legenda"><strong></strong>Marcas de tortura no corpo de Rodrigo e Raniel. Foto: Reprodução</span></p> </div>
+<dl class="article-info">
+</dl>
+<ul class="pager pagenav">
+<li class="next">
+<a class="hasTooltip" title="Antologia A luta pela terra: Seleção de textos finalistas do I Concurso Literário do AND" aria-label="Next article: Antologia A luta pela terra: Seleção de textos finalistas do I Concurso Literário do AND" href="/noticias/18624-antologia-a-luta-pela-terra-selecao-de-textos-finalistas-do-i-concurso-literario-do-jornal-a-nova-democracia" rel="next">
+<span aria-hidden="true">Próximo</span> <span class="icon-chevron-right" aria-hidden="true"></span> </a>
+</li>
+</ul>
+<div class="article-footer-wrap">
+<div class="article-footer-top">
+</div>
+</div>
+</article>
+<div class="custom">
+<p><span color="#c9211e" style="color: #c9211e;"><b>NÃO SAIA AINDA…</b></span><span> </span>O jornal<span> </span><b>A Nova Democracia</b>, nos seus mais de 18 anos de existência, manteve sua independência inalterada, denunciando e desmascarando o governo reacionário de FHC, oportunista do PT e agora, mais do que nunca, fazendo-o em meio à instauração do governo militar de fato surgido do golpe militar em curso, que através de uma análise científica prevíamos desde 2017.</p>
+<p>Em todo esse tempo lutamos e trouxemos às claras as entranhas e maquinações do velho Estado brasileiro e das suas classes dominantes lacaias do imperialismo, em particular a atuação vil do latifúndio em nosso país.</p>
+<p>Nunca recebemos um centavo de bancos ou partidos eleitoreiros. Todo nosso financiamento sempre partiu do apoio de nossos leitores, colaboradores e entusiastas da imprensa popular e democrática. Nesse contexto em que as lutas populares tendem a tomar novas proporções é mais do que nunca necessário e decisivo o seu apoio.</p>
+<p><b>Se você acredita na Revolução Brasileira, apoie a imprensa que a ela serve - <a href="https://www.catarse.me/apoieoand">Clique Aqui</a></b></p></div>
+</div></div><div id="sp-right" class="col-xs-12 col-sm-12 col-md-5"><div class="sp-column custom-class"><div class="sp-module "><div class="chamada1 mais">LEIA TAMBÉM</div><div class="sp-module-content"> <div id="lnee_197" class="lnee newslist vertical"> <div class="items_pagination up"></div> <div class="clearfix"></div> <ul class="latestnews-items"> <li class="latestnews-item id-16618 catid-229"> <div class="news odd head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/16618-artistas-populares-organizam-coletanea-musical-em-apoio-a-luta-pela-terra"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_16618.webp"><img src="/images/thumbnails/lne/thumb_197_16618.jpg" alt="Artistas populares organizam coletânea musical em apoio a luta pela terra" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">13/10/2021</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/16618-artistas-populares-organizam-coletanea-musical-em-apoio-a-luta-pela-terra"> <span>Artistas populares organizam coletânea musical em apoio a luta pela terra</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-17568 catid-229"> <div class="news even head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/17568-aushwitz-versao-brasileira-agentes-da-prf-matam-homem-asfixiado-com-gas-dentro-de-porta-malas-de-viatura-em-sergipe"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_17568.webp"><img src="/images/thumbnails/lne/thumb_197_17568.jpg" alt="Auschwitz Versão Brasileira: Agentes da PRF matam homem asfixiado com gás dentro de porta-malas de viatura em Sergipe" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">26/05/2022</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/17568-aushwitz-versao-brasileira-agentes-da-prf-matam-homem-asfixiado-com-gas-dentro-de-porta-malas-de-viatura-em-sergipe"> <span>Auschwitz Versão Brasileira: Agentes da PRF matam homem asfixiado com gás dentro de porta-malas de viatura em Sergipe</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-462 catid-39"> <div class="news odd head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/no-30/462-os-camponeses-nao-mais-suplicam-agora-ordenam"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_462.webp"><img src="/images/thumbnails/lne/thumb_197_462.jpg" alt="Os camponeses não mais suplicam; agora, ordenam" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">13/01/2008</span></span></dd></dl> <h4 class="newstitle"> <a href="/no-30/462-os-camponeses-nao-mais-suplicam-agora-ordenam"> <span>Os camponeses não mais suplicam; agora, ordenam</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-11970 catid-540 featured"> <div class="news even head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/no-227/11970-os-policiais-usam-nossos-filhos-de-escudo"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_11970.webp"><img src="/images/thumbnails/lne/thumb_197_11970.jpg" alt="‘Os policiais usam nossos filhos de escudo’" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">25/09/2019</span></span></dd></dl> <h4 class="newstitle"> <a href="/no-227/11970-os-policiais-usam-nossos-filhos-de-escudo"> <span>‘Os policiais usam nossos filhos de escudo’</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-8287 catid-229"> <div class="news odd head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/8287-pe-camponeses-realizam-audiencia-publica-em-lagoa-dos-gatos-para-denunciar-ameaca-de-despejo-ilegal"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_8287.webp"><img src="/images/thumbnails/lne/thumb_197_8287.jpg" alt="PE: Camponeses de Lagoa dos Gatos denunciam ameaça de despejo" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">26/02/2018</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/8287-pe-camponeses-realizam-audiencia-publica-em-lagoa-dos-gatos-para-denunciar-ameaca-de-despejo-ilegal"> <span>PE: Camponeses de Lagoa dos Gatos denunciam ameaça de despejo</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-15690 catid-229"> <div class="news even head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/15690-rj-moradores-do-alemao-se-solidarizam-a-lcp-e-celebram-1-de-maio"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_15690.webp"><img src="/images/thumbnails/lne/thumb_197_15690.jpg" alt="RJ: Moradores do Alemão se solidarizam à LCP e celebram 1º de maio" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">05/05/2021</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/15690-rj-moradores-do-alemao-se-solidarizam-a-lcp-e-celebram-1-de-maio"> <span>RJ: Moradores do Alemão se solidarizam à LCP e celebram 1º de maio</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-16019 catid-229"> <div class="news odd head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/16019-campanha-pela-liberdade-dos-quatro-de-rondonia-toma-folego-as-vesperas-da-primeira-audiencia"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_16019.webp"><img src="/images/thumbnails/lne/thumb_197_16019.jpg" alt="Campanha pela liberdade dos quatro de Rondônia toma fôlego às vésperas da primeira audiência [atualizado]" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">02/07/2021</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/16019-campanha-pela-liberdade-dos-quatro-de-rondonia-toma-folego-as-vesperas-da-primeira-audiencia"> <span>Campanha pela liberdade dos quatro de Rondônia toma fôlego às vésperas da primeira audiência [atualizado]</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-14517 catid-229"> <div class="news even head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/14517-ro-despejo-e-acao-arbitraria-e-truculenta-contra-as-familias-do-acampamento-tiago-dos-santos"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_14517.webp"><img src="/images/thumbnails/lne/thumb_197_14517.jpg" alt="RO: Despejo e ação arbitrária e truculenta contra as famílias do Acampamento Tiago dos Santos" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">20/10/2020</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/14517-ro-despejo-e-acao-arbitraria-e-truculenta-contra-as-familias-do-acampamento-tiago-dos-santos"> <span>RO: Despejo e ação arbitrária e truculenta contra as famílias do Acampamento Tiago dos Santos</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-8757 catid-432 featured"> <div class="news odd head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/no-209/8757-ro-camponeses-retomam-terras-em-seringueiras"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_8757.webp"><img src="/images/thumbnails/lne/thumb_197_8757.jpg" alt="RO: Camponeses retomam terras em Seringueiras" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">07/05/2018</span></span></dd></dl> <h4 class="newstitle"> <a href="/no-209/8757-ro-camponeses-retomam-terras-em-seringueiras"> <span>RO: Camponeses retomam terras em Seringueiras</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-8923 catid-229"> <div class="news even head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/8923-lcp-viva-a-justa-luta-dos-caminhoneiros"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_8923.webp"><img src="/images/thumbnails/lne/thumb_197_8923.jpg" alt="LCP: Viva a justa luta dos caminhoneiros!" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">04/06/2018</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/8923-lcp-viva-a-justa-luta-dos-caminhoneiros"> <span>LCP: Viva a justa luta dos caminhoneiros!</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-16306 catid-229"> <div class="news odd head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/16306-video-lcp-homenageia-companheiro-abel-e-mostra-a-conquista-dos-camponeses-em-jacinopolis"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_16306.webp"><img src="/images/thumbnails/lne/thumb_197_16306.jpg" alt="Vídeo: LCP homenageia Companheiro Abel e demonstra a conquista dos camponeses em Jacinópolis" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">14/08/2021</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/16306-video-lcp-homenageia-companheiro-abel-e-mostra-a-conquista-dos-camponeses-em-jacinopolis"> <span>Vídeo: LCP homenageia Companheiro Abel e demonstra a conquista dos camponeses em Jacinópolis</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-13558 catid-229"> <div class="news even head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/13558-sp-dois-onibus-sao-incendiados-apos-adolescente-ser-assassinado-pela-rota"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_13558.webp"><img src="/images/thumbnails/lne/thumb_197_13558.jpg" alt="SP: Dois ônibus são incendiados após adolescente ser assassinado pela Rota" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">02/06/2020</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/13558-sp-dois-onibus-sao-incendiados-apos-adolescente-ser-assassinado-pela-rota"> <span>SP: Dois ônibus são incendiados após adolescente ser assassinado pela Rota</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-12283 catid-547 featured"> <div class="news odd head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/no-228/12283-exercito-invade-e-cerca-areas-camponesas-em-rondonia"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_12283.webp"><img src="/images/thumbnails/lne/thumb_197_12283.jpg" alt="Exército invade e cerca áreas camponesas em Rondônia " width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">06/11/2019</span></span></dd></dl> <h4 class="newstitle"> <a href="/no-228/12283-exercito-invade-e-cerca-areas-camponesas-em-rondonia"> <span>Exército invade e cerca áreas camponesas em Rondônia </span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-15631 catid-229"> <div class="news even head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/15631-alemanha-democratas-e-revolucionarios-realizam-palestras-e-manifestacoes-em-apoio-ao-acampamento-manoel-ribeiro"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_15631.webp"><img src="/images/thumbnails/lne/thumb_197_15631.jpg" alt="Alemanha: Democratas e revolucionários realizam palestras e manifestações em apoio ao Acampamento Manoel Ribeiro" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">23/04/2021</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/15631-alemanha-democratas-e-revolucionarios-realizam-palestras-e-manifestacoes-em-apoio-ao-acampamento-manoel-ribeiro"> <span>Alemanha: Democratas e revolucionários realizam palestras e manifestações em apoio ao Acampamento Manoel Ribeiro</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-17772 catid-229"> <div class="news odd head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/17772-poema-homenagem-ao-a-nova-democracia-2012"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_17772.webp"><img src="/images/thumbnails/lne/thumb_197_17772.jpg" alt="Poema: " Homenagem ao A Nova Democracia" (2012)" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">30/06/2022</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/17772-poema-homenagem-ao-a-nova-democracia-2012"> <span>Poema: "Homenagem ao A Nova Democracia" (2012)</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-7614 catid-229"> <div class="news even head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/7614-al-democratas-apoiam-acampamento-da-fazenda-varzea-grande"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_7614.webp"><img src="/images/thumbnails/lne/thumb_197_7614.jpg" alt="AL: Democratas apoiam Acampamento da Fazenda Várzea Grande" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">15/10/2017</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/7614-al-democratas-apoiam-acampamento-da-fazenda-varzea-grande"> <span>AL: Democratas apoiam Acampamento da Fazenda Várzea Grande</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-9413 catid-229"> <div class="news odd head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/9413-filme-auto-de-resistencia-e-exibido-na-cdd-no-rio"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_9413.webp"><img src="/images/thumbnails/lne/thumb_197_9413.jpg" alt="Filme 'Auto de Resistência' é exibido na CDD, no Rio" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">22/08/2018</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/9413-filme-auto-de-resistencia-e-exibido-na-cdd-no-rio"> <span>Filme 'Auto de Resistência' é exibido na CDD, no Rio</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-15466 catid-229"> <div class="news even head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/15466-governo-de-rondonia-ameaca-novo-massacre-de-camponeses"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_15466.webp"><img src="/images/thumbnails/lne/thumb_197_15466.jpg" alt="Governo de Rondônia ameaça novo massacre de camponeses" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">30/03/2021</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/15466-governo-de-rondonia-ameaca-novo-massacre-de-camponeses"> <span>Governo de Rondônia ameaça novo massacre de camponeses</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-15715 catid-229"> <div class="news odd head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/15715-rj-mepr-realiza-ato-de-apoio-ao-acampamento-manoel-ribeiro"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_15715.webp"><img src="/images/thumbnails/lne/thumb_197_15715.jpg" alt="RJ: MEPR realiza ato de apoio ao Acampamento Manoel Ribeiro" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">07/05/2021</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/15715-rj-mepr-realiza-ato-de-apoio-ao-acampamento-manoel-ribeiro"> <span>RJ: MEPR realiza ato de apoio ao Acampamento Manoel Ribeiro</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-16972 catid-229"> <div class="news even head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/16972-edicao-245-na-loja-virtual-de-and"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_16972.webp"><img src="/images/thumbnails/lne/thumb_197_16972.jpg" alt="Edição 245 na loja virtual de AND" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">28/12/2021</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/16972-edicao-245-na-loja-virtual-de-and"> <span>Edição 245 na loja virtual de AND</span> </a> </h4> </div> </div> </div> </li> </ul> <div class="clearfix"></div> <div class="items_pagination down"></div> </div> </div></div><div class="sp-module "><div class="sp-module-content"><div class="bannergroup">
+<div class="banneritem">
+<a href="/component/banners/click/13" target="_blank" rel="noopener noreferrer" title="Araguaia">
+<img src="https://anovademocracia.com.br/images/araguaia-anuncio.jpg" alt="Araguaia" />
+</a>
+<div class="clr"></div>
+</div>
+<div class="banneritem">
+<a href="/component/banners/click/14" target="_blank" rel="noopener noreferrer" title="Banner 2019">
+<img src="https://anovademocracia.com.br/images/promo_2019.jpg" alt="Apoie a imprensa popular e democrática" />
+</a>
+<div class="clr"></div>
+</div>
+<div class="banneritem">
+<a href="/component/banners/click/2" target="_blank" rel="noopener noreferrer" title="Apoie">
+<img src="https://anovademocracia.com.br/images/2017-apoie2.jpg" alt="Apoie" />
+</a>
+<div class="clr"></div>
+</div>
+</div>
+</div></div></div></div></div></div></section><section id="sp-section-12"><div class="container"><div class="row"><div id="sp-edicao-tit" class="col-sm-12 col-md-12"><div class="sp-column "><div class="sp-module "><h2 class="assinaturas">Edição impressa</h2><div class="sp-module-content">
+<div class="custom">
+</div>
+</div></div></div></div></div></div></section><section id="sp-edicao-impressa"><div class="container"><div class="row"><div id="sp-capa" class="col-sm-3 col-md-3"><div class="sp-column "><div class="sp-module  chamadag7"><div class="sp-module-content">
+<div class="custom chamadag7">
+<div class="capa">
+<p> <a href="/no-249">Edição Nº 249 </a></p>
+<p><a href="/no-249">Setembro e Outubro de 2022</a></p>
+<p><a href="/no-249"><img src="/images/0-2022/09/outros/and-249.jpg" alt="" /></a></p>
+</div>
+<div><a href="/no-249" readon-button="">EDIÇÃO IMPRESSA</a></div>
+<p> </p></div>
+</div></div></div></div><div id="sp-edicao" class="col-sm-9 col-md-9"><div class="sp-column "><div class="sp-module feed-link"><div class="sp-module-content"><ul class="category-modulefeed-link mod-list">
+<li>
+<a class="mod-articles-category-title " href="/no-249/18142-campanha-internacional-denuncia-desaparecimento-do-dr-sernas">Campanha Internacional denuncia desaparecimento do Dr. Sernas</a>
+</li>
+<li>
+<a class="mod-articles-category-title " href="/no-249/18143-apoio-mundial-a-guerra-popular-na-india">Apoio mundial à Guerra Popular na Índia</a>
+</li>
+<li>
+<a class="mod-articles-category-title " href="/no-249/18140-falece-o-grande-jose-maria-galhasi">Falece o grande José Maria Galhasi</a>
+</li>
+<li>
+<a class="mod-articles-category-title " href="/no-249/18141-o-povo-aprende-a-governar">O povo aprende a governar</a>
+</li>
+<li>
+<a class="mod-articles-category-title " href="/no-249/18139-povo-nao-confia-em-militares-e-politicos">Povo não confia em militares e políticos</a>
+</li>
+<li>
+<a class="mod-articles-category-title " href="/no-249/18138-lula-acena-para-generais-golpistas">Lula acena para generais golpistas</a>
+</li>
+<li>
+<a class="mod-articles-category-title " href="/no-249/18137-nova-ou-velha-republica">Nova ou Velha República?</a>
+</li>
+<li>
+<a class="mod-articles-category-title " href="/no-249/18136-editorial-mudar-o-governo-para-que-nada-mude">Editorial - Mudar o governo, para que nada mude</a>
+</li>
+</ul>
+</div></div></div></div></div></div></section><section id="sp-footer1"><div class="container"><div class="row"><div id="sp-edi-maislidos" class="col-sm-4 col-md-4"><div class="sp-column "><div class="sp-module "><h3 class="chamadag3 estrela">Mais lidos desta edição</h3><div class="sp-module-content">
+<ol class="mostread">
+<li>
+<a href="/no-249/18141-o-povo-aprende-a-governar">
+O povo aprende a governar</a>
+</li>
+<li>
+<a href="/no-249/18138-lula-acena-para-generais-golpistas">
+Lula acena para generais golpistas</a>
+</li>
+<li>
+<a href="/no-249/18137-nova-ou-velha-republica">
+Nova ou Velha República?</a>
+</li>
+<li>
+<a href="/no-249/18140-falece-o-grande-jose-maria-galhasi">
+Falece o grande José Maria Galhasi</a>
+</li>
+<li>
+<a href="/no-249/18136-editorial-mudar-o-governo-para-que-nada-mude">
+Editorial - Mudar o governo, para que nada mude</a>
+</li>
+<li>
+<a href="/no-249/18139-povo-nao-confia-em-militares-e-politicos">
+Povo não confia em militares e políticos</a>
+</li>
+<li>
+<a href="/no-249/18142-campanha-internacional-denuncia-desaparecimento-do-dr-sernas">
+Campanha Internacional denuncia desaparecimento do Dr. Sernas</a>
+</li>
+<li>
+<a href="/no-249/18143-apoio-mundial-a-guerra-popular-na-india">
+Apoio mundial à Guerra Popular na Índia</a>
+</li>
+</ol>
+</div></div></div></div><div id="sp-especial" class="col-sm-8 col-md-8"><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
+<div class="custom">
+<p><a href="/200-anos-de-karl-marx"><img src="/images/karl-marx-selo-3.jpg" alt="200 anos de Karl Marx" /></a></p>
+<div class="vermelho">
+<h2><a href="/200-anos-de-karl-marx">Especial: 200 anos de Karl Marx</a></h2>
+<p><a href="/no-231/13144-de-karl-marx-ao-marxismo-luta-de-classes-luta-de-duas-linhas-e-linha-de-massas-parte-xi"> Luta de classes, luta de duas linhas e linha de massas (parte XI)</a><br /> <a href="/no-230/12868-de-karl-marx-ao-marxismo-luta-de-classes-luta-de-duas-linhas-e-linha-de-massas-parte-x"> Luta de classes, luta de duas linhas e linha de massas (parte X)</a><br /> <a href="/no-229/12574-de-karl-marx-ao-marxismo-luta-de-classes-luta-de-duas-linhas-e-linha-de-massas-parte-ix"> Luta de classes, luta de duas linhas e linha de massas (parte IX)</a> <br /> <a href="/no-228/12272-de-karl-marx-ao-marxismo-luta-de-classes-luta-de-duas-linhas-e-linha-de-massas-parte-viii"> Luta de classes, luta de duas linhas e linha de massas (parte VIII)</a><br /> <a href="/no-227/11968-de-karl-marx-ao-marxismo-luta-de-classes-luta-de-duas-linhas-e-linha-de-massas-parte-vii"> Luta de classes, luta de duas linhas e linha de massas (parte VII)</a> <br /> <a href="/no-226/11750-de-karl-marx-ao-marxismo-luta-de-classes-luta-de-duas-linhas-e-linha-de-massas-parte-vi"> Luta de classes, luta de duas linhas e linha de massas (parte VI)</a></p>
+</div></div>
+</div></div></div></div></div></div></section><section id="sp-rodape"><div class="container"><div class="row"><div id="sp-endereco" class="col-xs-12 col-sm-6 col-md-8"><div class="sp-column "><div class="sp-module "><h2 class="assinaturas">Endereços</h2><div class="sp-module-content">
+<div class="custom">
+<div class="ad1">
+<p><strong>Jornal A Nova Democracia <br />Editora Aimberê</strong><br />Avenida Rio Branco 257, SL 1308 <br />Centro - Rio de Janeiro - RJ <br />Tel.: (21) 2256-6303<br /> E-mail: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="0b6a65647d6a6f6e666468796a68626a4b6c666a626725686466">[email&#160;protected]</a></p>
+<p><strong>Comitê de Apoio em Belo Horizonte</strong><br /> Rua Tamoios nº 900 sala 7<br />Tel.: (31) 3656-0850<br /><br /></p>
+</div>
+<div class="ad1">
+<p><strong>Comitê de Apoio em São Paulo</strong> <br /> Rua Silveira Martins 133 conj. 22 - Centro</p>
+<p>E-mail: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="5d3e323034293839383c2d3234322e2d1d3a303c3431733e">[email&#160;protected]</a><span>om</span><br /> Reuniões semanais de apoiadores <br /> todo sábado, às 9h30</p>
+<p><strong>Seja um apoiador você também:</strong><br /> <a href="https://www.catarse.me/apoieoand">https://www.catarse.me/apoieoand</a></p>
+</div></div>
+</div></div><div class="sp-module "><div class="sp-module-content">
+<div class="custom">
+<div class="ad1"><a href="/onde-encontrar"><img src="/images/onde_encontrar.webp" /></a></div></div>
+</div></div></div></div><div id="sp-expediente" class="col-xs-12 col-sm-6 col-md-4"><div class="sp-column "><div class="sp-module "><h2 class="assinaturas">Expediente</h2><div class="sp-module-content">
+<div class="custom">
+<div class="exp">
+<p style="text-align: left;"><strong>Diretor Geral </strong><br /><a href="/fausto-arruda">Fausto Arruda</a> (licenciado)<br />Victor Costa Bellizia (provisório)</p>
+<p><strong>Editor-chefe </strong><br /><span>Victor Costa Bellizia<br /></span></p>
+<p style="text-align: left;"><strong>Conselho Editorial </strong><br /> Alípio de Freitas <span style="font-size: 10pt;">(<em>In memoriam</em>)</span><br /><a href="/fausto-arruda">Fausto Arruda </a><br /> José Maria Galhasi de Oliveira<br /> José Ramos Tinhorão <span style="font-size: 10pt;">(<em>In memoriam</em>)</span><br /><a href="/henrique-judice">Henrique Júdice</a><br />Paulo Amaral <br /><a href="/rosana-bond">Rosana Bond </a></p>
+<p style="text-align: left;"><b>Redação </b><br />Ana Lúcia Nunes<br />João Alves<br />Taís Souza<br />Gabriel Artur<br />Giovanna Maria<br />Victor Benjamin</p>
+<p><strong>Ilustração<br /></strong><span></span>Victor Benjamin</p>
+</div></div>
+</div></div><div class="sp-module "><div class="sp-module-content">
+<div class="custom">
+<div><a href="/publicidade" class="readon-button">Saiba como anunciar <br />nas páginas de AND</a></div></div>
+</div></div></div></div></div></div></section><footer id="sp-footer"><div class="container"><div class="row"><div id="sp-footer1" class="col-sm-12 col-md-12"><div class="sp-column "><span class="sp-copyright"><a herf="http://artimania.com.br"><img src="/artimania.png"></a></span></div></div></div></div></footer> </div> 
+</div> 
+
+<div class="offcanvas-menu">
+<a href="#" class="close-offcanvas" aria-label="Close"><i class="fa fa-remove" aria-hidden="true" title="HELIX_CLOSE_MENU"></i></a>
+<div class="offcanvas-inner">
+<div class="sp-module "><div class="sp-module-content"><ul class="nav menu">
+<li class="item-100915"> <a href="/"> Início</a></li><li class="item-100926"> <a href="https://anovademocracia.com.br/#pwebbox220:open"> Login</a></li><li class="item-100927"> <a href="/pesquisa"> Pesquisa</a></li><li class="item-100916  deeper parent"> <a href="/linhaeditorial"> Linha Editorial</a><span class="offcanvas-menu-toggler collapsed" data-toggle="collapse" data-target="#collapse-menu-100916"><i class="open-icon fa fa-angle-down"></i><i class="close-icon fa fa-angle-up"></i></span><ul class="collapse" id="collapse-menu-100916"><li class="item-100917"> <a href="/editorial"> Editorial</a></li><li class="item-100918"> <a href="/situacao-politica"> Situação política</a></li></ul></li><li class="item-100919  deeper parent"> <a href="/nacional"> Nacional</a><span class="offcanvas-menu-toggler collapsed" data-toggle="collapse" data-target="#collapse-menu-100919"><i class="open-icon fa fa-angle-down"></i><i class="close-icon fa fa-angle-up"></i></span><ul class="collapse" id="collapse-menu-100919"><li class="item-100960"> <a href="/crimes-contra-o-povo"> Crimes contra o povo</a></li><li class="item-100959"> <a href="/farsa-eleitoral"> Farsa eleitoral</a></li><li class="item-100964"> <a href="/herois-do-povo-brasileiro"> Heróis do povo brasileiro</a></li><li class="item-100962"> <a href="/intervencao-militar"> Intervenção militar</a></li><li class="item-100965"> <a href="/luta-classista"> Luta classista</a></li><li class="item-100958"> <a href="/luta-pela-terra"> Luta pela terra</a></li><li class="item-100961"> <a href="/povos-indigenas"> Povos indígenas</a></li><li class="item-100963"> <a href="/presos-politicos-do-brasil"> Presos políticos</a></li></ul></li><li class="item-100920  deeper parent"> <a href="/internacional"> Internacional</a><span class="offcanvas-menu-toggler collapsed" data-toggle="collapse" data-target="#collapse-menu-100920"><i class="open-icon fa fa-angle-down"></i><i class="close-icon fa fa-angle-up"></i></span><ul class="collapse" id="collapse-menu-100920"><li class="item-100966"> <a href="/america-latina"> América Latina</a></li><li class="item-100971"> <a href="/datas-memoraveis-do-proletariado"> Datas memoráveis do proletariado</a></li><li class="item-100970"> <a href="/figuras-da-classe-operaria"> Figuras da classe operária</a></li><li class="item-100969"> <a href="/guerra-popular"> Guerra popular</a></li><li class="item-100967"> <a href="/libertacao-nacional"> Libertação nacional</a></li><li class="item-100968"> <a href="/presos-politicos"> Presos políticos</a></li></ul></li><li class="item-100921  deeper parent"> <a href="/nova-cultura"> Nova cultura</a><span class="offcanvas-menu-toggler collapsed" data-toggle="collapse" data-target="#collapse-menu-100921"><i class="open-icon fa fa-angle-down"></i><i class="close-icon fa fa-angle-up"></i></span><ul class="collapse" id="collapse-menu-100921"><li class="item-100972"> <a href="/agenda-cultural"> Agenda cultural</a></li><li class="item-100973"> <a href="/realizacoes-socialistas"> Realizações socialistas</a></li><li class="item-100974"> <a href="/100-anos-da-grande-revolucao-bolchevique-de-1917"> 100 anos da Grande Revolução Bolchevique de 1917</a></li><li class="item-100975"> <a href="/50-anos-da-grpc"> 50 anos da GRPC</a></li></ul></li><li class="item-100922"> <a href="/espanol"> Español</a></li><li class="item-100923"> <a href="/english-editions"> English</a></li><li class="item-100924"> <a href="/anteriores"> Edição impressa</a></li><li class="item-100925"> <a href="https://lojadoand.com.br/"> Loja</a></li></ul>
+</div></div>
+</div> 
+</div> 
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+jQuery.noConflict();
+// smooth anchor scrolling
+  jQuery('a[href*="#"]').on('click', function (e) {
+        e.preventDefault();
+        if(this.hash !== '') {
+            if(this.hash !== '' && this.href.replace(this.hash, '') == window.location.href.replace(window.location.hash, '')) {
+                var target = jQuery(this.hash);
+                if(target.length && this.hash !== '#') {
+                    jQuery('html, body').stop().animate({
+                        'scrollTop': target.offset().top
+                    }, 1000, 'swing', function () {
+                        if(this.hash !== '#') {
+                            window.location.hash = target.selector;
+                        }
+                    });
+} else {
+                    if(this.hash !== '#') {
+                        window.location = jQuery(this).attr('href');
+                    }
+                }
+            } else {
+                if(this.hash !== '#') {
+                    window.location = jQuery(this).attr('href');
+                }
+            }
+        }
+    });
+
+</script>
+<ul class="jj_sl_navigation jj_transition left"><li class="jj_sl_custom1"><a href="https://www.youtube.com/channel/UC7G7saR0vFSMh-SdEyF3Utg"><span class="jj_social_text">Veja nossos vídeos</span><span class="jj_sprite_custom jj_custom1"></span></a></li><li class="jj_sl_custom2"><a href="https://twitter.com/jornaland"><span class="jj_social_text">Siga-nos no Twitter</span><span class="jj_sprite_custom jj_custom2"></span></a></li><li class="jj_sl_custom4"><a href="https://forms.gle/8izJHSSh28qowWdR9"><span class="jj_social_text">Fale conosco</span><span class="jj_sprite_custom jj_custom4"></span></a></li></ul>
+
+
+<a href="javascript:void(0)" class="scrollup" aria-label="Go To Top">&nbsp;</a>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon='{"rayId":"792706d00e6da138","version":"2022.11.3","r":1,"token":"4f2e885d98bb44a29f9d0224829959b2","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>
