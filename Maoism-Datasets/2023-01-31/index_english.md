@@ -1,6 +1,10 @@
 # PC January 30: our central work continues in large factories. Mirafiori: the voices of the workers and our indications and proposals: anti -capitalist proletarian assembly in Rome February 18, assembly of workers in Turin in the week of 8 March
 
+Author: fannyhill
 
+Time: 2023-01-30T10:43:00+01:00
+
+Images: ['[fiat.jpg](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYTMIJTtyCVUPd65lq9bzFTwfeybfD5JYp-emjf5FSOw61hNQVVzhMp_rigcIlLbcogDmWJpRkD8h8FsfFEmbTvj3Apf3zgDsQuOkjED68w2wnWWs2Za2qYxrmXknrH5OJHX5GbCMIdgWIUN0kJtxNcEMKeZTCFfPdCxoZcwWJOvY7o19VoPkkyecvNg/s320/fiat.jpg)']
 
 <!--METADATA-->
 
@@ -128,7 +132,11 @@ News Source: [https://proletaricomunisti.blogspot.com/2023/01/pc-30-gennaio-cont
 
 # And interview mother and wife of Samuel and Willian, murdered by the PM in 2021
 
+Author: Giovanna Maria
 
+Time: 2023-01-30T11:13:03-03:00
+
+Images: ['[IMG_1530.jpg](https://anovademocracia.com.br/images/IMG_1530.jpg)']
 
 <!--METADATA-->
 
@@ -158,7 +166,11 @@ News Source: [https://anovademocracia.com.br/noticias/18626-and-entrevista-mae-e
 
 # Germany: International Communist League Flags are wielded in 'LLL' demonstration (check out the video)
 
+Author: Ângelo de Carvalho
 
+Time: 2023-01-30T12:00:05-03:00
+
+Images: ['[LLL_Demonstration_2023_Internationaler_Kommunistischer_Bund_-_header.jpg](https://anovademocracia.com.br/images/LLL_Demonstration_2023_Internationaler_Kommunistischer_Bund_-_header.jpg)', '[LLL_Demonstration_2023_Internationaler_Kommunistischer_Bund_-_2.jpg](https://anovademocracia.com.br/images/LLL_Demonstration_2023_Internationaler_Kommunistischer_Bund_-_2.jpg)', '[LLL_Demonstration_2023_Internationaler_Kommunistischer_Bund_-_1.jpg](https://anovademocracia.com.br/images/LLL_Demonstration_2023_Internationaler_Kommunistischer_Bund_-_1.jpg)']
 
 <!--METADATA-->
 
@@ -212,7 +224,19 @@ News Source: [https://anovademocracia.com.br/noticias/18585-alemanha-bandeiras-d
 
 # Mexico: News from Sol Rojista
 
+Author: Tjen Folket Media
 
+Description: Our comrades in Sol Rojista have written about two important events held in Oaxaca in mid -January.
+
+Publish Time: 2023-01-30T12:11:31+00:00
+
+Modified Time: 2023-01-30T12:14:12+00:00
+
+Images: ['[FOTO-1-1.png](https://tjen-folket.no/wp-content/uploads/2023/01/FOTO-1-1.png)', '[mZ7tHcQ-NJy6oeqgqheLkc3ygjVx__mFoF7E0rOeXL5TIW-3f7yuU64iIz-PDnT2e2Tcasd7zV9oeSO23G1NSEjOpe9qK-LuhXhKMVK9yG_LP1Hd1GwszXEtls4UjIcx0rwAe-BmDJJgg_s91BQgwobtEROnZkdqAfHMfSMYBumA8vXr_nHULNAMRrenSQ](https://lh3.googleusercontent.com/mZ7tHcQ-NJy6oeqgqheLkc3ygjVx__mFoF7E0rOeXL5TIW-3f7yuU64iIz-PDnT2e2Tcasd7zV9oeSO23G1NSEjOpe9qK-LuhXhKMVK9yG_LP1Hd1GwszXEtls4UjIcx0rwAe-BmDJJgg_s91BQgwobtEROnZkdqAfHMfSMYBumA8vXr_nHULNAMRrenSQ)', '[FKiyt-9VeX5IOO3a022imhd6utsdRQieBHWplYOQ1t3r5GNCasG1zV45LW2hpQhVJoRtpbplZ6DR5GJQU6KjanhonhwEal1nmA14sdcHLQyPmS5sTvVDlZDBVN_2hCknR7na2OeyzA6xYzurDd8nsBtSWNF96bmx12vN9rIaHPsHhYzswA8DXdW5TIsZZw](https://lh5.googleusercontent.com/FKiyt-9VeX5IOO3a022imhd6utsdRQieBHWplYOQ1t3r5GNCasG1zV45LW2hpQhVJoRtpbplZ6DR5GJQU6KjanhonhwEal1nmA14sdcHLQyPmS5sTvVDlZDBVN_2hCknR7na2OeyzA6xYzurDd8nsBtSWNF96bmx12vN9rIaHPsHhYzswA8DXdW5TIsZZw)', '[hktboAJOjRxH2YniOXbzH0T0jZSEX7D5iDQ8ZYK1jDsJvMxdFPoZWWFY4Q4YtLR33DrJmAXJ7ag3SJwKPM1i74hsgdrOHXHUcPJkm1jksD0ZveeTgcGMGhDywoZEzKUkkL-d0kA4hAZ2p2Fjmf5WRUztXCD0h69U693Hm5ExazxNaDLO28Oy4zWpkXWDLQ](https://lh3.googleusercontent.com/hktboAJOjRxH2YniOXbzH0T0jZSEX7D5iDQ8ZYK1jDsJvMxdFPoZWWFY4Q4YtLR33DrJmAXJ7ag3SJwKPM1i74hsgdrOHXHUcPJkm1jksD0ZveeTgcGMGhDywoZEzKUkkL-d0kA4hAZ2p2Fjmf5WRUztXCD0h69U693Hm5ExazxNaDLO28Oy4zWpkXWDLQ)', '[sdChw5LkOc1GVrBu7trExmVPXilF6ub77PoN-yELLxa5gBuHke4bPLhRtCl9MQwGj6Ukq_SHBKt4oSiDqReZ1esFDsTc8_oG_N2Hg9pLhdMBNgBE3q90nRpOoBCU2RcpRgZXkmcrCN3nWQO0m1f8PkKj04EY7b8LAzebC9i4OLrmdiVIBQwIk7cB5V5mwg](https://lh4.googleusercontent.com/sdChw5LkOc1GVrBu7trExmVPXilF6ub77PoN-yELLxa5gBuHke4bPLhRtCl9MQwGj6Ukq_SHBKt4oSiDqReZ1esFDsTc8_oG_N2Hg9pLhdMBNgBE3q90nRpOoBCU2RcpRgZXkmcrCN3nWQO0m1f8PkKj04EY7b8LAzebC9i4OLrmdiVIBQwIk7cB5V5mwg)', '[CVEXBMfSWEjHtyiZKC-She4FtbkzBg97bJJ96KpmdU08Bsv57Ci7mJusmiRTwOkVqVqReZwUPQMd9k6a9rJKlaWaRsD4nBl7rtDrqejdIdAzfaTv4FBpIzC44Y9kuUBa8gD0czdI-AtJak_crfgOsfbA-sEdoWyWWNWwDf3lXQISmw7wsI6PO2CEtQTbXw](https://lh6.googleusercontent.com/CVEXBMfSWEjHtyiZKC-She4FtbkzBg97bJJ96KpmdU08Bsv57Ci7mJusmiRTwOkVqVqReZwUPQMd9k6a9rJKlaWaRsD4nBl7rtDrqejdIdAzfaTv4FBpIzC44Y9kuUBa8gD0czdI-AtJak_crfgOsfbA-sEdoWyWWNWwDf3lXQISmw7wsI6PO2CEtQTbXw)', '[-saHQ_x3tObWC10fESPX_tDkvm-m2sKY1aJBip0oPBXO-TdZZgxwthzYWo9dLH9j1FMjk9QjAnnfQNSHBtw-OlvxZL3fL8oQ6wkoj6zKgRp0cWIL47OWtAJpFagvPBixtD5K5a-QUbUyN1xbJ_9elbdjYdR-LUWqTka36_NFV9qcMZbfe8rY8bBINKCavg](https://lh5.googleusercontent.com/-saHQ_x3tObWC10fESPX_tDkvm-m2sKY1aJBip0oPBXO-TdZZgxwthzYWo9dLH9j1FMjk9QjAnnfQNSHBtw-OlvxZL3fL8oQ6wkoj6zKgRp0cWIL47OWtAJpFagvPBixtD5K5a-QUbUyN1xbJ_9elbdjYdR-LUWqTka36_NFV9qcMZbfe8rY8bBINKCavg)', '[tWQrRe1TkDMamRvvO_LzNt8t2XMXzW6p7XPzLtJ9yc3q61kilLXQ6goSUeimqQCspEODtSktpiOacWUziOmJHcxDN2i7fJw5D787t4EHFjwi_vVvfY5sUitbIhZqKw2v5ovdV_BGtsjjQjv-RGrwVcJFgvKJJeY_su6h7Y9nDr9cd5a52ZZrE7LuG1R5Iw](https://lh3.googleusercontent.com/tWQrRe1TkDMamRvvO_LzNt8t2XMXzW6p7XPzLtJ9yc3q61kilLXQ6goSUeimqQCspEODtSktpiOacWUziOmJHcxDN2i7fJw5D787t4EHFjwi_vVvfY5sUitbIhZqKw2v5ovdV_BGtsjjQjv-RGrwVcJFgvKJJeY_su6h7Y9nDr9cd5a52ZZrE7LuG1R5Iw)', '[okiaJU-LB2MLRE5fRNsYlKI7bLeGE4Ceeb7QjnLhl81lLqfc6a9OSLku0R_ZZod0Cd0YA3hgqTvcXcCrrC1ShWIXjOPPFWnA2JIrB0JYRfSWJWsK0AupPdxzt0xe_MU140xWzQhU8DXk_Y-sWgq7Kpx0CF3v4bSxpyxoHAl8fq_s5rNGXBpIio7rHG4-PA](https://lh4.googleusercontent.com/okiaJU-LB2MLRE5fRNsYlKI7bLeGE4Ceeb7QjnLhl81lLqfc6a9OSLku0R_ZZod0Cd0YA3hgqTvcXcCrrC1ShWIXjOPPFWnA2JIrB0JYRfSWJWsK0AupPdxzt0xe_MU140xWzQhU8DXk_Y-sWgq7Kpx0CF3v4bSxpyxoHAl8fq_s5rNGXBpIio7rHG4-PA)', '[nmNfExzuH-1LhU5slAwIsHcFAnvpaDb23BpUPoiQIjzucsF636qWm5Wd416AipHZZ0kdl5Ky_t-Aj-EF_Zsa3wvo0NtfW53PMThm4XNZn3JOXr1WShmm5M27FRsBRBCqgDKFo9aXbpbuOpRelq8_pxs9VEesA0yjlB5LrwE3v7D-XE_UFMRdrXR18eEX1A](https://lh4.googleusercontent.com/nmNfExzuH-1LhU5slAwIsHcFAnvpaDb23BpUPoiQIjzucsF636qWm5Wd416AipHZZ0kdl5Ky_t-Aj-EF_Zsa3wvo0NtfW53PMThm4XNZn3JOXr1WShmm5M27FRsBRBCqgDKFo9aXbpbuOpRelq8_pxs9VEesA0yjlB5LrwE3v7D-XE_UFMRdrXR18eEX1A)', '[ohqDDMyC6xkaipAM8VlCwZVihod1lo2oq3Ze8nbVl-bsKfTXXE_Cj_Hvy4UvuwPeLqjbv8koNRNFa19hwgjaZmIBo5d9jbwCIOyYTVao1AJrN9M_o9-Yj-RRJtal9v9X6w6GVtI3KvRfnTWk88R9dj-wzwZFVzs6DBwvCqV6n79m-ssRWgf8YYjQ3W4vrA](https://lh5.googleusercontent.com/ohqDDMyC6xkaipAM8VlCwZVihod1lo2oq3Ze8nbVl-bsKfTXXE_Cj_Hvy4UvuwPeLqjbv8koNRNFa19hwgjaZmIBo5d9jbwCIOyYTVao1AJrN9M_o9-Yj-RRJtal9v9X6w6GVtI3KvRfnTWk88R9dj-wzwZFVzs6DBwvCqV6n79m-ssRWgf8YYjQ3W4vrA)', '[a8RyEpcxPhnjt6_GzDrE30gF1Y1jrWwqwWybZ6nMYr2gteWSj3dNMzQFo6joudeWeglrTtRDiXyA_ctJg6SpvxNn5h4udp7WcyMAlRhqOj5vt0Kut_ehnBJ_dVTnf43-Trz6yyhy62HEVymborceVyYOZeV9aPhnnu13nbI3WD5N-QAYhvxYDjBgo3bDTA](https://lh3.googleusercontent.com/a8RyEpcxPhnjt6_GzDrE30gF1Y1jrWwqwWybZ6nMYr2gteWSj3dNMzQFo6joudeWeglrTtRDiXyA_ctJg6SpvxNn5h4udp7WcyMAlRhqOj5vt0Kut_ehnBJ_dVTnf43-Trz6yyhy62HEVymborceVyYOZeV9aPhnnu13nbI3WD5N-QAYhvxYDjBgo3bDTA)', '[FrFUaCdMyb8F-MOldvxXZDZk4fZY8rtBmRRttTpRf1oXA9XBq2mQnw6lP6NzBR1pfIVMryv6x4g4LcwiVBMB-SkHkMEeKlmENJd0VLEzBYL0Oe-7ECJV744NLYdD5YgwioiB_H9CscmM9nHuGd-NLFAoFshdzkXx8LYknvRpyVHfm5lb5vTNNsNnEFIYvw](https://lh6.googleusercontent.com/FrFUaCdMyb8F-MOldvxXZDZk4fZY8rtBmRRttTpRf1oXA9XBq2mQnw6lP6NzBR1pfIVMryv6x4g4LcwiVBMB-SkHkMEeKlmENJd0VLEzBYL0Oe-7ECJV744NLYdD5YgwioiB_H9CscmM9nHuGd-NLFAoFshdzkXx8LYknvRpyVHfm5lb5vTNNsNnEFIYvw)', '[0OmOL4RG4QcnxmDP8vrJRbXpNLR7N8KxuIZq-E6AJAeYINcNQUxQCpIPd8QJ095qIbHk1gDO3K4QMOWJgmhUADqs1NTygJPbFOo6DYZlgTfrxHIjUzWhJdDrAWRjbBmdKLUt1j0qjJNk6jl48ZD7p_3e1Iz0gK_sM6uC1SDUK78JqCV8Rzqj6QKP3RQP9w](https://lh5.googleusercontent.com/0OmOL4RG4QcnxmDP8vrJRbXpNLR7N8KxuIZq-E6AJAeYINcNQUxQCpIPd8QJ095qIbHk1gDO3K4QMOWJgmhUADqs1NTygJPbFOo6DYZlgTfrxHIjUzWhJdDrAWRjbBmdKLUt1j0qjJNk6jl48ZD7p_3e1Iz0gK_sM6uC1SDUK78JqCV8Rzqj6QKP3RQP9w)', '[Yga6NTBJCB8EwZub8Swtt7TTi3Qnicl_C35c2RFKfmu9axZuUZ30AM-f6HdgnEyNXf8ix-jyWKbhjqs3rtAvPDxj7328l8vRO4l30mP1uyBH62aWNMrx8M8YV2VhV3mCvKvdiAFCXz40npzICGaYhZ63rkoAcZAD7Jrp1FvgLxnyf795s7OAnwcujO4LiA](https://lh4.googleusercontent.com/Yga6NTBJCB8EwZub8Swtt7TTi3Qnicl_C35c2RFKfmu9axZuUZ30AM-f6HdgnEyNXf8ix-jyWKbhjqs3rtAvPDxj7328l8vRO4l30mP1uyBH62aWNMrx8M8YV2VhV3mCvKvdiAFCXz40npzICGaYhZ63rkoAcZAD7Jrp1FvgLxnyf795s7OAnwcujO4LiA)', '[2wLm6r2sVEDOQrR-AHJlKK3Pa7OVaLE0aY-MTqIeBIrTARzwV9YC6bed084nTzXr9vWz-EoJSh3IEEFESZWs9oPw-lMZRvVVrqBp-EZTOzMuiKg7kcf9uM6NEzU5Y3O1XAAgX6Ngulpe9YyulZqr0jodeMKHz6tcvFBj8EZePH4e8AlL1_Y71lKAT5NcTQ](https://lh6.googleusercontent.com/2wLm6r2sVEDOQrR-AHJlKK3Pa7OVaLE0aY-MTqIeBIrTARzwV9YC6bed084nTzXr9vWz-EoJSh3IEEFESZWs9oPw-lMZRvVVrqBp-EZTOzMuiKg7kcf9uM6NEzU5Y3O1XAAgX6Ngulpe9YyulZqr0jodeMKHz6tcvFBj8EZePH4e8AlL1_Y71lKAT5NcTQ)']
+
+Tags: None
+
+Category: 'Latin-Amerika'
 
 <!--METADATA-->
 
@@ -254,7 +278,15 @@ News Source: [https://tjen-folket.no/index.php/2023/01/30/mexico-nyheter-fra-sol
 
 # Rally in Hamburg: Freedom for Palestine!
 
+Author: DEM VOLKE DIENEN
 
+Time: 2023-01-30T13:16:26+00:00
+
+Images: []
+
+Tags: ['Palästina', 'Israel', 'Freiheit für Palästina', 'freedom for palestine', 'Nationale Befreiungsbewegung']
+
+Category: None
 
 <!--METADATA-->
 
@@ -296,7 +328,11 @@ News Source: [https://www.demvolkedienen.org/index.php/de/t-international/7450-k
 
 # PM performs peasant slaughter in Nova Mutum/RO, denounces to Abrapo
 
+Author: GABRIEL ARTUR
 
+Time: 2023-01-30T15:44:13-03:00
+
+Images: ['[16750064344332_1.jpg](https://anovademocracia.com.br/images/16750064344332_1.jpg)']
 
 <!--METADATA-->
 
@@ -366,7 +402,11 @@ News Source: [https://anovademocracia.com.br/noticias/18629-pm-executa-chacina-c
 
 # PC January 30 - The war in Ukraine expands to the Middle East: US imperialism and its Israeli guard dog have attacked a military structure of Iran
 
+Author: prolcomra
 
+Time: 2023-01-30T15:46:00+01:00
+
+Images: ['[Israele%20dietro%20gli%20attacchi%20all&#39;Iran.jpg](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxaOH1dpuwF3uMfBfNNjRIzfLi5aJtsBjIW5MF5j3-lPgZReoqTcI6gU6yHAUPQXLiDHOe4IDvYIuAATcHqsR8oOlICODJdF8edfa017V42AwUbIbTJWjrX5UmHN2Tx224517RTubzf4gL8kffv2VTTGhf936LPJSHFr5jV1w8mv8w98XL1wXiDbIAIA/w480-h296/Israele%20dietro%20gli%20attacchi%20all&#39;Iran.jpg)', '[Ron%20Prosor,%20ambasciatore%20israeliano%20in%20Germania.jpg](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGRb_H_m3utU6BOdR-gFGJ5fuQhkV5uLmV_AX_l8_GkJMES4fQz-Eo2hRrzAku_gTsn3NFDLWGMYYO2qa1oRyXW3OHGiHWoWvgFcpPCrJYbZ_uhm2g1fUSFjeKWlkz5yf8w-MO1PYmQk_nlGHXu0zyrIHqp83t-aHbnMopQhVUJWsYD0p2ZK0T8AUftw/s320/Ron%20Prosor,%20ambasciatore%20israeliano%20in%20Germania.jpg)', '[Iran-attacco%20a%20Isfahan.jpg](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYUZdBvlC2Wy1P_AN162XZqM6uSPnWX2At3Lc_jPmylRxsffrqlNodzO95b7nqHFbOy0XOtHbDHlsQdw9_PeZTK36BGDx1ba_eiZfQTY3RgsSKwxHCXejJtZn8TP2Ntc3phUon5mA0A_6-BmzOLIhj9ggX6TFUBB2dMsZDBWB3bDjww2GToZdyqNkbnQ/w640-h108/Iran-attacco%20a%20Isfahan.jpg)']
 
 <!--METADATA-->
 
@@ -496,7 +536,11 @@ News Source: [https://proletaricomunisti.blogspot.com/2023/01/pc-30-gennaio-la-g
 
 # Palestine: National Resistance leaves seven dead and 12 injured after Zionist operation massacre
 
+Author: Ângelo de Carvalho
 
+Time: 2023-01-30T17:15:55-03:00
+
+Images: ['[protesto_perto_de_gaza_Abdelkhaim_Abu_Riash_Al_Jazeera_2.jpg](https://anovademocracia.com.br/images/protesto_perto_de_gaza_Abdelkhaim_Abu_Riash_Al_Jazeera_2.jpg)']
 
 <!--METADATA-->
 
@@ -559,7 +603,11 @@ News Source: [https://anovademocracia.com.br/noticias/18630-palestina-resistenci
 
 # SP: Metalworkers on strike require late payment with protests in front of the factory
 
+Author: Giovanna Maria
 
+Time: 2023-01-30T17:19:32-03:00
+
+Images: ['[sidor1.jpg](https://anovademocracia.com.br/images/sidor1.jpg)', '[dana1.jpg](https://anovademocracia.com.br/images/dana1.jpg)']
 
 <!--METADATA-->
 
@@ -599,7 +647,11 @@ News Source: [https://anovademocracia.com.br/noticias/18631-sp-metalurgicos-em-g
 
 # PC January 30 - The Meloni government launches another attack on workers' rights: term contracts without limits and without causal
 
+Author: prolcompal
 
+Time: 2023-01-30T18:22:00+01:00
+
+Images: ['[APA%2018FEB.jpg](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-KG5PPiTCRBHLTmgRiHrRad1sk88e9YOTQCzbr_kdzzZZPSMkGH4ttguaKnGXc1L-5F01p1AttLAtqrZFPvY56UnZVrIoul7eBtCSQ9wNBi-XQKHL29jGyk8oKqOPsHw9aZSnXPOc0j-QzdPuy5KwDq2GjqYhIULfYZr_k4eKUDsQK2seWnH1t1Vv7Q/w339-h480/APA%2018FEB.jpg)']
 
 <!--METADATA-->
 
@@ -666,7 +718,19 @@ News Source: [https://proletaricomunisti.blogspot.com/2023/01/pc-30-gennaio-il-g
 
 # TRONDHEIM: Throwed out single mother with children from municipal apartment
 
+Author: Tjen Folket Media
 
+Description: Alenemor "Ana" (30), despite many attempts, had not been able to find housing in the private rental market in Trondheim. On Thursday, January 19, Trondheim municipality threw "Ana" and her son (6) out of…
+
+Publish Time: 2023-01-30T19:52:40+00:00
+
+Modified Time: 2023-01-30T19:52:44+00:00
+
+Images: ['[Trondheim_radhus-1160x694.jpg](https://tjen-folket.no/wp-content/uploads/2022/10/Trondheim_radhus-1160x694.jpg)']
+
+Tags: None
+
+Category: 'Innenriks'
 
 <!--METADATA-->
 
@@ -749,7 +813,13 @@ News Source: [https://tjen-folket.no/index.php/2023/01/30/trondheim-kastet-ut-al
 
 # URGENT DENITURE: PM performs peasant slaughter in Nova Mutum/RO
 
+Author: 
+Postado por
 
+
+Time: 2023-01-31T00:07:00-03:00
+
+Images: ['[16750064344332_1destaque1.jpg](https://anovademocracia.com.br/modules/mod_news_pro_gk5/cache/16750064344332_1destaque1.jpg)']
 
 <!--METADATA-->
 
@@ -801,7 +871,19 @@ News Source: [https://cebraspo.blogspot.com/2023/01/denuncia-urgente-pm-executa-
 
 # Ecuador: Fight against mining and oppression
 
+Author: Tjen Folket Media
 
+Description: Our comrades in the front of defense of the People's Fighting (FDLP) have published this statement to support the community members of Buenos Aires who are fighting for the earth.
+
+Publish Time: 2023-01-31T05:00:00+00:00
+
+Modified Time: 2023-01-30T12:04:50+00:00
+
+Images: ['[Kopi-av-FUERA-EMPRESAS-MINERAS.png](https://tjen-folket.no/wp-content/uploads/2023/01/Kopi-av-FUERA-EMPRESAS-MINERAS.png)', '[PaCAwC0oyyfC1ahQX6ita-xA2UG7yeBWIDSY5AQ0JbdyNuQ_Omthhz9cfAOvOzCFap_sh6-imKoMSUslJAj4R5Wj_jbXIO0F4o79ASWXAoV7nr7MdmbRFFGY_77_9zsJSTmER7RgTi1CtYwv5zJ_fAqz25ifO2wEJlhIJ8_85XPYFJ2_p2493U8FybueIw](https://lh4.googleusercontent.com/PaCAwC0oyyfC1ahQX6ita-xA2UG7yeBWIDSY5AQ0JbdyNuQ_Omthhz9cfAOvOzCFap_sh6-imKoMSUslJAj4R5Wj_jbXIO0F4o79ASWXAoV7nr7MdmbRFFGY_77_9zsJSTmER7RgTi1CtYwv5zJ_fAqz25ifO2wEJlhIJ8_85XPYFJ2_p2493U8FybueIw)']
+
+Tags: None
+
+Category: 'Latin-Amerika'
 
 <!--METADATA-->
 
@@ -868,7 +950,11 @@ News Source: [https://tjen-folket.no/index.php/2023/01/31/ecuador-kamp-mot-gruve
 
 # In Brazil, actions celebrate the foundation of the Communist International League (updated 01/31)
 
+Author: Redação de AND
 
+Time: 2023-01-31T10:00:00-03:00
+
+Images: ['[Universidade_Tecnologica_Federal_do_Parana_1_1_1.jpg](https://anovademocracia.com.br/images/Universidade_Tecnologica_Federal_do_Parana_1_1_1.jpg)', '[Westfallen_com_Av_Iguacu_Centro_de_Curitiba_2JPG_3.jpg](https://anovademocracia.com.br/images/Westfallen_com_Av_Iguacu_Centro_de_Curitiba_2JPG_3.jpg)', '[Praca_Ouvidor_Pardinho_Centro_de_CuritibaJPG_1.jpg](https://anovademocracia.com.br/images/Praca_Ouvidor_Pardinho_Centro_de_CuritibaJPG_1.jpg)', '[Preca_Ouvidor_Pardinho_Centro_de_Curitiba_1.jpg](https://anovademocracia.com.br/images/Preca_Ouvidor_Pardinho_Centro_de_Curitiba_1.jpg)', '[rua_imaculada_conceicao_1.jpg](https://anovademocracia.com.br/images/rua_imaculada_conceicao_1.jpg)', '[estacao_puc_-_linha_verde_2.jpg](https://anovademocracia.com.br/images/estacao_puc_-_linha_verde_2.jpg)', '[col_estadual_Manuel_Ribas_1.jpg](https://anovademocracia.com.br/images/col_estadual_Manuel_Ribas_1.jpg)', '[av_das_torres_1.jpg](https://anovademocracia.com.br/images/av_das_torres_1.jpg)', '[viaduto_av_comendador_franco_com_linha_verde_1.jpg](https://anovademocracia.com.br/images/viaduto_av_comendador_franco_com_linha_verde_1.jpg)', '[01_Bairro_Alto_1.jpg](https://anovademocracia.com.br/images/01_Bairro_Alto_1.jpg)', '[02_Estrada_da_ribeira_atuba_1_1.jpg](https://anovademocracia.com.br/images/02_Estrada_da_ribeira_atuba_1_1.jpg)', '[03_Linha_verde_2.jpg](https://anovademocracia.com.br/images/03_Linha_verde_2.jpg)', '[04_Linha_verde_4.jpg](https://anovademocracia.com.br/images/04_Linha_verde_4.jpg)', '[05_Linha_verde_5.jpg](https://anovademocracia.com.br/images/05_Linha_verde_5.jpg)', '[06_Linha_Verde_1_1.jpg](https://anovademocracia.com.br/images/06_Linha_Verde_1_1.jpg)', '[07_Rgis_bittencourt_atuba.jpg](https://anovademocracia.com.br/images/07_Rgis_bittencourt_atuba.jpg)', '[08_Rgis_bittencourt_atuba_2_1.jpg](https://anovademocracia.com.br/images/08_Rgis_bittencourt_atuba_2_1.jpg)', '[09_Rgis_bittencourt_atuba_4.jpg](https://anovademocracia.com.br/images/09_Rgis_bittencourt_atuba_4.jpg)', '[10_Viaduto_atuba_1.jpg](https://anovademocracia.com.br/images/10_Viaduto_atuba_1.jpg)', '[11_Viaduto_atuba_2.jpg](https://anovademocracia.com.br/images/11_Viaduto_atuba_2.jpg)', '[12_viaduto_bairro_alto_4.jpg](https://anovademocracia.com.br/images/12_viaduto_bairro_alto_4.jpg)', '[13_Viaduto_bairro_alto_3.jpg](https://anovademocracia.com.br/images/13_Viaduto_bairro_alto_3.jpg)', '[14_Viaduto_Bairro_alto_1.jpg](https://anovademocracia.com.br/images/14_Viaduto_Bairro_alto_1.jpg)', '[15_Viaduto_bairro_alto_2.jpg](https://anovademocracia.com.br/images/15_Viaduto_bairro_alto_2.jpg)', '[112_4406cleaned.jpg](https://anovademocracia.com.br/images/112_4406cleaned.jpg)', '[112_4414cleaned.jpg](https://anovademocracia.com.br/images/112_4414cleaned.jpg)', '[112_4420cleaned.jpg](https://anovademocracia.com.br/images/112_4420cleaned.jpg)', '[112_4425cleaned.jpg](https://anovademocracia.com.br/images/112_4425cleaned.jpg)', '[112_4437cleaned.jpg](https://anovademocracia.com.br/images/112_4437cleaned.jpg)', '[112_4451cleaned.jpg](https://anovademocracia.com.br/images/112_4451cleaned.jpg)', '[112_4457cleaned.jpg](https://anovademocracia.com.br/images/112_4457cleaned.jpg)', '[1-18-LCI-Maring-PR-1.jpg](https://anovademocracia.com.br/images/1-18-LCI-Maring-PR-1.jpg)', '[1-18-LCI-Maring-PR-2.jpg](https://anovademocracia.com.br/images/1-18-LCI-Maring-PR-2.jpg)', '[1-18-LCI-Maring-PR-4.jpg](https://anovademocracia.com.br/images/1-18-LCI-Maring-PR-4.jpg)', '[1-18-LCI-Maring-PR-3.jpg](https://anovademocracia.com.br/images/1-18-LCI-Maring-PR-3.jpg)', '[Pinhais_20.jpg](https://anovademocracia.com.br/images/Pinhais_20.jpg)', '[Pinhais_19.jpg](https://anovademocracia.com.br/images/Pinhais_19.jpg)', '[Pinhais_18.jpg](https://anovademocracia.com.br/images/Pinhais_18.jpg)', '[Pinhais_11.jpg](https://anovademocracia.com.br/images/Pinhais_11.jpg)', '[Pinhais_16.jpg](https://anovademocracia.com.br/images/Pinhais_16.jpg)', '[Pinhais_14.jpg](https://anovademocracia.com.br/images/Pinhais_14.jpg)', '[Pinhais_15.jpg](https://anovademocracia.com.br/images/Pinhais_15.jpg)', '[Pinhais_12.jpg](https://anovademocracia.com.br/images/Pinhais_12.jpg)', '[Pinhais_13.jpg](https://anovademocracia.com.br/images/Pinhais_13.jpg)', '[Pinhais_17.jpg](https://anovademocracia.com.br/images/Pinhais_17.jpg)', '[Pinhais_01.jpg](https://anovademocracia.com.br/images/Pinhais_01.jpg)', '[Pinhais_02.jpg](https://anovademocracia.com.br/images/Pinhais_02.jpg)', '[Pinhais_04.jpg](https://anovademocracia.com.br/images/Pinhais_04.jpg)', '[Pinhais_09.jpg](https://anovademocracia.com.br/images/Pinhais_09.jpg)', '[Pinhais_07.jpg](https://anovademocracia.com.br/images/Pinhais_07.jpg)', '[Pinhais_08.jpg](https://anovademocracia.com.br/images/Pinhais_08.jpg)', '[Pinhais_05.jpg](https://anovademocracia.com.br/images/Pinhais_05.jpg)', '[Pinhais_10.jpg](https://anovademocracia.com.br/images/Pinhais_10.jpg)', '[Pinhais_0601.jpg](https://anovademocracia.com.br/images/Pinhais_0601.jpg)', '[Pinhais_03_12.jpg](https://anovademocracia.com.br/images/Pinhais_03_12.jpg)', '[Via_do_Minrio_anel_rodoviario_BH_5.jpg](https://anovademocracia.com.br/images/Via_do_Minrio_anel_rodoviario_BH_5.jpg)', '[Via_do_Minrio_anel_rodoviario_BH_3.jpg](https://anovademocracia.com.br/images/Via_do_Minrio_anel_rodoviario_BH_3.jpg)', '[Shopping_Del_Rey_anel_rodovirio_3_2.jpg](https://anovademocracia.com.br/images/Shopping_Del_Rey_anel_rodovirio_3_2.jpg)', '[Shopping_Del_Rey_anel_rodoviario_BH_2.jpg](https://anovademocracia.com.br/images/Shopping_Del_Rey_anel_rodoviario_BH_2.jpg)', '[Viaduto_sao_francisco_anel_rodoviario_BH_3_2.jpg](https://anovademocracia.com.br/images/Viaduto_sao_francisco_anel_rodoviario_BH_3_2.jpg)', '[Via_do_Minrio_anel_rodoviario_BH_6.jpg](https://anovademocracia.com.br/images/Via_do_Minrio_anel_rodoviario_BH_6.jpg)', '[Viaduto_So_Francisco_anel_rodovirio_BH_5.jpg](https://anovademocracia.com.br/images/Viaduto_So_Francisco_anel_rodovirio_BH_5.jpg)', '[1366x768_10_1.jpg](https://anovademocracia.com.br/images/1366x768_10_1.jpg)', '[1366x768_9_1.jpg](https://anovademocracia.com.br/images/1366x768_9_1.jpg)', '[1366x768_8_1.jpg](https://anovademocracia.com.br/images/1366x768_8_1.jpg)', '[1366x768_7_1.jpg](https://anovademocracia.com.br/images/1366x768_7_1.jpg)', '[6a_2.jpg](https://anovademocracia.com.br/images/6a_2.jpg)', '[1366x768_13_1.jpg](https://anovademocracia.com.br/images/1366x768_13_1.jpg)', '[1366x768_12_1.jpg](https://anovademocracia.com.br/images/1366x768_12_1.jpg)', '[1366x768_11_1.jpg](https://anovademocracia.com.br/images/1366x768_11_1.jpg)', '[anel_rodoviario_1.jpg](https://anovademocracia.com.br/images/anel_rodoviario_1.jpg)', '[vila_oeste_2_1.jpg](https://anovademocracia.com.br/images/vila_oeste_2_1.jpg)', '[vila_oeste_1_2.jpg](https://anovademocracia.com.br/images/vila_oeste_1_2.jpg)', '[Lci_nort_3.jpg](https://anovademocracia.com.br/images/Lci_nort_3.jpg)', '[Lci_nort_1.jpg](https://anovademocracia.com.br/images/Lci_nort_1.jpg)', '[Lci_nort_4.jpg](https://anovademocracia.com.br/images/Lci_nort_4.jpg)', '[Lci_nort_5.jpg](https://anovademocracia.com.br/images/Lci_nort_5.jpg)', '[Lci_nort_2.jpg](https://anovademocracia.com.br/images/Lci_nort_2.jpg)', '[divulgacao1.jpg](https://anovademocracia.com.br/images/divulgacao1.jpg)', '[Pichacao2.jpg](https://anovademocracia.com.br/images/Pichacao2.jpg)', '[Pichao_encontrada_ZO_SP.jpg](https://anovademocracia.com.br/images/Pichao_encontrada_ZO_SP.jpg)', '[Guarulhos_3.jpg](https://anovademocracia.com.br/images/Guarulhos_3.jpg)', '[Guarulhos_1.jpg](https://anovademocracia.com.br/images/Guarulhos_1.jpg)', '[Foto.jpg](https://anovademocracia.com.br/images/Foto.jpg)', '[Bandeiras_LCI_-_SP_Guarulhos_Campinas_3_1.jpg](https://anovademocracia.com.br/images/Bandeiras_LCI_-_SP_Guarulhos_Campinas_3_1.jpg)', '[Bandeiras_LCI_-_SP_Guarulhos_Campinas_2_1.jpg](https://anovademocracia.com.br/images/Bandeiras_LCI_-_SP_Guarulhos_Campinas_2_1.jpg)', '[Bandeiras_LCI_-_SP_Guarulhos_Campinas_1_2.jpg](https://anovademocracia.com.br/images/Bandeiras_LCI_-_SP_Guarulhos_Campinas_1_2.jpg)', '[passarela_trem_SC_Av_Pelcleaned.jpg](https://anovademocracia.com.br/images/passarela_trem_SC_Av_Pelcleaned.jpg)', '[Passarela_metro_SCcleaned.jpg](https://anovademocracia.com.br/images/Passarela_metro_SCcleaned.jpg)', '[Passeio-pblico-Lapa-RJ.jpg](https://anovademocracia.com.br/images/Passeio-pblico-Lapa-RJ.jpg)', '[Passeio-pblico-pontos-de-onibus-RJ.jpg](https://anovademocracia.com.br/images/Passeio-pblico-pontos-de-onibus-RJ.jpg)', '[Passarela-Radial-Oeste-RJ.jpg](https://anovademocracia.com.br/images/Passarela-Radial-Oeste-RJ.jpg)', '[Lapa-proximo-hospital-RJ.jpg](https://anovademocracia.com.br/images/Lapa-proximo-hospital-RJ.jpg)', '[Cinelandia2-RJ.jpg](https://anovademocracia.com.br/images/Cinelandia2-RJ.jpg)', '[Cinelandia1-RJ.jpg](https://anovademocracia.com.br/images/Cinelandia1-RJ.jpg)', '[Estao_de_Metro_Thomz_Coelho_na_entrada_da_Favela_do_Juramento_1.jpg](https://anovademocracia.com.br/images/Estao_de_Metro_Thomz_Coelho_na_entrada_da_Favela_do_Juramento_1.jpg)', '[19-1-LCI-2.jpg](https://anovademocracia.com.br/images/19-1-LCI-2.jpg)', '[19-1-LCI-3.jpg](https://anovademocracia.com.br/images/19-1-LCI-3.jpg)', '[19-1-LCI-Metr-SFX.jpg](https://anovademocracia.com.br/images/19-1-LCI-Metr-SFX.jpg)', '[Favela_do_Jacarezinho.jpg](https://anovademocracia.com.br/images/Favela_do_Jacarezinho.jpg)', '[Passarela_13_Avenida_Brasil.jpg](https://anovademocracia.com.br/images/Passarela_13_Avenida_Brasil.jpg)', '[Passarela_12_Avenida_Brasil.jpg](https://anovademocracia.com.br/images/Passarela_12_Avenida_Brasil.jpg)', '[Passarela_14_Avenida_Brasil.jpg](https://anovademocracia.com.br/images/Passarela_14_Avenida_Brasil.jpg)', '[Estao_do_Mier.jpg](https://anovademocracia.com.br/images/Estao_do_Mier.jpg)', '[Estao_do_Nova_Amrica.jpg](https://anovademocracia.com.br/images/Estao_do_Nova_Amrica.jpg)', '[Metro_de_Maria_da_Graa.jpg](https://anovademocracia.com.br/images/Metro_de_Maria_da_Graa.jpg)', '[Passarela_do_trem_de_Olaria.jpg](https://anovademocracia.com.br/images/Passarela_do_trem_de_Olaria.jpg)', '[Quadra_do_Cefet_de_Maria_da_Graa.jpg](https://anovademocracia.com.br/images/Quadra_do_Cefet_de_Maria_da_Graa.jpg)', '[1IMG_1509_Rua_Joao_Paulo_Primeiro.jpg](https://anovademocracia.com.br/images/1IMG_1509_Rua_Joao_Paulo_Primeiro.jpg)', '[2IMG_1509_Avenida_Paulo_de_Frontin1.jpg](https://anovademocracia.com.br/images/2IMG_1509_Avenida_Paulo_de_Frontin1.jpg)', '[IMG_20230118_090539052.jpg](https://anovademocracia.com.br/images/IMG_20230118_090539052.jpg)', '[IMG_20230118_090500779.jpg](https://anovademocracia.com.br/images/IMG_20230118_090500779.jpg)', '[ufrgs_campu_centro.jpg](https://anovademocracia.com.br/images/ufrgs_campu_centro.jpg)', '[zona_sul.jpg](https://anovademocracia.com.br/images/zona_sul.jpg)', '[zona_leste_ufrgs_2.jpg](https://anovademocracia.com.br/images/zona_leste_ufrgs_2.jpg)', '[consulado_zona_norte.jpg](https://anovademocracia.com.br/images/consulado_zona_norte.jpg)', '[001MSDOURADOS_1.jpg](https://anovademocracia.com.br/images/001MSDOURADOS_1.jpg)', '[003MSDOURADOS.jpg](https://anovademocracia.com.br/images/003MSDOURADOS.jpg)', '[002MSDOURADOS.jpg](https://anovademocracia.com.br/images/002MSDOURADOS.jpg)', '[2MSDOURADOS_1.jpg](https://anovademocracia.com.br/images/2MSDOURADOS_1.jpg)', '[1MSDOURADOS_1.jpg](https://anovademocracia.com.br/images/1MSDOURADOS_1.jpg)', '[5adwawdawdawd.jpg](https://anovademocracia.com.br/images/5adwawdawdawd.jpg)', '[1-18-Dourados2-LCI.jpg](https://anovademocracia.com.br/images/1-18-Dourados2-LCI.jpg)', '[1-18-Dourados1-LCI.jpg](https://anovademocracia.com.br/images/1-18-Dourados1-LCI.jpg)', '[015_Universidade_Federal_do_Ama.jpg](https://anovademocracia.com.br/images/015_Universidade_Federal_do_Ama.jpg)', '[IMG_8903limpo.jpg](https://anovademocracia.com.br/images/IMG_8903limpo.jpg)', '[009_Universidade_Estadual_do_Am.jpg](https://anovademocracia.com.br/images/009_Universidade_Estadual_do_Am.jpg)', '[006_Colgio_D_Pedro_IIcleaned_1.jpg](https://anovademocracia.com.br/images/006_Colgio_D_Pedro_IIcleaned_1.jpg)', '[007_ifam_1.jpg](https://anovademocracia.com.br/images/007_ifam_1.jpg)', '[002_Carrefour_Av_Djalma_Batist.jpg](https://anovademocracia.com.br/images/002_Carrefour_Av_Djalma_Batist.jpg)', '[003_Praa_da_Matrizcleaned.jpg](https://anovademocracia.com.br/images/003_Praa_da_Matrizcleaned.jpg)', '[019_-_Estdio_Arena_da_Amaznia_1.jpg](https://anovademocracia.com.br/images/019_-_Estdio_Arena_da_Amaznia_1.jpg)', '[Goiania-City-Goias-State-Brazil-coutry.jpg](https://anovademocracia.com.br/images/Goiania-City-Goias-State-Brazil-coutry.jpg)']
 
 <!--METADATA-->
 
@@ -1335,7 +1421,14 @@ News Source: [https://anovademocracia.com.br/noticias/18567-acoes-celebram-funda
 
 # Brazil: Urgent denunciation: PM performs peasant slaughter in Nova Mutum/RO (Cebraspo)
 
+Author: dazibao rojo
 
+Description: Cebraspo issues Abrapo's note about recent murders and torture of 
+ Peasants by the Military Police of Rondônia, who makes the ...
+
+Time: 2023-01-31T10:46:00+01:00
+
+Images: ['[16750064344332_1destaque1.jpg](https://anovademocracia.com.br/modules/mod_news_pro_gk5/cache/16750064344332_1destaque1.jpg)']
 
 <!--METADATA-->
 
@@ -1390,7 +1483,14 @@ News Source: [http://dazibaorojo08.blogspot.com/2023/01/brasil-denuncia-urgente-
 
 # From Mirafiori: the voice and the strong denunciation of the workers. The MFPR and the Slai workers Cobas Sc prepare an initiative in Mirafiori in the week of March 8th
 
+Author: fannyhill
 
+Description: On January 24 we intervened in Mirafiori with the Slai Cobas for the union 
+ class. We talked to many workers. Rac workers ...
+
+Time: 2023-01-31T10:53:00+01:00
+
+Images: ['[fiat.jpg](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYTMIJTtyCVUPd65lq9bzFTwfeybfD5JYp-emjf5FSOw61hNQVVzhMp_rigcIlLbcogDmWJpRkD8h8FsfFEmbTvj3Apf3zgDsQuOkjED68w2wnWWs2Za2qYxrmXknrH5OJHX5GbCMIdgWIUN0kJtxNcEMKeZTCFfPdCxoZcwWJOvY7o19VoPkkyecvNg/s320/fiat.jpg)']
 
 <!--METADATA-->
 
@@ -1480,7 +1580,11 @@ News Source: [https://femminismorivoluzionario.blogspot.com/2023/01/da-mirafiori
 
 # SP: residents block highway Presidente Dutra against eviction
 
+Author: Giovanna Maria
 
+Time: 2023-01-31T13:52:28-03:00
+
+Images: ['[dutra1.jpg](https://anovademocracia.com.br/images/dutra1.jpg)', '[dutra2.jpg](https://anovademocracia.com.br/images/dutra2.jpg)', '[dutra4.jpg](https://anovademocracia.com.br/images/dutra4.jpg)', '[dutra3.jpg](https://anovademocracia.com.br/images/dutra3.jpg)']
 
 <!--METADATA-->
 
@@ -1542,7 +1646,11 @@ News Source: [https://anovademocracia.com.br/noticias/18632-sp-moradores-bloquei
 
 # Anthology The Fight for Earth: Selection of Finalist Texts of the First Literary Contest of and
 
+Author: Redação de AND
 
+Time: 2023-01-31T14:34:15-03:00
+
+Images: ['[CAPA.jpg](https://anovademocracia.com.br/images/CAPA.jpg)']
 
 <!--METADATA-->
 
@@ -1573,7 +1681,14 @@ News Source: [https://anovademocracia.com.br/noticias/18624-antologia-a-luta-pel
 
 # Brazil Agrarian Studies: Campesina Lucha »Police kill peasants during attack on families
 
+Author: Verein der Neuen Demokratie
 
+Description: Complete noticia translated: start »peasant fight» police officers kill 
+ peasants during attack on families Fighting Police Aces ...
+
+Time: 2023-01-31T15:43:00+01:00
+
+Images: ['[mandruva.jpg](https://i.ibb.co/5shms6M/mandruva.jpg)', '[esticado-nova.jpg](https://i.ibb.co/GvMY3dm/esticado-nova.jpg)', '[mail](https://ecp.yusercontent.com/mail)']
 
 <!--METADATA-->
 
@@ -1768,7 +1883,19 @@ News Source: [http://vnd-peru.blogspot.com/2023/01/estudios-agrarios-brasil-luch
 
 # People can't afford medicine
 
+Author: socialistiskrevolution
 
+Publish Time: 2023-01-31T15:45:34+00:00
+
+Modified Time: 2023-01-31T15:46:08+00:00
+
+Description: Inflation has risen dramatically in the running of the last year, and this also affects people in particular whose life and health depends on fixed costs of medicine and treatment every month. Not only that pri…
+
+Images: ['[th-521056444.jpeg](https://socialistiskrevolution.files.wordpress.com/2023/01/th-521056444.jpeg)']
+
+Type: article
+
+Categories: ['Uncategorized']
 
 <!--METADATA-->
 
@@ -1838,7 +1965,11 @@ News Source: [https://socialistiskrevolution.wordpress.com/2023/01/31/folk-har-i
 
 # PC January 31st &#8211; Layoffs announced for 472 workers of the Safilo Glasses Industry
 
+Author: prolcompal
 
+Time: 2023-01-31T17:14:00+01:00
+
+Images: ['[7194109_27092935_safilo_longarone.jpg](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMK79R-IjRH4kT6INKp7dOL7NF5KKYgJH_Sbzy3Y6wW5wFJv9Dmw9jhhkUtaH4hGc7eI1f5TRnvym18T8XCztqJe1ultD4TudcWM7FcBtXJylDgnuUN8tgDlhNHQ9VAcnGSlIl8OMuxq0eBN9-uVs48DISljUlakkbwGb_JN-PdabPcdjQ2YTwoSqrDw/w424-h233/7194109_27092935_safilo_longarone.jpg)']
 
 <!--METADATA-->
 
@@ -1876,7 +2007,11 @@ News Source: [https://proletaricomunisti.blogspot.com/2023/01/pc-31-gennaio-lice
 
 # Slaughter in Nova Mutum/RO: New complaints point to torture and deprivation of rights during attack by the PM
 
+Author: Gabriel Artur
 
+Time: 2023-01-31T17:42:11-03:00
+
+Images: ['[esticado-nova_11.jpg](https://anovademocracia.com.br/images/esticado-nova_11.jpg)', '[IMG-20230128-WA00560.jpg](https://anovademocracia.com.br/images/IMG-20230128-WA00560.jpg)', '[esticado-nova_21.jpg](https://anovademocracia.com.br/images/esticado-nova_21.jpg)', '[Screenshot_from_2023-01-31_17-14-5612.jpg](https://anovademocracia.com.br/images/Screenshot_from_2023-01-31_17-14-5612.jpg)', '[Screenshot_from_2023-01-31_17-12-5712.jpg](https://anovademocracia.com.br/images/Screenshot_from_2023-01-31_17-12-5712.jpg)', '[Screenshot_from_2023-01-31_17-16-0312.jpg](https://anovademocracia.com.br/images/Screenshot_from_2023-01-31_17-16-0312.jpg)', '[esticado132.jpg](https://anovademocracia.com.br/images/esticado132.jpg)', '[esticado21.jpg](https://anovademocracia.com.br/images/esticado21.jpg)', '[Screenshot_from_2023-01-31_17-11-50.jpg](https://anovademocracia.com.br/images/Screenshot_from_2023-01-31_17-11-50.jpg)', '[Screenshot_from_2023-01-31_17-10-5812.jpg](https://anovademocracia.com.br/images/Screenshot_from_2023-01-31_17-10-5812.jpg)', '[assassinados_112.jpg](https://anovademocracia.com.br/images/assassinados_112.jpg)']
 
 <!--METADATA-->
 
@@ -2038,7 +2173,11 @@ News Source: [https://anovademocracia.com.br/noticias/18634-chacina-em-nova-mutu
 
 # PC 31 January - Still on the Assembly of Genoa: the assessments of the companions of communist proletarians who participated in it
 
+Author: prolcomra
 
+Time: 2023-01-31T18:51:00+01:00
+
+Images: ['[Ass%20CALP%20GE.jpg](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5USj6YHZC6Th2YFjbzR4165K8a324sFTzSlojwXAW0jGhlpZ1ymc_O9BS4ZjrLotZI-jC2Zcky-6pDyWz7N_qoP-eBzWyhnXPUV0yEFxl2VwVNfaPfbo6bWz1w-MeVnpYFFE65fE-xhJyvwX9R6FwYBq-aDa2VcpWoQ2u946pY2SbFngdDxC1mdC2Ow/w228-h405/Ass%20CALP%20GE.jpg)']
 
 <!--METADATA-->
 
@@ -2154,7 +2293,17 @@ News Source: [https://proletaricomunisti.blogspot.com/2023/01/pc-31-gennaio-anco
 
 # Unit against adjustment and defense of sovereignty
 
+Author: carga
 
+Time: 2023-01-31T99:00:00
+
+Head Description: La rebelión del hermano pueblo peruano marca un camino para los pueblos de la región y el mundo. En Argentina, mientras las potencias imperialistas se disputan nuestros recursos naturales, crecen las luchas por las emergencias y en defensa de nuestra soberanía.
+
+Description: 1. Long live the rebellion of the Peruvian people Enough of repression!The rebellion of the Peruvian people continues in the streets and repression also grows with more than 63 killed, thousands of prisoners and injuries. From the PCR and its JCR and all the mass movements we participate, we promote throughout the country & Hellip;
+
+Images: ['[pintada-por-Perú-en-Quilmes-Berazategui-Varela.jpg](https://pcr.org.ar/wp-content/uploads/2023/01/pintada-por-Perú-en-Quilmes-Berazategui-Varela.jpg)']
+
+Type: article
 
 <!--METADATA-->
 
@@ -2470,7 +2619,13 @@ News Source: [https://pcr.org.ar/nota/unidad-contra-el-ajuste-y-en-defensa-de-la
 
 # On the 80th anniversary of the victory in the battle of Stalingrad
 
+Author: COMMUNIST INTERNATIONAL MARXIST-LENINIST-MAOIST ONLINE NEWSPAPER
 
+Time: 2023-01-31T99:00:00
+
+Images: ['[stalin-1024x576.jpg](https://ci-ic.org/wp-content/uploads/2023/01/stalin-1024x576.jpg)']
+
+Categories: ['Articles']
 
 <!--METADATA-->
 
