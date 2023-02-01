@@ -1,0 +1,514 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pt-br" lang="pt-br" dir="ltr">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<base href="https://anovademocracia.com.br/noticias/18627-gaucho-sem-fronteiras-2" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="poesia, poeta" />
+<meta name="author" content="Henrique Júdice Magalhães" />
+<meta name="description" content="Personalidades da arte popular brasileira, Henrique Júdice Magalhães" />
+<title>99 anos de Jayme Caetano Braun: Gaúcho sem fronteiras - A Nova Democracia</title>
+<link href="/images/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+<link href="/templates/shaper_helix3/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+<link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,700,700italic&amp;subset=latin-ext" rel="stylesheet" type="text/css" />
+<link href="//fonts.googleapis.com/css?family=Open+Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic&amp;subset=greek-ext" rel="stylesheet" type="text/css" />
+<link href="/cache/com_templates/templates/shaper_helix3/de1b07beaf1dcf8f03d592094b0b3941.css" rel="stylesheet" type="text/css" />
+<link href="/media/mod_social_slider/css/style.css" rel="stylesheet" type="text/css" />
+<link href="/media/syw/css/fonts-min.css" rel="stylesheet" type="text/css" />
+<link href="/cache/mod_latestnewsenhanced/style_197.css?8b03433a6d57d88d71b3827b81eb2601" rel="stylesheet" type="text/css" />
+<link href="/modules/mod_latestnewsenhanced/styles/common_styles-min.css?8b03433a6d57d88d71b3827b81eb2601" rel="stylesheet" type="text/css" />
+<link href="/media/mod_pwebbox/css/layout.css" rel="stylesheet" type="text/css" />
+<link href="/media/mod_pwebbox/css/animations.css" rel="stylesheet" type="text/css" />
+<link href="/media/mod_pwebbox/css/themes/magazine.css" rel="stylesheet" type="text/css" />
+<link href="/media/mod_pwebbox/cache/d6860febecc51468e3e31306fe52b9a2-220.css" rel="stylesheet" type="text/css" />
+<link href="/media/mod_pwebbox/css/ie8.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+body{font-family:PT Sans, sans-serif; font-weight:normal; }h1{font-family:PT Sans, sans-serif; font-size:36px; font-weight:normal; }h2{font-family:PT Sans, sans-serif; font-size:32px; font-weight:normal; }h3{font-family:PT Sans, sans-serif; font-size:26px; font-weight:normal; }h4{font-family:PT Sans, sans-serif; font-size:18px; font-weight:normal; }h5{font-family:PT Sans, sans-serif; font-size:10px; font-weight:normal; }h6{font-family:PT Sans, sans-serif; font-size:12px; font-weight:normal; }.sp-megamenu-parent{font-family:Open Sans, sans-serif; font-size:18px; font-weight:300; }.videos_youtube_homepage-container {
+    display: flex;
+    flex-direction: row;
+    /*flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;*/
+
+}
+
+.videos_youtube_homepage-children {
+    flex-basis: 25vw;
+    flex-grow: 1;
+    flex-shrink 1;
+}
+
+@media (max-width: 800px) {
+    .videos_youtube_homepage-container {
+      flex-direction: column;
+    }
+  } 
+#sp-top-bar{ background-color:#ed1c24;color:#999999;padding:10px 5px 10px 0; }#sp-top-bar a{color:#ffffff;}#sp-top-bar a:hover{color:#ffffff;}#sp-header{ background-color:#e41c23;color:#ffffff;padding:0 0 0 0 ;margin:0 0 0 0; }#sp-header a{color:#ffffff;}#sp-main-body{ padding:0 0 0 0;margin:30px 30px 30px 20px; }#sp-section-12{ background-color:#f3f3f3;padding:20px 10px 0 25px;margin:0 0 0 0; }#sp-edicao-impressa{ background-color:#f3f3f3;padding:30px 0 30px 20px;margin:0 ; }#sp-footer1{ color:#303030;margin:30px 10px 0 20px; }#sp-footer1 a{color:#303030;}#sp-footer1 a:hover{color:#ed1c24;}#sp-rodape{ background-color:#f3f3f3;padding:20px 10px 0 5px;margin:30px 0 0 0; }#sp-footer{ background-color:#f3f3f3;color:#303030;padding:0 0 0 0;margin:0 0 0 0; }#sp-footer a{color:#303030;}#sp-footer a:hover{color:#ed1c24;}.jj_sl_navigation li a {
+			background-color:#ff4953;
+			text-align:left;
+			color:#ffffff !important;
+		}
+		.jj_sl_navigation .jj_sprite {
+			background-image: url(https://anovademocracia.com.br/media/mod_social_slider/icons/sprite-white.png);
+		}@media screen and (max-width: 480px){
+				.jj_sl_navigation { display: none; }
+			}.jj_sl_navigation { top:210px;
+			}.jj_sl_navigation .jj_sl_custom1 a:hover{
+			background-color: #cc252c;
+		 }
+		 .jj_sl_navigation .jj_sl_custom2 a:hover{
+			background-color: #4099ff;
+		 }
+		 .jj_sl_navigation .jj_sl_custom3 a:hover{
+			background-color: #ff6600;
+		 }
+		 .jj_sl_navigation .jj_sl_custom4 a:hover{
+			background-color: #41b583;
+		 }
+		 .jj_sl_navigation .jj_sl_custom5 a:hover{
+			background-color: #000000;
+		 }
+				.jj_sl_navigation .jj_sprite_custom.jj_custom1 {
+					background-image: url(https://anovademocracia.com.br/media/mod_social_slider/icons/youtube.png);
+				}
+				.jj_sl_navigation .jj_sprite_custom.jj_custom2 {
+					background-image: url(https://anovademocracia.com.br/media/mod_social_slider/icons/twitter.png);
+				}
+				.jj_sl_navigation .jj_sprite_custom.jj_custom3 {
+					background-image: url(https://anovademocracia.com.br/media/mod_social_slider/icons/rss.png);
+				}
+				.jj_sl_navigation .jj_sprite_custom.jj_custom4 {
+					background-image: url(https://anovademocracia.com.br/media/mod_social_slider/icons/email.png);
+				}
+				.jj_sl_navigation .jj_sprite_custom.jj_custom5 {
+					background-image: url(https://anovademocracia.com.br/media/mod_social_slider/icons/icon.png);
+				}
+	</style>
+<script type="application/json" class="joomla-script-options new">{"csrf.token":"937ad5843ccad36b8a1f13e0228b7c83","system.paths":{"root":"","base":""},"system.keepalive":{"interval":300000,"uri":"\/component\/ajax\/?format=json"}}</script>
+<script src="/cache/com_templates/templates/shaper_helix3/6201402f0ddb262a23584d50b28243da.js" type="text/javascript"></script>
+<script src="/media/syw/js/purepajinate/purePajinate.min.js?8b03433a6d57d88d71b3827b81eb2601" type="text/javascript"></script>
+<script src="/media/mod_pwebbox/js/jquery.pwebbox.min.js" type="text/javascript"></script>
+<!--[if lt IE 9]><script src="/media/system/js/polyfill.event.js?8b03433a6d57d88d71b3827b81eb2601" type="text/javascript"></script><![endif]-->
+<script src="/media/system/js/keepalive.js?8b03433a6d57d88d71b3827b81eb2601" type="text/javascript"></script>
+<script type="text/javascript">
+jQuery(function($){ initTooltips(); $("body").on("subform-row-add", initTooltips); function initTooltips (event, container) { container = container || document;$(container).find(".hasTooltip").tooltip({"html": true,"container": "body"});} });jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+var sp_preloader = '0';
+
+var sp_gotop = '1';
+
+var sp_offanimation = 'default';
+document.addEventListener("readystatechange", function(event) {if (event.target.readyState === "complete") {var pagination = new purePajinate({containerSelector: '#lnee_197 .latestnews-items',itemSelector: '#lnee_197 .latestnews-item',navigationSelector: '#lnee_197 .items_pagination',wrapAround: true,pageLinksToDisplay: 28,itemsPerPage: 4,onInit: function() {var news = document.querySelector("#lnee_197.newslist");if (news.classList) { news.classList.add("show"); } else { news.className += " " + className; }},navLabelPrev: "<span class='SYWicon-arrow-up2'></span>",navLabelNext: "<span class='SYWicon-arrow-down2'></span>"});}});
+	</script>
+<meta property="og:url" content="https://anovademocracia.com.br/noticias/18627-gaucho-sem-fronteiras-2" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="99 anos de Jayme Caetano Braun: Gaúcho sem fronteiras" />
+<meta property="og:description" content="Nota da redação: Por ocasião dos 99 anos do artista do povo Jayme Caetano Braun, republicamos a matéria da edição nº 27 de AND, de novembro de 2005, “Gaúch..." />
+<link rel="canonical" href="https://anovademocracia.com.br/noticias/18627-gaucho-sem-fronteiras-2" />
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NDF9FD4');</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-3289832-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Nota da redação: Por ocasião dos 99 anos do artista do povo Jayme Caetano Braun, republicamos a matéria da edição nº 27 de AND, de novembro de 2005, “Gaúcho sem fronteiras”, de autoria de Henrique Júd" />
+<meta name="twitter:image" content="https://anovademocracia.com.br/images/WhatsApp_Image_2023-01-30_at_130608.jpg" />
+<meta name="twitter:site" content="@jornaland" />
+<meta name="twitter:title" content="99 anos de Jayme Caetano Braun: Gaúcho sem fronteiras" />
+<meta property="fb:app_id" content="" />
+<meta property="og:description" content="Nota da redação: Por ocasião dos 99 anos do artista do povo Jayme Caetano Braun, republicamos a matéria da edição nº 27 de AND, de novembro de 2005, “Gaúch" />
+<meta property="og:image" content="https://anovademocracia.com.br/images/WhatsApp_Image_2023-01-30_at_130608.jpg" />
+<meta property="og:image:height" content="561" />
+<meta property="og:image:width" content="488" />
+<meta property="og:site_name" content="A Nova Democracia" />
+<meta property="og:title" content="99 anos de Jayme Caetano Braun: Gaúcho sem fronteiras" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://anovademocracia.com.br/noticias/18627-gaucho-sem-fronteiras-2" />
+
+</head>
+<body class="site com-content view-article no-layout no-task itemid-100281 pt-br ltr  sticky-header layout-fluid off-canvas-menu-init">
+<div class="body-wrapper">
+<div class="body-innerwrapper">
+<section id="sp-top-bar" class=" hidden-xs hidden-sm"><div class="container"><div class="row"><div id="sp-top1" class="col-sm-6 col-md-6"><div class="sp-column "><div class="logo"><a href="/"><img class="sp-default-logo" src="/images/logo/logo2.png" alt="A Nova Democracia"></a></div><div class="sp-module "><div class="sp-module-content">
+<div class="custom">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NDF9FD4"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript></div>
+</div></div></div></div><div id="sp-top2" class="col-sm-3 col-md-3"><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
+<div class="custom">
+<div class="idioma"><a href="/english-editions">ENGLISH</a></div>
+<div class="idioma"><a href="/espanol">ESPAÑOL</a></div></div>
+</div></div></div></div><div id="sp-search" class="col-sm-3 col-md-3"><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
+<div class="pweb-modal pwebbox-plugin-any_module pweb-theme-magazine pweb-horizontal" dir="ltr">
+<div id="pwebbox220_toggler" class="pwebbox220_toggler pwebbox_toggler pweb-closed pweb-theme-magazine pweb-icon pweb-icon-icomoon"><span class="pweb-text">LOGIN</span><span class="pweb-icon"></span></div></div>
+<div id="pwebbox220" class="pwebbox pweb-static pweb-offset-right pweb-modal pwebbox-plugin-any_module pweb-theme-magazine pweb-horizontal" dir="ltr">
+<div id="pwebbox220_modal" class="pwebbox-modal modal fade" style="display:none">
+<div id="pwebbox220_box" class="pwebbox-box pweb-modal pwebbox-plugin-any_module pweb-theme-magazine pweb-horizontal " dir="ltr">
+<div class="pwebbox-container-outset">
+<div id="pwebbox220_container" class="pwebbox-container modal-dialog">
+<div class="pwebbox-container-inset">
+<button type="button" class="pwebbox220_toggler pweb-button-close" aria-hidden="true" data-role="none">&times;</button>
+<div class="pwebbox-content" id="pwebbox220_content">
+
+<div class="pwebbox-module-container">
+<div id="pwebbox_module_220">
+<form action="https://anovademocracia.com.br/noticias/18627-gaucho-sem-fronteiras-2" method="post" id="login-form">
+<div id="form-login-username" class="form-group">
+<div class="input-group">
+<span class="input-group-addon">
+<i class="icon-user hasTooltip" title="E-mail"></i>
+</span>
+<input id="modlgn-username" type="text" name="username" class="form-control" tabindex="0" size="18" placeholder="E-mail" />
+</div>
+</div>
+<div id="form-login-password" class="form-group">
+<div class="controls">
+<div class="input-group">
+<span class="input-group-addon">
+<i class="icon-lock hasTooltip" title="Senha"></i>
+</span>
+<input id="modlgn-passwd" type="password" name="password" class="form-control" tabindex="0" size="18" placeholder="Senha" />
+</div>
+</div>
+</div>
+<div id="form-login-remember" class="form-group">
+<div class="checkbox">
+<label for="modlgn-remember"><input id="modlgn-remember" type="checkbox" name="remember" class="inputbox" value="yes">Lembrar de mim</label>
+</div>
+</div>
+<div id="form-login-submit" class="form-group">
+<button type="submit" tabindex="0" name="Submit" class="btn btn-primary">Entrar</button>
+</div>
+<ul class="form-links">
+<li>
+<a href="/nome-de-usuario">
+</a>
+</li>
+<li>
+<a href="/redefinir-senha">
+Esqueceu sua senha?</a>
+</li>
+</ul>
+<input type="hidden" name="option" value="com_users" />
+<input type="hidden" name="task" value="user.login" />
+<input type="hidden" name="return" value="aHR0cHM6Ly9hbm92YWRlbW9jcmFjaWEuY29tLmJyL25vdGljaWFzLzE4NjI3LWdhdWNoby1zZW0tZnJvbnRlaXJhcy0y" />
+<input type="hidden" name="937ad5843ccad36b8a1f13e0228b7c83" value="1" />
+</form>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+jQuery(document).ready(function($){pwebBox220=new pwebBox({id:220,bootstrap:3,theme:"magazine",layout:"modal",position:"static",offsetPosition:"right",togglerNameClose:"",closeOther:0,modalEffectDuration:100})});</script>
+
+</div></div><div class="sp-module "><div class="sp-module-content"><div class="search">
+<form action="/noticias" method="post">
+<input name="searchword" id="mod-search-searchword" maxlength="200" class="inputbox search-query" type="text" size="20" placeholder="pesquisar" /> <input type="hidden" name="task" value="search" />
+<input type="hidden" name="option" value="com_search" />
+<input type="hidden" name="Itemid" value="100281" />
+</form>
+</div>
+</div></div></div></div></div></div></section><header id="sp-header"><div class="container"><div class="row"><div id="sp-menu" class="col-sm-12 col-md-12"><div class="sp-column "> <div class='sp-megamenu-wrapper'>
+<a id="offcanvas-toggler" class="visible-sm visible-xs" aria-label="Helix Megamenu Options" href="#"><i class="fa fa-bars" aria-hidden="true" title="Helix Megamenu Options"></i></a>
+<ul class="sp-megamenu-parent hidden-sm hidden-xs"><li class="sp-menu-item"><a href="/">Início</a></li><li class="sp-menu-item sp-has-child"><a href="javascript:void(0);">Linha Editorial</a><div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 300px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a href="/editorial">Editorial</a></li><li class="sp-menu-item"><a href="/situacao-politica">Situação Política</a></li><li class="sp-menu-item"><a href="/linhaeditorial">Linha Editorial</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a href="javascript:void(0);">Nacional</a><div class="sp-dropdown sp-dropdown-main sp-dropdown-mega sp-menu-full container" style=""><div class="sp-dropdown-inner"><div class="row"><div class="col-sm-4"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a href="/nacional">Nacional</a></li><li class="sp-menu-item"><a href="/luta-pela-terra">Luta pela Terra</a></li><li class="sp-menu-item"><a href="/povos-indigenas">Povos Indígenas</a></li></ul></li></ul></div><div class="col-sm-4"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a href="/farsa-eleitoral">Farsa Eleitoral</a></li><li class="sp-menu-item"><a href="/crimes-contra-o-povo">Crimes contra o povo</a></li><li class="sp-menu-item"><a href="/intervencao-militar">Intervenção militar</a></li></ul></li></ul></div><div class="col-sm-4"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a href="/presos-politicos-do-brasil">Presos Políticos</a></li><li class="sp-menu-item"><a href="/herois-do-povo-brasileiro"> Heróis do Povo Brasileiro</a></li><li class="sp-menu-item"><a href="/luta-classista">Luta Classista</a></li></ul></li></ul></div></div></div></div></li><li class="sp-menu-item sp-has-child"><a href="javascript:void(0);">Internacional</a><div class="sp-dropdown sp-dropdown-main sp-dropdown-mega sp-menu-full container" style=""><div class="sp-dropdown-inner"><div class="row"><div class="col-sm-4"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a href="/internacional">Internacional</a></li><li class="sp-menu-item"><a href="/america-latina">América Latina</a></li><li class="sp-menu-item"><a href="/libertacao-nacional">Libertação Nacional</a></li></ul></li></ul></div><div class="col-sm-4"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a href="/presos-politicos">Presos Políticos</a></li><li class="sp-menu-item"><a href="/guerra-popular">Guerra Popular</a></li></ul></li></ul></div><div class="col-sm-4"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a href="/figuras-da-classe-operaria">Figuras da classe operária</a></li><li class="sp-menu-item"><a href="/datas-memoraveis-do-proletariado">Datas Memoráveis do Proletariado</a></li></ul></li></ul></div></div></div></div></li><li class="sp-menu-item sp-has-child"><a href="javascript:void(0);">Nova Cultura</a><div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 300px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a href="/nova-cultura">Nova Cultura</a></li><li class="sp-menu-item"><a href="/agenda-cultural">Agenda Cultural</a></li><li class="sp-menu-item"><a href="/realizacoes-socialistas">Realizações socialistas</a></li><li class="sp-menu-item"><a href="/100-anos-da-grande-revolucao-bolchevique-de-1917"> 100 anos da Grande Revolução Bolchevique de 1917</a></li><li class="sp-menu-item"><a href="/50-anos-da-grpc">50 Anos da GRPC</a></li></ul></div></div></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item sp-has-child"><a href="/anteriores">Edição impressa</a><div class="sp-dropdown sp-dropdown-main sp-dropdown-mega sp-menu-full container" style=""><div class="sp-dropdown-inner"><div class="row"><div class="col-sm-12"><div class="sp-module "><div class="sp-module-content">
+<div class="custom">
+<div class="anter">Nº 249<a href="/no-249"><img src="/images/0-2022/09/outros/and-249.jpg" alt="" width="146" height="207" /></a></div>
+<div class="anter">Nº 248<br /><a href="/no-248"><img src="/images/248/capap.jpg" alt="248" /></a></div>
+<div class="anter">Nº 247<br /><a href="/no-247"><img src="/images/247/capap.jpg" alt="247" /></a></div>
+<div class="anter">Nº 246<br /><a href="/no-246"><img src="/246/capaP.webp" alt="246" /></a></div>
+<div class="anter">Nº 245<br /><a href="/no-245"><img src="/245/capaP.webp" alt="245" /></a></div>
+<div class="anter">Nº 244<br /><a href="/no-244"><img src="/244/capaP.webp" alt="244" /></a></div>
+<div class="anter">Nº 243<br /><a href="/no-243"><img src="/243/capaP.webp" alt="243" /></a></div>
+<p></p>
+<p></p></div>
+</div></div><div class="sp-module "><div class="sp-module-content">
+<div class="custom">
+<p><a href="/anteriores" class="readon-button">Veja todas as edições</a></p></div>
+</div></div></div></div></div></div></li><li class="sp-menu-item"><a href="https://anovademocracia.lojavirtualnuvem.com.br/">Loja</a></li></ul> </div>
+</div></div></div></div></header><section id="sp-main-body"><div class="container"><div class="row"><div id="sp-component" class="col-xs-12 col-sm-12 col-md-7"><div class="sp-column "><div id="system-message-container">
+</div>
+<article class="item item-page" itemscope itemtype="http://schema.org/Article">
+<meta itemprop="inLanguage" content="pt-BR" />
+<div class="entry-header">
+<dl class="article-info">
+<dt class="article-info-term"></dt>
+<dd class="createdby" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<i class="fa fa-user"></i>
+<span itemprop="name" data-toggle="tooltip" title="">Henrique Júdice Magalhães</span> </dd>
+<dd class="published">
+<i class="fa fa-calendar-o"></i>
+<time datetime="2023-01-30T19:00:00-03:00" itemprop="datePublished" data-toggle="tooltip" title="Data de Publicação">
+30 Janeiro 2023	</time>
+</dd>
+</dl>
+<h2 itemprop="name">
+99 anos de Jayme Caetano Braun: Gaúcho sem fronteiras </h2>
+</div>
+<div itemprop="articleBody">
+<p><strong>Nota da redação: </strong>Por ocasião dos 99 anos do artista do povo Jayme Caetano Braun, republicamos a matéria da edição nº 27 de AND, de novembro de 2005, “Gaúcho sem fronteiras”, de autoria de Henrique Júdice.</p>
+<p><img src="/images/WhatsApp_Image_2023-01-30_at_130608.jpg" /></p>
+<p><span class="legenda">Pedro Ortaça e Jayme Caetano Braun, artistas do povo. Foto: Gabriel Ortaça</span></p>
+<blockquote>E, nesse andejar em frente</blockquote>
+<blockquote>sem procurar recompensa</blockquote>
+<blockquote>fui vendo — na diferença</blockquote>
+<blockquote>entre passado e presente</blockquote>
+<blockquote>que a lembrança de um ausente</blockquote>
+<blockquote>tem mais força que a presença</blockquote>
+<p><em>Querência, tempo e ausência</em>, de Jayme Caetano Braun.</p>
+<p>Jayme Caetano Braun (1924-1999) nasceu em Timbaúva (hoje Bossoroca), então distrito de São Luiz Gonzaga, um dos sete povos das Missões guaranis. Filho de pai alemão e mãe índia, trazia simbolicamente na própria origem de sangue e solo a síntese da formação histórica do Rio Grande do Sul:</p>
+<p>“Avô paterno, o lavrador colono,/ no mundo novo, perseguindo anseios;/ avô materno, o campeador de entono,/ guardião de pátria em pedestal de arreios!/ Avó paterna, a camponesa reta,/ germana ruiva de ancestrais heranças;/ avó materna, a campesina inquieta,/ amando a terra e maldizendo as lanças” —escreveu em <strong><em>Estirpe</em></strong>.</p>
+<p><span class="entretitulo" style="font-size: 12pt;">Arte, contexto, militância</span></p>
+<p>Jayme torna-se poeta ao mesmo tempo que entra na vida adulta, em meados dos anos 40. Iniciava-se então, no Rio Grande do Sul como no conjunto do país, um tempo de crise e reafirmação de uma identidade ameaçada pela penetração econômica e cultural do imperialismo. O modelo latifundiário exportador esgotara suas possibilidades de manter na sociedade gaúcha um grau mínimo de coesão, a questão agrária tornava-se ineludível e a literatura refletia estas contradições. Na trilogia composta por <strong><em>Sem rumo</em></strong> (1937), <strong><em>Porteira fechada</em></strong> (1944) e <strong><em>Estrada nova</em></strong> (1954), o romancista Cyro Martins denunciava que o gaúcho, reduzido à servidão nos latifúndios da fronteira, estava a pé, despojado que fora até de seu instrumento essencial de trabalho e guerra, o cavalo.</p>
+<p>Paralelamente, alguns setores rurais médios ligados à oligarquia, emigrados para Porto Alegre, buscavam, face à própria decadência econômica e à crescente americanização da elite e da classe média da capital, revalorizar um passado mítico. Os valores associados à figura do gaúcho (coragem, solidariedade, honra, altivez), contudo, só poderiam ser efetivamente defendidos no bojo de um projeto de enfrentamento do imperialismo e do latifúndio. Esta tarefa coube ao trabalhismo, força política que unia pequenos e médios industriais e comerciantes, profissionais liberais, setores das forças armadas e, a partir do fim dos anos 50, camponeses com pouca ou nenhuma terra.</p>
+<p>Jayme torna-se militante político ao mesmo tempo em que torna-se poeta. Filho da pequena burguesia do interior do estado, identifica-se com a ala esquerda do Partido Trabalhista Brasileiro. Participa das campanhas de Getúlio (para a Presidência em 50), Leonel Brizola, Rui Ramos e Alberto Pasqualini. Defendia as tradições gaúchas compreendendo que a ameaça a elas vinha da penetração imperialista e que, para salvá-las, eram urgentes as reformas de base, em especial a agrária.</p>
+<p>A questão da terra, aliás, perpassa toda sua obra. Missioneiro, tem como referência recorrente Sepé Tiaraju, o líder da resistência guarani à invasão portuguesa no século XVIII, cuja derrota é a origem ancestral do problema agrário no Rio Grande do Sul:</p>
+<p>“Não pude deter a vaga de Andonega e Barbacena./ Se a História não os condena, a mancha nunca se apaga!/ A opressão jamais indaga na sua ambição mesquinha./ Era meu tudo o que tinha, era meu tudo o que havia,/ e eu morri porque dizia que aquela terra era minha!”, escreveu em <strong><em>Payada</em></strong>.</p>
+<p><span class="entretitulo" style="font-size: 12pt;">O que é ser gaúcho?</span></p>
+<p>A defesa das raízes culturais do Rio Grande do Sul e o movimento de resistência surgido nos anos 40 têm pontos em comum com um esforço de igual natureza iniciado no Nordeste do país, na mesma época, por homens como Ariano Suassuna. Ambos os movimentos buscam preservar manifestações populares frente à invasão cultural do USA, empreendida via Rio e São Paulo através de emissoras de televisão, de rádio e gravadoras. Ambos buscam superar a cisão entre arte erudita e popular através da síntese destes elementos. E ambos nascem à margem da universidade e da imprensa, que só reconheceram sua existência pela forte repercussão social que tiveram.</p>
+<p>O esforço de coleta e sistematização de dados sobre a cultura popular que Suassuna realizou em Pernambuco foi empreendido no Rio Grande do Sul por homens como Paixão Côrtes e Barbosa Lessa, fundadores do Movimento Tradicionalista Gaúcho (MTG) que, em seus primórdios, teve uma importância análoga à do Movimento Armorial de Suassuna. Todavia, o MTG, como instituição, sofreu, ao longo dos anos, um processo de estagnação que terminou por subtrair-lhe importância. As manifestações mais vivas e autênticas da cultura do povo gaúcho deram-se no bojo do movimento, mas fora da obediência estrita a suas diretrizes.</p>
+<p>Na realidade, toda a história do tradicionalismo gaúcho é perpassada pela contradição entre sua ala conservadora e a progressista. As duas têm em comum a valorização do passado e de alguns símbolos. Mas a maneira de compreendê-los as difere. Enquanto a vertente conservadora tende a emoldurar o passado, para a progressista o passado é história. E história viva, cheia de opressão e lutas. A primeira prende-se à defesa de imagens cristalizadas, a segunda à de princípios. Esta contradição aumenta à medida que, pela repercussão social do movimento, políticos e empresários passam, de maneira oportunista, a valer-se do sentimento de identidade do povo do Rio Grande do Sul em proveito próprio.</p>
+<p>O próprio Jayme cantou, principalmente no início de sua carreira, a indumentária e a cozinha tradicionais do gaúcho (o mate, o arroz de carreteiro, o lenço, a faca). Mas sempre denunciou o uso indevido destes símbolos pelos opressores para confundir o povo.</p>
+<p>“Eu pergunto: de que adianta/ plantar um pé de erva-mate,/ como sinal de combate/ em defesa de uma planta/ se a mesma mão que levanta/ nessas considerações/ é a que assina concessões/ num inconsciente floreio/ aos assassinos do meio/ que fazem devastações?”, questionou em <strong><em>Primavera</em></strong>. E em <strong><em>Sangue Farrapo</em></strong>, escrita após o golpe de 1964:</p>
+<blockquote>"Hoje — quer seja funcionário,<br /> ou operário,<br /> ou da cidade — ou da lavoura<br /> ou do rodeio,<br /> ante os que aviltam o trabalho<br /> e o salário,<br /> se me obrigarem a escolher, volto e peleio!”</blockquote>
+<p><span class="entretitulo" style="font-size: 12pt;">Poeta e pesquisador</span></p>
+<p>Poeta-repentista de gênio, intérprete dos anseios de seu povo, crítico da opressão exercida pelo latifúndio e pelo imperialismo, Jayme tem, no sul, papel equivalente ao de Patativa do Assaré no nordeste. Só diferencia-se do cearense pelo fato de, até mesmo em decorrência das condições objetivas do meio em que vivia, ter tido maior acesso à cultura erudita, mesmo que como autodidata — primeiro através do pai, professor primário, depois como diretor da Biblioteca Pública no governo Brizola. Exemplo disto é o poema <strong><em>Chimarrão e poesia</em></strong>, pontilhado de referências à poesia grega e medieval.</p>
+<p>Jayme tinha também um sólido conhecimento de história e geografia, principalmente de sua região. As referências históricas são uma das marcas de sua obra e embasam a denúncia da opressão a que o gaúcho é submetido:</p>
+<blockquote>
+<p>“Meu canto é rio,<br /> meu canto é sol,<br /> meu canto é vento, <br /> Eu tenho pátria,<br /> eu tenho berço,<br /> eu tenho glória.<br /> Eu só não tenho<br /> terra própria<br /> porque a história<br /> que eu escrevi<br /> me deserdou no testamento!"<br /><strong><em></em></strong></p>
+<p><em>Da terra nasceram gritos, </em>de Jayme Caetano Braun.</p>
+</blockquote>
+<p>Além de poeta, foi pesquisador do folclore gaúcho. Tinha especial interesse pela medicina campeira, pelos remédios à base de ervas usados pelos índios (carqueja, quebra-pedra). Chegou a escrever um livro, <strong><em>Vocabulário pampeano - pátrias, fogões e legendas</em></strong>, sobre as tradições do estado.</p>
+<p>Esta formação não livrou-o do preconceito das elites contra a arte popular. Em resposta, escreveu os versos de <strong><em>Identidade</em></strong>:</p>
+<blockquote>
+<p>Meia dúzia de impostores<br /> que se arvoram folcloristas<br /> e andam — mesmo que angolistas<br /> ciscando nos corredores<br /> com siglas de professores<br /> que adotaram por decreto<br /> me chamam de analfabeto —<br /> aceito a definição,<br /> mas tenho o usucapião<br /> que me concede o dialeto!</p>
+</blockquote>
+<p><span style="font-size: 12pt;" class="entretitulo">Regional, nacional, continental</span></p>
+<p>A militância cultural e política de Jayme não limitou-se às fronteiras do Rio Grande do Sul ou do Brasil. A partir dos anos 60, começa a estudar a cultura gaúcha da Argentina e do Uruguai e estreita contatos com artistas daqueles países, como o uruguaio Sandalio Santos, seu amigo.</p>
+<p>Foi através destes contatos que encontrou a forma de expressão em que melhor se saía: a <em>payada,</em> arte de compor e declamar de improviso versos de rima entrelaçada, geralmente em décimas e ao som de violão. De origem ibérica, nascida na campanha uruguaia no século XIX, a payada é o equivalente gaúcho do repente nordestino. Assim como este, pode ser improvisada em dueto, em jogo de perguntas e respostas, variante denominada payada de contraponto, que equivale ao desafio dos cantadores do Nordeste. Jayme foi o primeiro e mais importante payador brasileiro.</p>
+<p>O poeta e pesquisador Antônio Augusto Fagundes, um dos maiores conhecedores da cultura gaúcha, conta, em artigo publicado no jornal Galpão Crioulo quando da morte de Jayme, a impressão que lhe causou vê-lo se defrontar numa payada de contraponto com Sandálio Santos e o argentino Cayetano Daglio em Porto Alegre, em 1962, durante um congresso tradicionalista.</p>
+<p>Em sua luta em defesa da identidade cultural latino-americana, Jayme homenageou em versos comoventes (<em><strong>Don Atahualpa</strong></em>) o argentino Atahualpa Yupanqui, a quem tinha como ídolo, e chegou a escrever poemas em espanhol. Para ele, não havia incoerência entre esta aproximação e sua postura de ferrenho defensor da cultura riograndense e brasileira. Afinal, argentinos e uruguaios eram povos irmãos, oprimidos pela mesma potência, contexto em que perdiam sentido rivalidades menores.</p>
+<p>Sem deixar de valorizar o heroísmo do gaúcho e sua importância para a definição das fronteiras do Brasil nas guerras platinas do século XIX, um dos motes principais do tradicionalismo, defendia a unidade entre os povos da América do Sul, especialmente as “três pátrias gaúchas” (Brasil, Argentina, Uruguai). Os poemas de seu livro <em><strong>Paisagens perdidas</strong></em> contém inúmeras referências a manifestações culturais rioplatenses como <em><strong>Martín Fierro</strong></em>, o poema nacional argentino. No poema T<em><strong>res gauchos</strong></em>, sintetizou este ideal:</p>
+<p>“Hermanos de sembra y paz,/ América és tu bandera!/ ayer - hicimos frontera,/ hoy- no la queremos más.</p>
+<p>Jayme também recebeu homenagens como esta. Em <em><strong>Paisagens perdidas</strong></em>, transcreve um poema de Sandalio Santos escrito em agradecimento por seu livro <em><strong>Pátrias, fogões e legendas</strong></em>. Mais recentemente, no Brasil, o repentista potiguar Geraldo do Norte, em seu disco <em><strong>Diploma de nordestino</strong></em> (2000), gravou um poema intitulado <em><strong>Tributo a Jayme Caetano Braun</strong></em>.</p>
+<blockquote>
+<p class="contentheading"><strong> Da terra nasceram gritos</strong></p>
+<p>Mataram meus infinitos<br /> e me expulsaram dos campos; <br /> Da terra nasceram gritos, <br /> Dos gritos brotaram cantos!</p>
+<p><br /> E me fiz canto <br /> De tropeiros e ervateiros <br /> Rasgando sulcos, <br /> Com arado e saraquá; <br /> Nas alpargatas dos "quileiros" <br /> e "chibeiros", <br /> Andei as léguas <br /> De Corrientes e Aceguá!</p>
+<p><br /> Meu canto é rio, <br /> Meu canto é sol, <br /> Meu canto é vento, <br /> Eu tenho pátria, <br /> Eu tenho berço, <br /> Eu tenho glória, <br /> Eu só não tenho <br /> terra própria <br /> Porque a história <br /> Que eu escrevi, <br /> Me deserdou no testamento!</p>
+<p><br /> De qualquer forma - <br /> bem ou mal, <br /> Não me emociono, <br /> Com os que combatem <br /> As verdades do <br /> meu canto; <br /> Sem ter direito de comer, <br /> Nem o que planto, <br /> Só não entendo, <br /> É tanta terra <br /> E pouco dono!</p>
+<p><br /> Mas mesmo assim, <br /> Tenho pra dar, <br /> Um outro tanto, <br /> Se precisarem do meu sangue <br /> Noutra guerra;<br /> Mesmo sem terra, <br /> Hei de voltar grito de terra, <br /> Pelo milagre <br /> Das espigas do meu canto</p>
+</blockquote>
+<p class="box-red">Jayme Caetano Braun nasceu em 30 de janeiro de 1924. Em 1943, começa a publicar poemas na imprensa de sua cidade natal, São Luiz Gonzaga. Quis estudar medicina, mas não pôde. Mudou-se na década de 50 para Porto Alegre, onde foi funcionário do Instituto de Pensões e Aposentadorias dos Servidores do Estado (Ipase, hoje Ipergs). Foi um dos fundadores, nos anos 50, da Estância da Poesia Crioula. No rádio, apresentou, em São Luiz, Galpão de estância, a partir de 1948, e, em Porto Alegre, Brasil Grande do Sul, nos anos 70. <br /> <br /> Publicou oito livros de poesia: Galpão de estância (1954), De fogão em fogão (58), Potreiro de guachos (65), Bota de garrão, Brasil Grande do Sul e Paisagens perdidas (todos de 66). Em 1990, publicou a coletânea Payador e troveiro e, em 96, 50 anos de poesia, ambos coletâneas. Em 1974, lança<strong><em> Vocabulário Pampeano - Pátrias, fogões e legendas</em></strong>. <br /> <br /> Gravou também discos de poemas declamados, entre os quais Payador, Pampa e Guitarra, de 1974, com Noel Guarany, e Êxitos 1, acompanhado pelo violão de Lúcio Yanel. Teve também inúmeros poemas musicados por Noel Guarany, Cenair Maicá e Luiz Marenco. Boa parte de sua obra, no entanto, encontra-se ainda esparsa ou inédita, e uma parte também significativa, feita de improviso em ocasiões informais, “se perdeu nas noites de galpão”, no dizer do poeta Balbino Marques da Rocha, seu amigo. <br /> <br /> Jayme morreu em Porto Alegre, em 8 de julho de 1999. Uma lei estadual tornou o dia de seu nascimento Dia do payador. Vários Centros de Tradições Gaúchas (CTGs) pelo Brasil levam seu nome.</p> </div>
+<dl class="article-info">
+</dl>
+<ul class="pager pagenav">
+<li class="next">
+<a class="hasTooltip" title="SP: Metalúrgicos em greve exigem pagamento atrasado com protestos em frente à fábrica" aria-label="Next article: SP: Metalúrgicos em greve exigem pagamento atrasado com protestos em frente à fábrica" href="/noticias/18631-sp-metalurgicos-em-greve-exigem-pagamento-atrasado-greve-com-protestos-em-frente-a-fabrica" rel="next">
+<span aria-hidden="true">Próximo</span> <span class="icon-chevron-right" aria-hidden="true"></span> </a>
+</li>
+</ul>
+<div class="article-footer-wrap">
+<div class="article-footer-top">
+</div>
+</div>
+</article>
+<div class="custom">
+<p><span color="#c9211e" style="color: #c9211e;"><b>NÃO SAIA AINDA…</b></span><span> </span>O jornal<span> </span><b>A Nova Democracia</b>, nos seus mais de 18 anos de existência, manteve sua independência inalterada, denunciando e desmascarando o governo reacionário de FHC, oportunista do PT e agora, mais do que nunca, fazendo-o em meio à instauração do governo militar de fato surgido do golpe militar em curso, que através de uma análise científica prevíamos desde 2017.</p>
+<p>Em todo esse tempo lutamos e trouxemos às claras as entranhas e maquinações do velho Estado brasileiro e das suas classes dominantes lacaias do imperialismo, em particular a atuação vil do latifúndio em nosso país.</p>
+<p>Nunca recebemos um centavo de bancos ou partidos eleitoreiros. Todo nosso financiamento sempre partiu do apoio de nossos leitores, colaboradores e entusiastas da imprensa popular e democrática. Nesse contexto em que as lutas populares tendem a tomar novas proporções é mais do que nunca necessário e decisivo o seu apoio.</p>
+<p><b>Se você acredita na Revolução Brasileira, apoie a imprensa que a ela serve - <a href="https://www.catarse.me/apoieoand">Clique Aqui</a></b></p></div>
+</div></div><div id="sp-right" class="col-xs-12 col-sm-12 col-md-5"><div class="sp-column custom-class"><div class="sp-module "><div class="chamada1 mais">LEIA TAMBÉM</div><div class="sp-module-content"> <div id="lnee_197" class="lnee newslist vertical"> <div class="items_pagination up"></div> <div class="clearfix"></div> <ul class="latestnews-items"> <li class="latestnews-item id-16803 catid-516"> <div class="news odd head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/516-agenda-cultural/16803-no-tabuleiro-do-brasil-radio-viva-o-samba"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_16803.webp"><img src="/images/thumbnails/lne/thumb_197_16803.jpg" alt="No Tabuleiro do Brasil - Rádio Viva o Samba" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">14/11/2021</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/516-agenda-cultural/16803-no-tabuleiro-do-brasil-radio-viva-o-samba"> <span>No Tabuleiro do Brasil - Rádio Viva o Samba</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-2569 catid-112"> <div class="news even head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/no-61/2569-jessier-quirino-um-poeta-do-povo-matuto"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_2569.webp"><img src="/images/thumbnails/lne/thumb_197_2569.jpg" alt="Jessier Quirino - Um poeta do povo matuto " width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">24/12/2009</span></span></dd></dl> <h4 class="newstitle"> <a href="/no-61/2569-jessier-quirino-um-poeta-do-povo-matuto"> <span>Jessier Quirino - Um poeta do povo matuto </span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-17168 catid-516"> <div class="news odd head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/516-agenda-cultural/17168-acolhendo-a-mao-amiga-paulo-matrico-e-convidados-live-show"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_17168.webp"><img src="/images/thumbnails/lne/thumb_197_17168.jpg" alt="" Acolhendo a Mão Amiga - Paulo Matricó e Convidados" live show" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">17/02/2022</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/516-agenda-cultural/17168-acolhendo-a-mao-amiga-paulo-matrico-e-convidados-live-show"> <span>"Acolhendo a Mão Amiga - Paulo Matricó e Convidados" live show</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-13722 catid-516"> <div class="news even head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/516-agenda-cultural/13722-nelio-torres-poeta-antonio-galvao-em-live-show"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_13722.webp"><img src="/images/thumbnails/lne/thumb_197_13722.jpg" alt="" Nélio Torres & Poeta Antônio Galvão" em live show" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">27/06/2020</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/516-agenda-cultural/13722-nelio-torres-poeta-antonio-galvao-em-live-show"> <span>"Nélio Torres & Poeta Antônio Galvão" em live show</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-14202 catid-516"> <div class="news odd head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/516-agenda-cultural/14202-no-tabuleiro-do-brasil-na-radio-viva-o-samba"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_14202.webp"><img src="/images/thumbnails/lne/thumb_197_14202.jpg" alt="" No Tabuleiro do Brasil" na Radio Viva o Samba" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">29/08/2020</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/516-agenda-cultural/14202-no-tabuleiro-do-brasil-na-radio-viva-o-samba"> <span>"No Tabuleiro do Brasil" na Radio Viva o Samba</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-11879 catid-516"> <div class="news even head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/516-agenda-cultural/11879-roda-cultural-do-pac-stao-com-batalha-de-mc-s-e-sarau-poesia"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_11879.webp"><img src="/images/thumbnails/lne/thumb_197_11879.jpg" alt="" Roda Cultural do Pac'stão" com batalha de MC's e sarau poesia" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">16/09/2019</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/516-agenda-cultural/11879-roda-cultural-do-pac-stao-com-batalha-de-mc-s-e-sarau-poesia"> <span>"Roda Cultural do Pac'stão" com batalha de MC's e sarau poesia</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-12550 catid-516"> <div class="news odd head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/516-agenda-cultural/12550-paulo-cesar-pinheiro-lanca-mil-versos-mil-cancoes"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_12550.webp"><img src="/images/thumbnails/lne/thumb_197_12550.jpg" alt="Paulo César Pinheiro lança " Mil versos, mil canções"" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">16/12/2019</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/516-agenda-cultural/12550-paulo-cesar-pinheiro-lanca-mil-versos-mil-cancoes"> <span>Paulo César Pinheiro lança "Mil versos, mil canções"</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-17529 catid-229"> <div class="news even head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/17529-poema-casa-de-detencao-de-istambul-1939-de-nazim-hikmet"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_17529.webp"><img src="/images/thumbnails/lne/thumb_197_17529.jpg" alt="Poema: “Casa de Detenção de Istambul” (1939), de Nâzim Hikmet" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">18/05/2022</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/17529-poema-casa-de-detencao-de-istambul-1939-de-nazim-hikmet"> <span>Poema: “Casa de Detenção de Istambul” (1939), de Nâzim Hikmet</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-9997 catid-229"> <div class="news odd head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/9997-varejo-cultural-no-centro-do-rio"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_9997.webp"><img src="/images/thumbnails/lne/thumb_197_9997.jpg" alt="Varejo Cultural no centro do Rio" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">07/12/2018</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/9997-varejo-cultural-no-centro-do-rio"> <span>Varejo Cultural no centro do Rio</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-13948 catid-229"> <div class="news even head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/13948-sergio-ricardo-deixa-um-importante-legado"> <img src="/images/thumbnails/lne/thumb_197_13948.webp" alt="Sérgio Ricardo deixa um importante legado " width="160" height="80" loading="lazy" /> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">24/07/2020</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/13948-sergio-ricardo-deixa-um-importante-legado"> <span>Sérgio Ricardo deixa um importante legado </span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-17374 catid-516"> <div class="news odd head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/516-agenda-cultural/17374-nilze-carvalho-apresenta-depois-do-cafe-top-5-herminio-bello-de-carvalho"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_17374.webp"><img src="/images/thumbnails/lne/thumb_197_17374.jpg" alt="Nilze Carvalho apresenta " Depois do Café - Top 5: Hermínio Bello de Carvalho"" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">06/04/2022</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/516-agenda-cultural/17374-nilze-carvalho-apresenta-depois-do-cafe-top-5-herminio-bello-de-carvalho"> <span>Nilze Carvalho apresenta "Depois do Café - Top 5: Hermínio Bello de Carvalho"</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-9472 catid-497 featured"> <div class="news even head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/no-215/9472-as-massas-camponesas-em-luta-pela-terra"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_9472.webp"><img src="/images/thumbnails/lne/thumb_197_9472.jpg" alt="Às massas camponesas em luta pela terra" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">06/09/2018</span></span></dd></dl> <h4 class="newstitle"> <a href="/no-215/9472-as-massas-camponesas-em-luta-pela-terra"> <span>Às massas camponesas em luta pela terra</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-14525 catid-516"> <div class="news odd head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/516-agenda-cultural/14525-papo-de-rua-com-nelio-torres-e-igbonam-rocha"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_14525.webp"><img src="/images/thumbnails/lne/thumb_197_14525.jpg" alt="" Papo de Rua" com Nélio Torres e Igbonan Rocha" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">22/10/2020</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/516-agenda-cultural/14525-papo-de-rua-com-nelio-torres-e-igbonam-rocha"> <span>"Papo de Rua" com Nélio Torres e Igbonan Rocha</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-13821 catid-516"> <div class="news even head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/516-agenda-cultural/13821-geraldo-do-norte-no-tabuleiro-do-brasil"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_13821.webp"><img src="/images/thumbnails/lne/thumb_197_13821.jpg" alt="Geraldo do Norte " No Tabuleiro do Brasil"" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">12/07/2020</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/516-agenda-cultural/13821-geraldo-do-norte-no-tabuleiro-do-brasil"> <span>Geraldo do Norte "No Tabuleiro do Brasil"</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-3383 catid-145"> <div class="news odd head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/no-76/3383-povo-expressando-se-pela-poesia"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_3383.webp"><img src="/images/thumbnails/lne/thumb_197_3383.jpg" alt="Povo expressando-se pela poesia" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">02/04/2011</span></span></dd></dl> <h4 class="newstitle"> <a href="/no-76/3383-povo-expressando-se-pela-poesia"> <span>Povo expressando-se pela poesia</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-9162 catid-229"> <div class="news even head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/9162-poesia-preta-no-museu-do-amanha"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_9162.webp"><img src="/images/thumbnails/lne/thumb_197_9162.jpg" alt="Poesia Preta no Museu do Amanhã" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">13/07/2018</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/9162-poesia-preta-no-museu-do-amanha"> <span>Poesia Preta no Museu do Amanhã</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-12202 catid-516"> <div class="news odd head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/516-agenda-cultural/12202-roda-cultural-da-nova-holanda-com-batalha-de-mcs-e-sarau-de-poesia"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_12202.webp"><img src="/images/thumbnails/lne/thumb_197_12202.jpg" alt="" Roda Cultural da Nova Holanda" com batalha de MCs e Sarau de Poesia" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">29/10/2019</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/516-agenda-cultural/12202-roda-cultural-da-nova-holanda-com-batalha-de-mcs-e-sarau-de-poesia"> <span>"Roda Cultural da Nova Holanda" com batalha de MCs e Sarau de Poesia</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-17192 catid-516"> <div class="news even head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/516-agenda-cultural/17192-noturno-a-poesia-de-ruth-guimaraes-na-musica-de-socorro-lira-live-de-lancamento-de-cd"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_17192.webp"><img src="/images/thumbnails/lne/thumb_197_17192.jpg" alt="" Noturno A poesia de Ruth Guimarães na música de Socorro Lira" live de lançamento de CD" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">27/02/2022</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/516-agenda-cultural/17192-noturno-a-poesia-de-ruth-guimaraes-na-musica-de-socorro-lira-live-de-lancamento-de-cd"> <span>"Noturno / A poesia de Ruth Guimarães na música de Socorro Lira" live de lançamento de CD</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-6090 catid-306"> <div class="news odd head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/no-157/6090-sera-de-todos-um-dever"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_6090.webp"><img src="/images/thumbnails/lne/thumb_197_6090.jpg" alt="Será de todos um dever" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">16/09/2015</span></span></dd></dl> <h4 class="newstitle"> <a href="/no-157/6090-sera-de-todos-um-dever"> <span>Será de todos um dever</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-1862 catid-86"> <div class="news even head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/no-47/1862-o-abc-do-poeta-do-povo"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_1862.webp"><img src="/images/thumbnails/lne/thumb_197_1862.jpg" alt="O ABC do poeta do povo" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">19/10/2008</span></span></dd></dl> <h4 class="newstitle"> <a href="/no-47/1862-o-abc-do-poeta-do-povo"> <span>O ABC do poeta do povo</span> </a> </h4> </div> </div> </div> </li> </ul> <div class="clearfix"></div> <div class="items_pagination down"></div> </div> </div></div><div class="sp-module "><div class="sp-module-content"><div class="bannergroup">
+<div class="banneritem">
+<a href="/component/banners/click/14" target="_blank" rel="noopener noreferrer" title="Banner 2019">
+<img src="https://anovademocracia.com.br/images/promo_2019.jpg" alt="Apoie a imprensa popular e democrática" />
+</a>
+<div class="clr"></div>
+</div>
+<div class="banneritem">
+<a href="/component/banners/click/13" target="_blank" rel="noopener noreferrer" title="Araguaia">
+<img src="https://anovademocracia.com.br/images/araguaia-anuncio.jpg" alt="Araguaia" />
+</a>
+<div class="clr"></div>
+</div>
+<div class="banneritem">
+<a href="/component/banners/click/9" target="_blank" rel="noopener noreferrer" title="O que fazer">
+<img src="https://anovademocracia.com.br/images/00-oquefazer.jpg" alt="https://loja.anovademocracia.com.br/que-fazer/" />
+</a>
+<div class="clr"></div>
+</div>
+</div>
+</div></div></div></div></div></div></section><section id="sp-section-12"><div class="container"><div class="row"><div id="sp-edicao-tit" class="col-sm-12 col-md-12"><div class="sp-column "><div class="sp-module "><h2 class="assinaturas">Edição impressa</h2><div class="sp-module-content">
+<div class="custom">
+</div>
+</div></div></div></div></div></div></section><section id="sp-edicao-impressa"><div class="container"><div class="row"><div id="sp-capa" class="col-sm-3 col-md-3"><div class="sp-column "><div class="sp-module  chamadag7"><div class="sp-module-content">
+<div class="custom chamadag7">
+<div class="capa">
+<p> <a href="/no-249">Edição Nº 249 </a></p>
+<p><a href="/no-249">Setembro e Outubro de 2022</a></p>
+<p><a href="/no-249"><img src="/images/0-2022/09/outros/and-249.jpg" alt="" /></a></p>
+</div>
+<div><a href="/no-249" readon-button="">EDIÇÃO IMPRESSA</a></div>
+<p> </p></div>
+</div></div></div></div><div id="sp-edicao" class="col-sm-9 col-md-9"><div class="sp-column "><div class="sp-module feed-link"><div class="sp-module-content"><ul class="category-modulefeed-link mod-list">
+<li>
+<a class="mod-articles-category-title " href="/no-249/18142-campanha-internacional-denuncia-desaparecimento-do-dr-sernas">Campanha Internacional denuncia desaparecimento do Dr. Sernas</a>
+</li>
+<li>
+<a class="mod-articles-category-title " href="/no-249/18143-apoio-mundial-a-guerra-popular-na-india">Apoio mundial à Guerra Popular na Índia</a>
+</li>
+<li>
+<a class="mod-articles-category-title " href="/no-249/18140-falece-o-grande-jose-maria-galhasi">Falece o grande José Maria Galhasi</a>
+</li>
+<li>
+<a class="mod-articles-category-title " href="/no-249/18141-o-povo-aprende-a-governar">O povo aprende a governar</a>
+</li>
+<li>
+<a class="mod-articles-category-title " href="/no-249/18139-povo-nao-confia-em-militares-e-politicos">Povo não confia em militares e políticos</a>
+</li>
+<li>
+<a class="mod-articles-category-title " href="/no-249/18138-lula-acena-para-generais-golpistas">Lula acena para generais golpistas</a>
+</li>
+<li>
+<a class="mod-articles-category-title " href="/no-249/18137-nova-ou-velha-republica">Nova ou Velha República?</a>
+</li>
+<li>
+<a class="mod-articles-category-title " href="/no-249/18136-editorial-mudar-o-governo-para-que-nada-mude">Editorial - Mudar o governo, para que nada mude</a>
+</li>
+</ul>
+</div></div></div></div></div></div></section><section id="sp-footer1"><div class="container"><div class="row"><div id="sp-edi-maislidos" class="col-sm-4 col-md-4"><div class="sp-column "><div class="sp-module "><h3 class="chamadag3 estrela">Mais lidos desta edição</h3><div class="sp-module-content">
+<ol class="mostread">
+<li>
+<a href="/no-249/18141-o-povo-aprende-a-governar">
+O povo aprende a governar</a>
+</li>
+<li>
+<a href="/no-249/18138-lula-acena-para-generais-golpistas">
+Lula acena para generais golpistas</a>
+</li>
+<li>
+<a href="/no-249/18137-nova-ou-velha-republica">
+Nova ou Velha República?</a>
+</li>
+<li>
+<a href="/no-249/18140-falece-o-grande-jose-maria-galhasi">
+Falece o grande José Maria Galhasi</a>
+</li>
+<li>
+<a href="/no-249/18136-editorial-mudar-o-governo-para-que-nada-mude">
+Editorial - Mudar o governo, para que nada mude</a>
+</li>
+<li>
+<a href="/no-249/18139-povo-nao-confia-em-militares-e-politicos">
+Povo não confia em militares e políticos</a>
+</li>
+<li>
+<a href="/no-249/18142-campanha-internacional-denuncia-desaparecimento-do-dr-sernas">
+Campanha Internacional denuncia desaparecimento do Dr. Sernas</a>
+</li>
+<li>
+<a href="/no-249/18143-apoio-mundial-a-guerra-popular-na-india">
+Apoio mundial à Guerra Popular na Índia</a>
+</li>
+</ol>
+</div></div></div></div><div id="sp-especial" class="col-sm-8 col-md-8"><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
+<div class="custom">
+<p><a href="/200-anos-de-karl-marx"><img src="/images/karl-marx-selo-3.jpg" alt="200 anos de Karl Marx" /></a></p>
+<div class="vermelho">
+<h2><a href="/200-anos-de-karl-marx">Especial: 200 anos de Karl Marx</a></h2>
+<p><a href="/no-231/13144-de-karl-marx-ao-marxismo-luta-de-classes-luta-de-duas-linhas-e-linha-de-massas-parte-xi"> Luta de classes, luta de duas linhas e linha de massas (parte XI)</a><br /> <a href="/no-230/12868-de-karl-marx-ao-marxismo-luta-de-classes-luta-de-duas-linhas-e-linha-de-massas-parte-x"> Luta de classes, luta de duas linhas e linha de massas (parte X)</a><br /> <a href="/no-229/12574-de-karl-marx-ao-marxismo-luta-de-classes-luta-de-duas-linhas-e-linha-de-massas-parte-ix"> Luta de classes, luta de duas linhas e linha de massas (parte IX)</a> <br /> <a href="/no-228/12272-de-karl-marx-ao-marxismo-luta-de-classes-luta-de-duas-linhas-e-linha-de-massas-parte-viii"> Luta de classes, luta de duas linhas e linha de massas (parte VIII)</a><br /> <a href="/no-227/11968-de-karl-marx-ao-marxismo-luta-de-classes-luta-de-duas-linhas-e-linha-de-massas-parte-vii"> Luta de classes, luta de duas linhas e linha de massas (parte VII)</a> <br /> <a href="/no-226/11750-de-karl-marx-ao-marxismo-luta-de-classes-luta-de-duas-linhas-e-linha-de-massas-parte-vi"> Luta de classes, luta de duas linhas e linha de massas (parte VI)</a></p>
+</div></div>
+</div></div></div></div></div></div></section><section id="sp-rodape"><div class="container"><div class="row"><div id="sp-endereco" class="col-xs-12 col-sm-6 col-md-8"><div class="sp-column "><div class="sp-module "><h2 class="assinaturas">Endereços</h2><div class="sp-module-content">
+<div class="custom">
+<div class="ad1">
+<p><strong>Jornal A Nova Democracia <br />Editora Aimberê</strong><br />Avenida Rio Branco 257, SL 1308 <br />Centro - Rio de Janeiro - RJ <br />Tel.: (21) 2256-6303<br /> E-mail: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="690807061f080d0c04060a1b080a0008290e04080005470a0604">[email&#160;protected]</a></p>
+<p><strong>Comitê de Apoio em Belo Horizonte</strong><br /> Rua Tamoios nº 900 sala 7<br />Tel.: (31) 3656-0850<br /><br /></p>
+</div>
+<div class="ad1">
+<p><strong>Comitê de Apoio em São Paulo</strong> <br /> Rua Silveira Martins 133 conj. 22 - Centro</p>
+<p>E-mail: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="21424e4c485544454440514e484e525161464c40484d0f42">[email&#160;protected]</a><span>om</span><br /> Reuniões semanais de apoiadores <br /> todo sábado, às 9h30</p>
+<p><strong>Seja um apoiador você também:</strong><br /> <a href="https://www.catarse.me/apoieoand">https://www.catarse.me/apoieoand</a></p>
+</div></div>
+</div></div><div class="sp-module "><div class="sp-module-content">
+<div class="custom">
+<div class="ad1"><a href="/onde-encontrar"><img src="/images/onde_encontrar.webp" /></a></div></div>
+</div></div></div></div><div id="sp-expediente" class="col-xs-12 col-sm-6 col-md-4"><div class="sp-column "><div class="sp-module "><h2 class="assinaturas">Expediente</h2><div class="sp-module-content">
+<div class="custom">
+<div class="exp">
+<p style="text-align: left;"><strong>Diretor Geral </strong><br /><a href="/fausto-arruda">Fausto Arruda</a> (licenciado)<br />Victor Costa Bellizia (provisório)</p>
+<p><strong>Editor-chefe </strong><br /><span>Victor Costa Bellizia<br /></span></p>
+<p style="text-align: left;"><strong>Conselho Editorial </strong><br /> Alípio de Freitas <span style="font-size: 10pt;">(<em>In memoriam</em>)</span><br /><a href="/fausto-arruda">Fausto Arruda </a><br /> José Maria Galhasi de Oliveira<br /> José Ramos Tinhorão <span style="font-size: 10pt;">(<em>In memoriam</em>)</span><br /><a href="/henrique-judice">Henrique Júdice</a><br />Paulo Amaral <br /><a href="/rosana-bond">Rosana Bond </a></p>
+<p style="text-align: left;"><b>Redação </b><br />Ana Lúcia Nunes<br />João Alves<br />Taís Souza<br />Gabriel Artur<br />Giovanna Maria<br />Victor Benjamin</p>
+<p><strong>Ilustração<br /></strong><span></span>Victor Benjamin</p>
+</div></div>
+</div></div><div class="sp-module "><div class="sp-module-content">
+<div class="custom">
+<div><a href="/publicidade" class="readon-button">Saiba como anunciar <br />nas páginas de AND</a></div></div>
+</div></div></div></div></div></div></section><footer id="sp-footer"><div class="container"><div class="row"><div id="sp-footer1" class="col-sm-12 col-md-12"><div class="sp-column "><span class="sp-copyright"><a herf="http://artimania.com.br"><img src="/artimania.png"></a></span></div></div></div></div></footer> </div> 
+</div> 
+
+<div class="offcanvas-menu">
+<a href="#" class="close-offcanvas" aria-label="Close"><i class="fa fa-remove" aria-hidden="true" title="HELIX_CLOSE_MENU"></i></a>
+<div class="offcanvas-inner">
+<div class="sp-module "><div class="sp-module-content"><ul class="nav menu">
+<li class="item-100915"> <a href="/"> Início</a></li><li class="item-100926"> <a href="https://anovademocracia.com.br/#pwebbox220:open"> Login</a></li><li class="item-100927"> <a href="/pesquisa"> Pesquisa</a></li><li class="item-100916  deeper parent"> <a href="/linhaeditorial"> Linha Editorial</a><span class="offcanvas-menu-toggler collapsed" data-toggle="collapse" data-target="#collapse-menu-100916"><i class="open-icon fa fa-angle-down"></i><i class="close-icon fa fa-angle-up"></i></span><ul class="collapse" id="collapse-menu-100916"><li class="item-100917"> <a href="/editorial"> Editorial</a></li><li class="item-100918"> <a href="/situacao-politica"> Situação política</a></li></ul></li><li class="item-100919  deeper parent"> <a href="/nacional"> Nacional</a><span class="offcanvas-menu-toggler collapsed" data-toggle="collapse" data-target="#collapse-menu-100919"><i class="open-icon fa fa-angle-down"></i><i class="close-icon fa fa-angle-up"></i></span><ul class="collapse" id="collapse-menu-100919"><li class="item-100960"> <a href="/crimes-contra-o-povo"> Crimes contra o povo</a></li><li class="item-100959"> <a href="/farsa-eleitoral"> Farsa eleitoral</a></li><li class="item-100964"> <a href="/herois-do-povo-brasileiro"> Heróis do povo brasileiro</a></li><li class="item-100962"> <a href="/intervencao-militar"> Intervenção militar</a></li><li class="item-100965"> <a href="/luta-classista"> Luta classista</a></li><li class="item-100958"> <a href="/luta-pela-terra"> Luta pela terra</a></li><li class="item-100961"> <a href="/povos-indigenas"> Povos indígenas</a></li><li class="item-100963"> <a href="/presos-politicos-do-brasil"> Presos políticos</a></li></ul></li><li class="item-100920  deeper parent"> <a href="/internacional"> Internacional</a><span class="offcanvas-menu-toggler collapsed" data-toggle="collapse" data-target="#collapse-menu-100920"><i class="open-icon fa fa-angle-down"></i><i class="close-icon fa fa-angle-up"></i></span><ul class="collapse" id="collapse-menu-100920"><li class="item-100966"> <a href="/america-latina"> América Latina</a></li><li class="item-100971"> <a href="/datas-memoraveis-do-proletariado"> Datas memoráveis do proletariado</a></li><li class="item-100970"> <a href="/figuras-da-classe-operaria"> Figuras da classe operária</a></li><li class="item-100969"> <a href="/guerra-popular"> Guerra popular</a></li><li class="item-100967"> <a href="/libertacao-nacional"> Libertação nacional</a></li><li class="item-100968"> <a href="/presos-politicos"> Presos políticos</a></li></ul></li><li class="item-100921  deeper parent"> <a href="/nova-cultura"> Nova cultura</a><span class="offcanvas-menu-toggler collapsed" data-toggle="collapse" data-target="#collapse-menu-100921"><i class="open-icon fa fa-angle-down"></i><i class="close-icon fa fa-angle-up"></i></span><ul class="collapse" id="collapse-menu-100921"><li class="item-100972"> <a href="/agenda-cultural"> Agenda cultural</a></li><li class="item-100973"> <a href="/realizacoes-socialistas"> Realizações socialistas</a></li><li class="item-100974"> <a href="/100-anos-da-grande-revolucao-bolchevique-de-1917"> 100 anos da Grande Revolução Bolchevique de 1917</a></li><li class="item-100975"> <a href="/50-anos-da-grpc"> 50 anos da GRPC</a></li></ul></li><li class="item-100922"> <a href="/espanol"> Español</a></li><li class="item-100923"> <a href="/english-editions"> English</a></li><li class="item-100924"> <a href="/anteriores"> Edição impressa</a></li><li class="item-100925"> <a href="https://lojadoand.com.br/"> Loja</a></li></ul>
+</div></div>
+</div> 
+</div> 
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+jQuery.noConflict();
+// smooth anchor scrolling
+  jQuery('a[href*="#"]').on('click', function (e) {
+        e.preventDefault();
+        if(this.hash !== '') {
+            if(this.hash !== '' && this.href.replace(this.hash, '') == window.location.href.replace(window.location.hash, '')) {
+                var target = jQuery(this.hash);
+                if(target.length && this.hash !== '#') {
+                    jQuery('html, body').stop().animate({
+                        'scrollTop': target.offset().top
+                    }, 1000, 'swing', function () {
+                        if(this.hash !== '#') {
+                            window.location.hash = target.selector;
+                        }
+                    });
+} else {
+                    if(this.hash !== '#') {
+                        window.location = jQuery(this).attr('href');
+                    }
+                }
+            } else {
+                if(this.hash !== '#') {
+                    window.location = jQuery(this).attr('href');
+                }
+            }
+        }
+    });
+
+</script>
+<ul class="jj_sl_navigation jj_transition left"><li class="jj_sl_custom1"><a href="https://www.youtube.com/channel/UC7G7saR0vFSMh-SdEyF3Utg"><span class="jj_social_text">Veja nossos vídeos</span><span class="jj_sprite_custom jj_custom1"></span></a></li><li class="jj_sl_custom2"><a href="https://twitter.com/jornaland"><span class="jj_social_text">Siga-nos no Twitter</span><span class="jj_sprite_custom jj_custom2"></span></a></li><li class="jj_sl_custom4"><a href="https://forms.gle/8izJHSSh28qowWdR9"><span class="jj_social_text">Fale conosco</span><span class="jj_sprite_custom jj_custom4"></span></a></li></ul>
+
+
+<a href="javascript:void(0)" class="scrollup" aria-label="Go To Top">&nbsp;</a>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon='{"rayId":"791efe740ba54df8","version":"2022.11.3","r":1,"token":"4f2e885d98bb44a29f9d0224829959b2","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>
