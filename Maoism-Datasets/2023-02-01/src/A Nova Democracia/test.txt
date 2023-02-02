@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pt-br" lang="pt-br" dir="ltr">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<base href="https://anovademocracia.com.br/noticias/18638-entregadores-de-aplicativo-realizam-protestos-e-greve-em-todo-o-pais" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="entregadores, motoristas, aplicativos, ifood, uber, protesto, greve, 25 de janeiro" />
+<meta name="author" content="Giovanna Maria" />
+<meta name="description" content="Durante o mês de janeiro, entregadores de aplicativos em todo o Brasil realizaram greves e manifestações  nas capitais dos estados de São Paulo, Rio de Janeiro, Bahia, Acre, Rio Grande do Sul, Piauí, entre outros. " />
+<title>Entregadores de aplicativo realizam protestos e greves em todo o país - A Nova Democracia</title>
+<link href="/images/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+<link href="/templates/shaper_helix3/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+<link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,700,700italic&amp;subset=latin-ext" rel="stylesheet" type="text/css" />
+<link href="//fonts.googleapis.com/css?family=Open+Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic&amp;subset=greek-ext" rel="stylesheet" type="text/css" />
+<link href="/cache/com_templates/templates/shaper_helix3/de1b07beaf1dcf8f03d592094b0b3941.css" rel="stylesheet" type="text/css" />
+<link href="/media/mod_social_slider/css/style.css" rel="stylesheet" type="text/css" />
+<link href="/media/syw/css/fonts-min.css" rel="stylesheet" type="text/css" />
+<link href="/cache/mod_latestnewsenhanced/style_197.css?8b03433a6d57d88d71b3827b81eb2601" rel="stylesheet" type="text/css" />
+<link href="/modules/mod_latestnewsenhanced/styles/common_styles-min.css?8b03433a6d57d88d71b3827b81eb2601" rel="stylesheet" type="text/css" />
+<link href="/media/mod_pwebbox/css/layout.css" rel="stylesheet" type="text/css" />
+<link href="/media/mod_pwebbox/css/animations.css" rel="stylesheet" type="text/css" />
+<link href="/media/mod_pwebbox/css/themes/magazine.css" rel="stylesheet" type="text/css" />
+<link href="/media/mod_pwebbox/cache/d6860febecc51468e3e31306fe52b9a2-220.css" rel="stylesheet" type="text/css" />
+<link href="/media/mod_pwebbox/css/ie8.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+body{font-family:PT Sans, sans-serif; font-weight:normal; }h1{font-family:PT Sans, sans-serif; font-size:36px; font-weight:normal; }h2{font-family:PT Sans, sans-serif; font-size:32px; font-weight:normal; }h3{font-family:PT Sans, sans-serif; font-size:26px; font-weight:normal; }h4{font-family:PT Sans, sans-serif; font-size:18px; font-weight:normal; }h5{font-family:PT Sans, sans-serif; font-size:10px; font-weight:normal; }h6{font-family:PT Sans, sans-serif; font-size:12px; font-weight:normal; }.sp-megamenu-parent{font-family:Open Sans, sans-serif; font-size:18px; font-weight:300; }.videos_youtube_homepage-container {
+    display: flex;
+    flex-direction: row;
+    /*flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;*/
+
+}
+
+.videos_youtube_homepage-children {
+    flex-basis: 25vw;
+    flex-grow: 1;
+    flex-shrink 1;
+}
+
+@media (max-width: 800px) {
+    .videos_youtube_homepage-container {
+      flex-direction: column;
+    }
+  } 
+#sp-top-bar{ background-color:#ed1c24;color:#999999;padding:10px 5px 10px 0; }#sp-top-bar a{color:#ffffff;}#sp-top-bar a:hover{color:#ffffff;}#sp-header{ background-color:#e41c23;color:#ffffff;padding:0 0 0 0 ;margin:0 0 0 0; }#sp-header a{color:#ffffff;}#sp-main-body{ padding:0 0 0 0;margin:30px 30px 30px 20px; }#sp-section-12{ background-color:#f3f3f3;padding:20px 10px 0 25px;margin:0 0 0 0; }#sp-edicao-impressa{ background-color:#f3f3f3;padding:30px 0 30px 20px;margin:0 ; }#sp-footer1{ color:#303030;margin:30px 10px 0 20px; }#sp-footer1 a{color:#303030;}#sp-footer1 a:hover{color:#ed1c24;}#sp-rodape{ background-color:#f3f3f3;padding:20px 10px 0 5px;margin:30px 0 0 0; }#sp-footer{ background-color:#f3f3f3;color:#303030;padding:0 0 0 0;margin:0 0 0 0; }#sp-footer a{color:#303030;}#sp-footer a:hover{color:#ed1c24;}.jj_sl_navigation li a {
+			background-color:#ff4953;
+			text-align:left;
+			color:#ffffff !important;
+		}
+		.jj_sl_navigation .jj_sprite {
+			background-image: url(https://anovademocracia.com.br/media/mod_social_slider/icons/sprite-white.png);
+		}@media screen and (max-width: 480px){
+				.jj_sl_navigation { display: none; }
+			}.jj_sl_navigation { top:210px;
+			}.jj_sl_navigation .jj_sl_custom1 a:hover{
+			background-color: #cc252c;
+		 }
+		 .jj_sl_navigation .jj_sl_custom2 a:hover{
+			background-color: #4099ff;
+		 }
+		 .jj_sl_navigation .jj_sl_custom3 a:hover{
+			background-color: #ff6600;
+		 }
+		 .jj_sl_navigation .jj_sl_custom4 a:hover{
+			background-color: #41b583;
+		 }
+		 .jj_sl_navigation .jj_sl_custom5 a:hover{
+			background-color: #000000;
+		 }
+				.jj_sl_navigation .jj_sprite_custom.jj_custom1 {
+					background-image: url(https://anovademocracia.com.br/media/mod_social_slider/icons/youtube.png);
+				}
+				.jj_sl_navigation .jj_sprite_custom.jj_custom2 {
+					background-image: url(https://anovademocracia.com.br/media/mod_social_slider/icons/twitter.png);
+				}
+				.jj_sl_navigation .jj_sprite_custom.jj_custom3 {
+					background-image: url(https://anovademocracia.com.br/media/mod_social_slider/icons/rss.png);
+				}
+				.jj_sl_navigation .jj_sprite_custom.jj_custom4 {
+					background-image: url(https://anovademocracia.com.br/media/mod_social_slider/icons/email.png);
+				}
+				.jj_sl_navigation .jj_sprite_custom.jj_custom5 {
+					background-image: url(https://anovademocracia.com.br/media/mod_social_slider/icons/icon.png);
+				}
+	</style>
+<script type="application/json" class="joomla-script-options new">{"csrf.token":"3034eaa06c55f0ce91874b00319604a9","system.paths":{"root":"","base":""},"system.keepalive":{"interval":300000,"uri":"\/component\/ajax\/?format=json"}}</script>
+<script src="/cache/com_templates/templates/shaper_helix3/6201402f0ddb262a23584d50b28243da.js" type="text/javascript"></script>
+<script src="/media/syw/js/purepajinate/purePajinate.min.js?8b03433a6d57d88d71b3827b81eb2601" type="text/javascript"></script>
+<script src="/media/mod_pwebbox/js/jquery.pwebbox.min.js" type="text/javascript"></script>
+<!--[if lt IE 9]><script src="/media/system/js/polyfill.event.js?8b03433a6d57d88d71b3827b81eb2601" type="text/javascript"></script><![endif]-->
+<script src="/media/system/js/keepalive.js?8b03433a6d57d88d71b3827b81eb2601" type="text/javascript"></script>
+<script type="text/javascript">
+jQuery(function($){ initTooltips(); $("body").on("subform-row-add", initTooltips); function initTooltips (event, container) { container = container || document;$(container).find(".hasTooltip").tooltip({"html": true,"container": "body"});} });jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+var sp_preloader = '0';
+
+var sp_gotop = '1';
+
+var sp_offanimation = 'default';
+document.addEventListener("readystatechange", function(event) {if (event.target.readyState === "complete") {var pagination = new purePajinate({containerSelector: '#lnee_197 .latestnews-items',itemSelector: '#lnee_197 .latestnews-item',navigationSelector: '#lnee_197 .items_pagination',wrapAround: true,pageLinksToDisplay: 28,itemsPerPage: 4,onInit: function() {var news = document.querySelector("#lnee_197.newslist");if (news.classList) { news.classList.add("show"); } else { news.className += " " + className; }},navLabelPrev: "<span class='SYWicon-arrow-up2'></span>",navLabelNext: "<span class='SYWicon-arrow-down2'></span>"});}});
+	</script>
+<meta property="og:url" content="https://anovademocracia.com.br/noticias/18638-entregadores-de-aplicativo-realizam-protestos-e-greve-em-todo-o-pais" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Entregadores de aplicativo realizam protestos e greves em todo o país" />
+<meta property="og:description" content="Manifestação de motoristas e entregadores de aplicativo em 30/01 em Salvador (BA). Foto: Reprodução/ Bom Dia BA Durante o mês de janeiro, entregadores de a..." />
+<link rel="canonical" href="https://anovademocracia.com.br/noticias/18638-entregadores-de-aplicativo-realizam-protestos-e-greve-em-todo-o-pais" />
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NDF9FD4');</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-3289832-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Manifestação de motoristas e entregadores de aplicativo em 30/01 em Salvador (BA). Foto: Reprodução/ Bom Dia BA
+Durante o mês de janeiro, entregadores de aplicativos em todo o Brasil realizaram greve" />
+<meta name="twitter:image" content="https://anovademocracia.com.br/images/salvadormotoristas2.jpg" />
+<meta name="twitter:site" content="@jornaland" />
+<meta name="twitter:title" content="Entregadores de aplicativo realizam protestos e greve em todo o país" />
+<meta property="fb:app_id" content="" />
+<meta property="og:description" content="Manifestação de motoristas e entregadores de aplicativo em 30/01 em Salvador (BA). Foto: Reprodução/ Bom Dia BA
+Durante o mês de janeiro, entregadores de " />
+<meta property="og:image" content="https://anovademocracia.com.br/images/salvadormotoristas2.jpg" />
+<meta property="og:image:height" content="272" />
+<meta property="og:image:width" content="800" />
+<meta property="og:site_name" content="A Nova Democracia" />
+<meta property="og:title" content="Entregadores de aplicativo realizam protestos e greve em todo o país" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://anovademocracia.com.br/noticias/18638-entregadores-de-aplicativo-realizam-protestos-e-greve-em-todo-o-pais" />
+
+</head>
+<body class="site com-content view-article no-layout no-task itemid-100281 pt-br ltr  sticky-header layout-fluid off-canvas-menu-init">
+<div class="body-wrapper">
+<div class="body-innerwrapper">
+<section id="sp-top-bar" class=" hidden-xs hidden-sm"><div class="container"><div class="row"><div id="sp-top1" class="col-sm-6 col-md-6"><div class="sp-column "><div class="logo"><a href="/"><img class="sp-default-logo" src="/images/logo/logo2.png" alt="A Nova Democracia"></a></div><div class="sp-module "><div class="sp-module-content">
+<div class="custom">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NDF9FD4"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript></div>
+</div></div></div></div><div id="sp-top2" class="col-sm-3 col-md-3"><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
+<div class="custom">
+<div class="idioma"><a href="/english-editions">ENGLISH</a></div>
+<div class="idioma"><a href="/espanol">ESPAÑOL</a></div></div>
+</div></div></div></div><div id="sp-search" class="col-sm-3 col-md-3"><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
+<div class="pweb-modal pwebbox-plugin-any_module pweb-theme-magazine pweb-horizontal" dir="ltr">
+<div id="pwebbox220_toggler" class="pwebbox220_toggler pwebbox_toggler pweb-closed pweb-theme-magazine pweb-icon pweb-icon-icomoon"><span class="pweb-text">LOGIN</span><span class="pweb-icon"></span></div></div>
+<div id="pwebbox220" class="pwebbox pweb-static pweb-offset-right pweb-modal pwebbox-plugin-any_module pweb-theme-magazine pweb-horizontal" dir="ltr">
+<div id="pwebbox220_modal" class="pwebbox-modal modal fade" style="display:none">
+<div id="pwebbox220_box" class="pwebbox-box pweb-modal pwebbox-plugin-any_module pweb-theme-magazine pweb-horizontal " dir="ltr">
+<div class="pwebbox-container-outset">
+<div id="pwebbox220_container" class="pwebbox-container modal-dialog">
+<div class="pwebbox-container-inset">
+<button type="button" class="pwebbox220_toggler pweb-button-close" aria-hidden="true" data-role="none">&times;</button>
+<div class="pwebbox-content" id="pwebbox220_content">
+
+<div class="pwebbox-module-container">
+<div id="pwebbox_module_220">
+<form action="https://anovademocracia.com.br/noticias/18638-entregadores-de-aplicativo-realizam-protestos-e-greve-em-todo-o-pais" method="post" id="login-form">
+<div id="form-login-username" class="form-group">
+<div class="input-group">
+<span class="input-group-addon">
+<i class="icon-user hasTooltip" title="E-mail"></i>
+</span>
+<input id="modlgn-username" type="text" name="username" class="form-control" tabindex="0" size="18" placeholder="E-mail" />
+</div>
+</div>
+<div id="form-login-password" class="form-group">
+<div class="controls">
+<div class="input-group">
+<span class="input-group-addon">
+<i class="icon-lock hasTooltip" title="Senha"></i>
+</span>
+<input id="modlgn-passwd" type="password" name="password" class="form-control" tabindex="0" size="18" placeholder="Senha" />
+</div>
+</div>
+</div>
+<div id="form-login-remember" class="form-group">
+<div class="checkbox">
+<label for="modlgn-remember"><input id="modlgn-remember" type="checkbox" name="remember" class="inputbox" value="yes">Lembrar de mim</label>
+</div>
+</div>
+<div id="form-login-submit" class="form-group">
+<button type="submit" tabindex="0" name="Submit" class="btn btn-primary">Entrar</button>
+</div>
+<ul class="form-links">
+<li>
+<a href="/nome-de-usuario">
+</a>
+</li>
+<li>
+<a href="/redefinir-senha">
+Esqueceu sua senha?</a>
+</li>
+</ul>
+<input type="hidden" name="option" value="com_users" />
+<input type="hidden" name="task" value="user.login" />
+<input type="hidden" name="return" value="aHR0cHM6Ly9hbm92YWRlbW9jcmFjaWEuY29tLmJyL25vdGljaWFzLzE4NjM4LWVudHJlZ2Fkb3Jlcy1kZS1hcGxpY2F0aXZvLXJlYWxpemFtLXByb3Rlc3Rvcy1lLWdyZXZlLWVtLXRvZG8tby1wYWlz" />
+<input type="hidden" name="3034eaa06c55f0ce91874b00319604a9" value="1" />
+</form>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+jQuery(document).ready(function($){pwebBox220=new pwebBox({id:220,bootstrap:3,theme:"magazine",layout:"modal",position:"static",offsetPosition:"right",togglerNameClose:"",closeOther:0,modalEffectDuration:100})});</script>
+
+</div></div><div class="sp-module "><div class="sp-module-content"><div class="search">
+<form action="/noticias" method="post">
+<input name="searchword" id="mod-search-searchword" maxlength="200" class="inputbox search-query" type="text" size="20" placeholder="pesquisar" /> <input type="hidden" name="task" value="search" />
+<input type="hidden" name="option" value="com_search" />
+<input type="hidden" name="Itemid" value="100281" />
+</form>
+</div>
+</div></div></div></div></div></div></section><header id="sp-header"><div class="container"><div class="row"><div id="sp-menu" class="col-sm-12 col-md-12"><div class="sp-column "> <div class='sp-megamenu-wrapper'>
+<a id="offcanvas-toggler" class="visible-sm visible-xs" aria-label="Helix Megamenu Options" href="#"><i class="fa fa-bars" aria-hidden="true" title="Helix Megamenu Options"></i></a>
+<ul class="sp-megamenu-parent hidden-sm hidden-xs"><li class="sp-menu-item"><a href="/">Início</a></li><li class="sp-menu-item sp-has-child"><a href="javascript:void(0);">Linha Editorial</a><div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 300px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a href="/editorial">Editorial</a></li><li class="sp-menu-item"><a href="/situacao-politica">Situação Política</a></li><li class="sp-menu-item"><a href="/linhaeditorial">Linha Editorial</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a href="javascript:void(0);">Nacional</a><div class="sp-dropdown sp-dropdown-main sp-dropdown-mega sp-menu-full container" style=""><div class="sp-dropdown-inner"><div class="row"><div class="col-sm-4"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a href="/nacional">Nacional</a></li><li class="sp-menu-item"><a href="/luta-pela-terra">Luta pela Terra</a></li><li class="sp-menu-item"><a href="/povos-indigenas">Povos Indígenas</a></li></ul></li></ul></div><div class="col-sm-4"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a href="/farsa-eleitoral">Farsa Eleitoral</a></li><li class="sp-menu-item"><a href="/crimes-contra-o-povo">Crimes contra o povo</a></li><li class="sp-menu-item"><a href="/intervencao-militar">Intervenção militar</a></li></ul></li></ul></div><div class="col-sm-4"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a href="/presos-politicos-do-brasil">Presos Políticos</a></li><li class="sp-menu-item"><a href="/herois-do-povo-brasileiro"> Heróis do Povo Brasileiro</a></li><li class="sp-menu-item"><a href="/luta-classista">Luta Classista</a></li></ul></li></ul></div></div></div></div></li><li class="sp-menu-item sp-has-child"><a href="javascript:void(0);">Internacional</a><div class="sp-dropdown sp-dropdown-main sp-dropdown-mega sp-menu-full container" style=""><div class="sp-dropdown-inner"><div class="row"><div class="col-sm-4"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a href="/internacional">Internacional</a></li><li class="sp-menu-item"><a href="/america-latina">América Latina</a></li><li class="sp-menu-item"><a href="/libertacao-nacional">Libertação Nacional</a></li></ul></li></ul></div><div class="col-sm-4"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a href="/presos-politicos">Presos Políticos</a></li><li class="sp-menu-item"><a href="/guerra-popular">Guerra Popular</a></li></ul></li></ul></div><div class="col-sm-4"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a href="/figuras-da-classe-operaria">Figuras da classe operária</a></li><li class="sp-menu-item"><a href="/datas-memoraveis-do-proletariado">Datas Memoráveis do Proletariado</a></li></ul></li></ul></div></div></div></div></li><li class="sp-menu-item sp-has-child"><a href="javascript:void(0);">Nova Cultura</a><div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 300px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a href="/nova-cultura">Nova Cultura</a></li><li class="sp-menu-item"><a href="/agenda-cultural">Agenda Cultural</a></li><li class="sp-menu-item"><a href="/realizacoes-socialistas">Realizações socialistas</a></li><li class="sp-menu-item"><a href="/100-anos-da-grande-revolucao-bolchevique-de-1917"> 100 anos da Grande Revolução Bolchevique de 1917</a></li><li class="sp-menu-item"><a href="/50-anos-da-grpc">50 Anos da GRPC</a></li></ul></div></div></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item sp-has-child"><a href="/anteriores">Edição impressa</a><div class="sp-dropdown sp-dropdown-main sp-dropdown-mega sp-menu-full container" style=""><div class="sp-dropdown-inner"><div class="row"><div class="col-sm-12"><div class="sp-module "><div class="sp-module-content">
+<div class="custom">
+<div class="anter">Nº 249<a href="/no-249"><img src="/images/0-2022/09/outros/and-249.jpg" alt="" width="146" height="207" /></a></div>
+<div class="anter">Nº 248<br /><a href="/no-248"><img src="/images/248/capap.jpg" alt="248" /></a></div>
+<div class="anter">Nº 247<br /><a href="/no-247"><img src="/images/247/capap.jpg" alt="247" /></a></div>
+<div class="anter">Nº 246<br /><a href="/no-246"><img src="/246/capaP.webp" alt="246" /></a></div>
+<div class="anter">Nº 245<br /><a href="/no-245"><img src="/245/capaP.webp" alt="245" /></a></div>
+<div class="anter">Nº 244<br /><a href="/no-244"><img src="/244/capaP.webp" alt="244" /></a></div>
+<div class="anter">Nº 243<br /><a href="/no-243"><img src="/243/capaP.webp" alt="243" /></a></div>
+<p></p>
+<p></p></div>
+</div></div><div class="sp-module "><div class="sp-module-content">
+<div class="custom">
+<p><a href="/anteriores" class="readon-button">Veja todas as edições</a></p></div>
+</div></div></div></div></div></div></li><li class="sp-menu-item"><a href="https://anovademocracia.lojavirtualnuvem.com.br/">Loja</a></li></ul> </div>
+</div></div></div></div></header><section id="sp-main-body"><div class="container"><div class="row"><div id="sp-component" class="col-xs-12 col-sm-12 col-md-7"><div class="sp-column "><div id="system-message-container">
+</div>
+<article class="item item-page" itemscope itemtype="http://schema.org/Article">
+<meta itemprop="inLanguage" content="pt-BR" />
+<div class="entry-header">
+<dl class="article-info">
+<dt class="article-info-term"></dt>
+<dd class="createdby" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<i class="fa fa-user"></i>
+<span itemprop="name" data-toggle="tooltip" title="">Giovanna Maria</span> </dd>
+<dd class="published">
+<i class="fa fa-calendar-o"></i>
+<time datetime="2023-02-01T16:34:00-03:00" itemprop="datePublished" data-toggle="tooltip" title="Data de Publicação">
+01 Fevereiro 2023	</time>
+</dd>
+</dl>
+<h2 itemprop="name">
+Entregadores de aplicativo realizam protestos e greves em todo o país </h2>
+</div>
+<div itemprop="articleBody">
+<p><img src="/images/salvadormotoristas2.jpg" /></p>
+<p><span style="font-weight: 400;" class="legenda">Manifestação de motoristas e entregadores de aplicativo em 30/01 em Salvador (BA). Foto: Reprodução/ Bom Dia BA</span></p>
+<p><span style="font-weight: 400;">Durante o mês de janeiro, entregadores de aplicativos em todo o Brasil realizaram greves e manifestações nas capitais dos estados de São Paulo, Rio de Janeiro, Bahia, Acre, Rio Grande do Sul, Piauí, entre outros. Os trabalhadores estão exigindo os direitos mais elementares para exercer a profissão. Em cidades do estado de São Paulo, cansados da superexploração, os entregadores chegaram a declarar greve por tempo indeterminado até terem suas exigências atendidas pelo monopólio </span><i><span style="font-weight: 400;">iFood</span></i><span style="font-weight: 400;">. Em Salvador (BA) os entregadores bloquearam as principais vias da cidade em diversos dias.</span></p>
+<p><span style="font-weight: 400;">Entre as reivindicações de todos esses trabalhadores estavam: aumento da taxa mínima paga por entrega de R$6 a R$8; fim das entregas duplas ou triplas, quando o entregador realiza duas ou mais corridas sendo pago apenas por uma; seguro em caso de acidente ou morte, já que as coberturas oferecidas pela </span><i><span style="font-weight: 400;">iFood</span></i><span style="font-weight: 400;"> não funcionam na prática; e fim dos Operadores Logísticos (OL’s), que <span>funcionam como intermediários entre os entregadores e os aplicativos e são responsáveis pela</span> terceirização dos trabalhadores.</span></p>
+<p><span style="font-weight: 400;">Os entregadores por aplicativo lutam por esses direitos básicos há anos. Os monopólios de entrega, por sua vez, buscam impedir de todas as formas que os trabalhadores conquistem esses direitos, uma vez que, diante de mais uma crise em escala mundial, os monopólios dependentes de empresas estrangeiras (imperialistas), como </span><i><span style="font-weight: 400;">iFood</span></i><span style="font-weight: 400;"> e </span><i><span style="font-weight: 400;">Uber</span></i><span style="font-weight: 400;">, buscam atingir lucros cada vez maiores para escapar da crise. </span></p>
+<p><span style="font-weight: 400;">A situação destes trabalhadores está agravada pela crise do capitalismo burocrático brasileiro, que através dos diferentes governos reacionários de todas as esferas joga nas costas das massas populares as consequências econômicas da grave situação em que o país está afundado. Em 2022, um levantamento da </span><i><span style="font-weight: 400;">Fairwork</span></i><span style="font-weight: 400;"> Brasil mostrou que os trabalhadores de plataforma digital ganham em média R$ 5,50 por hora e menos de um salário mínimo no mês.</span></p>
+<p><span style="font-weight: 400;">Governo após governo são feitas promessas de regulamentação da profissão. Nenhum deles se compremete a tornar a relação entre entregador e monopólio como vínculo empregatício de fato. O governo do ultrarreacionário Jair Bolsonaro chegou a prometer exigir das plataformas contribuição com a previdência. Já o ministro do oportunista Luiz Inácio disse às empresas que “não se assustassem", pois a proposta seria apenas trazer “proteção social” ao trabalhador. De todo modo, a situação só piora dia após dia.</span></p>
+<p><span style="font-weight: 400;">Com a atual greve e protestos, os entregadores demarcam sua independência, classismo e combatividade contra a posição oportunista de promover o imobilismo em troca de reuniões e migalhas.</span></p>
+<p><strong>Confira abaixo como foram as manifestações dos entregadores por todo o país:</strong></p>
+<p><span class="entretitulo"><b>SP: Entregadores realizam greve de quatro dias</b></span></p>
+<p><span style="font-weight: 400;">No dia 25/01, em São Paulo (capital), centenas de entregadores realizaram uma greve durante todo o dia. Os manifestantes se reuniram no estacionamento do Shopping Metrô Itaquera, na Avenida José Pinheiro Borges. Eles reivindicavam receber por cada entrega e melhores condições de trabalho.</span></p>
+<p><span style="font-weight: 400;">Gerônimo Lima Gusmão, 32 anos, liderança dos entregadores da zona leste de São Paulo, afirmou que "existe um abismo imenso entre o governo, o estado e os motoqueiros de aplicativos autônomos, o </span><i><span style="font-weight: 400;">iFood </span></i><span style="font-weight: 400;">está dando quatro pedidos pra gente entregar e só receberemos [pagamento por] dois. Só que os clientes pagaram por quatro entregas. E não era assim [anteriormente]. Recebíamos por todas as entregas. Há um ano isso mudou."</span></p>
+<p><span style="font-weight: 400;">Gerônimo trabalha há três anos na profissão e já sofreu cinco acidentes em horário de trabalho. "Estamos exaustos, não aguentamos mais", denunciou o trabalhador sobre a falta de direitos à rádio local Itatiaia.</span></p>
+<p><span style="font-weight: 400;">Em cidades do interior do estado, como em Diadema, os entregadores continuaram em greve até o dia 29/01. Em Indaiatuba, os trabalhadores afirmaram que permanecerão em greve por tempo indeterminado, até que os motoboys sejam atendidos pela</span><i><span style="font-weight: 400;"> iFood</span></i><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">Na cidade de Santa Bárbara d'Oeste, os entregadores se concentraram em frente ao Shopping Tivoli no dia 25/01. O entregador Rodrigo Cucatti, de 38 anos, disse ao jornal local Todo Dia: "Hoje está sendo um aviso. Se não ajudarem a gente, vamos estender para sexta, sábado e domingo. Queremos uma melhoria e uma resposta do </span><i><span style="font-weight: 400;">iFood</span></i><span style="font-weight: 400;">. Estamos cansados de pegar duas entregas e o </span><i><span style="font-weight: 400;">iFood</span></i><span style="font-weight: 400;"> pagar somente uma. Duas entregas que era para ser R$ 12, o iFood paga R$ 6 para a gente. Fazem mais de três anos que eles não fazem uma promoção".</span></p>
+<p><span style="color: #666666; font-size: 11px;"><img src="/images/santabarbara.jpg" /></span></p>
+<p><span style="color: #666666; font-size: 11px;">Greve dos entregadores em Santa Bárbara d'Oeste em 25/01. Foto: Reprodução/ Todo Dia</span></p>
+<p><span class="entretitulo"><b>RJ: protestos enfrentam intimidação policial</b></span></p>
+<p><img src="/images/niteroigreveentreg.jpg" /></p>
+<p><span class="legenda">Motoristas e entregadores por aplicatico realizam manifestação em Niterói (RJ). Foto: Divulgação/2R</span></p>
+<p><span style="font-weight: 400;">Na cidade de Niterói, no dia 25/01, cerca de 50 entregadores realizaram uma grande manifestação em frente à prefeitura, exigindo a garantia de que o 99 Moto e o Uber Moto continuarão a funcionar na cidade. Os trabalhadores também reivindicam mais estacionamentos e ciclopontos, além de outras reivindicações. No dia 06/01, a prefeitura havia informado que iria notificar a Uber para suspender o serviço de transporte de passageiros em motocicletas na cidade.</span></p>
+<p><span style="font-weight: 400;">O presidente do Movimento Duas Rodas, conhecido como Léo “Família”, demarcou que “a classe merece ser tratada com mais consideração” e que foram os trabalhadores de aplicativos que “levantaram a cidade e fez a moeda girar” durante a pandemia da Covid-19.</span></p>
+<p><span style="font-weight: 400;">A Guarda Municipal de Niterói, por sua vez, tentou intimidar os trabalhadores, com um agente chegando a desligar a moto de um dos manifestantes. A tropa de Choque da Polícia Militar também estava presente com </span><i><span style="font-weight: 400;">spray</span></i><span style="font-weight: 400;"> de pimenta. As tentativas de conter o protesto dos trabalhadores foram inúteis.</span></p>
+<p><img src="/images/grandetijucaprotesto.jpg" /></p>
+<p><span style="font-weight: 400;" class="legenda">Entregadores de aplicativo realizam manifestação na zona n</span><span style="font-weight: 400;" class="legenda">orte do Rio de Janeiro. Foto: Reprodução/ Grande Tijuca</span></p>
+<p><span style="font-weight: 400;">No mesmo dia, entregadores de aplicativo do Rio de Janeiro realizaram uma manifestação na região da Grande Tijuca, zona norte. Os manifestantes exigiam melhores condições de trabalho, como seguro de vida, aumento da taxa de entrega, e fim de bloqueios de contas nos aplicativos sem direito a defesa, assim como reivindicavam o fim do contrato das empresas com os OL’s.</span></p>
+<p><span style="font-weight: 400;">Policiais do 6º BPM (Tijuca) e agentes do Tijuca Presente intimidaram os entregadores durante todo o percurso, seguindo-os.</span></p>
+<p><span class="entretitulo"><b>BA: Bloqueios de avenidas e protestos em frente à prefeitura de Salvador</b></span></p>
+<p><span style="font-weight: 400;">Na Bahia, motoristas e entregadores de aplicativo realizaram protestos nos dias 27 e 30/01 na capital, Salvador. No dia 27, foi realizado um bloqueio da Avenida Tancredo Neves e, no dia 30, na ligação para a Avenida Paralela. Nos dois dias a manifestação seguiu até a prefeitura da cidade. Os entregadores reivindicavam o fim das apreensões de motos pela prefeitura durante as prestações de serviços para o Uber e 99 Moto.</span></p>
+<p><span class="entretitulo"><b>Entregadores bloqueiam ponte no Acre e entram em greve no Rio Grande do Sul</b></span></p>
+<p><img src="/images/cruzeirodosulmotoris.jpg" /></p>
+<p><span class="legenda">Manifestação de motoristas e entregadores de aplicativo em Cruzeiro do Sul (AC). Foto: Reprodução/ O Juruá Em Tempo</span></p>
+<p>Nos dias 26 e 25/01, nos estados do Acre e Rio Grande do Sul, cidades de Cruzeiro do Sul e Porto Alegre, entregadores realizaram greves e protestos. Em Cruzeiro do Sul (AC), motoristas e entregadores de aplicativo bloquearam a Ponte da União como parte das manifestações nacionais. Em Porto Alegre, capital do RS, entregadores em greve realizaram uma manifestação próximo ao centro da cidade.</p>
+<p><span class="entretitulo"><b>PI: Protesto contra aumento indevido nos combustíveis</b></span></p>
+<p><span style="font-weight: 400;">No início do mês de janeiro, motoristas e entregadores por aplicativo realizaram uma manifestação no dia 5, na zona leste de Teresina, contra o aumento indevido no preço dos combustíveis pelos postos de gasolina locais. O ato teve início na Praça de Fátima e seguiu até a sede do Ministério Público do Estado do Piauí (MP-PI). Os participantes promoveram um buzinaço durante o percurso pelas avenidas Nossa Senhora de Fátima e Lindolfo Monteiro. Segundo as entidades que representam entregadores e motoristas de passageiros por aplicativo, são cerca de 20 mil pessoas vinculadas a essas funções apenas em Teresina.</span></p> </div>
+<dl class="article-info">
+</dl>
+<ul class="pager pagenav">
+<li class="next">
+<a class="hasTooltip" title="Rodolfo Walsh – biografia em pós-produção (Por André Queiroz)" aria-label="Next article: Rodolfo Walsh – biografia em pós-produção (Por André Queiroz)" href="/noticias/18636-rodolfo-walsh-biografia-em-pos-producao-por-andre-queiroz" rel="next">
+<span aria-hidden="true">Próximo</span> <span class="icon-chevron-right" aria-hidden="true"></span> </a>
+</li>
+</ul>
+<div class="article-footer-wrap">
+<div class="article-footer-top">
+</div>
+</div>
+</article>
+<div class="custom">
+<p><span color="#c9211e" style="color: #c9211e;"><b>NÃO SAIA AINDA…</b></span><span> </span>O jornal<span> </span><b>A Nova Democracia</b>, nos seus mais de 18 anos de existência, manteve sua independência inalterada, denunciando e desmascarando o governo reacionário de FHC, oportunista do PT e agora, mais do que nunca, fazendo-o em meio à instauração do governo militar de fato surgido do golpe militar em curso, que através de uma análise científica prevíamos desde 2017.</p>
+<p>Em todo esse tempo lutamos e trouxemos às claras as entranhas e maquinações do velho Estado brasileiro e das suas classes dominantes lacaias do imperialismo, em particular a atuação vil do latifúndio em nosso país.</p>
+<p>Nunca recebemos um centavo de bancos ou partidos eleitoreiros. Todo nosso financiamento sempre partiu do apoio de nossos leitores, colaboradores e entusiastas da imprensa popular e democrática. Nesse contexto em que as lutas populares tendem a tomar novas proporções é mais do que nunca necessário e decisivo o seu apoio.</p>
+<p><b>Se você acredita na Revolução Brasileira, apoie a imprensa que a ela serve - <a href="https://www.catarse.me/apoieoand">Clique Aqui</a></b></p></div>
+</div></div><div id="sp-right" class="col-xs-12 col-sm-12 col-md-5"><div class="sp-column custom-class"><div class="sp-module "><div class="chamada1 mais">LEIA TAMBÉM</div><div class="sp-module-content"> <div id="lnee_197" class="lnee newslist vertical"> <div class="items_pagination up"></div> <div class="clearfix"></div> <ul class="latestnews-items"> <li class="latestnews-item id-9115 catid-442 featured"> <div class="news odd head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/no-212/9115-pi-greve-dos-trabalhadores-em-educacao-resiste"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_9115.webp"><img src="/images/thumbnails/lne/thumb_197_9115.jpg" alt="PI: Greve dos trabalhadores em educação resiste" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">04/07/2018</span></span></dd></dl> <h4 class="newstitle"> <a href="/no-212/9115-pi-greve-dos-trabalhadores-em-educacao-resiste"> <span>PI: Greve dos trabalhadores em educação resiste</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-14062 catid-229"> <div class="news even head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/14062-alemanha-no-dia-do-julgamento-do-processo-do-tkp-ml-protestos-exigem-liberdade-aos-presos-politicos"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_14062.webp"><img src="/images/thumbnails/lne/thumb_197_14062.jpg" alt="Alemanha: No dia do julgamento do ‘Processo do TKP/ML’, protestos exigem liberdade aos presos políticos" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">06/08/2020</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/14062-alemanha-no-dia-do-julgamento-do-processo-do-tkp-ml-protestos-exigem-liberdade-aos-presos-politicos"> <span>Alemanha: No dia do julgamento do ‘Processo do TKP/ML’, protestos exigem liberdade aos presos políticos</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-10958 catid-229"> <div class="news odd head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/10958-camponeses-presos-politicos-sao-soltos-no-maranhao"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_10958.webp"><img src="/images/thumbnails/lne/thumb_197_10958.jpg" alt="Camponeses presos políticos são soltos no Maranhão" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">11/05/2019</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/10958-camponeses-presos-politicos-sao-soltos-no-maranhao"> <span>Camponeses presos políticos são soltos no Maranhão</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-12632 catid-229"> <div class="news even head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/12632-es-moradores-fazem-protesto-contra-assassinato-de-jovem-pela-pm"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_12632.webp"><img src="/images/thumbnails/lne/thumb_197_12632.jpg" alt="ES: Moradores fazem protesto contra assassinato de jovem pela PM" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">26/12/2019</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/12632-es-moradores-fazem-protesto-contra-assassinato-de-jovem-pela-pm"> <span>ES: Moradores fazem protesto contra assassinato de jovem pela PM</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-13576 catid-229"> <div class="news odd head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/13576-ro-manifestacao-antifascista-repudia-governo-de-bolsonaro-e-generais-em-porto-velho"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_13576.webp"><img src="/images/thumbnails/lne/thumb_197_13576.jpg" alt="RO: Manifestação antifascista repudia governo de Bolsonaro e generais em Porto Velho" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">05/06/2020</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/13576-ro-manifestacao-antifascista-repudia-governo-de-bolsonaro-e-generais-em-porto-velho"> <span>RO: Manifestação antifascista repudia governo de Bolsonaro e generais em Porto Velho</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-16526 catid-229"> <div class="news even head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/16526-sc-pms-e-guardas-atacam-trabalhadores-durante-greve-e-protesto-combativos-em-florianopolis"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_16526.webp"><img src="/images/thumbnails/lne/thumb_197_16526.jpg" alt="SC: PMs e Guardas atacam trabalhadores durante greve e protesto combativos em Florianópolis" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">25/09/2021</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/16526-sc-pms-e-guardas-atacam-trabalhadores-durante-greve-e-protesto-combativos-em-florianopolis"> <span>SC: PMs e Guardas atacam trabalhadores durante greve e protesto combativos em Florianópolis</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-10595 catid-517"> <div class="news odd head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/no-221/10595-bolsonaro-ataca-sindicatos-por-medo-de-greve-geral-diz-marreta"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_10595.webp"><img src="/images/thumbnails/lne/thumb_197_10595.jpg" alt="Bolsonaro ataca sindicatos por medo de greve geral, diz Marreta" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">21/03/2019</span></span></dd></dl> <h4 class="newstitle"> <a href="/no-221/10595-bolsonaro-ataca-sindicatos-por-medo-de-greve-geral-diz-marreta"> <span>Bolsonaro ataca sindicatos por medo de greve geral, diz Marreta</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-9691 catid-229"> <div class="news even head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/9691-siria-mais-de-20-mil-protestam-contra-bombardeios-da-guerra-imperialista"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_9691.webp"><img src="/images/thumbnails/lne/thumb_197_9691.jpg" alt="Síria: Mais de 20 mil protestam contra bombardeios da guerra imperialista" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">14/10/2018</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/9691-siria-mais-de-20-mil-protestam-contra-bombardeios-da-guerra-imperialista"> <span>Síria: Mais de 20 mil protestam contra bombardeios da guerra imperialista</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-16948 catid-229"> <div class="news odd head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/16948-periodo-do-ano-em-que-patroes-e-empregados-representados-pelos-sindicatos-se-reunem-para-repactuar-os-termos-dos-seus-contratos-coletivos-de-trabalho"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_16948.webp"><img src="/images/thumbnails/lne/thumb_197_16948.jpg" alt="MG: Operários fazem paralisação e protesto na Arena MRV em Belo Horizonte" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">20/12/2021</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/16948-periodo-do-ano-em-que-patroes-e-empregados-representados-pelos-sindicatos-se-reunem-para-repactuar-os-termos-dos-seus-contratos-coletivos-de-trabalho"> <span>MG: Operários fazem paralisação e protesto na Arena MRV em Belo Horizonte</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-3587 catid-153"> <div class="news even head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/no-80/3587-trabalhadores-em-luta-mantem-onda-de-greves"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_3587.webp"><img src="/images/thumbnails/lne/thumb_197_3587.jpg" alt="Trabalhadores em luta mantém onda de greves" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">06/08/2011</span></span></dd></dl> <h4 class="newstitle"> <a href="/no-80/3587-trabalhadores-em-luta-mantem-onda-de-greves"> <span>Trabalhadores em luta mantém onda de greves</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-12988 catid-229"> <div class="news odd head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/12988-pi-moradores-revoltados-fecham-rodovia-em-protesto-contra-falta-de-energia"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_12988.webp"><img src="/images/thumbnails/lne/thumb_197_12988.jpg" alt="PI: Moradores revoltados fecham rodovia em protesto contra falta de energia " width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">27/02/2020</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/12988-pi-moradores-revoltados-fecham-rodovia-em-protesto-contra-falta-de-energia"> <span>PI: Moradores revoltados fecham rodovia em protesto contra falta de energia </span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-12122 catid-229"> <div class="news even head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/12122-colombia-milhares-de-estudantes-se-rebelam-em-protestos-combativos"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_12122.webp"><img src="/images/thumbnails/lne/thumb_197_12122.jpg" alt="Colômbia: Milhares de estudantes se rebelam em defesa da educação" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">15/10/2019</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/12122-colombia-milhares-de-estudantes-se-rebelam-em-protestos-combativos"> <span>Colômbia: Milhares de estudantes se rebelam em defesa da educação</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-15322 catid-229"> <div class="news odd head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/15322-africa-do-sul-homem-e-morto-pela-policia-em-protesto-contra-taxas-abusivas-na-universidade"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_15322.webp"><img src="/images/thumbnails/lne/thumb_197_15322.jpg" alt="África do Sul: Homem é morto pela polícia em protesto contra taxas abusivas na universidade" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">11/03/2021</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/15322-africa-do-sul-homem-e-morto-pela-policia-em-protesto-contra-taxas-abusivas-na-universidade"> <span>África do Sul: Homem é morto pela polícia em protesto contra taxas abusivas na universidade</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-17627 catid-229"> <div class="news even head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/17627-mexico-manifestacao-denuncia-prisao-injusta-de-campones-por-homicidio"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_17627.webp"><img src="/images/thumbnails/lne/thumb_197_17627.jpg" alt="México: Manifestação denuncia prisão injusta de camponeses por homicídio" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">08/06/2022</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/17627-mexico-manifestacao-denuncia-prisao-injusta-de-campones-por-homicidio"> <span>México: Manifestação denuncia prisão injusta de camponeses por homicídio</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-13769 catid-229"> <div class="news odd head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/13769-usa-centenas-repudiam-assassinato-de-jovem-pelas-forcas-de-repressao"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_13769.webp"><img src="/images/thumbnails/lne/thumb_197_13769.jpg" alt="USA: Centenas repudiam assassinato de jovem pelas forças de repressão" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">03/07/2020</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/13769-usa-centenas-repudiam-assassinato-de-jovem-pelas-forcas-de-repressao"> <span>USA: Centenas repudiam assassinato de jovem pelas forças de repressão</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-3885 catid-168"> <div class="news even head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/no-87/3885-greves-em-todo-o-mundo-mostram-a-forca-do-proletariado"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_3885.webp"><img src="/images/thumbnails/lne/thumb_197_3885.jpg" alt="Greves em todo o mundo mostram a força do proletariado" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">07/03/2012</span></span></dd></dl> <h4 class="newstitle"> <a href="/no-87/3885-greves-em-todo-o-mundo-mostram-a-forca-do-proletariado"> <span>Greves em todo o mundo mostram a força do proletariado</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-8888 catid-436 featured"> <div class="news odd head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/no-210/8888-mais-de-300-mil-caminhoneiros-em-greve-por-todo-o-brasil"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_8888.webp"><img src="/images/thumbnails/lne/thumb_197_8888.jpg" alt="Mais de 300 mil caminhoneiros em greve por todo o Brasil" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">30/05/2018</span></span></dd></dl> <h4 class="newstitle"> <a href="/no-210/8888-mais-de-300-mil-caminhoneiros-em-greve-por-todo-o-brasil"> <span>Mais de 300 mil caminhoneiros em greve por todo o Brasil</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-16512 catid-229"> <div class="news even head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/16512-mg-moradores-de-nova-lima-erguem-barricadas-exigindo-solucao-para-os-constantes-entupimentos-de-esgotos"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_16512.webp"><img src="/images/thumbnails/lne/thumb_197_16512.jpg" alt="MG: Moradores de Nova Lima erguem barricadas exigindo solução para os constantes entupimentos de esgotos" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">22/09/2021</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/16512-mg-moradores-de-nova-lima-erguem-barricadas-exigindo-solucao-para-os-constantes-entupimentos-de-esgotos"> <span>MG: Moradores de Nova Lima erguem barricadas exigindo solução para os constantes entupimentos de esgotos</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-11918 catid-229"> <div class="news odd head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/11918-video-camponeses-bloqueiam-rodovia-durante-o-dia-de-greve-nacional-da-educacao"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_11918.webp"><img src="/images/thumbnails/lne/thumb_197_11918.jpg" alt="Vídeo: Camponeses bloqueiam rodovia no Norte de Minas" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">19/09/2019</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/11918-video-camponeses-bloqueiam-rodovia-durante-o-dia-de-greve-nacional-da-educacao"> <span>Vídeo: Camponeses bloqueiam rodovia no Norte de Minas</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-13106 catid-229"> <div class="news even head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/13106-moradores-do-ramal-alianca-protestam-por-obra-em-ponte"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_13106.webp"><img src="/images/thumbnails/lne/thumb_197_13106.jpg" alt="RO: Moradores do ramal Aliança protestam por obra em ponte" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">17/03/2020</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/13106-moradores-do-ramal-alianca-protestam-por-obra-em-ponte"> <span>RO: Moradores do ramal Aliança protestam por obra em ponte</span> </a> </h4> </div> </div> </div> </li> </ul> <div class="clearfix"></div> <div class="items_pagination down"></div> </div> </div></div><div class="sp-module "><div class="sp-module-content"><div class="bannergroup">
+<div class="banneritem">
+<a href="/component/banners/click/14" target="_blank" rel="noopener noreferrer" title="Banner 2019">
+<img src="https://anovademocracia.com.br/images/promo_2019.jpg" alt="Apoie a imprensa popular e democrática" />
+</a>
+<div class="clr"></div>
+</div>
+<div class="banneritem">
+<a href="/component/banners/click/13" target="_blank" rel="noopener noreferrer" title="Araguaia">
+<img src="https://anovademocracia.com.br/images/araguaia-anuncio.jpg" alt="Araguaia" />
+</a>
+<div class="clr"></div>
+</div>
+<div class="banneritem">
+<a href="/component/banners/click/2" target="_blank" rel="noopener noreferrer" title="Apoie">
+<img src="https://anovademocracia.com.br/images/2017-apoie2.jpg" alt="Apoie" />
+</a>
+<div class="clr"></div>
+</div>
+</div>
+</div></div></div></div></div></div></section><section id="sp-section-12"><div class="container"><div class="row"><div id="sp-edicao-tit" class="col-sm-12 col-md-12"><div class="sp-column "><div class="sp-module "><h2 class="assinaturas">Edição impressa</h2><div class="sp-module-content">
+<div class="custom">
+</div>
+</div></div></div></div></div></div></section><section id="sp-edicao-impressa"><div class="container"><div class="row"><div id="sp-capa" class="col-sm-3 col-md-3"><div class="sp-column "><div class="sp-module  chamadag7"><div class="sp-module-content">
+<div class="custom chamadag7">
+<div class="capa">
+<p> <a href="/no-249">Edição Nº 249 </a></p>
+<p><a href="/no-249">Setembro e Outubro de 2022</a></p>
+<p><a href="/no-249"><img src="/images/0-2022/09/outros/and-249.jpg" alt="" /></a></p>
+</div>
+<div><a href="/no-249" readon-button="">EDIÇÃO IMPRESSA</a></div>
+<p> </p></div>
+</div></div></div></div><div id="sp-edicao" class="col-sm-9 col-md-9"><div class="sp-column "><div class="sp-module feed-link"><div class="sp-module-content"><ul class="category-modulefeed-link mod-list">
+<li>
+<a class="mod-articles-category-title " href="/no-249/18142-campanha-internacional-denuncia-desaparecimento-do-dr-sernas">Campanha Internacional denuncia desaparecimento do Dr. Sernas</a>
+</li>
+<li>
+<a class="mod-articles-category-title " href="/no-249/18143-apoio-mundial-a-guerra-popular-na-india">Apoio mundial à Guerra Popular na Índia</a>
+</li>
+<li>
+<a class="mod-articles-category-title " href="/no-249/18140-falece-o-grande-jose-maria-galhasi">Falece o grande José Maria Galhasi</a>
+</li>
+<li>
+<a class="mod-articles-category-title " href="/no-249/18141-o-povo-aprende-a-governar">O povo aprende a governar</a>
+</li>
+<li>
+<a class="mod-articles-category-title " href="/no-249/18139-povo-nao-confia-em-militares-e-politicos">Povo não confia em militares e políticos</a>
+</li>
+<li>
+<a class="mod-articles-category-title " href="/no-249/18138-lula-acena-para-generais-golpistas">Lula acena para generais golpistas</a>
+</li>
+<li>
+<a class="mod-articles-category-title " href="/no-249/18137-nova-ou-velha-republica">Nova ou Velha República?</a>
+</li>
+<li>
+<a class="mod-articles-category-title " href="/no-249/18136-editorial-mudar-o-governo-para-que-nada-mude">Editorial - Mudar o governo, para que nada mude</a>
+</li>
+</ul>
+</div></div></div></div></div></div></section><section id="sp-footer1"><div class="container"><div class="row"><div id="sp-edi-maislidos" class="col-sm-4 col-md-4"><div class="sp-column "><div class="sp-module "><h3 class="chamadag3 estrela">Mais lidos desta edição</h3><div class="sp-module-content">
+<ol class="mostread">
+<li>
+<a href="/no-249/18141-o-povo-aprende-a-governar">
+O povo aprende a governar</a>
+</li>
+<li>
+<a href="/no-249/18138-lula-acena-para-generais-golpistas">
+Lula acena para generais golpistas</a>
+</li>
+<li>
+<a href="/no-249/18137-nova-ou-velha-republica">
+Nova ou Velha República?</a>
+</li>
+<li>
+<a href="/no-249/18140-falece-o-grande-jose-maria-galhasi">
+Falece o grande José Maria Galhasi</a>
+</li>
+<li>
+<a href="/no-249/18136-editorial-mudar-o-governo-para-que-nada-mude">
+Editorial - Mudar o governo, para que nada mude</a>
+</li>
+<li>
+<a href="/no-249/18139-povo-nao-confia-em-militares-e-politicos">
+Povo não confia em militares e políticos</a>
+</li>
+<li>
+<a href="/no-249/18142-campanha-internacional-denuncia-desaparecimento-do-dr-sernas">
+Campanha Internacional denuncia desaparecimento do Dr. Sernas</a>
+</li>
+<li>
+<a href="/no-249/18143-apoio-mundial-a-guerra-popular-na-india">
+Apoio mundial à Guerra Popular na Índia</a>
+</li>
+</ol>
+</div></div></div></div><div id="sp-especial" class="col-sm-8 col-md-8"><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
+<div class="custom">
+<p><a href="/200-anos-de-karl-marx"><img src="/images/karl-marx-selo-3.jpg" alt="200 anos de Karl Marx" /></a></p>
+<div class="vermelho">
+<h2><a href="/200-anos-de-karl-marx">Especial: 200 anos de Karl Marx</a></h2>
+<p><a href="/no-231/13144-de-karl-marx-ao-marxismo-luta-de-classes-luta-de-duas-linhas-e-linha-de-massas-parte-xi"> Luta de classes, luta de duas linhas e linha de massas (parte XI)</a><br /> <a href="/no-230/12868-de-karl-marx-ao-marxismo-luta-de-classes-luta-de-duas-linhas-e-linha-de-massas-parte-x"> Luta de classes, luta de duas linhas e linha de massas (parte X)</a><br /> <a href="/no-229/12574-de-karl-marx-ao-marxismo-luta-de-classes-luta-de-duas-linhas-e-linha-de-massas-parte-ix"> Luta de classes, luta de duas linhas e linha de massas (parte IX)</a> <br /> <a href="/no-228/12272-de-karl-marx-ao-marxismo-luta-de-classes-luta-de-duas-linhas-e-linha-de-massas-parte-viii"> Luta de classes, luta de duas linhas e linha de massas (parte VIII)</a><br /> <a href="/no-227/11968-de-karl-marx-ao-marxismo-luta-de-classes-luta-de-duas-linhas-e-linha-de-massas-parte-vii"> Luta de classes, luta de duas linhas e linha de massas (parte VII)</a> <br /> <a href="/no-226/11750-de-karl-marx-ao-marxismo-luta-de-classes-luta-de-duas-linhas-e-linha-de-massas-parte-vi"> Luta de classes, luta de duas linhas e linha de massas (parte VI)</a></p>
+</div></div>
+</div></div></div></div></div></div></section><section id="sp-rodape"><div class="container"><div class="row"><div id="sp-endereco" class="col-xs-12 col-sm-6 col-md-8"><div class="sp-column "><div class="sp-module "><h2 class="assinaturas">Endereços</h2><div class="sp-module-content">
+<div class="custom">
+<div class="ad1">
+<p><strong>Jornal A Nova Democracia <br />Editora Aimberê</strong><br />Avenida Rio Branco 257, SL 1308 <br />Centro - Rio de Janeiro - RJ <br />Tel.: (21) 2256-6303<br /> E-mail: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="c3a2adacb5a2a7a6aeaca0b1a2a0aaa283a4aea2aaafeda0acae">[email&#160;protected]</a></p>
+<p><strong>Comitê de Apoio em Belo Horizonte</strong><br /> Rua Tamoios nº 900 sala 7<br />Tel.: (31) 3656-0850<br /><br /></p>
+</div>
+<div class="ad1">
+<p><strong>Comitê de Apoio em São Paulo</strong> <br /> Rua Silveira Martins 133 conj. 22 - Centro</p>
+<p>E-mail: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="385b5755514c5d5c5d59485751574b48785f55595154165b">[email&#160;protected]</a><span>om</span><br /> Reuniões semanais de apoiadores <br /> todo sábado, às 9h30</p>
+<p><strong>Seja um apoiador você também:</strong><br /> <a href="https://www.catarse.me/apoieoand">https://www.catarse.me/apoieoand</a></p>
+</div></div>
+</div></div><div class="sp-module "><div class="sp-module-content">
+<div class="custom">
+<div class="ad1"><a href="/onde-encontrar"><img src="/images/onde_encontrar.webp" /></a></div></div>
+</div></div></div></div><div id="sp-expediente" class="col-xs-12 col-sm-6 col-md-4"><div class="sp-column "><div class="sp-module "><h2 class="assinaturas">Expediente</h2><div class="sp-module-content">
+<div class="custom">
+<div class="exp">
+<p style="text-align: left;"><strong>Diretor Geral </strong><br /><a href="/fausto-arruda">Fausto Arruda</a> (licenciado)<br />Victor Costa Bellizia (provisório)</p>
+<p><strong>Editor-chefe </strong><br /><span>Victor Costa Bellizia<br /></span></p>
+<p style="text-align: left;"><strong>Conselho Editorial </strong><br /> Alípio de Freitas <span style="font-size: 10pt;">(<em>In memoriam</em>)</span><br /><a href="/fausto-arruda">Fausto Arruda </a><br /> José Maria Galhasi de Oliveira<br /> José Ramos Tinhorão <span style="font-size: 10pt;">(<em>In memoriam</em>)</span><br /><a href="/henrique-judice">Henrique Júdice</a><br />Paulo Amaral <br /><a href="/rosana-bond">Rosana Bond </a></p>
+<p style="text-align: left;"><b>Redação </b><br />Ana Lúcia Nunes<br />João Alves<br />Taís Souza<br />Gabriel Artur<br />Giovanna Maria<br />Victor Benjamin</p>
+<p><strong>Ilustração<br /></strong><span></span>Victor Benjamin</p>
+</div></div>
+</div></div><div class="sp-module "><div class="sp-module-content">
+<div class="custom">
+<div><a href="/publicidade" class="readon-button">Saiba como anunciar <br />nas páginas de AND</a></div></div>
+</div></div></div></div></div></div></section><footer id="sp-footer"><div class="container"><div class="row"><div id="sp-footer1" class="col-sm-12 col-md-12"><div class="sp-column "><span class="sp-copyright"><a herf="http://artimania.com.br"><img src="/artimania.png"></a></span></div></div></div></div></footer> </div> 
+</div> 
+
+<div class="offcanvas-menu">
+<a href="#" class="close-offcanvas" aria-label="Close"><i class="fa fa-remove" aria-hidden="true" title="HELIX_CLOSE_MENU"></i></a>
+<div class="offcanvas-inner">
+<div class="sp-module "><div class="sp-module-content"><ul class="nav menu">
+<li class="item-100915"> <a href="/"> Início</a></li><li class="item-100926"> <a href="https://anovademocracia.com.br/#pwebbox220:open"> Login</a></li><li class="item-100927"> <a href="/pesquisa"> Pesquisa</a></li><li class="item-100916  deeper parent"> <a href="/linhaeditorial"> Linha Editorial</a><span class="offcanvas-menu-toggler collapsed" data-toggle="collapse" data-target="#collapse-menu-100916"><i class="open-icon fa fa-angle-down"></i><i class="close-icon fa fa-angle-up"></i></span><ul class="collapse" id="collapse-menu-100916"><li class="item-100917"> <a href="/editorial"> Editorial</a></li><li class="item-100918"> <a href="/situacao-politica"> Situação política</a></li></ul></li><li class="item-100919  deeper parent"> <a href="/nacional"> Nacional</a><span class="offcanvas-menu-toggler collapsed" data-toggle="collapse" data-target="#collapse-menu-100919"><i class="open-icon fa fa-angle-down"></i><i class="close-icon fa fa-angle-up"></i></span><ul class="collapse" id="collapse-menu-100919"><li class="item-100960"> <a href="/crimes-contra-o-povo"> Crimes contra o povo</a></li><li class="item-100959"> <a href="/farsa-eleitoral"> Farsa eleitoral</a></li><li class="item-100964"> <a href="/herois-do-povo-brasileiro"> Heróis do povo brasileiro</a></li><li class="item-100962"> <a href="/intervencao-militar"> Intervenção militar</a></li><li class="item-100965"> <a href="/luta-classista"> Luta classista</a></li><li class="item-100958"> <a href="/luta-pela-terra"> Luta pela terra</a></li><li class="item-100961"> <a href="/povos-indigenas"> Povos indígenas</a></li><li class="item-100963"> <a href="/presos-politicos-do-brasil"> Presos políticos</a></li></ul></li><li class="item-100920  deeper parent"> <a href="/internacional"> Internacional</a><span class="offcanvas-menu-toggler collapsed" data-toggle="collapse" data-target="#collapse-menu-100920"><i class="open-icon fa fa-angle-down"></i><i class="close-icon fa fa-angle-up"></i></span><ul class="collapse" id="collapse-menu-100920"><li class="item-100966"> <a href="/america-latina"> América Latina</a></li><li class="item-100971"> <a href="/datas-memoraveis-do-proletariado"> Datas memoráveis do proletariado</a></li><li class="item-100970"> <a href="/figuras-da-classe-operaria"> Figuras da classe operária</a></li><li class="item-100969"> <a href="/guerra-popular"> Guerra popular</a></li><li class="item-100967"> <a href="/libertacao-nacional"> Libertação nacional</a></li><li class="item-100968"> <a href="/presos-politicos"> Presos políticos</a></li></ul></li><li class="item-100921  deeper parent"> <a href="/nova-cultura"> Nova cultura</a><span class="offcanvas-menu-toggler collapsed" data-toggle="collapse" data-target="#collapse-menu-100921"><i class="open-icon fa fa-angle-down"></i><i class="close-icon fa fa-angle-up"></i></span><ul class="collapse" id="collapse-menu-100921"><li class="item-100972"> <a href="/agenda-cultural"> Agenda cultural</a></li><li class="item-100973"> <a href="/realizacoes-socialistas"> Realizações socialistas</a></li><li class="item-100974"> <a href="/100-anos-da-grande-revolucao-bolchevique-de-1917"> 100 anos da Grande Revolução Bolchevique de 1917</a></li><li class="item-100975"> <a href="/50-anos-da-grpc"> 50 anos da GRPC</a></li></ul></li><li class="item-100922"> <a href="/espanol"> Español</a></li><li class="item-100923"> <a href="/english-editions"> English</a></li><li class="item-100924"> <a href="/anteriores"> Edição impressa</a></li><li class="item-100925"> <a href="https://lojadoand.com.br/"> Loja</a></li></ul>
+</div></div>
+</div> 
+</div> 
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+jQuery.noConflict();
+// smooth anchor scrolling
+  jQuery('a[href*="#"]').on('click', function (e) {
+        e.preventDefault();
+        if(this.hash !== '') {
+            if(this.hash !== '' && this.href.replace(this.hash, '') == window.location.href.replace(window.location.hash, '')) {
+                var target = jQuery(this.hash);
+                if(target.length && this.hash !== '#') {
+                    jQuery('html, body').stop().animate({
+                        'scrollTop': target.offset().top
+                    }, 1000, 'swing', function () {
+                        if(this.hash !== '#') {
+                            window.location.hash = target.selector;
+                        }
+                    });
+} else {
+                    if(this.hash !== '#') {
+                        window.location = jQuery(this).attr('href');
+                    }
+                }
+            } else {
+                if(this.hash !== '#') {
+                    window.location = jQuery(this).attr('href');
+                }
+            }
+        }
+    });
+
+</script>
+<ul class="jj_sl_navigation jj_transition left"><li class="jj_sl_custom1"><a href="https://www.youtube.com/channel/UC7G7saR0vFSMh-SdEyF3Utg"><span class="jj_social_text">Veja nossos vídeos</span><span class="jj_sprite_custom jj_custom1"></span></a></li><li class="jj_sl_custom2"><a href="https://twitter.com/jornaland"><span class="jj_social_text">Siga-nos no Twitter</span><span class="jj_sprite_custom jj_custom2"></span></a></li><li class="jj_sl_custom4"><a href="https://forms.gle/8izJHSSh28qowWdR9"><span class="jj_social_text">Fale conosco</span><span class="jj_sprite_custom jj_custom4"></span></a></li></ul>
+
+
+<a href="javascript:void(0)" class="scrollup" aria-label="Go To Top">&nbsp;</a>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon='{"rayId":"792f39ef59f44a83","version":"2022.11.3","r":1,"token":"4f2e885d98bb44a29f9d0224829959b2","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>
