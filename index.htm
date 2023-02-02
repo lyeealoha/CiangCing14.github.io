@@ -1,9 +1,8 @@
 <html><body>
 <script>
 window.onload=function turl(){
-var access=True;
 var day=0;
-while(access){
+while(True){
     var xmlhttp;
     if(window.XMLHttpRequest)    
     {    
@@ -31,7 +30,7 @@ while(access){
     if(xmlhttp.readyState==4){
         if(xmlhttp.status==200){
             location.assign(FileURL);
-            access=False;
+            break;
         }
     }
     day = day + 1;
