@@ -20,23 +20,21 @@ else if (window.ActiveXObject)
         window.alert("不能创建XMLHttpRequest对象");    
     }    
 }
-var myDate = new Date((new Date).getTime() - 4*60*60*1000);
-var time = myDate.toJSON().split('T')[0];
-FileURL="Maoism-Datasets/" + time + "/index.htm";
-xmlhttp.open("GET",FileURL,false);
-xmlhttp.send();
-if(xmlhttp.readyState==4){
-    if(xmlhttp.status==200){
-        location.assign(FileURL);
+var access=True;
+var day=0;
+while(access){
+    var myDate = new Date((new Date).getTime() - 4*60*60*1000-day*24*60*60*1000);
+    var time = myDate.toJSON().split('T')[0];
+    FileURL="Maoism-Datasets/" + time + "/index.htm";
+    xmlhttp.open("GET",FileURL,false);
+    xmlhttp.send();
+    if(xmlhttp.readyState==4){
+        if(xmlhttp.status==200){
+            location.assign(FileURL);
+            access=False;
+        }
     }
-    else{
-        var myDate = new Date((new Date).getTime() - 28*60*60*1000);
-        var time = myDate.toJSON().split('T')[0];
-        FileURL="Maoism-Datasets/" + time + "/index.htm";
-        location.assign(FileURL);
-        window.alert("News are not produced today, Perhaps, You can review some past news by change link date.\n今天的新闻还未产出，也许你可以通过修改链接日期看看过去的新闻。");
-    }
-        
+    day = day + 1;
 }
 }
 </script>
