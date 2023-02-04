@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de-de" lang="de-de" dir="ltr">
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	  <base href="https://www.demvolkedienen.org/index.php/de/42-nachrichten/lateinamerika/7456-mitteilung-nach-der-aggression-gegen-rincon-tagolaba-tehuantepec" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="Internetplattform, revolutionäre Bewegung, Dem Volke Dienen, Nachrichten, Theorie" />
+  <meta name="author" content="refa" />
+  <meta name="description" content="Internetplattform für die Entwicklung einer revolutionären Bewegung" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Mitteilung nach der Aggression gegen Rincón Tagolaba, Tehuantepec*</title>
+  <link href="/templates/protostar/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/templates/protostar/css/template.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_jw_srfr/tmpl/neu/css/template.css" type="text/css" />
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js" type="text/javascript"></script>
+  <script src="/plugins/system/jqueryeasy/jquerynoconflict.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  
+  
+  
+  <script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+  <script src="/templates/protostar/js/template.js" type="text/javascript"></script>
+  <script src="/media/system/js/html5fallback.js" type="text/javascript"></script>
+  <script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+  </script>
+
+				<link href='//fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css' />
+		<style type="text/css">
+			h1,h2,h3,h4,h5,h6{
+				font-family: 'Ubuntu', sans-serif;
+			}
+		</style>
+				<!--style type="text/css"> 4.10. horst: roter Rand oben // button hintergrund
+		
+		body.site
+		{
+			border-top: 3px solid #a81818;
+			background-color: #f4f6f7		}
+		a
+		{
+			color: #a81818;
+		}
+		.navbar-inner, .nav-list > .active > a, .nav-list > .active > a:hover, .dropdown-menu li > a:hover, .dropdown-menu .active > a, .dropdown-menu .active > a:hover, .nav-pills > .active > a, .nav-pills > .active > a:hover,
+		.btn-primary
+		{
+			background: #a81818;
+		}
+		.navbar-inner
+		{
+			-moz-box-shadow: 0 1px 3px rgba(0, 0, 0, .25), inset 0 -1px 0 rgba(0, 0, 0, .1), inset 0 30px 10px rgba(0, 0, 0, .2);
+			-webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, .25), inset 0 -1px 0 rgba(0, 0, 0, .1), inset 0 30px 10px rgba(0, 0, 0, .2);
+			box-shadow: 0 1px 3px rgba(0, 0, 0, .25), inset 0 -1px 0 rgba(0, 0, 0, .1), inset 0 30px 10px rgba(0, 0, 0, .2);
+		}
+	</style-->
+		<!--[if lt IE 9]>
+		<script src="/media/jui/js/html5.js"></script>
+	<![endif]-->
+</head>
+
+<body class="site com_content view-article no-layout no-task itemid-101">
+
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-70094084-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+	<!-- Body -->
+	<div class="body">
+		<div class="container">
+			<!-- Header -->
+			<header class="header" role="banner">
+				<div class="header-inner clearfix">
+					<a class="brand pull-left" href="/">
+						<span class="site-title" title="Dem Volke Dienen">Dem Volke Dienen</span>													<div class="site-description">Internetplattform für die Entwicklung der revolutionären Bewegung</div>											</a>
+					<div class="header-search pull-right">
+						
+					</div>
+				</div>
+			</header>
+							<nav class="navigation" role="navigation">
+					<div class="navbar pull-left">
+						<a class="btn btn-navbar collapsed" data-toggle="collapse" data-target=".nav-collapse">
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</a>
+					</div>
+					<div class="nav-collapse">
+						<ul class="nav menu nav-pills">
+<li class="item-101 current active"><a href="/index.php/de/" >Home</a></li><li class="item-148"><a href="/index.php/de/t-international" >International</a></li><li class="item-149"><a href="/index.php/de/t-brd" >BRD</a></li><li class="item-150"><a href="/index.php/de/t-kultur" >Kultur</a></li><li class="item-298"><a href="/index.php/de/200-jahre-karl-marx" >200 Jahre Karl Marx</a></li><li class="item-153"><a href="/index.php/de/t-proletarischer-feminismus" >Proletarischer Feminismus</a></li><li class="item-152"><a href="/index.php/de/t-jugend" >Jugend</a></li><li class="item-147 deeper parent"><a href="/index.php/de/t-theorie" >Theorie</a><ul class="nav-child unstyled small"><li class="item-165"><a href="/index.php/de/t-theorie/marx-engels" >Marx / Engels</a></li><li class="item-168"><a href="/index.php/de/t-theorie/lenin" >Lenin</a></li><li class="item-171"><a href="/index.php/de/t-theorie/stalin" >Stalin</a></li><li class="item-169"><a href="/index.php/de/t-theorie/mao" >Mao</a></li><li class="item-172"><a href="/index.php/de/t-theorie/gonzalo" >Gonzalo</a></li><li class="item-156"><a href="/index.php/de/t-theorie/t-dokumente" >Dokumente der kommunistischen Bewegung</a></li></ul></li><li class="item-155"><a href="/index.php/de/t-links" >Links</a></li></ul>
+
+					</div>
+				</nav>
+						
+			<div class="row-fluid">
+								<main id="content" role="main" class="span9">
+					<!-- Begin Content -->
+					
+					<div id="system-message-container">
+	</div>
+
+					<div class="item-page" itemscope itemtype="http://schema.org/Article">
+	<meta itemprop="inLanguage" content="de-DE" />
+		<div class="page-header">
+		<h1> DEM VOLKE DIENEN </h1>
+	</div>
+	
+		
+			<div class="page-header">
+		<h2 itemprop="name">
+							Mitteilung nach der Aggression gegen Rincón Tagolaba, Tehuantepec*					</h2>
+							</div>
+					
+				<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+									Details							</dt>
+
+			
+			
+										<dd class="category-name">
+																		Kategorie: <a href="/index.php/de/42-nachrichten/lateinamerika" itemprop="genre">Lateinamerika</a>							</dd>			
+					
+					
+			
+						</dl>
+	
+	
+		
+						    	<div class="pull-left item-image"> <img src="/images/Mexiko/2023-02-02/Captura1.png" alt="" itemprop="image"/> </div>
+	    			<div itemprop="articleBody">
+		<p style="text-align: justify;"><em>Wir teilen eine uns zugeschickte inoffizielle &Uuml;bersetzung einer <a href="https://solrojista.blogspot.com/2023/02/comunicado-tras-la-agresion-contra.html">Mitteilung der mexikanischen Genossen.</a></em></p>
+ 
+<p style="text-align: justify;">Am Sonntag, den 29. Januar 2023, wurde in verschiedenen Medien &uuml;ber die Aggression gegen die landwirtschaftliche Gemeinde Rinc&oacute;n Tagolaba (Rinconcito) in Tehuantepec, Oaxaca, berichtet. Bewaffnete M&auml;nner in mehr als 10 Pick-up-Trucks kamen in die Gemeinde mit der klaren Absicht, die Bev&ouml;lkerung einzusch&uuml;chtern, um sie f&uuml;r ihre kollektive Entschlossenheit, nat&uuml;rliche Ressourcen wie B&auml;ume und Wasser zu verteidigen, zu bestrafen.</p>
+<p style="text-align: justify;">Die Operation der bewaffneten M&auml;nner wurde von den S&ouml;ldnerbr&uuml;dern Anastasio und Sergio Guti&eacute;rrez Garc&iacute;a geleitet, die umgangssprachlich als <em>"Tacho Canasta und Sergio Canalla"</em> bekannt sind und von der Regierung der Republik als Anf&uuml;hrer des <em>"Kartells der Enteignung"</em> identifiziert wurden, das in verschiedenen Gemeinden des Isthmus von Tehuantepec operiert<a href="#sdfootnote1sym" class="sdfootnoteanc" name="sdfootnote1anc"><sup>1</sup></a>.</p>
+<p style="text-align: justify;">Die Geschichte der Gewalt gegen die Gemeinde ist offensichtlich:</p>
+<p style="text-align: justify;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Am 31. Juli 2022 drangen Sergio und seine Bewaffneten in Rinc&oacute;n Tagolaba ein, um einen Kriminellen namens Luis L&oacute;pez Z&aacute;rate als Leutnant einzusetzen, der von der Gemeindeversammlung aufgrund seiner Vorgeschichte abgelehnt worden war. Bei dieser Gelegenheit beschr&auml;nkte sich Sergio Guti&eacute;rrez Garc&iacute;a darauf, die Gemeindevertreter direkt zu bedrohen und ihnen zu versichern, dass er wiederkommen werde. Bei der Generalstaatsanwaltschaft des Bundesstaates Oaxaca wurde eine Beschwerde &uuml;ber diese Vorf&auml;lle eingereicht.</p>
+<p style="text-align: justify;">&nbsp;&nbsp;&nbsp;&nbsp; II.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sp&auml;ter, am 17. Januar 2023, stoppte die Gemeinde einen Kleintransporter mit unbekannten Personen, die den Wald ohne die Erlaubnis der Bewohner abholzen wollten. Die Unbekannten gaben sich nicht zu erkennen, erkl&auml;rten aber, sie h&auml;tten den Auftrag von Sergio Guti&eacute;rrez Garc&iacute;a, mehr als 100 Hektar Land abzuholzen. Die Unbekannten wurden aus der Gemeinde verwiesen, ohne dass sie das Holz mitnehmen durften.</p>
+<p style="text-align: justify;"><img src="/images/Mexiko/2023-02-02/Captura_3.png" alt="Captura 3" /></p>
+<p style="text-align: justify;">Als Vergeltung drangen Tacho, Sergio und ihre Gruppe am 29. Januar 2023 bewaffnet in die Gemeinde ein, blieben mehr als f&uuml;nf Stunden in der Gemeinde, rissen die Pfosten und Z&auml;une der Anbaufl&auml;chen nieder und zerst&ouml;rten Trinkwasserschl&auml;uche und die Zugangsketten zur Gemeinde. W&auml;hrend ihres Aufenthalts feuerten sie Sch&uuml;sse ab und belagerten die H&auml;user der Gemeindevertreter, verh&ouml;hnten sie und forderten sie auf, ihre H&auml;user zu verlassen.</p>
+<p style="text-align: justify;">Der Staatssekret&auml;r des Bundesstaates Oaxaca, die Generalstaatsanwaltschaft des Bundesstaates Oaxaca, das B&uuml;ro des Ombudsmanns f&uuml;r Menschenrechte des Bundesstaates Oaxaca und der Nationale Mechanismus zum Schutz von Menschenrechtsverteidigern und Journalisten wurden von diesen Ereignissen in Kenntnis gesetzt und um ihr Eingreifen zum Schutz des Lebens und der Unversehrtheit der Bauernfamilien gebeten.</p>
+<p style="text-align: justify;">Die Nationalgarde traf nach langer Zeit am Tatort ein, und zuf&auml;lligerweise zogen sich die Angreifer nur wenige Minuten vorher zur&uuml;ck, wobei sie sich die Zeit nahmen, die Patronenh&uuml;lsen einzusammeln, aber Beweise f&uuml;r die Zerst&ouml;rung und die Br&auml;nde hinterlie&szlig;en, die sie gegen die Bev&ouml;lkerung gelegt hatten.</p>
+<p><img src="/images/Mexiko/2023-02-02/Captura2.png" alt="Captura2" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p style="text-align: justify;">Heute ist die Situation wieder besorgniserregend, denn Sergio Guti&eacute;rrez Garc&iacute;a versichert, dass er zur&uuml;ckkehren wird, bis er sein Ziel erreicht hat, das nichts anderes ist, als seinen Leutnant durchzusetzen, den Wald illegal auszubeuten und die Gemeinde ihres Landes zu enteignen.</p>
+<p style="text-align: justify;">Die Br&uuml;der Guti&eacute;rrez Garc&iacute;a sind ein Banditenpaar, das durch Gewalt und Paramilitarismus zu Landbesitzern wurde und heute im Dienste krimineller Gruppen, privater Unternehmen und verschiedener Regierungsebenen steht, die auf die eine oder andere Weise den Interozeanischen Korridor des Isthmus von Tehuantepec (CIIT) durchsetzen wollen. Aus diesem Grund begehen sie alle Arten von Enteignungen von Gemeindeland und kleinen Grundst&uuml;cken, die sich in der N&auml;he der von diesem Megaprojekt betroffenen Gebiete befinden.</p>
+<p style="text-align: justify;">Wir machen Anastasio und Sergio Guti&eacute;rrez Garc&iacute;a direkt verantwortlich f&uuml;r jeden neuen bewaffneten &Uuml;bergriff oder jede Aggression gegen die Gemeinde Rinc&oacute;n Tagolaba sowie f&uuml;r die k&ouml;rperliche und seelische Unversehrtheit der dort lebenden Campesino-Familien.</p>
+<p style="text-align: justify;">Wir fordern die Beh&ouml;rden der verschiedenen Regierungsebenen auf, die Integrit&auml;t der Gemeinde und ihrer Bewohner zu sch&uuml;tzen und dieser Welle von Aggressionen endg&uuml;ltig Einhalt zu gebieten, indem wir sie daran erinnern, dass die Br&uuml;der Guti&eacute;rrez Garc&iacute;a mit mindestens vier Strafverfahren der Gemeinde Santa Cruz Tagolaba in Verbindung stehen.</p>
+<p style="text-align: justify;">Wir betonen, dass angesichts dieser Aggressionen durch S&ouml;ldner und paramilit&auml;rische Gruppen und der Komplizenschaft des Staates die Antwort des Volkes in der Organisierung und militanten Mobilisierung besteht.</p>
+<p style="text-align: justify;">Stoppt die Enteignungen und Zumutungen in Santa Cruz Tagolaba!</p>
+<p style="text-align: justify;">Stoppt die Aggressionen gegen Rinc&oacute;n Tagolaba!</p>
+<p style="text-align: justify;">Verhaftet die S&ouml;ldnerbr&uuml;der Guti&eacute;rrez Garc&iacute;a!</p>
+<p style="text-align: justify;">Nein zur Auferlegung von Megaprojekten der Enteignung und des Todes!</p>
+<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;"><span style="font-size: 8pt;">Unterschrieben:</span></p>
+<p style="text-align: justify;"><span style="font-size: 8pt;">Gemeinde Santa Cruz Tagolaba im Widerstand und Versammlung von Rinc&oacute;n Tagolaba.</span></p>
+<p style="text-align: justify;"><span style="font-size: 8pt;">F&uuml;r die Front der Oaxaca-Organisationen (F.O.R.O.). - Corriente del Pueblo Sol Rojo (CP-Sol Rojo); Asamblea de los Pueblos Ind&iacute;genas del Istmo en Defensa de la Tierra y el Territorio (APIIDTT); Uni&oacute;n de Comunidades Ind&iacute;genas de la Zona Norte del Istmo (UCIZONI); Uni&oacute;n Nacional de Trabajadores Agr&iacute;colas (UNTA); Consejo de Comunidades Ind&iacute;genas de la Sierra Sur (COCISS); Organizaciones Indias por los Derechos Humanos en Oaxaca (OIDHO); Comit&eacute; por la Defensa de los Derechos Ind&iacute;genas (CODEDI); Movimiento Agrario Ind&iacute;gena Zapatista (MAIZ); Comit&eacute; de Defensa Ciudadana (CODECI); Comit&eacute; de Defensa de los Derechos de los Pueblos de Oaxaca (CODEPO); Uni&oacute;n Campesina e Ind&iacute;gena de Oaxaca-Emiliano Zapata (UCIO-EZ); Frente Ind&iacute;gena Zapoteco (FIZ); Colectivo por la Memoria, la Esperanza y la Lucha "Salvador Olmos Garc&iacute;a"; Frente &Uacute;nico Campesino Loxicha (FUCAL); Consejo para el Desarrollo Social de Santiago Amoltepec (CODESA).</span></p>
+<p style="text-align: justify;"><span style="font-size: 8pt;">Andere Organisationen. - Frente Popular Francisco Villa Independiente (FPFVI); Oaxaca-UNIDO; Movimiento Femenino Popular (MFP-Mx); Defensores de Derechos Humanos San Miguel Copala (Desplazados); ZURCO-Nochixtl&aacute;n; Comuna Cultural "Nahui Mazatl"-Estado de M&eacute;xico; Movimiento Estudiantil Popular (MEP-Mx); Colectiva Feminista de Aguascalientes; Observatorio de Violencia Social y de G&eacute;nero de Aguascalientes; Frente de Pueblos en Defensa de la Tierra y el Agua de Morelos, Puebla y Tlaxcala (FPDTA-MPT); Sindicato Nacional Libre de Trabajadores del Seguro Social (SNLTSS); Comit&eacute; en Defensa de la Tierra de Juchit&aacute;n "Xuba Yachi"; Colectivo Popular de Propaganda-CDMx; Frente Popular de la Monta&ntilde;a de Guerrero (FPM-G); Peri&oacute;dico Mural, popul&auml;re und demokratische Presse; Sindicato &Uacute;nico de Trabajadores del Telebachillerato Comunitario del Estado de Oaxaca (SUTTEBCEO); Centro de Derechos Humanos Tepeyac; Secci&oacute;n 9-Sindicato Independiente Nacional de Trabajadores de Salud (SINTS); Comunidades Campesinas de Camino (CCC); No Vivimos del Aplauso-Cap&iacute;tulo Hidalgo; Proyecto Cooperativo Teozentli-CDMx; Brigadas Juveniles del Pueblo (BJP); Colectiva Las Vanders; Uni&oacute;n Popular Apizaquence Democr&aacute;tica e Independiente (UPADI); Concejo Nacional Urbano y Campesino (CNUC); <a href="mailto:L@s Hij">L@s Hij</a>@s del Ma&iacute;z Pinto-Tlaxcala.</span></p>
+<p style="text-align: justify;"><span style="font-size: 8pt;">Anmerkungen.</span></p>
+<p style="text-align: justify;"><span style="font-size: 8pt;">*Alle Fotos sind mit freundlicher Genehmigung der Gemeinschaft und stammen aus dem Peri&oacute;dico Mural, der popul&auml;ren und demokratischen Presse.</span></p>
+<p style="text-align: justify;"><span style="font-size: 8pt;"><strong>1</strong> In seiner morgendlichen Konferenz am 15. September 2022 sprach Andr&eacute;s Manuel L&oacute;pez Obrador das Problem des "Kartells der Enteignung" in Tehuantepec an und wies darauf hin, dass... <a href="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-15-de-septiembre-de-2022">"In Tehuantepec gibt es bereits Ermittlungsakten gegen verschiedene Personen von Organisationen, in Anf&uuml;hrungszeichen, sozialen Organisationen, die sich Grundst&uuml;cke aneignen, in sie eindringen und die Besitzer bedrohen oder enteignen, manchmal sogar von &ouml;ffentlichem Eigentum, von Staatseigentum. Im Fall von Sergio "N" und Anastasio "N" zum Beispiel wird ihnen das Verbrechen der Freiheitsberaubung vorgeworfen. Am 28. Juni drang eine Gruppe von 50 Personen unter der F&uuml;hrung von Sergio 'N' mit Macheten in ein Geb&auml;ude der ISSSTE ein, in dem Arbeiter der Firma Desarrollo de Tecnolog&iacute;a y Servicios Integrales Renovierungsarbeiten durchf&uuml;hrten. Der Leiter der Arbeiten wurde seiner Freiheit beraubt und in das Haus der Ejidal gebracht, wo sie ihn zwangen, ein Dokument zu unterschreiben, und ihn gegen seine Freiheit festhielten."</a></span></p>	</div>
+
+	
+						</div>
+
+					
+					<!-- End Content -->
+				</main>
+									<div id="aside" class="span2" style="float:right;">
+						<!-- Begin Right Sidebar -->
+						<div class=" ">﻿<script type="text/javascript">
+// "σε άλλες γλώσσες "
+var cit = new Array(" in other languages ", " en otras languas ", " em outras línguas ", "Dans d'autres langues ", " In altre lingue ", " in anderen Sprachen ");
+var ind= 0;
+document.getElementById('Citation1').innerHTML = cit[ind];
+ChangeCitation2();
+function ChangeCitation2(){
+  incrementIndex()
+  document.getElementById('Citation2').innerHTML = cit[ind];
+  document.getElementById('Citation1').style.opacity = 0;
+  document.getElementById('Citation2').style.opacity = 1;
+  setTimeout(ChangeCitation1, 4000);
+}
+function ChangeCitation1(){
+  incrementIndex();
+  document.getElementById('Citation1').innerHTML = cit[ind];
+  document.getElementById('Citation1').style.opacity = 1;
+  document.getElementById('Citation2').style.opacity = 0;
+  setTimeout(ChangeCitation2, 4000);
+}
+function incrementIndex(){
+  if(ind < cit.length - 1 ){
+    ind++;
+  }else{
+    ind = 0;
+  }
+}</script>
+<img src="/templates/protostar/images/custom_system/custom_search_button.svg" style="display:none;" onload="ChangeCitation2()">
+<nav id="primary_nav_wrap">
+    <ul>
+      <li id="citationContainer">
+      	<p id = "Citation1"></p>
+    	<p id = "Citation2"></p>
+        <ul>
+		  <li><a href="/index.php/de/">Deutsch</a>
+          <li><a href="/index.php/en/">English</a>
+          <li><a href="/index.php/es/">Español</a>
+		  <li><a href="/index.php/fr/">Français</a>
+		  <li><a href="/index.php/it/">Italiano</a>
+          <li><a href="/index.php/pt/">Português</a>
+        </ul>
+      </li>
+    </ul>
+</nav>
+
+
+<div class="search_div2"> 
+	<form action="/index.php/de/" method="post" class="form-inline">
+	<label for="mod-search-searchword" class="element-invisible"> Suchen... </label>
+	<input name="searchword" id="mod-search-searchword" maxlength="200"  class="inputbox search-query" type="search"  placeholder="Suchen..." size="" />
+   
+	<input type="image" alt="Start Search" class="search_button" id="search-button-id" src="/templates/protostar/images/custom_system/custom_search_button.svg" onclick="this.form.searchword.focus()"/>
+    
+
+		<input type="hidden" name="task" value="search" />
+		<input type="hidden" name="option" value="com_search" />
+		<input type="hidden" name="Itemid" value="101" />
+	</form>
+</div></div><div class=" "><ul class="nav menu">
+<li class="item-138"><a href="/index.php/de/ueber-uns" >Über uns</a></li><li class="item-139"><a href="/index.php/de/about-en" >About</a></li><li class="item-140"><a href="/index.php/de/about-es" > Sobre Nosotros</a></li><li class="item-141"><a href="/index.php/de/about-tr" >Hakkımızda</a></li><li class="item-144"><a href="/index.php/de/kontakt" >Kontakt</a></li><li class="item-164"><a href="/index.php/de/sicherheit" >Sicherheit</a></li></ul>
+</div><div class=" ">
+
+<!-- JoomlaWorks "Simple RSS Feed Reader" Module (v3.3) starts here -->
+<div class="srfrContainer ">
+
+		<p class="srfrPreText">Aktuelles aus dem Netz</p>
+	
+	<ul class="srfrList">
+				<li class="srfrRow srfrRowIsOdd">
+						<span class="srfrFeedSource">
+				<a target="_blank" href="http://vnd-peru.blogspot.com/">Nuevo Peru</a>
+			</span>
+			
+						<h3><a target="_blank" href="http://vnd-peru.blogspot.com/2023/02/a-nova-democracia-brasil-editorial.html">A NOVA DEMOCRACIA BRASIL: Editorial Semanal &ndash; Las matem&aacute;ticas de la capitulaci&oacute;n ante los milicos reaccionarios</a></h3>
+			
+						<span class="srfrFeedItemDate">Feb  3, 2023 | 15:05 pm</span>
+			
+			
+			
+			<div class="clr"></div>
+		</li>
+				<li class="srfrRow srfrRowIsEven">
+						<span class="srfrFeedSource">
+				<a target="_blank" href="http://political-prisoners.net">political prisoners network</a>
+			</span>
+			
+						<h3><a target="_blank" href="http://political-prisoners.net/b-veranstaltung-antifaschismus-repression-und-patriarchat/19762/">B: Veranstaltung: Antifaschismus, Repression und Patriarchat</a></h3>
+			
+						<span class="srfrFeedItemDate">Feb  3, 2023 | 08:43 am</span>
+			
+			
+			
+			<div class="clr"></div>
+		</li>
+				<li class="srfrRow srfrRowIsOdd">
+						<span class="srfrFeedSource">
+				<a target="_blank" href="http://political-prisoners.net">political prisoners network</a>
+			</span>
+			
+						<h3><a target="_blank" href="http://political-prisoners.net/merdan-k-meine-politischen-aktivitaeten-sind-nicht-terroristisch-sondern-legitim/19758/">Merdan K.: Meine politischen Aktivit&auml;ten sind nicht terroristisch, sondern legitim</a></h3>
+			
+						<span class="srfrFeedItemDate">Feb  3, 2023 | 08:31 am</span>
+			
+			
+			
+			<div class="clr"></div>
+		</li>
+				<li class="srfrRow srfrRowIsEven">
+						<span class="srfrFeedSource">
+				<a target="_blank" href="http://vnd-peru.blogspot.com/">Nuevo Peru</a>
+			</span>
+			
+						<h3><a target="_blank" href="http://vnd-peru.blogspot.com/2023/02/bandera-roja-pcp-base-lima.html">BANDERA ROJA: PCP BASE LIMA: DESENMASCARAR EL PLAN IMPERIALISTA YANQUI CONTRA EL PER&Uacute; Y OTROS PA&Iacute;SES DE AM&Eacute;RICA LATINA</a></h3>
+			
+						<span class="srfrFeedItemDate">Feb  2, 2023 | 14:46 pm</span>
+			
+			
+			
+			<div class="clr"></div>
+		</li>
+				<li class="srfrRow srfrRowIsOdd">
+						<span class="srfrFeedSource">
+				<a target="_blank" href="http://zusammenkaempfen.bplaced.net">Zusammen Kämpfen [Magdeburg]</a>
+			</span>
+			
+						<h3><a target="_blank" href="http://political-prisoners.net/erinnerung-an-matthias-kramer-geboren-9-11-1960-kirchheim-teck-gestorben-anfang-dezember-2022-in-magdeburg/19365/">Erinnerungen an Matthias Kramer</a></h3>
+			
+						<span class="srfrFeedItemDate">Jan 13, 2023 | 17:21 pm</span>
+			
+			
+			
+			<div class="clr"></div>
+		</li>
+				<li class="srfrRow srfrRowIsEven">
+						<span class="srfrFeedSource">
+				<a target="_blank" href="http://zusammenkaempfen.bplaced.net">Zusammen Kämpfen [Magdeburg]</a>
+			</span>
+			
+						<h3><a target="_blank" href="http://zusammenkaempfen.bplaced.net/2023/01/wer-von-kapitalismus-redet-kann-ueber-den-krieg-nicht-schweigen/">Wer von Kapitalismus redet kann &uuml;ber den Krieg nicht schweigen!</a></h3>
+			
+						<span class="srfrFeedItemDate">Jan 13, 2023 | 17:02 pm</span>
+			
+			
+			
+			<div class="clr"></div>
+		</li>
+				<li class="srfrRow srfrRowIsOdd">
+						<span class="srfrFeedSource">
+				<a target="_blank" href="https://rotepresse.noblogs.org">Rote Presse</a>
+			</span>
+			
+						<h3><a target="_blank" href="https://rotepresse.noblogs.org/rote-post-58/">Rote Post #58</a></h3>
+			
+						<span class="srfrFeedItemDate">Jan  3, 2023 | 18:01 pm</span>
+			
+			
+			
+			<div class="clr"></div>
+		</li>
+				<li class="srfrRow srfrRowIsEven">
+						<span class="srfrFeedSource">
+				<a target="_blank" href="https://rotepresse.noblogs.org">Rote Presse</a>
+			</span>
+			
+						<h3><a target="_blank" href="https://rotepresse.noblogs.org/rote-post-57/">Rote Post #57</a></h3>
+			
+						<span class="srfrFeedItemDate">Nov 30, 2022 | 23:25 pm</span>
+			
+			
+			
+			<div class="clr"></div>
+		</li>
+				<li class="srfrRow srfrRowIsOdd">
+						<span class="srfrFeedSource">
+				<a target="_blank" href="https://rotesfrauenkomitee.wordpress.com">Rotes Frauenkomitee</a>
+			</span>
+			
+						<h3><a target="_blank" href="https://rotesfrauenkomitee.wordpress.com/2018/07/21/das-bisschen-haushalt/">Das bisschen Haushalt?</a></h3>
+			
+						<span class="srfrFeedItemDate">Jul 21, 2018 | 19:57 pm</span>
+			
+			
+			
+			<div class="clr"></div>
+		</li>
+				<li class="srfrRow srfrRowIsEven">
+						<span class="srfrFeedSource">
+				<a target="_blank" href="https://rotesfrauenkomitee.wordpress.com">Rotes Frauenkomitee</a>
+			</span>
+			
+						<h3><a target="_blank" href="https://rotesfrauenkomitee.wordpress.com/2018/06/25/aktuelles-zur-situation-der-frauen-in-palaestina/">Aktuelles zur Situation der Frauen in Pal&auml;stina</a></h3>
+			
+						<span class="srfrFeedItemDate">Jun 25, 2018 | 17:23 pm</span>
+			
+			
+			
+			<div class="clr"></div>
+		</li>
+			</ul>
+
+	
+	</div>
+
+<div class="clr"></div>
+
+<!-- JoomlaWorks "Simple RSS Feed Reader" Module (v3.3) ends here -->
+
+</div>            
+						<!-- End Right Sidebar -->
+					</div>
+							</div>
+		</div>
+	</div>
+	<!-- Footer -->
+	<footer class="footer" role="contentinfo">
+		<div class="container">
+			<hr />
+			
+			<p class="pull-right">
+				<a href="#top" id="back-top">
+					Nach oben				</a>
+			</p>
+			<p>
+			&copy; 2023  
+			</p>
+		</div>
+	</footer>
+	
+
+</body>
+</html>
