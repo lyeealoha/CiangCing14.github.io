@@ -20,7 +20,7 @@
 
  当超过100,000名教师在英格兰和威尔士罢工时，该国有23,000多所学校将关闭。 
 
- ![](Images/SOCIALISTISK REVOLUTION/2023-02-04T04:00:00+00:00/london-uk-16th-jan-2023-protesters-with-placards-protesters-and-speakers-gather-opposite-downing-street-for-the-protect-the-right-to-strike-emergency-demo-including-members-of-the-rmt-t-1.jpeg)教师的罢工次数广泛，因为除了对资产阶级的民用教育之外，另一个目的是，学校是从无产阶级家庭繁殖的日托机构。 如果没有将孩子送到工作时间的地方，人们就必须寻求替代方案来照顾孩子。 据报道，一些家庭成员将休假，该国其他生产领域也证明了这一点。 
+ ![](Images/SOCIALISTISK REVOLUTION/2023-02-04T04-00-00-00-00/london-uk-16th-jan-2023-protesters-with-placards-protesters-and-speakers-gather-opposite-downing-street-for-the-protect-the-right-to-strike-emergency-demo-including-members-of-the-rmt-t-1.jpeg)教师的罢工次数广泛，因为除了对资产阶级的民用教育之外，另一个目的是，学校是从无产阶级家庭繁殖的日托机构。 如果没有将孩子送到工作时间的地方，人们就必须寻求替代方案来照顾孩子。 据报道，一些家庭成员将休假，该国其他生产领域也证明了这一点。 
 
  在教师罢工的同时，大学讲师，司机，公共汽车司机和保安人员正在处理更高工资，更好的养老金和工作安全的要求。 
 
@@ -28,11 +28,11 @@
 
  罢工和抗议活动还针对总理瑞希·苏纳克·奥格甘(Rishi Sunak Oghan)政府的新罢工违反法律进行，这应该使得在罢工下不执行“最低服务”的工人，即IE。 并非最不重要的部分作品强调。 里希·奥甘(Rishi Oghan)的政府徒劳地努力跟随马格雷特·撒切尔(Margeret Thatcher)的脚步，就像前锋一样，他们自己承认无产阶级组织带来的问题。 
 
- ![](Images/SOCIALISTISK REVOLUTION/2023-02-04T04:00:00+00:00/th-4119143806-edited.jpeg)英国贸易工会的国家组织TUC指出，英国人与今天甚至十年前的一个月相同。 
+ ![](Images/SOCIALISTISK REVOLUTION/2023-02-04T04-00-00-00-00/th-4119143806-edited.jpeg)英国贸易工会的国家组织TUC指出，英国人与今天甚至十年前的一个月相同。 
 
  去年年底，超过100,000名英国护士在全国范围内发动了罢工，分为76家公立医院，Sunhedscenters，该医院发起了该国有史以来首次国家护士罢工。 罢工的要求类似于 关于2021年Danmarkkage的护士的要求，以及对其他事项的要求。 更高的薪水。 
 
- ![](Images/SOCIALISTISK REVOLUTION/2023-02-04T04:00:00+00:00/th-1179436622-edited.jpeg)我们看到无产阶级所承担的帝国主义的危机是如何将无产阶级施加在战斗中，反对我们权利的袭击。无产阶级通过帝国主义资产阶级的资产阶级撒谎和恐惧，因为他们试图在帝国主义战争中蔓延，而他们却更深入地散布并以“国防救济欧洲”的名义攻击无产阶级的权利。
+ ![](Images/SOCIALISTISK REVOLUTION/2023-02-04T04-00-00-00-00/th-1179436622-edited.jpeg)我们看到无产阶级所承担的帝国主义的危机是如何将无产阶级施加在战斗中，反对我们权利的袭击。无产阶级通过帝国主义资产阶级的资产阶级撒谎和恐惧，因为他们试图在帝国主义战争中蔓延，而他们却更深入地散布并以“国防救济欧洲”的名义攻击无产阶级的权利。
 
 News Source: [https://socialistiskrevolution.wordpress.com/2023/02/04/flere-hundredetusinde-offentligt-ansatte-strejker-i-storbrittanien/](https://socialistiskrevolution.wordpress.com/2023/02/04/flere-hundredetusinde-offentligt-ansatte-strejker-i-storbrittanien/)
 
@@ -54,7 +54,7 @@ News Source: [https://socialistiskrevolution.wordpress.com/2023/02/04/flere-hund
 
 <!--METADATA-->
 
-![](Images/Redspark/2023-02-04T05:15:02+00:00/arrested_pic_20200130142730-800x445.jpg)** Dantewada区，2023年2月4日：** CPI的干部(Maoist)周六在恰蒂斯加尔邦的丹特瓦达地区待了。 
+![](Images/Redspark/2023-02-04T05-15-02-00-00/arrested_pic_20200130142730-800x445.jpg)** Dantewada区，2023年2月4日：** CPI的干部(Maoist)周六在恰蒂斯加尔邦的丹特瓦达地区待了。 
 
  Dantewada警察局悉达多·蒂瓦里(Siddharth Tiwari)告诉先锋(34)被贡达拉斯和波特利村庄之间的丛林中的丛林逮捕了区。 
 
@@ -86,7 +86,7 @@ News Source: [https://www.redspark.nu/en/peoples-war/militia-deputy-commander-of
 
 <!--METADATA-->
 
-![](Images/Tjen-Folket/2023-02-04T07:00:00+00:00/raketter-i-ukraina-1160x687.jpg)* * * 
+![](Images/Tjen-Folket/2023-02-04T07-00-00-00-00/raketter-i-ukraina-1160x687.jpg)* * * 
 
  由Eart Folket Media的评论员。 
 
@@ -160,7 +160,7 @@ News Source: [https://proletaricomunisti.blogspot.com/2023/02/airaudo-cerca-nuov
 
 <!--METADATA-->
 
-![](Images/Redspark/2023-02-04T10:29:12+00:00/ab-dailies-icc-prosecute-duterte-1024x502-1-800x445.png)** Marco Valbuena | 首席信息官| 菲律宾共产党** 
+![](Images/Redspark/2023-02-04T10-29-12-00-00/ab-dailies-icc-prosecute-duterte-1024x502-1-800x445.png)** Marco Valbuena | 首席信息官| 菲律宾共产党** 
 
  ** 2023年2月4日** 
 
@@ -206,11 +206,11 @@ News Source: [https://www.redspark.nu/en/peoples-war/cpp-statement-condemning-ma
 
  作为季节性收获季节，面对系统的虐待，临时/ASA打架的呼吁一直是一个不变的，即模式和承包商在2022  -  2023年的季节中延续了农业工人，以低薪，艰苦的工作日和拒绝个人保护的权利和基本要素。 精心设计的摄影术在农民和温度质量之间得到了良好的接收，其中有科学数据证明了劳动力的剥削： 
 
- [![](Images/Nuevo Peru/2023-02-04T13:31:00+01:00/IMG_20230112_120320_466.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWNBIjj3whiXHCQCP1mCeXxZLUPPjq_xUp_lUBeA1RlRpnF9t2oI3nnJtj6WI5_lsf6lGWze3cu2kJZlhOxjg0xkra1I8Jher9lrLUHHg1in7t_B_HysWxNiILSnVHP9EHbQT0iR3o0g_TVIWSv-JCWXLboKIkRqzbpXCiAI51d_EMbK0G8aqV4nMx/s1080/IMG_20230112_120320_466.jpg)[![](Images/Nuevo Peru/2023-02-04T13:31:00+01:00/IMG_20230112_120320_470.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfQ7bMQof-LcI3UEfxnirTOkOUyR-F5s3a5iTwObIVHwkpNuXUGfhUkyXTb7Zh0SvukWpXfZb_A4RgrLilf05YX37i3JkTRiEDohVPO1clNm5OEVltUAvs8yjw8WEhT-eIQ_Odlp98S8v83qWl_oJAgqAKCoCPkdIZYtcPv55AcGEL5td5ab6IYfkp/s1080/IMG_20230112_120320_470.jpg)[![](Images/Nuevo Peru/2023-02-04T13:31:00+01:00/IMG_20230112_120320_479.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqDTuls7X9KYnXlObzhcd59J2A42pGRRjnGquLqgagUf531_MbBx9e3mipmf5vbkOhwQvXHsD033pKVOsO4v3s5T7bsegFhF4m_wTiSIgl1-bdHGufFItlNkgoOjMNTVzw9Sam-wQgbMUxiHHbWF10DLX1e9xxFY09-RuTfEZcTMIF-ogCMoqH2xaH/s1080/IMG_20230112_120320_479.jpg)与这种材料一起，在Maulllamando地区开放了支队来战斗： 
+ [![](Images/Nuevo Peru/2023-02-04T13-31-00-01-00/IMG_20230112_120320_466.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWNBIjj3whiXHCQCP1mCeXxZLUPPjq_xUp_lUBeA1RlRpnF9t2oI3nnJtj6WI5_lsf6lGWze3cu2kJZlhOxjg0xkra1I8Jher9lrLUHHg1in7t_B_HysWxNiILSnVHP9EHbQT0iR3o0g_TVIWSv-JCWXLboKIkRqzbpXCiAI51d_EMbK0G8aqV4nMx/s1080/IMG_20230112_120320_466.jpg)[![](Images/Nuevo Peru/2023-02-04T13-31-00-01-00/IMG_20230112_120320_470.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfQ7bMQof-LcI3UEfxnirTOkOUyR-F5s3a5iTwObIVHwkpNuXUGfhUkyXTb7Zh0SvukWpXfZb_A4RgrLilf05YX37i3JkTRiEDohVPO1clNm5OEVltUAvs8yjw8WEhT-eIQ_Odlp98S8v83qWl_oJAgqAKCoCPkdIZYtcPv55AcGEL5td5ab6IYfkp/s1080/IMG_20230112_120320_470.jpg)[![](Images/Nuevo Peru/2023-02-04T13-31-00-01-00/IMG_20230112_120320_479.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqDTuls7X9KYnXlObzhcd59J2A42pGRRjnGquLqgagUf531_MbBx9e3mipmf5vbkOhwQvXHsD033pKVOsO4v3s5T7bsegFhF4m_wTiSIgl1-bdHGufFItlNkgoOjMNTVzw9Sam-wQgbMUxiHHbWF10DLX1e9xxFY09-RuTfEZcTMIF-ogCMoqH2xaH/s1080/IMG_20230112_120320_479.jpg)与这种材料一起，在Maulllamando地区开放了支队来战斗： 
 
- [![](Images/Nuevo Peru/2023-02-04T13:31:00+01:00/IMG_20221227_180232.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8x0ROsxb4MELtukxA52Ti2fmiSDe81IM7P0VZr8Vb9-rtXu6xWpNIfBmAsuBjKgpnB4T2s9V-5GIdMTieiagbQZGY8zRu5pdOqIigyJkcINcg56-mqMxfgMJ8dFUetKVY8kQERVutGbpyeYk6NyQOMc6X5rEauVnUs1pMxtOadV04nG9fJHEYM8oD/s1600/IMG_20221227_180232.jpg)---Hualañé别墅的Rayado壁画[![](Images/Nuevo Peru/2023-02-04T13:31:00+01:00/IMG_20230129_110341.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5nt1xuTRrhwaiTjd-4zu2yzrv1m8XLO2tHqQgGWFVbinZZ0cxcAmJnX7yK-XVOhDIXt27ka0s60o4-aSEQy7tuXUvtKCX67yCeLnTvqzXy3L3AWGSFE6RPMTL4gi9iosoHZ-rfZls16cuA0OM-f6eKkLRxsE8LD70CAE6bz_PQixAyxuCtjKTOO31/s1600/IMG_20230129_110341.jpg)---利马维达(Limávida)的Rayado壁画，策展人[![[](Images/Nuevo Peru/2023-02-04T13:31:00+01:00/IMG_20230129_111033.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4eENc4vU6BM1SIjT3Yb-NZsGin1Kzb9UUk02755233KJNsSuXmRwhuRSvYT4bE4zdOmKeh0Ep62dgDXIIzPFNh3swpFLzKYf71HBmbcT6Has0FY_XJnP0L511ztY_l8oBmDnXbtcqJ1AISir3wedjUsRkqiBJn93FoJ3RcD4AaSp8Bi6yfqPyzXHl/s1600/IMG_20230129_111033.jpg)---constantué的Rayado壁画，策展人 
+ [![](Images/Nuevo Peru/2023-02-04T13-31-00-01-00/IMG_20221227_180232.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8x0ROsxb4MELtukxA52Ti2fmiSDe81IM7P0VZr8Vb9-rtXu6xWpNIfBmAsuBjKgpnB4T2s9V-5GIdMTieiagbQZGY8zRu5pdOqIigyJkcINcg56-mqMxfgMJ8dFUetKVY8kQERVutGbpyeYk6NyQOMc6X5rEauVnUs1pMxtOadV04nG9fJHEYM8oD/s1600/IMG_20221227_180232.jpg)---Hualañé别墅的Rayado壁画[![](Images/Nuevo Peru/2023-02-04T13-31-00-01-00/IMG_20230129_110341.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5nt1xuTRrhwaiTjd-4zu2yzrv1m8XLO2tHqQgGWFVbinZZ0cxcAmJnX7yK-XVOhDIXt27ka0s60o4-aSEQy7tuXUvtKCX67yCeLnTvqzXy3L3AWGSFE6RPMTL4gi9iosoHZ-rfZls16cuA0OM-f6eKkLRxsE8LD70CAE6bz_PQixAyxuCtjKTOO31/s1600/IMG_20230129_110341.jpg)---利马维达(Limávida)的Rayado壁画，策展人[![[](Images/Nuevo Peru/2023-02-04T13-31-00-01-00/IMG_20230129_111033.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4eENc4vU6BM1SIjT3Yb-NZsGin1Kzb9UUk02755233KJNsSuXmRwhuRSvYT4bE4zdOmKeh0Ep62dgDXIIzPFNh3swpFLzKYf71HBmbcT6Has0FY_XJnP0L511ztY_l8oBmDnXbtcqJ1AISir3wedjUsRkqiBJn93FoJ3RcD4AaSp8Bi6yfqPyzXHl/s1600/IMG_20230129_111033.jpg)---constantué的Rayado壁画，策展人 
 
- [![](Images/Nuevo Peru/2023-02-04T13:31:00+01:00/IMG_20230129_111039.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR0lQVznH9qpHwDYU6AMgsyswmcHlzzKQW9lOvQjkO8DCd29wtUhKPoAeXOTWSXU9APsvrrxN4QfaCpx30SqCKqJLWXwFjWVNzPSxXtl3nPjp5pmd_rWW6iLXDioQSg0ASpng6uqum3gAOfMS1Qu4dMINx-ns0SqMpe7vRRGCbcGYFZW4C_T1hRmXG/s1600/IMG_20230129_111039.jpg)此外，面对帝国主义的危机，机会主义政府出售了加布里埃尔·波里奇(Gabriel Boric)的帕特里亚(Frente Amplio)在与Teillier-Vallejos-Carmona的虚假共产党的衰退中勾结，应用了帝国主义计划，尤其是Losyankis的计划，他们通过国际货币基金(FMI)他们在居住在智利的人们的肩膀上，尤其是在贫穷和临时的角落，在-2022年中期的通货膨胀率为14.1％。 
+ [![](Images/Nuevo Peru/2023-02-04T13-31-00-01-00/IMG_20230129_111039.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR0lQVznH9qpHwDYU6AMgsyswmcHlzzKQW9lOvQjkO8DCd29wtUhKPoAeXOTWSXU9APsvrrxN4QfaCpx30SqCKqJLWXwFjWVNzPSxXtl3nPjp5pmd_rWW6iLXDioQSg0ASpng6uqum3gAOfMS1Qu4dMINx-ns0SqMpe7vRRGCbcGYFZW4C_T1hRmXG/s1600/IMG_20230129_111039.jpg)此外，面对帝国主义的危机，机会主义政府出售了加布里埃尔·波里奇(Gabriel Boric)的帕特里亚(Frente Amplio)在与Teillier-Vallejos-Carmona的虚假共产党的衰退中勾结，应用了帝国主义计划，尤其是Losyankis的计划，他们通过国际货币基金(FMI)他们在居住在智利的人们的肩膀上，尤其是在贫穷和临时的角落，在-2022年中期的通货膨胀率为14.1％。 
 
  价格上涨，例如食品，建筑和燃料材料，尽管后者这些几周略低，但并不意味着群众生活的真实和持久的改善。 
 
@@ -255,9 +255,9 @@ News Source: [https://vnd-peru.blogspot.com/2023/02/prensa-chiripilko-blog-ofici
 
 <!--METADATA-->
 
-![](Images/proletari comunisti/2023-02-04T13:46:00+01:00/IMG-20230204-WA0001.jpg)同伴和同伴的大会之后，在伯加莫的Gleno的参与式Alcarce Garrison之后，在15.00处发起了新的围场团结任命，在41 BIS外部为Alfredo FS伯加莫(Bergamo)，在41 BIS外部，反对司法狂暴，违约，折磨于司法狂暴。 反对无期徒刑。 
+![](Images/proletari comunisti/2023-02-04T13-46-00-01-00/IMG-20230204-WA0001.jpg)同伴和同伴的大会之后，在伯加莫的Gleno的参与式Alcarce Garrison之后，在15.00处发起了新的围场团结任命，在41 BIS外部为Alfredo FS伯加莫(Bergamo)，在41 BIS外部，反对司法狂暴，违约，折磨于司法狂暴。 反对无期徒刑。 
 
- [![](Images/proletari comunisti/2023-02-04T13:46:00+01:00/IMG-20230203-WA0014.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJZVdevNQk7_vYO2bJgIsPA19-LRWum68jBDwnspnEPUL6SVhrMor9pxmA1ehe_sTwQizPSOnksf1bC31gNaXX98e74-umOnLCfo-eqXeLfYZid7OA6h45dPLjg-TMALDAUjTnKta3t_71PNaRWlMP8dldi1t59SUgybdlr48VINLqycgWx_LJL-FB/s2016/IMG-20230203-WA0014.jpg)[![](Images/proletari comunisti/2023-02-04T13:46:00+01:00/IMG-20230202-WA0010.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiidTytAiUK-nZ70EBT_rrmWWdYcH7x3O7cKsTVOlfAu5wYINQZp2FSTS9uatlIojLaM2KJT729VQBAmliO5CmLAPnl1_FfyBymN7kaO1b6yev1M3Jz5klL1bJ_8i1dIRz35NJaQMqs0Q4OskCFKMnzRUBwZW0epGbhCksaLvurJfYWHUyxtFlujdGD/s1600/IMG-20230202-WA0010.jpg)[![](Images/proletari comunisti/2023-02-04T13:46:00+01:00/IMG-20230204-WA0002.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgHUVKcBlzy1rQ_YDKw-yvVYZCuSqrSsIRB4sF1la-qSGyrGsEtIohoUCONj0VlEzrSscHv_0_49ytbg2O3Be0EJvyBRQDPz4AyalU24zgmdNHJWfH9qCnDhnB0EzvzD9evD1psEJDFpwHbM0EF9NmnA-RuJAunvZmh2k04PyzKLlulAjQV1rVtWlU/s1600/IMG-20230204-WA0002.jpg)[![](Images/proletari comunisti/2023-02-04T13:46:00+01:00/IMG-20230204-WA0003.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpiLCACJUqstwpwJdnm1BtqhkMCgihf-KSOxQr-ARHSSfiD2g4387-jeZEC64oe3g402FSxeqG0VIhRbFY0QfQCXWi__rO8Ea7w70SkPM3EHmxlJC6BryqFYZ4nTvVeT0aFp96-rbWuCjYzcTdMsZbWuQWR4RZzoU9yqmxbR4Hq6njBSaUJU3sSIIA/s1600/IMG-20230204-WA0003.jpg)[![](Images/proletari comunisti/2023-02-04T13:46:00+01:00/IMG-20230204-WA0004.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnsSM858QPiEv3T_pDcZTn34dZaChkCfAhpd0EesZSLfFRcNSSglWPwlb8EHY3tZOxdr_8qeCN64U7crjgtK3Kqt7oP5iXIOQAG9U6ObsSFs5cXtz_w1gbq2E9fapcMHnzTzPryLvkguNHcuyuR_tHjaDOZt_hQ3kewINIruP9f0NhMyGOvvS4CzAT/s1600/IMG-20230204-WA0004.jpg)
+ [![](Images/proletari comunisti/2023-02-04T13-46-00-01-00/IMG-20230203-WA0014.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJZVdevNQk7_vYO2bJgIsPA19-LRWum68jBDwnspnEPUL6SVhrMor9pxmA1ehe_sTwQizPSOnksf1bC31gNaXX98e74-umOnLCfo-eqXeLfYZid7OA6h45dPLjg-TMALDAUjTnKta3t_71PNaRWlMP8dldi1t59SUgybdlr48VINLqycgWx_LJL-FB/s2016/IMG-20230203-WA0014.jpg)[![](Images/proletari comunisti/2023-02-04T13-46-00-01-00/IMG-20230202-WA0010.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiidTytAiUK-nZ70EBT_rrmWWdYcH7x3O7cKsTVOlfAu5wYINQZp2FSTS9uatlIojLaM2KJT729VQBAmliO5CmLAPnl1_FfyBymN7kaO1b6yev1M3Jz5klL1bJ_8i1dIRz35NJaQMqs0Q4OskCFKMnzRUBwZW0epGbhCksaLvurJfYWHUyxtFlujdGD/s1600/IMG-20230202-WA0010.jpg)[![](Images/proletari comunisti/2023-02-04T13-46-00-01-00/IMG-20230204-WA0002.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgHUVKcBlzy1rQ_YDKw-yvVYZCuSqrSsIRB4sF1la-qSGyrGsEtIohoUCONj0VlEzrSscHv_0_49ytbg2O3Be0EJvyBRQDPz4AyalU24zgmdNHJWfH9qCnDhnB0EzvzD9evD1psEJDFpwHbM0EF9NmnA-RuJAunvZmh2k04PyzKLlulAjQV1rVtWlU/s1600/IMG-20230204-WA0002.jpg)[![](Images/proletari comunisti/2023-02-04T13-46-00-01-00/IMG-20230204-WA0003.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpiLCACJUqstwpwJdnm1BtqhkMCgihf-KSOxQr-ARHSSfiD2g4387-jeZEC64oe3g402FSxeqG0VIhRbFY0QfQCXWi__rO8Ea7w70SkPM3EHmxlJC6BryqFYZ4nTvVeT0aFp96-rbWuCjYzcTdMsZbWuQWR4RZzoU9yqmxbR4Hq6njBSaUJU3sSIIA/s1600/IMG-20230204-WA0003.jpg)[![](Images/proletari comunisti/2023-02-04T13-46-00-01-00/IMG-20230204-WA0004.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnsSM858QPiEv3T_pDcZTn34dZaChkCfAhpd0EesZSLfFRcNSSglWPwlb8EHY3tZOxdr_8qeCN64U7crjgtK3Kqt7oP5iXIOQAG9U6ObsSFs5cXtz_w1gbq2E9fapcMHnzTzPryLvkguNHcuyuR_tHjaDOZt_hQ3kewINIruP9f0NhMyGOvvS4CzAT/s1600/IMG-20230204-WA0004.jpg)
 
 News Source: [https://proletaricomunisti.blogspot.com/2023/02/dopo-il-presidio-al-carcere-di-via.html](https://proletaricomunisti.blogspot.com/2023/02/dopo-il-presidio-al-carcere-di-via.html)
 
@@ -277,11 +277,11 @@ News Source: [https://proletaricomunisti.blogspot.com/2023/02/dopo-il-presidio-a
 
 <!--METADATA-->
 
-![](Images/DEM VOLKE DIENEN/2023-02-04T16:23:06+00:00/HH-Palästina0402-3.JPG)在汉堡，星期六，04 \。 2023年2月，来自不同国家的革命者，反帝国主义者和群众表现出反对对以色列轰炸以色列对帕拉斯蒂安主义人民的轰炸。 在讲话中，对加沙地带和德舍宁军事手术的简短袭击受到了严厉谴责。 此外，在过去几天中，不同的监狱中有几个部门，许多囚犯搬迁，阻止了任何探访艺术，并封锁了许多囚犯。 AM31。 2023年1月，监狱行为冲进了al-Damoon监狱和主要的女囚犯。 这一犯罪也被认为是在集会上意识到这一罪行。 此外，在FRG中还讨论了帕拉斯蒂安运动的定罪，因为柏林州政府再次希望禁止安纳克巴的所有会议。 不同的国际主义和反帝国主义组织以及阿拉伯群众表示对帕拉斯蒂尼亚人民无关紧要的阶级仇恨。 
+![](Images/DEM VOLKE DIENEN/2023-02-04T16-23-06-00-00/HH-Palästina0402-3.JPG)在汉堡，星期六，04 \。 2023年2月，来自不同国家的革命者，反帝国主义者和群众表现出反对对以色列轰炸以色列对帕拉斯蒂安主义人民的轰炸。 在讲话中，对加沙地带和德舍宁军事手术的简短袭击受到了严厉谴责。 此外，在过去几天中，不同的监狱中有几个部门，许多囚犯搬迁，阻止了任何探访艺术，并封锁了许多囚犯。 AM31。 2023年1月，监狱行为冲进了al-Damoon监狱和主要的女囚犯。 这一犯罪也被认为是在集会上意识到这一罪行。 此外，在FRG中还讨论了帕拉斯蒂安运动的定罪，因为柏林州政府再次希望禁止安纳克巴的所有会议。 不同的国际主义和反帝国主义组织以及阿拉伯群众表示对帕拉斯蒂尼亚人民无关紧要的阶级仇恨。 
 
- ![HH PALESTINA0402 2](Images/DEM VOLKE DIENEN/2023-02-04T16:23:06+00:00/HH-Palästina0402-2.JPG)通过集会的传球者之间存在着联系和团结的气氛。 许多人加入了集会，大喊口号或开始跳舞与演奏的革命音乐。 还从街道的另一侧召唤，例如“自由，自由的帕拉斯汀!”，并用抬高的拳头向集会打招呼。这表明必须在FRG中在这里进行Despalastinensian人民的斗争。显示。 
+ ![HH PALESTINA0402 2](Images/DEM VOLKE DIENEN/2023-02-04T16-23-06-00-00/HH-Palästina0402-2.JPG)通过集会的传球者之间存在着联系和团结的气氛。 许多人加入了集会，大喊口号或开始跳舞与演奏的革命音乐。 还从街道的另一侧召唤，例如“自由，自由的帕拉斯汀!”，并用抬高的拳头向集会打招呼。这表明必须在FRG中在这里进行Despalastinensian人民的斗争。显示。 
 
- ![HH PALESTINA0402 1](Images/DEM VOLKE DIENEN/2023-02-04T16:23:06+00:00/HH-Palästina0402-1.JPG)
+ ![HH PALESTINA0402 1](Images/DEM VOLKE DIENEN/2023-02-04T16-23-06-00-00/HH-Palästina0402-1.JPG)
 
 News Source: [https://www.demvolkedienen.org/index.php/de/t-international/7459-hamburg-kundgebung-gegen-die-aggression-gegen-palaestina](https://www.demvolkedienen.org/index.php/de/t-international/7459-hamburg-kundgebung-gegen-die-aggression-gegen-palaestina)
 
@@ -315,13 +315,13 @@ News Source: [https://www.demvolkedienen.org/index.php/de/t-international/7459-h
 
 
 
- [![](Images/femminismo proletario rivoluzionario/2023-02-04T16:57:00+01:00/Piattaforma%20donne%208%20marzo%202023_page-0001.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEib6wbAYJhzULp3LVmmKTDQasFN9xf_zB7SPKyf4tz_C9NR9b2rShwwGM6CuF2cgRd5lZCu1JUNC-ThdpV8qYCHhcUcvdksLzb7EXtfA1ArVjMgdBQ_a-ypop35MIwzLXnJHprkfeFnYhq6W74xdMRxRYr21zFzH8zFeqeDPLQdr9vg-_kOn-IKukVg/s1460/Piattaforma%20donne%208%20marzo%202023_page-0001.jpg)
+ [![](Images/femminismo proletario rivoluzionario/2023-02-04T16-57-00-01-00/Piattaforma%20donne%208%20marzo%202023_page-0001.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEib6wbAYJhzULp3LVmmKTDQasFN9xf_zB7SPKyf4tz_C9NR9b2rShwwGM6CuF2cgRd5lZCu1JUNC-ThdpV8qYCHhcUcvdksLzb7EXtfA1ArVjMgdBQ_a-ypop35MIwzLXnJHprkfeFnYhq6W74xdMRxRYr21zFzH8zFeqeDPLQdr9vg-_kOn-IKukVg/s1460/Piattaforma%20donne%208%20marzo%202023_page-0001.jpg)
 
 News Source: [https://femminismorivoluzionario.blogspot.com/2023/02/oggi-e-domani-assemblea-nazionale.html](https://femminismorivoluzionario.blogspot.com/2023/02/oggi-e-domani-assemblea-nazionale.html)
 
 <!--NEWS-->
 
-# 翻译：Nova Mutum/RO中的Massaker：新报告谴责官兵警察袭击时遭受酷刑和违法行为
+# 翻译：Nova Mutum/RO中的Massaker：新报告谴责官兵警察袭击期间遭受酷刑和违法行为
 
 作者: DEM VOLKE DIENEN
 
@@ -339,7 +339,7 @@ _人的表达无产阶级国际主义，残酷的附录，出于对巴西人民�
 
  ** Nova Mutum/RO中的Massaker：新报告谴责酷刑和受伤的权利，以纠正军事警察袭击的权利** 
 
- **![1](Images/DEM VOLKE DIENEN/2023-02-04T20:04:12+00:00/1.jpg)** 
+ **![1](Images/DEM VOLKE DIENEN/2023-02-04T20-04-12-00-00/1.jpg)** 
 
  _raniel Barbosa Laurindo(bekannt als "Mandruv a")，24岁和罗德里戈霍沃洛斯(bekannt als "Estado")34岁，在Sieieievon遭到Rondonia军事警察酷刑后被谋杀。 照片：和数据库_ 
 
@@ -347,14 +347,14 @@ _人的表达无产阶级国际主义，残酷的附录，出于对巴西人民�
 
  对农民家庭的残酷袭击发生在诺布拉西尔农场地点的一场拟合运动中。 1月28日，三名营领导人倒下。 有数十个车辆和无人机。 士兵对三名农民开枪射击，袭击了数百名农民，并抢走了他们的财产。 两名工人在遭受酷刑后死亡。 国家州长马科斯·罗沙(Marcos Rocha)被LCP谴责，因为他站在兰德鲁贝利亚大型土地所有者的一边。 农民运动还证实，该行动有助于捍卫“加洛韦洛的特权和非法利益”。 
 
- 被警察流离失所的可怕大屠杀，马科斯·罗恰上校的谋杀命令谋杀，属于属于农场Arco-iris和Norbrasil的ÁreaTiago Campindos Santos。 Lautabrapo是这家基本灰泥The Lemeemprendimentos公司的据称所有者，该公司位于土地所有者Antonio Martins。 他在该地区被称为“ Galo Velho”，在“Weißbuchdes Landrubs”中被列为该国的主要大型农场制造商，民事和联邦警察与公开事务的民事警察一起为此，因为IT为其提供资金，因为IT资金为其提供资金。武装在该地区，抢劫和农民流离失所。 
+ 被警察流离失所的可怕大屠杀，马科斯·罗恰上校的谋杀命令谋杀，属于属于农场Arco-iris和Norbrasil的ÁreaTiago Campindos Santos。 Lautabrapo是这家基本灰泥The Lemeemprendimentos公司的据称所有者，该公司位于土地所有者Antonio Martins。 他在该地区被称为“ Galo Velho”，在“Weißbuchdes Landrubs”中被列为该国的主要大型农场制造商，民事和联邦警察与公开事务有关，因为IT为其提供资金，因为IT为其提供资金。武装在该地区，抢劫和农民流离失所。 
 
- ![2](Images/DEM VOLKE DIENEN/2023-02-04T20:04:12+00:00/2.jpg)_旧农民和法律偶尔谴责对人民的罪行。 照片：乘法_ 
+ ![2](Images/DEM VOLKE DIENEN/2023-02-04T20-04-12-00-00/2.jpg)_旧农民和法律偶尔谴责对人民的罪行。 照片：乘法_ 
 
  **诺布拉西尔农场所在地的占领** 
 
- 在同一地方，1月22日发生了袭击。 之后，LCP在黑色皮卡中从Galo Velho驾驶武装武装力量进入该地区，并向没有武装的男子，妇女和儿童开枪。
-![3](Images/DEM VOLKE DIENEN/2023-02-04T20:04:12+00:00/3.jpg)_rodrigo Hawerroth在工作中工作。 照片：古代警卫 
+ 在同一地方，1月22日发生了袭击。 包括LCP在内，来自Galo Velho的武装民兵以黑色皮卡开车进入该地区，并向没有武装的男子，妇女和儿童开枪。
+![3](Images/DEM VOLKE DIENEN/2023-02-04T20-04-12-00-00/3.jpg)_rodrigo Hawerroth在工作中工作。 照片：古代警卫 
 
  **三月游行：大屠杀与非法人** 
 
@@ -362,11 +362,11 @@ _人的表达无产阶级国际主义，残酷的附录，出于对巴西人民�
 
  被谋杀的农民罗德里戈·霍沃斯(bekannt als "Esticado")，34，Undraniel Barbosa Laurindo(bekannt als "Mandruva")，24岁，属于从炸弹中看的农民群体。 该小组决定覆盖科蒂亚河，并用船驾驶。 在这一刻，我们从警察那里缓冲。 三名农民被枪杀(nebenRodrigo und Raniel wurde auch Kenedy angeschossen und ins Krankenhaus JoaoPaulo II gebracht)。 
 
- ![4](Images/DEM VOLKE DIENEN/2023-02-04T20:04:12+00:00/4.jpg)_孩子被橡胶地板和Tr Anengas击中。 照片：乘法_ 
+ ![4](Images/DEM VOLKE DIENEN/2023-02-04T20-04-12-00-00/4.jpg)_孩子被橡胶地板和Tr Anengas击中。 照片：乘法_ 
 
- ![5](Images/DEM VOLKE DIENEN/2023-02-04T20:04:12+00:00/5.jpg)_家庭整天都在阳光下没有食物。 照片：乘法_ 
+ ![5](Images/DEM VOLKE DIENEN/2023-02-04T20-04-12-00-00/5.jpg)_家庭整天都在阳光下没有食物。 照片：乘法_ 
 
- ![6](Images/DEM VOLKE DIENEN/2023-02-04T20:04:12+00:00/6.jpg)_lkagen，将农民带到Áreatiago Campindos Santos的Vila al Ipio de Freitas。 照片：乘法_ 
+ ![6](Images/DEM VOLKE DIENEN/2023-02-04T20-04-12-00-00/6.jpg)_lastwagen，将农民带到Áreatiago Campindos Santos的Vila al Ipio de Freitas。 照片：乘法_ 
 
  这三个农民被警察活着，但其中两名在严重酷刑后没有进一步的行为处决。 在阿布拉波(Abrapo)的报告中：“投降的农民遭受了折磨，以看到他们的角色痕迹，罗德里戈(Rodrigo)的身体和步枪活塞的脸部露出了瘀伤，嘴里割了，嘴巴，切开的眼睛和切开的舌头”。 Abrapo解释说，此信息在尸体报告中不确定(einDokument, fur das die Abteilung fur offentliche Sicherheit der Landesregierungvon Rondonia zustandig ist)。 
 
@@ -374,9 +374,9 @@ _人的表达无产阶级国际主义，残酷的附录，出于对巴西人民�
 
  农民声称，警察的制服都没有身份证，并伴随着农场的“ Pistoleiros”。 部队指挥官(Oberstleutnant Pontes)侮辱了农民，因为罪犯和反动军事解释说，这是关于“所有死亡”的。 这些家庭为自己辩护，试图将他们乘坐公共汽车而不通知他们目标，并再次遭到殴打。(vor dem Bauernhof)。 他们在炎热的阳光下呆在那里，没有水或食物。 由于心脏病发作，一名农民被送往同一家医院。 许多人受伤，由于Tranengas而呼吸急促。 妇女昏倒了，孩子没有食物就舔了舔。 
 
- ![7](Images/DEM VOLKE DIENEN/2023-02-04T20:04:12+00:00/7.jpg)_rodrigo hewerroth当集体活动照片：乘法_ 
+ ![7](Images/DEM VOLKE DIENEN/2023-02-04T20-04-12-00-00/7.jpg)_rodrigo hewerroth当集体活动照片：乘法_ 
 
- ![8th](Images/DEM VOLKE DIENEN/2023-02-04T20:04:12+00:00/8.jpg)_rodrigo hewerroth当集体活动照片：乘法_ 
+ ![8th](Images/DEM VOLKE DIENEN/2023-02-04T20-04-12-00-00/8.jpg)_rodrigo hewerroth当集体活动照片：乘法_ 
 
  只有少数农民能够获得允许的许可，以便从帽子上拿出一个麻袋。 其余的衣物，食物，冰箱配以食物，燃气瓶，手机，床垫，药物和其他个人物品未批准。 农民的所有者仍然留在警察仪式的羊角面包中。 农民向律师抱怨说，他们看到了反动派的武器(Handys und Geld)Stahlen。此外，警察还毒死了狗，并污染了喷泉，并拍摄了现场的农民。
 1月29日下午。 根据报告，这些家庭离开了这个地方，去了位于ÁreaTiago Campin Dos Santos的Freitas，农民表明了自己“非常up亵，宪兵保护拉蒂什人的方式”。 
@@ -387,11 +387,11 @@ _人的表达无产阶级国际主义，残酷的附录，出于对巴西人民�
 
  **注意：敏感图片** 
 
- ![9](Images/DEM VOLKE DIENEN/2023-02-04T20:04:12+00:00/9.jpg)_ Rodrigo Hawerroth的尸体，带有酷刑痕迹。 照片：古代警卫 
+ ![9](Images/DEM VOLKE DIENEN/2023-02-04T20-04-12-00-00/9.jpg)_ Rodrigo Hawerroth的尸体，带有酷刑痕迹。 照片：古代警卫 
 
- ![10](Images/DEM VOLKE DIENEN/2023-02-04T20:04:12+00:00/10.jpg)_ Rodrigo Hawerroth的尸体，带有酷刑痕迹。 照片：古代警卫 
+ ![10](Images/DEM VOLKE DIENEN/2023-02-04T20-04-12-00-00/10.jpg)_ Rodrigo Hawerroth的尸体，带有酷刑痕迹。 照片：古代警卫 
 
- ![11](Images/DEM VOLKE DIENEN/2023-02-04T20:04:12+00:00/11.jpg)_罗德里戈(Rodrigo)和兰尼尔(Raniel)的酷刑痕迹。 照片：乘法_
+ ![11](Images/DEM VOLKE DIENEN/2023-02-04T20-04-12-00-00/11.jpg)_罗德里戈(Rodrigo)和兰尼尔(Raniel)的酷刑痕迹。 照片：乘法_
 
 News Source: [https://www.demvolkedienen.org/index.php/de/42-nachrichten/lateinamerika/7461-uebersetzung-massaker-in-nova-mutum-ro-neue-berichte-denunzieren-folterungen-und-verletzungen-der-rechte-waehrend-des-angriffs-der-militaerpolizeials-ausdruck-des-proletarischen-internationalismus-aus-solidaritaet-zu-dem-kampf-des-brasilianischen-volkes-u](https://www.demvolkedienen.org/index.php/de/42-nachrichten/lateinamerika/7461-uebersetzung-massaker-in-nova-mutum-ro-neue-berichte-denunzieren-folterungen-und-verletzungen-der-rechte-waehrend-des-angriffs-der-militaerpolizeials-ausdruck-des-proletarischen-internationalismus-aus-solidaritaet-zu-dem-kampf-des-brasilianischen-volkes-u)
 
@@ -409,38 +409,38 @@ News Source: [https://www.demvolkedienen.org/index.php/de/42-nachrichten/lateina
 
 <!--METADATA-->
 
-![](Images/PUNALIPPU/2023-02-04T99:00:00-04:00/stalingrad1.png)共产主义国际([ci-ic.org])(https://ci-ic.org/)(SNTL)1943年，来自纳粹德国及其在斯大林格拉德的盟友的工人和农民的红军于1943年在斯大林格拉德(Stalingrad)。临时世界观过程中的一个主要里程碑。 原始写作可以用英语阅读[在这里](https://ci-ic.org/blog/2023/01/31/on-the-80th-anniversary-of-the-victory-in-the-battle-of-stalingrad/)和西班牙语[在这里](https://ci-ic.org/es/2023/01/31/en-el-80o-aniversario-de-la-victoria-de-stalingrado/)。 
+![](Images/PUNALIPPU/2023-02-04T99-00-00-04-00/stalingrad1.png)共产主义国际([ci-ic.org])(https://ci-ic.org/)(SNTL)1943年，来自纳粹德国及其在斯大林格拉德的盟友的工人和农民的红军于1943年在斯大林格拉德(Stalingrad)。临时世界观过程中的一个主要里程碑。 原始写作可以用英语阅读[在这里](https://ci-ic.org/blog/2023/01/31/on-the-80th-anniversary-of-the-victory-in-the-battle-of-stalingrad/)和西班牙语[在这里](https://ci-ic.org/es/2023/01/31/en-el-80o-aniversario-de-la-victoria-de-stalingrado/)。 
 
  同志在写作中强调了国际共产主义协会如何(KKL)毛泽东在斯大林同志的角色方面占据了主席的立场。 他是一位伟大的马克思列宁主义者，曾经是系统主义者，并在第二次世界大战中发挥了决定性的作用，以赢得社会主义的胜利。 此外，在斯大林同志方面，他不会忘记他在共产主义国际定居国会的领导，这为在第二次世界大战期间成功发展联合战线的基础奠定了基础。 由于第二次世界大战之后的阵线的工作，无产阶级的统治者在几个欧洲国家获胜，而阿尔巴尼亚，保加利亚，南斯拉夫，德国民主共和国，波兰，罗马尼亚，罗马尼亚，捷克斯洛伐克和匈牙利，后来也在人民总统。 
 
  文章还指出，毛主席主席是全人类历史上全人类战役的斗争。 据他说，这场战斗不仅应在苏联和纳粹德国之间看到，因为苏联在Toveristalin的伟大领导下赢得了与纳粹德国及其盟友的战争。 第二次世界大战总共支付了2500万苏联公民。 这场伟大的反法西斯战争是第三世界多出国国家的合理自由的非常重要的灵感来源。 
 
- ![](Images/PUNALIPPU/2023-02-04T99:00:00-04:00/you.png)图片显示了第二次世界大战开始时在苏联分享的海报。 文字：“让我们前进，摧毁德国攻击者并将他们赶出我们的国家!” 
+ ![](Images/PUNALIPPU/2023-02-04T99-00-00-04-00/you.png)图片显示了第二次世界大战开始时在苏联分享的海报。 文字：“让我们前进，摧毁德国攻击者并将他们赶出我们的国家!” 
 
  同志在7月28日出版的关于搬家斯大林诫命的文章中借了“ [不适合步骤 - 步骤](https://marxismileninismi.wordpress.com/2021/01/01/stalin-ei-askeltakaan-taaksepain-1942/)“为了捍卫苏联人民为捍卫社会主义祖国而越来越多的努力。 苏联不是沙漠，而是人 - 工人，农民，知识分子，父亲和母亲，妻子，兄弟和孩子。 一个敌人从家庭联盟中接管的地区，敌人想要劫持的地方是为军队和平民，熨斗和燃料工业，工厂和设备提供武器的果酱面包； 这也意味着铁路。 在乌克兰，白俄罗斯，波罗的海国家，顿涅茨克游泳池和其他大区域迷失后，我们是很多人，面包，金属，工厂和生产设施。我们离开敌人来加强他们，再次削弱我们，削弱我们我们的国防和家园...因此，讨论了一个无休止的戒断，即我们拥有大型国家大而富有的地区，我们有很多人口可以分发。 这些讨论是有害时期，因为它们削弱了我们并加强了敌人。 如果您不退缩，我们将没有面包，燃料，金属，原材料，工厂和铁路……这意味着该停止了。 不再退后一步!这是我们这个种族的口号。 
 
- ![](Images/PUNALIPPU/2023-02-04T99:00:00-04:00/stalingrad6.png)
+ ![](Images/PUNALIPPU/2023-02-04T99-00-00-04-00/stalingrad6.png)
 
 纳粹德国与盟军的军队(Italia, Romania, Unkari sekäukrainalaiset Bandera-rotat ja espanjalaiset francolaiset "vapaaehtoiset")1942年8月23日，袭击了斯大林格勒的城市。在征服城市的情况下，法西斯试图建造一个车站，以攻击外围休闲的油田并削减伏尔加交通路线。 城市征服对法西斯主义者也很重要，因为它由许多苏联军事设备和城市使用的石油中的70％组成。 这座城市以斯大林同志的名字命名的事实也说明了这座城市的矮人。 
 
- ![](Images/PUNALIPPU/2023-02-04T99:00:00-04:00/stalingrad7.png)图片显示了1943年的斯大林格拉德战役中红军战斗机。 
+ ![](Images/PUNALIPPU/2023-02-04T99-00-00-04-00/stalingrad7.png)图片显示了1943年的斯大林格拉德战役中红军战斗机。 
 
  在斯大林格拉德战役开始时，法西斯主义者的第六军队征服了这座城市的大区域，但是斯大林同志和乔治·佐尔基·齐夫·瓦西列夫斯基元帅的行动在苏联部队中重新占领。 天王星行动始于1942年11月19日。 那天，斯大林格拉德北部袭击了红军24。军队和第66军，是将法西斯主义者绑定到他们的位置的任务，以便侄子可以撤退到唐。 在城市的西北，第五军队和罗马尼亚法西斯队的第21军袭击了行动，在行动的傍晚将它们完美地压碎。 也是第二天(20.11)罗马尼亚斯大林阵线南侧的红军溜冰者表演。 由于天王星的成功运作，成千上万的纳粹德国士兵仍留在斯大林格拉德市的座右铭中，几乎是令人讨厌的维护联系。 从现在开始，苏联征服的苏联流浪者小镇从公寓里从公寓里，房子和街街的房子回来，于1943年2月2日解放了城市法西斯主义者。寻求与盟国的谈判联系，以使SNTL安心。 
 
- ![](Images/PUNALIPPU/2023-02-04T99:00:00-04:00/stalingrad4.png)1943年2月2日，红旗在斯大林格拉德(Stalingrad)飘动，这是胜利的标志 
+ ![](Images/PUNALIPPU/2023-02-04T99-00-00-04-00/stalingrad4.png)1943年2月2日，红旗在斯大林格拉德(Stalingrad)飘动，这是胜利的标志 
 
  这篇文章还强调，纳粹德国及其参与散落辐射斗争的盟友的袭击是法西斯主义者的巨大动物主义者。 Wehrmacht的75％的航班是数百万士兵参加的，作为Stalingrad跌倒到1942年至1943年的榜样。 尽管如此，红军在斯大林同志的伟大领导下阐明了这场战斗是赢家。 此外，在使用苏联人民和组织党派部队为组织法西斯主义者使用时，该国的策略在苏联人民中燃烧。 当他退缩时，红军烧毁了所有田地并炸毁了工厂和建筑物，因此只有建筑物的废墟和空旷的田地。努力。 同志们在他们的写作网站上还指出，斯大林格勒的战斗是战争中的人们没有决定武器的证据。 
 
- ![](Images/PUNALIPPU/2023-02-04T99:00:00-04:00/stalingrad3.png)图片显示了在法西斯主义者中战斗的红军投降。 纳粹德国及其盟友从斯大林格拉德的战斗估计中损失了85万名士兵，受伤或监禁，其中40万德国，20万罗马尼亚人，130,000名意大利人和120,000名。 
+ ![](Images/PUNALIPPU/2023-02-04T99-00-00-04-00/stalingrad3.png)图片显示了在法西斯主义者中战斗的红军投降。 纳粹德国及其盟友从斯大林格拉德的战斗估计中损失了85万名士兵，受伤或监禁，其中40万德国，20万罗马尼亚人，130,000名意大利人和120,000名。 
 
  同志们写道，苏联人民意识到独裁统治的无产阶级，革命受到威胁。 这种集体意识确保法西斯主义者的背部用步枪，手榴弹和炸药摧毁敌人，并通过破坏铁路来打扰敌人。 这并不是一个简单的选择，因为游击党人总是在法西斯的指甲中等待死亡。 
 
- ![](Images/PUNALIPPU/2023-02-04T99:00:00-04:00/stalingrad2.png)在图片中，在家乡斯大林格勒(Stalingrad)中担任武器和弹药载体的年轻苏联公民。 武器和弹药是法西斯主义者的出现。
-![](Images/PUNALIPPU/2023-02-04T99:00:00-04:00/you-1.png)在图片中，从纳粹德国斯瓦斯蒂卡门票被扔到列宁陵墓前面的那一刻，这是胜利的标志 
+ ![](Images/PUNALIPPU/2023-02-04T99-00-00-04-00/stalingrad2.png)在图片中，在家乡斯大林格勒(Stalingrad)中担任武器和弹药载体的年轻苏联公民。 武器和弹药是法西斯主义者的出现。
+![](Images/PUNALIPPU/2023-02-04T99-00-00-04-00/you-1.png)在图片中，从纳粹德国斯瓦斯蒂卡门票被扔到列宁陵墓前面的那一刻，这是胜利的标志 
 
  在写作结束时，同志们借了一个中国共产党(KKP)是的，据估计，伟大的反法西斯战争表明了社会主义制度的观点的活力，帝国主义现在已成为战争，人民和帝国主义的源头，帝国主义不是纸质层次。 写作的同志们决定了这些话：“纳粹德国的辉煌的红军步枪被粉碎了，社会主义无产阶级的独裁统治是在东德建立的。共产党和SNTL的红旗被德国黑暗飘扬的事实Jaraun(Reichstag)在屋顶上，毫无疑问，有一个好时光，暂时中间无产阶级。 那一刻象征着整个令人难忘而光荣的与法西斯主义的斗争，苏联的辩护和无产阶级世界革命的发展。苏联德国的话!” 
 
- ![](Images/PUNALIPPU/2023-02-04T99:00:00-04:00/jepberlin1.png)1945年5月，红旗在德国议会飞行。
+ ![](Images/PUNALIPPU/2023-02-04T99-00-00-04-00/jepberlin1.png)1945年5月，红旗在德国议会飞行。
 
 News Source: [https://punalippu.noblogs.org/post/2023/02/04/3890/](https://punalippu.noblogs.org/post/2023/02/04/3890/)
 
@@ -452,7 +452,7 @@ News Source: [https://punalippu.noblogs.org/post/2023/02/04/3890/](https://punal
 
 时间: 2023-02-04T99:00:00-04:00
 
-头部描述: 1月28日（星期六）在气态和相关水工业工人（苏蒂亚加）的工人联盟中做出了重大行动，政党，组织，社会运动，领导人和武装分子纪念了萨尔塔革命共产党55年。
+头部描述: 1月28日（星期六）在气态和相关水工业工人（苏蒂亚加）的工人联盟中表现出色，政党，组织，社会运动，领导人和武装分子纪念了萨尔塔革命共产党55年。
 
 描述: Salta PCR纪念其55号周年纪念日。
 
@@ -462,7 +462,7 @@ News Source: [https://punalippu.noblogs.org/post/2023/02/04/3890/](https://punal
 
 <!--METADATA-->
 
-![](Images/Partido Communista Revolucionario/2023-02-04T99:00:00-04:00/Salta-acto-por-55-años-PCR.jpg)PCRSalteño纪念了他的55周年纪念日。在Sergio«Bear»Leavy，Walter Wayar，Diego Arroyo，Fidel Puggioni和社会领袖和社会领导人和激进分子的存在下，演讲者谴责了lacrisis，谴责了lacrisis，谴责了lacrisis lacrisis cross。右派的进步并同意找到一个实现流行领域统一性的广阔战线。 Lamilitancia要求Veronica Caliva州长，并拒绝了“右边的三个前线”：JXC，让我们前进和省级裁决。 
+![](Images/Partido Communista Revolucionario/2023-02-04T99-00-00-04-00/Salta-acto-por-55-años-PCR.jpg)PCRSalteño纪念了他的55周年纪念日。在Sergio«Bear»Leavy，Walter Wayar，Diego Arroyo，Fidel Puggioni和社会领袖和社会领导人和激进分子的存在下，演讲者谴责了lacrisis，谴责了lacrisis，谴责了lacrisis lacrisis cross。右派的进步并同意找到一个实现流行领域统一性的广阔战线。 Lamilitancia要求Veronica Caliva州长，并拒绝了“右边的三个前线”：JXC，让我们前进和省级裁决。 
 
  在几天前去世的**héctor“ Pancho” Quispe **的比赛中，这次会议是染色的。 在致敬中掌握情感掌声的告别带来了其他同志的记忆，例如** OscarMonzón**和** Otto Vargas。** 
 
@@ -489,7 +489,7 @@ News Source: [https://punalippu.noblogs.org/post/2023/02/04/3890/](https://punal
 
  **“我们必须给我们的人民一个主权，受欢迎，女权主义者和革命性选择” ** 
 
- [![](Images/Partido Communista Revolucionario/2023-02-04T99:00:00-04:00/Acto-Salta-por-55-PCR-300x170.jpg)](http://pcr.org.ar/nota/en-salta-el-pcr-conmemoro-su-aniversario-55/acto-salta-por-55-pcr/)国家副副手维诺卡·卡利瓦(VerónicaCaliva)是1968年对PCR诞生的反思，当时她将阿根廷共产党分开，反对后者的“改良主义者”目光。 在整个话语中，他提到女权主义，土著运动，工会主义和这些行为者在萨尔塔的发生。 
+ [![](Images/Partido Communista Revolucionario/2023-02-04T99-00-00-04-00/Acto-Salta-por-55-PCR-300x170.jpg)](http://pcr.org.ar/nota/en-salta-el-pcr-conmemoro-su-aniversario-55/acto-salta-por-55-pcr/)国家副副手维诺卡·卡利瓦(VerónicaCaliva)是1968年对PCR诞生的反思，当时她将阿根廷共产党分开，反对后者的“改良主义者”目光。 在整个话语中，他提到女权主义，土著运动，工会主义和这些行为者在萨尔塔的发生。 
 
  _“女权主义有辩论，我们必须讨论一些想法。 没有政治上的照片是，一个女人在野餐或受欢迎的餐厅里吃人，邻居和孩子们。 他们缝制了Yropa背包，因为它还不够。 这些是我们需要的政治绘画，它们为我们感到自豪。” _，领导人强调。 
 
@@ -528,7 +528,7 @@ News Source: [https://pcr.org.ar/nota/en-salta-el-pcr-conmemoro-su-aniversario-5
 
 我们收到了由无产阶级革命者在奥尔堡·米特比(Aalborg Midtby)和无产阶级格陵兰广场(Greenland Square)建立的海报的文件。 还有保暖者政府!'。 
 
- ![](Images/SOCIALISTISK REVOLUTION/2023-02-05T04:00:00+00:00/10.jpg)![](Images/SOCIALISTISK REVOLUTION/2023-02-05T04:00:00+00:00/11.jpg)![](Images/SOCIALISTISK REVOLUTION/2023-02-05T04:00:00+00:00/12.jpg)![](Images/SOCIALISTISK REVOLUTION/2023-02-05T04:00:00+00:00/13.jpg)![](Images/SOCIALISTISK REVOLUTION/2023-02-05T04:00:00+00:00/14.jpg)![](Images/SOCIALISTISK REVOLUTION/2023-02-05T04:00:00+00:00/15.jpg)![](Images/SOCIALISTISK REVOLUTION/2023-02-05T04:00:00+00:00/16.jpg)![](Images/SOCIALISTISK REVOLUTION/2023-02-05T04:00:00+00:00/17.jpg)![](Images/SOCIALISTISK REVOLUTION/2023-02-05T04:00:00+00:00/18.jpg)
+ ![](Images/SOCIALISTISK REVOLUTION/2023-02-05T04-00-00-00-00/10.jpg)![](Images/SOCIALISTISK REVOLUTION/2023-02-05T04-00-00-00-00/11.jpg)![](Images/SOCIALISTISK REVOLUTION/2023-02-05T04-00-00-00-00/12.jpg)![](Images/SOCIALISTISK REVOLUTION/2023-02-05T04-00-00-00-00/13.jpg)![](Images/SOCIALISTISK REVOLUTION/2023-02-05T04-00-00-00-00/14.jpg)![](Images/SOCIALISTISK REVOLUTION/2023-02-05T04-00-00-00-00/15.jpg)![](Images/SOCIALISTISK REVOLUTION/2023-02-05T04-00-00-00-00/16.jpg)![](Images/SOCIALISTISK REVOLUTION/2023-02-05T04-00-00-00-00/17.jpg)![](Images/SOCIALISTISK REVOLUTION/2023-02-05T04-00-00-00-00/18.jpg)
 
 News Source: [https://socialistiskrevolution.wordpress.com/2023/02/05/aalborg-plakater-imod-den-imperialistiske-krig-og-regering/](https://socialistiskrevolution.wordpress.com/2023/02/05/aalborg-plakater-imod-den-imperialistiske-krig-og-regering/)
 
@@ -550,7 +550,7 @@ News Source: [https://socialistiskrevolution.wordpress.com/2023/02/05/aalborg-pl
 
 <!--METADATA-->
 
-![](Images/Redspark/2023-02-05T05:03:40+00:00/bulatlat-online-photo-junk-edca-february-2-2023-1024x683-1-800x445.jpg)** Marco Valbuena | 首席信息官| 菲律宾共产党** 
+![](Images/Redspark/2023-02-05T05-03-40-00-00/bulatlat-online-photo-junk-edca-february-2-2023-1024x683-1-800x445.jpg)** Marco Valbuena | 首席信息官| 菲律宾共产党** 
 
  ** 2023年2月5日** 
 
@@ -642,7 +642,7 @@ News Source: [https://www.demvolkedienen.org/index.php/de/t-brd/7462-baden-wuert
 
  不幸的是，时间，他拉一风，没有帮助我们(abbiamo messo 20minuti solo per attaccare lo striscione e una mezz'ora prima della fine ilvento lo ha strappato)。 随后对目前的那些干预措施，无产阶级红色探险者(vedi il volantino sotto)，然后是由So称为So -so称呼的绝食罢工的读物，并为他读了一首诗。 
 
- [![](Images/proletari comunisti/2023-02-05T11:15:00+01:00/IMG_20230204_192830434.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju4TWxGiuawpNF7UxPbYMuYrCdbJKIn44bsKYopzoqojE-qD6r6ILoBHcJ-9dE9e9f1GaZcZ0BiU7_9DrLhy6t4NqQMY6eoXr3BgAKDGinMMvFsPItDS6mafH9nH-jV6hu6e5pX79Fn63DXjFtrKperqODDQCopaaJ6YmwNoQ_Kh1ija9vdDApUc8uBA/s3781/IMG_20230204_192830434.jpg)[![](Images/proletari comunisti/2023-02-05T11:15:00+01:00/IMG_20230204_192849946.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiURRptO9XdLbyNhMtMM0MbsydBXXDGWIH9BdjqmPmImDon4s7xRXuGPn1r0LGBh9dhtnZDGMH4beU9XSo7r3kCP-FSBTACXRdDNnPmJMwnzWX5Hx93GdgzaPRaMRACqsVeyp7wq9gqQpg7SRkhKSCBE-28PFSQ1y7C_RDoo9SFPbOnz-RMXNi47VXgWQ/s2319/IMG_20230204_192849946.jpg)无产阶级红救援传单** 
+ [![](Images/proletari comunisti/2023-02-05T11-15-00-01-00/IMG_20230204_192830434.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju4TWxGiuawpNF7UxPbYMuYrCdbJKIn44bsKYopzoqojE-qD6r6ILoBHcJ-9dE9e9f1GaZcZ0BiU7_9DrLhy6t4NqQMY6eoXr3BgAKDGinMMvFsPItDS6mafH9nH-jV6hu6e5pX79Fn63DXjFtrKperqODDQCopaaJ6YmwNoQ_Kh1ija9vdDApUc8uBA/s3781/IMG_20230204_192830434.jpg)[![](Images/proletari comunisti/2023-02-05T11-15-00-01-00/IMG_20230204_192849946.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiURRptO9XdLbyNhMtMM0MbsydBXXDGWIH9BdjqmPmImDon4s7xRXuGPn1r0LGBh9dhtnZDGMH4beU9XSo7r3kCP-FSBTACXRdDNnPmJMwnzWX5Hx93GdgzaPRaMRACqsVeyp7wq9gqQpg7SRkhKSCBE-28PFSQ1y7C_RDoo9SFPbOnz-RMXNi47VXgWQ/s2319/IMG_20230204_192849946.jpg)无产阶级红救援传单** 
 
  ** ** 
 
@@ -705,7 +705,7 @@ News Source: [https://proletaricomunisti.blogspot.com/2023/02/pc-5-febbraio-mobi
 
  在驻军结束时，两项**新举措决定：周二7月17日在Ditaranto监狱的总统 - 主席团在周五上午10点上午11点为县举行。** ** 
 
- [![](Images/proletari comunisti/2023-02-05T11:29:00+01:00/IMG_20230203_093741.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZLdYvKARTKJIQIKPn_JKUcb9PoW6SlPVoe3c8Yey2qCXlteMC_nRIK01y5NROQCJk0rZSPKgzIptt7A8GOyXkr-qdczM27-m2pURhLXDw7Aq7gInFbKYUMfDsmweqtgHn9BCZtyGo4YqIeE06-rJJuhtivB0GxzABwbsIq4aQ9KBeAMbyTp2wmtGV/s4000/IMG_20230203_093741.jpg)[![](Images/proletari comunisti/2023-02-05T11:29:00+01:00/IMG_20230203_093757.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibddU1xcu333V0ISMeAjUrd9BzyuReQ6znAIGsoiczYVfAJWJIGh7SxQSK7hMRyi8rHVp0aFpuEda89DQep7IdG7JYpx_TkQawwq-eZbMCY5EHz9-UgN7DXFu0NIDFhsblKxMyZcp3sq5c-7fA02SuXmhAro0fkKu38UEXp-433Y9ZGYO6-m3kQkyl/s4000/IMG_20230203_093757.jpg)[![](Images/proletari comunisti/2023-02-05T11:29:00+01:00/IMG_20230203_102830.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGlkOsyOwLDaBqIT81bE9oxd3lHgDr0RJP82Zby5Gk67YKkW8iKDuthRgwNbIxF9vlUYEak4IgUkPah5WlJpbD5BCTtWOFEZUjn2J32m1T_coup5Hm3HAClGaAd3WVdS_txWV085pnDAqGjK1I8rYCooSZ7ugb9OGBvXlbgSTCj0Bl36Yb6VP4f7c5/s2082/IMG_20230203_102830.jpg)[![](Images/proletari comunisti/2023-02-05T11:29:00+01:00/PHOTO-2023-02-03-12-02-21.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBYuutZrT4nH5aK7PZUYjVsG0jDCZm3ipwbBhkNpX1uQTKabkuINgeYQ8zr2Vqwbgs9wkToMTXbrutnwj7CxNhijZMwTxCiiOxEXiV1xc7CMmsQwiVTm5A-pobxRY66ql6aNIXKHeWKXAQN5tZrygdkXqYOJc2O7qbNL8LYbeKTOIi05lrmtbzeWiA/s1024/PHOTO-2023-02-03-12-02-21.jpg)用于自发组装 -  Slai Cabs TA WA 3519575628
+ [![](Images/proletari comunisti/2023-02-05T11-29-00-01-00/IMG_20230203_093741.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZLdYvKARTKJIQIKPn_JKUcb9PoW6SlPVoe3c8Yey2qCXlteMC_nRIK01y5NROQCJk0rZSPKgzIptt7A8GOyXkr-qdczM27-m2pURhLXDw7Aq7gInFbKYUMfDsmweqtgHn9BCZtyGo4YqIeE06-rJJuhtivB0GxzABwbsIq4aQ9KBeAMbyTp2wmtGV/s4000/IMG_20230203_093741.jpg)[![](Images/proletari comunisti/2023-02-05T11-29-00-01-00/IMG_20230203_093757.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibddU1xcu333V0ISMeAjUrd9BzyuReQ6znAIGsoiczYVfAJWJIGh7SxQSK7hMRyi8rHVp0aFpuEda89DQep7IdG7JYpx_TkQawwq-eZbMCY5EHz9-UgN7DXFu0NIDFhsblKxMyZcp3sq5c-7fA02SuXmhAro0fkKu38UEXp-433Y9ZGYO6-m3kQkyl/s4000/IMG_20230203_093757.jpg)[![](Images/proletari comunisti/2023-02-05T11-29-00-01-00/IMG_20230203_102830.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGlkOsyOwLDaBqIT81bE9oxd3lHgDr0RJP82Zby5Gk67YKkW8iKDuthRgwNbIxF9vlUYEak4IgUkPah5WlJpbD5BCTtWOFEZUjn2J32m1T_coup5Hm3HAClGaAd3WVdS_txWV085pnDAqGjK1I8rYCooSZ7ugb9OGBvXlbgSTCj0Bl36Yb6VP4f7c5/s2082/IMG_20230203_102830.jpg)[![](Images/proletari comunisti/2023-02-05T11-29-00-01-00/PHOTO-2023-02-03-12-02-21.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBYuutZrT4nH5aK7PZUYjVsG0jDCZm3ipwbBhkNpX1uQTKabkuINgeYQ8zr2Vqwbgs9wkToMTXbrutnwj7CxNhijZMwTxCiiOxEXiV1xc7CMmsQwiVTm5A-pobxRY66ql6aNIXKHeWKXAQN5tZrygdkXqYOJc2O7qbNL8LYbeKTOIi05lrmtbzeWiA/s1024/PHOTO-2023-02-03-12-02-21.jpg)用于自发组装 -  Slai Cabs TA WA 3519575628
 
 News Source: [https://proletaricomunisti.blogspot.com/2023/02/pc-5-febbraio-mobilitazioni-in-ogni_5.html](https://proletaricomunisti.blogspot.com/2023/02/pc-5-febbraio-mobilitazioni-in-ogni_5.html)
 
@@ -775,7 +775,7 @@ News Source: [https://proletaricomunisti.blogspot.com/2023/02/pc-5-febbraio-tori
 
  __ 
 
- _ [![](Images/proletari comunisti/2023-02-05T11:53:00+01:00/fullsizeoutput_303.jpeg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9NWenbwtUDtTwUNtcSec1T3XrlzMeNv4GgMEbVi0A1D9fDCBJjKYLfSHrRDcV4CGUaGpBuL0Qpbn3Ip2PUuPx16JDh7c0g2f2_ASHVxFgi620W9we3gUDKlcyHsD1pKCmxHys34lFIJ6j-o3oi6DTiFq-3qZmg3k78b35kMU-PIm-25Pyp3N_Im4rJQ/s700/fullsizeoutput_303.jpeg)_ 
+ _ [![](Images/proletari comunisti/2023-02-05T11-53-00-01-00/fullsizeoutput_303.jpeg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9NWenbwtUDtTwUNtcSec1T3XrlzMeNv4GgMEbVi0A1D9fDCBJjKYLfSHrRDcV4CGUaGpBuL0Qpbn3Ip2PUuPx16JDh7c0g2f2_ASHVxFgi620W9we3gUDKlcyHsD1pKCmxHys34lFIJ6j-o3oi6DTiFq-3qZmg3k78b35kMU-PIm-25Pyp3N_Im4rJQ/s700/fullsizeoutput_303.jpeg)_ 
 
  _”民主。这，从某种意义上说，这是伊尔蒙多在欧洲和美国的西方民主国家一方面划分的伊利斯和中国。 
 
@@ -836,7 +836,7 @@ News Source: [https://proletaricomunisti.blogspot.com/2023/02/pc-5-febbraio-tori
 
  2月18日在罗马举行的第二个反资本主义国家无产阶级议会是连接和筹集从将军到将军的斗争的具体工具武器并削减了工厂为工资的斗争，薪水增加了对大师大师的主人的薪水，就像罗卡案中一样。 工人必须与其他部门在单一阶级战线上，与迪帕德隆和政府阵线进行战斗，以改变力量的关系，并在整个能力中以共同的态度前进，这是整个大师制度的制造，战争，痛苦和痛苦和必须克服的镇压。 
 
- [![](Images/proletari comunisti/2023-02-05T11:53:00+01:00/Documento%20\)(1\).jpg(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ21ik1FWb5SZmjXCflUOVmOvxnqEz2inucWvBZRk-XXgNDZmwvC7johc9Y_Z9o-MOKk3idRUxmQL2UKzwFS383FzIPwyOfmfYMmoXS3R6jknlhBsmty-HKN0Wk_O-Vey8z1_2hqiD3s3jVoBAkrRinKhHU7lw486CrGB7iH5B9frMj_jVQdJs1zpbNg/s1754/Documento%20\)(1\).jpg
+ [![](共产主义图像/无产阶级/2023-02-05T11-53-00-01-00/文档％20 \(1\).jpg(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ21ik1FWb5SZmjXCflUOVmOvxnqEz2inucWvBZRk-XXgNDZmwvC7johc9Y_Z9o-MOKk3idRUxmQL2UKzwFS383FzIPwyOfmfYMmoXS3R6jknlhBsmty-HKN0Wk_O-Vey8z1_2hqiD3s3jVoBAkrRinKhHU7lw486CrGB7iH5B9frMj_jVQdJs1zpbNg/s1754/Documento%20\(1\).jpg
 
 News Source: [https://proletaricomunisti.blogspot.com/2023/02/pc-5-febbraio-la-multinazionale-tenaris.html](https://proletaricomunisti.blogspot.com/2023/02/pc-5-febbraio-la-multinazionale-tenaris.html)
 
@@ -878,7 +878,7 @@ News Source: [https://proletaricomunisti.blogspot.com/2023/02/pc-5-febbraio-vers
 
 <!--METADATA-->
 
-[** https：//www.open.online/2023/02/04/manifestations-anarchici-cospito-41-bis-roma-milano-4-4-2023**]( https://www.open.online/2023/02/04/manifestazioni-anarchici-cospito-41-bis-roma-milano-4-feb-2023)![](Images/proletari comunisti/2023-02-05T12:56:00+01:00/73n1o_hsVO29-N5z.jpg)[3:54 PM * 4月4日2月4日](https://twitter.com/localteamtv/status/1621884893759262722?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1621884893759262722%7Ctwgr%5Ed410776a61a503dd47e2c5baa31448296004dde4%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.open.online%2F2023%2F02%2F04%2Fmanifestazioni-anarchici-cospito-41-bis-roma-milano-4-feb-2023%2F)/
+[** https：//www.open.online/2023/02/04/manifestations-anarchici-cospito-41-bis-roma-milano-4-4-2023**]( https://www.open.online/2023/02/04/manifestazioni-anarchici-cospito-41-bis-roma-milano-4-feb-2023)![](Images/proletari comunisti/2023-02-05T12-56-00-01-00/73n1o_hsVO29-N5z.jpg)[3:54 PM * 4月4日2月4日](https://twitter.com/localteamtv/status/1621884893759262722?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1621884893759262722%7Ctwgr%5Ed410776a61a503dd47e2c5baa31448296004dde4%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.open.online%2F2023%2F02%2F04%2Fmanifestazioni-anarchici-cospito-41-bis-roma-milano-4-feb-2023%2F)/
 
 News Source: [https://proletaricomunisti.blogspot.com/2023/02/pc-5-febbraio-manifestazione-davanti-al.html](https://proletaricomunisti.blogspot.com/2023/02/pc-5-febbraio-manifestazione-davanti-al.html)
 
@@ -902,7 +902,7 @@ News Source: [https://proletaricomunisti.blogspot.com/2023/02/pc-5-febbraio-mani
 
 <!--METADATA-->
 
-![](Images/Tjen-Folket/2023-02-05T15:23:14+00:00/USA-og-Filippinene-militaere-baser-avtale-1160x749.png)* * * 
+![](Images/Tjen-Folket/2023-02-05T15-23-14-00-00/USA-og-Filippinene-militaere-baser-avtale-1160x749.png)* * * 
 
  由Eart Folket Media的评论员。 
 
@@ -946,7 +946,7 @@ _我们的官员呼吁在汉堡派遣一次集会，并在伊姆布拉西利州�
 
  更新： 
 
- 同时，来自巴西朗多尼亚州的新的贫困农民大屠杀的消息再次由大型当地土地所有者安排。 “贫穷农民联盟”(LCP)在该地区为灰泥国家争夺所有武器和农村农民，他们可以从中提供自己和家人。 一次又一次地通过巴西国家，大型土地所有者和骗子大屠杀。 因此，我们打电话给巴西人民和德拉克的所有朋友参加集会并重新谋杀这一谋杀案!
+ 同时，来自巴西朗多尼亚州的新的贫困农民大屠杀的消息再次由大型土地所有者安排。 “贫穷农民联盟”(LCP)在该地区为灰泥国家争夺所有武器和农村农民，他们可以从中提供自己和家人。 一次又一次地通过巴西国家，大型土地所有者和骗子大屠杀。 因此，我们打电话给巴西人民和德拉克的所有朋友参加集会并重新谋杀这一谋杀案!
 
  结束将基础斗争定为犯罪!
 
@@ -986,7 +986,7 @@ News Source: [https://www.demvolkedienen.org/index.php/de/t-international/7453-k
 
  ** === ** 
 
- [![](Images/femminismo proletario rivoluzionario/2023-02-05T17:04:00+01:00/download.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiqtpNlgpFpOnwo5Wss7jo5Sa_pG1gD9QsAJO9VsDJC6rI3Jl4yoTpyS2iGrD3UqP6P6u2Ck4PAJi4ExLHp2_OVCXo9gNuwpSKgHzRdkBmZDvMhGL8vzmqh4SBf7Ois8ZhklltuYna-p-2UW_b8lcle-hNAGhYd59kve5tmpV58RUDPwehKDv9UuBd/s267/download.jpg)--- _i可以在pdf中请求：mfpr.naz@gmail.com_“一个重要且必要的集会，可以被视为第一个集会，特别是占据了地板的工人；工人已经通过斗争采取了行动，他们使工厂中的马切在这次集会中强烈放置，需要稀薄，通过联系，加入其他工人，战斗或仍然不挣扎但想组织自己的工人来扩大这些斗争，以反对遭受的攻击代表他们并且不可避免地与妇女生活中更普遍的鞋子交织在一起的大师和神灵。 
+ [![](Images/femminismo proletario rivoluzionario/2023-02-05T17-04-00-01-00/download.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiqtpNlgpFpOnwo5Wss7jo5Sa_pG1gD9QsAJO9VsDJC6rI3Jl4yoTpyS2iGrD3UqP6P6u2Ck4PAJi4ExLHp2_OVCXo9gNuwpSKgHzRdkBmZDvMhGL8vzmqh4SBf7Ois8ZhklltuYna-p-2UW_b8lcle-hNAGhYd59kve5tmpV58RUDPwehKDv9UuBd/s267/download.jpg)--- _i可以在pdf中请求：mfpr.naz@gmail.com_“一个重要且必要的集会，可以被视为第一个集会，特别是占据了地板的工人；工人已经通过斗争采取了行动，他们使工厂中的马切在这次集会中强烈放置，需要稀薄，通过联系，加入其他工人，战斗或仍然不挣扎但想组织自己的工人来扩大这些斗争，以反对遭受的攻击代表他们并且不可避免地与妇女生活中更普遍的鞋子交织在一起的大师和神灵。 
 
  **这个不委派的工人集会，他们在洛曼尼(Loromani)将其组织为工人和妇女，她们确认妇女的自主权，以使她们的直接主角是真实的，**是班级联盟景观和中间的新颖性Theonnas的运动是一条重要的道路阶段，始于大约两年，当时妇女 /工人的股东会议的经验。 
 
@@ -1018,7 +1018,7 @@ News Source: [https://femminismorivoluzionario.blogspot.com/2023/02/la-lotta-del
 
 <!--METADATA-->
 
-[![](Images/proletari comunisti/2023-02-05T19:44:00+01:00/meloni-tajani-crosetto.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfnNbrSVi2jWUgelphofdYnpeAfgicf_cdt8UycR8espAw08kiBxqN5T87nQZIJwJyvGKPl2gMhvCG9VoRkAMi5yNBZmdw4-35WpiBQ9vCxBFYh8qTB_MzEumNCSgVSMjWhJ8n2zRtNx5GobTBonbtQv3EiYPVjo8-vBdJKUGpAXvUBoQKpG891WGzWg/s697/meloni-tajani-crosetto.JPG)周五，XIX立法机关的第一个外国桌面“在罗马举行了国防和外交事务和国际合作能力的协调和联合行动..... 
+[![](Images/proletari comunisti/2023-02-05T19-44-00-01-00/meloni-tajani-crosetto.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfnNbrSVi2jWUgelphofdYnpeAfgicf_cdt8UycR8espAw08kiBxqN5T87nQZIJwJyvGKPl2gMhvCG9VoRkAMi5yNBZmdw4-35WpiBQ9vCxBFYh8qTB_MzEumNCSgVSMjWhJ8n2zRtNx5GobTBonbtQv3EiYPVjo8-vBdJKUGpAXvUBoQKpG891WGzWg/s697/meloni-tajani-crosetto.JPG)周五，XIX立法机关的第一个外国桌面“在罗马举行了国防和外交事务和国际合作能力的协调和联合行动..... 
 
  桌子讨论的主要主题是：北约维尔纽斯峰会，北约的东和南方，辩方，对基辅的支持，支持大陆和平的承诺，非洲的意大利战略，安全，在“地中海阿拉尔加托”和“ 2023年决议国际任务”中。 
 
@@ -1046,7 +1046,7 @@ News Source: [https://proletaricomunisti.blogspot.com/2023/02/pc-5-febbraio-il-g
 
 <!--METADATA-->
 
-![](Images/ΚΚΕ m-l/2023-02-05T99:00:00-04:00/antifa.jpg)ND政府将立法带到议会立即投票(τροπολογία)当事方的排除，政党和人的联盟被定罪。 关于是否可以以及如何以及如何将其排除在新的纳粹卡西迪亚党的选举之外的辩论已经消失。 
+![](Images/ΚΚΕ m-l/2023-02-05T99-00-00-04-00/antifa.jpg)ND政府将立法带到议会立即投票(τροπολογία)当事方的排除，政党和人的联盟被定罪。 关于是否可以以及如何以及如何将其排除在新的纳粹卡西迪亚党的选举之外的辩论已经消失。 
 
  很明显，政府真正削减的是新纳粹，法西斯，金色黎明的恐怖主义军队的选修比例，而不是因为其反动，反劳工，种族主义和反流人意识形态和反流人意识形态和反流人意识形态实践。 毕竟，正是ND本身已融入了一系列遥远的，大教堂，政府和法西斯的高管和成员中。 它本身被推向公共和政治生活的法西斯主义：它遇到了开放式的权利和政治自由，施加了野生和压制的政权，每天都在处理表演行动和青年，青年和青年。 这与给予它并合法化最极端和最黑暗的景色。 
 
@@ -1080,7 +1080,7 @@ News Source: [https://www.kkeml.gr/την-ώρα-που-η-πολιτική-πο
 
  ##和每周社论 - 军事反应的数学数学 
 
- ![](Images/COMMUNIST INTERNATIONAL/2023-02-05T99:00:00-04:00/editorial-mathematics....jpg)当路易斯·伊纳西奥(LuizInácio)于21日开火时发出了很多噪音，在平地上任职约80名军事人员，当时的陆军指挥官JúlioCésardearruda被解雇，用TomásMiguelRibeiro Paiva取代了他。 有些人对资产阶级民主和国家奴隶制机构的“稳定”的信念令人头晕，而洋基帝国主义”将不允许政变，甚至宣称没有有效的“卢拉政府”在没有的情况下被宣布为 武装部队的指导。 路易斯·伊纳西奥(Luizinácio)宣称他不信任武装部队，他想要一个机构安全的内阁(GSI)没有军事人员，并为观众玩游戏，他们将不接受军事助手(and soon after, would have them)，Ina分阶段说他不会屈服于“军事力量”，试图通过公众舆论隔离来限制TheGenerals的机动空间。 
+ ![](Images/COMMUNIST INTERNATIONAL/2023-02-05T99-00-00-04-00/editorial-mathematics....jpg)当路易斯·伊纳西奥(LuizInácio)于21日开火时发出了很多噪音，在平地上任职约80名军事人员，当时的陆军指挥官JúlioCésardearruda用TomásMiguelRibeiro Paiva取代了他。 有些人对资产阶级民主和国家奴隶制机构的“稳定”的信念令人头晕，而洋基帝国主义”将不允许政变，甚至宣称没有有效的“卢拉政府”在没有的情况下被宣布为 武装部队的指导。 路易斯·伊纳西奥(Luizinácio)宣称他不信任武装部队，他想要一个机构安全的内阁(GSI)没有军事人员，并为观众玩游戏，他们将不接受军事助手(and soon after, would have them)，Ina分阶段说他不会屈服于“军事力量”，试图通过公众舆论隔离来限制TheGenerals的机动空间。 
 
  在31日，卢齐纳西奥(Luizinácio)总共“令人惊讶”的是零政治意识的人，提名了122名军事人员进入GSI。 数学很明显：共和国总统没有限制军队的存在，因此，他们在政府中的影响力增加了!与此同时，新闻界报道说，PT总统允许陆军允许联邦政府的官方警察批准 从1月8日晚上的夜晚，在陆军总部反对营地的地区。 这一集涉及武装部队的坦克操纵，以劝阻Themital Police，但面对Thegenerals的压力，LuizInácio批准了LuizInácio。 众所周知，这项操作是进行了进行的，以便活跃的安德雷斯官员及其家人可以离开营地而不会被捕。 
 

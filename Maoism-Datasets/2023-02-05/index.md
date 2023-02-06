@@ -20,7 +20,7 @@ Storbritannien lammes i øjeblikket af hundredetusinder arbejderes strejkeindenf
 
 Mere end 23.000 skoler i landet kommer til at lukke, når mere end 100.000lærere går i strejke i England og Wales.
 
-![](Images/SOCIALISTISK REVOLUTION/2023-02-04T04:00:00+00:00/london-uk-16th-jan-2023-protesters-with-placards-protesters-and-speakers-gather-opposite-downing-street-for-the-protect-the-right-to-strike-emergency-demo-including-members-of-the-rmt-t-1.jpeg)
+![](Images/SOCIALISTISK REVOLUTION/2023-02-04T04-00-00-00-00/london-uk-16th-jan-2023-protesters-with-placards-protesters-and-speakers-gather-opposite-downing-street-for-the-protect-the-right-to-strike-emergency-demo-including-members-of-the-rmt-t-1.jpeg)
 
 Lærernes strejker rammer bredt, fordi et andet formål, udover borgerliguddannelse for bourgeoisiet, er at skolerne fungerer som daginstitutioner forbørn fra proletariske familier. Uden et sted at sende børn til iarbejdstimerne, må folk søge alternativer til at få deres børn passet. Detrapporteres at nogen familiemedlemmer vil tage fri på skift, hvilket ogsårammer andre områder af produktionen i landet.
 
@@ -30,13 +30,13 @@ Desuden ventes der flere massestrejker senere på måneden, da titusindvis afamb
 
 Strejkerne og protesterne finder også sted imod Premierminister Rishi Sunak oghans regeringens nye strejkebryderlov, der skal gøre det muligt forvirksomheder at fyre arbejdere, der under strejke, ikke udfører en»minimumservice«, dvs. ikke mindst delvist arbejder understrejken. Rishi oghans regering prøver forgæves at følge i Margeret Thatcher’s fodspor, somstrejkebrydere, da de selv indrømmer de problemer, som proletariatetsorganisering bringer dem.
 
-![](Images/SOCIALISTISK REVOLUTION/2023-02-04T04:00:00+00:00/th-4119143806-edited.jpeg)
+![](Images/SOCIALISTISK REVOLUTION/2023-02-04T04-00-00-00-00/th-4119143806-edited.jpeg)
 
 De britiske fagforeningers landsorganisation TUC peger på at briterne igennemsnit får, hvad der svarer til 1700 kroner mindre om måneden i dag, endde gjorde for ti år siden.
 
 I slutningen af sidste år lancerede mere end 100.000 britiske sygeplejerskeren landsdækkende strejke, fordelt på 76 offentlige hospitaler, sunhedscentre,hvilket indledte den første nationale sygeplejerskestrejke landet nogensindehar set. Strejkens krav minder bl.a. om kravene hos sygeplejerskerne i Danmarktilbage i 2021, med krav for bl.a. højere løn.
 
-![](Images/SOCIALISTISK REVOLUTION/2023-02-04T04:00:00+00:00/th-1179436622-edited.jpeg)
+![](Images/SOCIALISTISK REVOLUTION/2023-02-04T04-00-00-00-00/th-1179436622-edited.jpeg)
 
 Vi ser, hvordan imperialismens krise, som bæres af proletariatet, skubberproletariatet ud i kamp og modstand mod angrebene på vores rettigheder.Proletariatet ser igennem det imperialistiske bourgeoisis løgne ogfrygtmageri, som de forsøger at sprede om den imperialistiske krig, mens deopruster og angriber proletariatets rettigheder i navnet på »forsvaret afFort-Europa«.
 
@@ -60,7 +60,7 @@ Categories: ['India', "People's War", 'Political Prisoners']
 
 <!--METADATA-->
 
-![](Images/Redspark/2023-02-04T05:15:02+00:00/arrested_pic_20200130142730-800x445.jpg)
+![](Images/Redspark/2023-02-04T05-15-02-00-00/arrested_pic_20200130142730-800x445.jpg)
 
 **Dantewada District, February 4, 2023:** A cadre of the CPI (Maoist) wasarrested on Saturday in Chhattisgarh's Dantewada district.
 
@@ -94,7 +94,7 @@ Category: 'Innenriks'
 
 <!--METADATA-->
 
-![](Images/Tjen-Folket/2023-02-04T07:00:00+00:00/raketter-i-ukraina-1160x687.jpg)
+![](Images/Tjen-Folket/2023-02-04T07-00-00-00-00/raketter-i-ukraina-1160x687.jpg)
 
 * * *
 
@@ -182,7 +182,7 @@ Categories: ["People's War", 'Philippines']
 
 <!--METADATA-->
 
-![](Images/Redspark/2023-02-04T10:29:12+00:00/ab-dailies-icc-prosecute-duterte-1024x502-1-800x445.png)
+![](Images/Redspark/2023-02-04T10-29-12-00-00/ab-dailies-icc-prosecute-duterte-1024x502-1-800x445.png)
 
 **Marco Valbuena | Chief Information Officer | Communist Party Of ThePhilippines**
 
@@ -234,23 +234,23 @@ Diversas acciones de agitación y propaganda han realizado revolucionarios/asen 
 
 Siendo plena temporada de cosecha de frutas, el llamado a los/as temporeros/asa luchar ha sido una constante ante el abuso sistemático que patrones ycontratistas han perpetuado a trabajadores/as agrícolas en una temporada 2022- 2023 marcada por los bajos salarios, las extenuantes jornadas de trabajo yla negación de derechos y elementos básicos de protección personal. Unainfografía elaborada tuvo buena recepción entre las masas campesinas ytemporeras donde se evidencia con datos científicos la explotación laboral:
 
-[![](Images/Nuevo Peru/2023-02-04T13:31:00+01:00/IMG_20230112_120320_466.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWNBIjj3whiXHCQCP1mCeXxZLUPPjq_xUp_lUBeA1RlRpnF9t2oI3nnJtj6WI5_lsf6lGWze3cu2kJZlhOxjg0xkra1I8Jher9lrLUHHg1in7t_B_HysWxNiILSnVHP9EHbQT0iR3o0g_TVIWSv-JCWXLboKIkRqzbpXCiAI51d_EMbK0G8aqV4nMx/s1080/IMG_20230112_120320_466.jpg)
+[![](Images/Nuevo Peru/2023-02-04T13-31-00-01-00/IMG_20230112_120320_466.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWNBIjj3whiXHCQCP1mCeXxZLUPPjq_xUp_lUBeA1RlRpnF9t2oI3nnJtj6WI5_lsf6lGWze3cu2kJZlhOxjg0xkra1I8Jher9lrLUHHg1in7t_B_HysWxNiILSnVHP9EHbQT0iR3o0g_TVIWSv-JCWXLboKIkRqzbpXCiAI51d_EMbK0G8aqV4nMx/s1080/IMG_20230112_120320_466.jpg)
 
 
 
-[![](Images/Nuevo Peru/2023-02-04T13:31:00+01:00/IMG_20230112_120320_470.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfQ7bMQof-LcI3UEfxnirTOkOUyR-F5s3a5iTwObIVHwkpNuXUGfhUkyXTb7Zh0SvukWpXfZb_A4RgrLilf05YX37i3JkTRiEDohVPO1clNm5OEVltUAvs8yjw8WEhT-eIQ_Odlp98S8v83qWl_oJAgqAKCoCPkdIZYtcPv55AcGEL5td5ab6IYfkp/s1080/IMG_20230112_120320_470.jpg)
+[![](Images/Nuevo Peru/2023-02-04T13-31-00-01-00/IMG_20230112_120320_470.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfQ7bMQof-LcI3UEfxnirTOkOUyR-F5s3a5iTwObIVHwkpNuXUGfhUkyXTb7Zh0SvukWpXfZb_A4RgrLilf05YX37i3JkTRiEDohVPO1clNm5OEVltUAvs8yjw8WEhT-eIQ_Odlp98S8v83qWl_oJAgqAKCoCPkdIZYtcPv55AcGEL5td5ab6IYfkp/s1080/IMG_20230112_120320_470.jpg)
 
 
 
-[![](Images/Nuevo Peru/2023-02-04T13:31:00+01:00/IMG_20230112_120320_479.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqDTuls7X9KYnXlObzhcd59J2A42pGRRjnGquLqgagUf531_MbBx9e3mipmf5vbkOhwQvXHsD033pKVOsO4v3s5T7bsegFhF4m_wTiSIgl1-bdHGufFItlNkgoOjMNTVzw9Sam-wQgbMUxiHHbWF10DLX1e9xxFY09-RuTfEZcTMIF-ogCMoqH2xaH/s1080/IMG_20230112_120320_479.jpg)
+[![](Images/Nuevo Peru/2023-02-04T13-31-00-01-00/IMG_20230112_120320_479.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqDTuls7X9KYnXlObzhcd59J2A42pGRRjnGquLqgagUf531_MbBx9e3mipmf5vbkOhwQvXHsD033pKVOsO4v3s5T7bsegFhF4m_wTiSIgl1-bdHGufFItlNkgoOjMNTVzw9Sam-wQgbMUxiHHbWF10DLX1e9xxFY09-RuTfEZcTMIF-ogCMoqH2xaH/s1080/IMG_20230112_120320_479.jpg)
 
 
 
 Junto con este material, destacamentos han accionado en la región del Maulellamando a luchar:
 
-[![](Images/Nuevo Peru/2023-02-04T13:31:00+01:00/IMG_20221227_180232.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8x0ROsxb4MELtukxA52Ti2fmiSDe81IM7P0VZr8Vb9-rtXu6xWpNIfBmAsuBjKgpnB4T2s9V-5GIdMTieiagbQZGY8zRu5pdOqIigyJkcINcg56-mqMxfgMJ8dFUetKVY8kQERVutGbpyeYk6NyQOMc6X5rEauVnUs1pMxtOadV04nG9fJHEYM8oD/s1600/IMG_20221227_180232.jpg)  ---  Rayado mural en Villa El Sol, Hualañé    [![](Images/Nuevo Peru/2023-02-04T13:31:00+01:00/IMG_20230129_110341.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5nt1xuTRrhwaiTjd-4zu2yzrv1m8XLO2tHqQgGWFVbinZZ0cxcAmJnX7yK-XVOhDIXt27ka0s60o4-aSEQy7tuXUvtKCX67yCeLnTvqzXy3L3AWGSFE6RPMTL4gi9iosoHZ-rfZls16cuA0OM-f6eKkLRxsE8LD70CAE6bz_PQixAyxuCtjKTOO31/s1600/IMG_20230129_110341.jpg)  ---  Rayado mural en Limávida, Curepto    [![](Images/Nuevo Peru/2023-02-04T13:31:00+01:00/IMG_20230129_111033.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4eENc4vU6BM1SIjT3Yb-NZsGin1Kzb9UUk02755233KJNsSuXmRwhuRSvYT4bE4zdOmKeh0Ep62dgDXIIzPFNh3swpFLzKYf71HBmbcT6Has0FY_XJnP0L511ztY_l8oBmDnXbtcqJ1AISir3wedjUsRkqiBJn93FoJ3RcD4AaSp8Bi6yfqPyzXHl/s1600/IMG_20230129_111033.jpg)  ---  Rayado mural en Constantué, Curepto
+[![](Images/Nuevo Peru/2023-02-04T13-31-00-01-00/IMG_20221227_180232.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8x0ROsxb4MELtukxA52Ti2fmiSDe81IM7P0VZr8Vb9-rtXu6xWpNIfBmAsuBjKgpnB4T2s9V-5GIdMTieiagbQZGY8zRu5pdOqIigyJkcINcg56-mqMxfgMJ8dFUetKVY8kQERVutGbpyeYk6NyQOMc6X5rEauVnUs1pMxtOadV04nG9fJHEYM8oD/s1600/IMG_20221227_180232.jpg)  ---  Rayado mural en Villa El Sol, Hualañé    [![](Images/Nuevo Peru/2023-02-04T13-31-00-01-00/IMG_20230129_110341.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5nt1xuTRrhwaiTjd-4zu2yzrv1m8XLO2tHqQgGWFVbinZZ0cxcAmJnX7yK-XVOhDIXt27ka0s60o4-aSEQy7tuXUvtKCX67yCeLnTvqzXy3L3AWGSFE6RPMTL4gi9iosoHZ-rfZls16cuA0OM-f6eKkLRxsE8LD70CAE6bz_PQixAyxuCtjKTOO31/s1600/IMG_20230129_110341.jpg)  ---  Rayado mural en Limávida, Curepto    [![](Images/Nuevo Peru/2023-02-04T13-31-00-01-00/IMG_20230129_111033.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4eENc4vU6BM1SIjT3Yb-NZsGin1Kzb9UUk02755233KJNsSuXmRwhuRSvYT4bE4zdOmKeh0Ep62dgDXIIzPFNh3swpFLzKYf71HBmbcT6Has0FY_XJnP0L511ztY_l8oBmDnXbtcqJ1AISir3wedjUsRkqiBJn93FoJ3RcD4AaSp8Bi6yfqPyzXHl/s1600/IMG_20230129_111033.jpg)  ---  Rayado mural en Constantué, Curepto
 
-[![](Images/Nuevo Peru/2023-02-04T13:31:00+01:00/IMG_20230129_111039.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR0lQVznH9qpHwDYU6AMgsyswmcHlzzKQW9lOvQjkO8DCd29wtUhKPoAeXOTWSXU9APsvrrxN4QfaCpx30SqCKqJLWXwFjWVNzPSxXtl3nPjp5pmd_rWW6iLXDioQSg0ASpng6uqum3gAOfMS1Qu4dMINx-ns0SqMpe7vRRGCbcGYFZW4C_T1hRmXG/s1600/IMG_20230129_111039.jpg)
+[![](Images/Nuevo Peru/2023-02-04T13-31-00-01-00/IMG_20230129_111039.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR0lQVznH9qpHwDYU6AMgsyswmcHlzzKQW9lOvQjkO8DCd29wtUhKPoAeXOTWSXU9APsvrrxN4QfaCpx30SqCKqJLWXwFjWVNzPSxXtl3nPjp5pmd_rWW6iLXDioQSg0ASpng6uqum3gAOfMS1Qu4dMINx-ns0SqMpe7vRRGCbcGYFZW4C_T1hRmXG/s1600/IMG_20230129_111039.jpg)
 
 
 
@@ -262,7 +262,7 @@ Por esa razón, también se realizaron rayados contra las alzas y repudiando ala
 
 
 
-[![](Images/Nuevo Peru/2023-02-04T13:31:00+01:00/IMG_20230129_103412.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsY169W8EVXilCufZqlnqlTyH3bdSEszjXLHXHf97_WZzhnp5i-vX-0GsmtBnHbkgQ_W5EwPPNF3UhaLBhIrcLEL7PxwDaqeS1bvSJkds3vYtJQnSRNj_Y1t5LUqt567E_9np9BD1_NW7nVjfCuRpj8p7-tbNe6EWvFunXeJEIdLtDudf2wfDcwoqL/s1600/IMG_20230129_103412.jpg)  ---  Rayado mural en puente, La Huerta    [![](Images/Nuevo Peru/2023-02-04T13:31:00+01:00/IMG_20230129_114942.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5O32xzSisC2EqszMffhDvJnFIP7HaopmYS4JYvfHmW-aDBw-yI0V1atx-iW-L3j1Bn0TYImQ22C-UQ34Bc7knIj8csYLRQoDh4eUGvzhtvSK7GPn81K1uTHEvMcb5siegtrUhxgus2GGgzPNjPJT69t7XY2l6LwVDVtQ3Tq_oUoH76uOQAFBjPLIQ/s1600/IMG_20230129_114942.jpg)  ---  Rayado mural en puente Los Escalones, Licantén
+[![](Images/Nuevo Peru/2023-02-04T13-31-00-01-00/IMG_20230129_103412.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsY169W8EVXilCufZqlnqlTyH3bdSEszjXLHXHf97_WZzhnp5i-vX-0GsmtBnHbkgQ_W5EwPPNF3UhaLBhIrcLEL7PxwDaqeS1bvSJkds3vYtJQnSRNj_Y1t5LUqt567E_9np9BD1_NW7nVjfCuRpj8p7-tbNe6EWvFunXeJEIdLtDudf2wfDcwoqL/s1600/IMG_20230129_103412.jpg)  ---  Rayado mural en puente, La Huerta    [![](Images/Nuevo Peru/2023-02-04T13-31-00-01-00/IMG_20230129_114942.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5O32xzSisC2EqszMffhDvJnFIP7HaopmYS4JYvfHmW-aDBw-yI0V1atx-iW-L3j1Bn0TYImQ22C-UQ34Bc7knIj8csYLRQoDh4eUGvzhtvSK7GPn81K1uTHEvMcb5siegtrUhxgus2GGgzPNjPJT69t7XY2l6LwVDVtQ3Tq_oUoH76uOQAFBjPLIQ/s1600/IMG_20230129_114942.jpg)  ---  Rayado mural en puente Los Escalones, Licantén
 
 El camino propuesto es el de la organización y la lucha por una NuevaDemocracia, donde el pueblo conquiste sus derechos, en especial la lucha porla tierra que se concretará desarrollando la Revolución Agraria como parte delcamino por acabar con la vieja sociedad semifeudal, semicolonial, donde sedesenvuelve un capitalismo burocrático; justamente las 3 montañas que debemosaniquilar.
 
@@ -306,25 +306,25 @@ Images: ['[IMG-20230204-WA0001.jpg](https://blogger.googleusercontent.com/img/b/
 
 <!--METADATA-->
 
-![](Images/proletari comunisti/2023-02-04T13:46:00+01:00/IMG-20230204-WA0001.jpg)
+![](Images/proletari comunisti/2023-02-04T13-46-00-01-00/IMG-20230204-WA0001.jpg)
 
 L'assemblea delle compagne e dei compagni, dopo il partecipato presidio alcarcere di via Gleno a Bergamo, lancia un nuovo appuntamento solidale perdomenica alle ore 15.00, Bergamo, piazzale FS, per Alfredo fuori dal 41 bis,contro l'accanimento giudiziario, una tortura per l'abiura; contro l'ergastoloostativo.
 
-[![](Images/proletari comunisti/2023-02-04T13:46:00+01:00/IMG-20230203-WA0014.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJZVdevNQk7_vYO2bJgIsPA19-LRWum68jBDwnspnEPUL6SVhrMor9pxmA1ehe_sTwQizPSOnksf1bC31gNaXX98e74-umOnLCfo-eqXeLfYZid7OA6h45dPLjg-TMALDAUjTnKta3t_71PNaRWlMP8dldi1t59SUgybdlr48VINLqycgWx_LJL-FB/s2016/IMG-20230203-WA0014.jpg)
+[![](Images/proletari comunisti/2023-02-04T13-46-00-01-00/IMG-20230203-WA0014.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJZVdevNQk7_vYO2bJgIsPA19-LRWum68jBDwnspnEPUL6SVhrMor9pxmA1ehe_sTwQizPSOnksf1bC31gNaXX98e74-umOnLCfo-eqXeLfYZid7OA6h45dPLjg-TMALDAUjTnKta3t_71PNaRWlMP8dldi1t59SUgybdlr48VINLqycgWx_LJL-FB/s2016/IMG-20230203-WA0014.jpg)
 
-[![](Images/proletari comunisti/2023-02-04T13:46:00+01:00/IMG-20230202-WA0010.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiidTytAiUK-nZ70EBT_rrmWWdYcH7x3O7cKsTVOlfAu5wYINQZp2FSTS9uatlIojLaM2KJT729VQBAmliO5CmLAPnl1_FfyBymN7kaO1b6yev1M3Jz5klL1bJ_8i1dIRz35NJaQMqs0Q4OskCFKMnzRUBwZW0epGbhCksaLvurJfYWHUyxtFlujdGD/s1600/IMG-20230202-WA0010.jpg)
-
-
-
-[![](Images/proletari comunisti/2023-02-04T13:46:00+01:00/IMG-20230204-WA0002.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgHUVKcBlzy1rQ_YDKw-yvVYZCuSqrSsIRB4sF1la-qSGyrGsEtIohoUCONj0VlEzrSscHv_0_49ytbg2O3Be0EJvyBRQDPz4AyalU24zgmdNHJWfH9qCnDhnB0EzvzD9evD1psEJDFpwHbM0EF9NmnA-RuJAunvZmh2k04PyzKLlulAjQV1rVtWlU/s1600/IMG-20230204-WA0002.jpg)
+[![](Images/proletari comunisti/2023-02-04T13-46-00-01-00/IMG-20230202-WA0010.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiidTytAiUK-nZ70EBT_rrmWWdYcH7x3O7cKsTVOlfAu5wYINQZp2FSTS9uatlIojLaM2KJT729VQBAmliO5CmLAPnl1_FfyBymN7kaO1b6yev1M3Jz5klL1bJ_8i1dIRz35NJaQMqs0Q4OskCFKMnzRUBwZW0epGbhCksaLvurJfYWHUyxtFlujdGD/s1600/IMG-20230202-WA0010.jpg)
 
 
 
-[![](Images/proletari comunisti/2023-02-04T13:46:00+01:00/IMG-20230204-WA0003.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpiLCACJUqstwpwJdnm1BtqhkMCgihf-KSOxQr-ARHSSfiD2g4387-jeZEC64oe3g402FSxeqG0VIhRbFY0QfQCXWi__rO8Ea7w70SkPM3EHmxlJC6BryqFYZ4nTvVeT0aFp96-rbWuCjYzcTdMsZbWuQWR4RZzoU9yqmxbR4Hq6njBSaUJU3sSIIA/s1600/IMG-20230204-WA0003.jpg)
+[![](Images/proletari comunisti/2023-02-04T13-46-00-01-00/IMG-20230204-WA0002.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgHUVKcBlzy1rQ_YDKw-yvVYZCuSqrSsIRB4sF1la-qSGyrGsEtIohoUCONj0VlEzrSscHv_0_49ytbg2O3Be0EJvyBRQDPz4AyalU24zgmdNHJWfH9qCnDhnB0EzvzD9evD1psEJDFpwHbM0EF9NmnA-RuJAunvZmh2k04PyzKLlulAjQV1rVtWlU/s1600/IMG-20230204-WA0002.jpg)
 
 
 
-[![](Images/proletari comunisti/2023-02-04T13:46:00+01:00/IMG-20230204-WA0004.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnsSM858QPiEv3T_pDcZTn34dZaChkCfAhpd0EesZSLfFRcNSSglWPwlb8EHY3tZOxdr_8qeCN64U7crjgtK3Kqt7oP5iXIOQAG9U6ObsSFs5cXtz_w1gbq2E9fapcMHnzTzPryLvkguNHcuyuR_tHjaDOZt_hQ3kewINIruP9f0NhMyGOvvS4CzAT/s1600/IMG-20230204-WA0004.jpg)
+[![](Images/proletari comunisti/2023-02-04T13-46-00-01-00/IMG-20230204-WA0003.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpiLCACJUqstwpwJdnm1BtqhkMCgihf-KSOxQr-ARHSSfiD2g4387-jeZEC64oe3g402FSxeqG0VIhRbFY0QfQCXWi__rO8Ea7w70SkPM3EHmxlJC6BryqFYZ4nTvVeT0aFp96-rbWuCjYzcTdMsZbWuQWR4RZzoU9yqmxbR4Hq6njBSaUJU3sSIIA/s1600/IMG-20230204-WA0003.jpg)
+
+
+
+[![](Images/proletari comunisti/2023-02-04T13-46-00-01-00/IMG-20230204-WA0004.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnsSM858QPiEv3T_pDcZTn34dZaChkCfAhpd0EesZSLfFRcNSSglWPwlb8EHY3tZOxdr_8qeCN64U7crjgtK3Kqt7oP5iXIOQAG9U6ObsSFs5cXtz_w1gbq2E9fapcMHnzTzPryLvkguNHcuyuR_tHjaDOZt_hQ3kewINIruP9f0NhMyGOvvS4CzAT/s1600/IMG-20230204-WA0004.jpg)
 
 Source: [https://proletaricomunisti.blogspot.com/2023/02/dopo-il-presidio-al-carcere-di-via.html](https://proletaricomunisti.blogspot.com/2023/02/dopo-il-presidio-al-carcere-di-via.html)
 
@@ -344,15 +344,15 @@ Category: None
 
 <!--METADATA-->
 
-![](Images/DEM VOLKE DIENEN/2023-02-04T16:23:06+00:00/HH-Palästina0402-3.JPG)
+![](Images/DEM VOLKE DIENEN/2023-02-04T16-23-06-00-00/HH-Palästina0402-3.JPG)
 
 In Hamburg versammelten sich am Samstag, den 04\. Februar 2023 Revolutionare,Antiimperialisten und Massen aus unterschiedlichen Landern, um gegen diekurzlichen Massaker und Bombardements, die Israel gegen das palastinensischeVolk durchfuhrte, zu demonstrieren. In Redebeitragen wurden die kurzlichenAngriffe auf den Gazastreifen und die Militaroperation in Dschenin, bei der 10Palastinenser ermordet wurden, scharf verurteilt. Dazu sturmten israelischeStreitkrafte in den vergangenen Tagen mehrere Abteilungen in verschiedenenGefangnissen, verlegten viele Gefangene willkurlich, verhinderten jegliche Artvon Besuchen und sperrten eine große Anzahl von Gefangenen in Einzelhaft. Am31. Januar 2023, sturmte die Gefangnisbehorde das Al-Damoon-Gefangnis undgriff vor allem weibliche Gefangene an. Auch auf diese Verbrechen wurde mitRedebeitragen auf der Kundgebung aufmerksam gemacht. Zudem wurde auch dieKriminalisierung der palastinensischen Bewegung hier in der BRD thematisiert,da die Berliner Landesregierung zum wiederholten Mal alle Versammlungen amNakba-Tag verbieten will. Es sprachen unterschiedliche internationalistischeund antiimperialistische Organisationen, sowie arabische Massen, die ihrenKlassenhass gegen die Unterdruckung des palastinensischen Volkes zum Ausdruckbrachten.
 
-![HH Palästina0402 2](Images/DEM VOLKE DIENEN/2023-02-04T16:23:06+00:00/HH-Palästina0402-2.JPG)
+![HH Palästina0402 2](Images/DEM VOLKE DIENEN/2023-02-04T16-23-06-00-00/HH-Palästina0402-2.JPG)
 
 Es herrschte ein Klima der Verbundenheit und der Solidaritat bei denPassanten, die an der Kundgebung vorbeikamen. Viele schlossen sich derKundgebung an, riefen Parolen mit oder begannen zu der revolutionarenarabischen Musik, die gespielt wurde, zu tanzen. Auch von der anderenStraßenseite riefen Vorbeikommende Parolen wie „Free, Free Palastine!" undbegrußten die Kundgebung mit erhobener Faust. Das zeigt, dass der Kampf despalastinensischen Volkes auch hier in der BRD gefuhrt werden kann, gefuhrtwird und auch gefuhrt werden muss. Die Zustimmung der Massen zeigt dasdeutlich.
 
-![HH Palästina0402 1](Images/DEM VOLKE DIENEN/2023-02-04T16:23:06+00:00/HH-Palästina0402-1.JPG)
+![HH Palästina0402 1](Images/DEM VOLKE DIENEN/2023-02-04T16-23-06-00-00/HH-Palästina0402-1.JPG)
 
 Source: [https://www.demvolkedienen.org/index.php/de/t-international/7459-hamburg-kundgebung-gegen-die-aggression-gegen-palaestina](https://www.demvolkedienen.org/index.php/de/t-international/7459-hamburg-kundgebung-gegen-die-aggression-gegen-palaestina)
 
@@ -388,7 +388,7 @@ _Informiamo che lo Slai cobas per il sindacato di classe ha gia' indettoformalme
 
 
 
-[![](Images/femminismo proletario rivoluzionario/2023-02-04T16:57:00+01:00/Piattaforma%20donne%208%20marzo%202023_page-0001.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEib6wbAYJhzULp3LVmmKTDQasFN9xf_zB7SPKyf4tz_C9NR9b2rShwwGM6CuF2cgRd5lZCu1JUNC-ThdpV8qYCHhcUcvdksLzb7EXtfA1ArVjMgdBQ_a-ypop35MIwzLXnJHprkfeFnYhq6W74xdMRxRYr21zFzH8zFeqeDPLQdr9vg-_kOn-IKukVg/s1460/Piattaforma%20donne%208%20marzo%202023_page-0001.jpg)
+[![](Images/femminismo proletario rivoluzionario/2023-02-04T16-57-00-01-00/Piattaforma%20donne%208%20marzo%202023_page-0001.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEib6wbAYJhzULp3LVmmKTDQasFN9xf_zB7SPKyf4tz_C9NR9b2rShwwGM6CuF2cgRd5lZCu1JUNC-ThdpV8qYCHhcUcvdksLzb7EXtfA1ArVjMgdBQ_a-ypop35MIwzLXnJHprkfeFnYhq6W74xdMRxRYr21zFzH8zFeqeDPLQdr9vg-_kOn-IKukVg/s1460/Piattaforma%20donne%208%20marzo%202023_page-0001.jpg)
 
 
 
@@ -418,7 +418,7 @@ _Als Ausdruck des proletarischen Internationalismus, anl asslich der grausamenNe
 
 **Massaker in Nova Mutum/RO: Neue Berichte denunzieren Folterungen undVerletzungen der Rechtewahrend des Angriffs der Militarpolizei**
 
-**![1](Images/DEM VOLKE DIENEN/2023-02-04T20:04:12+00:00/1.jpg)**
+**![1](Images/DEM VOLKE DIENEN/2023-02-04T20-04-12-00-00/1.jpg)**
 
 _Raniel Barbosa Laurindo (bekannt als "Mandruv a"), 24 Jahre alt, und RodrigoHawerroth (bekannt als "Estado"), 34 Jahre alt, wurden ermordet, nachdem sievon der Militarpolizei von Rondonia gefoltert worden waren. Foto: AND-Datenbank_
 
@@ -428,7 +428,7 @@ Der brutale Angriff auf die Bauernfamilien ereignete sich wahrend einerBeschlagn
 
 Das grauenhafte Massaker, das von der Militarpolizei, dem Auftragsmorder desGouverneurs, Oberst Marcos Rocha, verubt wurde, fand in der Área Tiago Campindos Santos statt, die zu den Farmen Arco-iris und Norbrasil gehort. LautAbrapo ist der angebliche Eigentumer dieser Grundstucke das Unternehmen LemeEmprendimentos, das dem Grundbesitzer Antonio Martins gehort. "Galo Velho",wie er in der Region genannt wird, ist im "Weißbuch des Landraubs" als einerder großten Landrauber des Landes aufgefuhrt, gegen den die Zivil- undBundespolizei zusammen mit dem Ministerium fur offentliche Angelegenheitenermittelt, weil er Bewaffnete in der Region finanziert, die Landraub undVertreibung von Bauern betreiben.
 
-![2](Images/DEM VOLKE DIENEN/2023-02-04T20:04:12+00:00/2.jpg)
+![2](Images/DEM VOLKE DIENEN/2023-02-04T20-04-12-00-00/2.jpg)
 
 _Bauern und Anw alte prangerten Verbrechen gegen das Volk an. Foto:Vervielfaltigung_
 
@@ -438,7 +438,7 @@ Am selben Ort hatte es bereits am 22. Januar einen Angriff gegeben. NachAngaben 
 
 Am Vortag hatten Hunderte von Familien, insgesamt mehr als 300 Bauern, denSItz des Bauernhofs Norbrasil am Rande der Landstraße BR-364 besetzt. DasInteresse, dieses Grundstuck zu besetzen, wurde nicht nur von diesen 100Familien, sondern von der gesamten Área Tiago Campin dos Santos geteilt, denneine Fahrt von 100 km ist die einzige Alternative um ihre Hauser zu erreichen.Außerdem ist dieses Grundstuck aufgrund seiner Nahe zur Bundesstraße derwichtigste Platz um die Erzeugnisse der Bauern verkaufen zu konnen.
 
-![3](Images/DEM VOLKE DIENEN/2023-02-04T20:04:12+00:00/3.jpg)
+![3](Images/DEM VOLKE DIENEN/2023-02-04T20-04-12-00-00/3.jpg)
 
 _Rodrigo Hawerroth bei der Arbeit an seinem Werk. Foto: Vervielf altigung_
 
@@ -448,15 +448,15 @@ Die Polizei kam uber die BR-364 und schoss und warf Betaubungsbomben undTranenga
 
 Die ermordeten Bauern, Rodrigo Hawerroth (bekannt als "Esticado"), 34, undRaniel Barbosa Laurindo (bekannt als "Mandruva"), 24, gehorten zu der Gruppevon Bauern, die sich von den Bomben zuruckzogen. Die Gruppe beschloss, denFluss Cotia zu uberqueren und mit einem Boot zu fahren. In diesem Momentwurden sie von der Polizei uberfallen. Auf drei Bauern wurde geschossen (nebenRodrigo und Raniel wurde auch Kenedy angeschossen und ins Krankenhaus JoaoPaulo II gebracht).
 
-![4](Images/DEM VOLKE DIENEN/2023-02-04T20:04:12+00:00/4.jpg)
+![4](Images/DEM VOLKE DIENEN/2023-02-04T20-04-12-00-00/4.jpg)
 
 _Kinder wurden von Gummigeschossen und Tr anengas getroffen. Foto:Vervielfaltigung_
 
-![5](Images/DEM VOLKE DIENEN/2023-02-04T20:04:12+00:00/5.jpg)
+![5](Images/DEM VOLKE DIENEN/2023-02-04T20-04-12-00-00/5.jpg)
 
 _Die Familien waren den ganzen Tag ohne Essen in der Sonne. Foto: Vervielfaltigung_
 
-![6](Images/DEM VOLKE DIENEN/2023-02-04T20:04:12+00:00/6.jpg)
+![6](Images/DEM VOLKE DIENEN/2023-02-04T20-04-12-00-00/6.jpg)
 
 _Lastwagen, der Bauern nach Vila Al ipio de Freitas in der Área Tiago Campindos Santos bringt. Foto: Vervielfaltigung_
 
@@ -466,11 +466,11 @@ Nach diesem Angriff begann die Polizei mit der Belagerung der Familien, die inde
 
 Die Bauern behaupten, dass die Polizeibeamten alle keinen Ausweis an ihrenUniformen trugen und von "Pistoleiros" der Farm begleitet wurden. DerBefehlshaber der Truppen (Oberstleutnant Pontes) beschimpfte die Bauern alsKriminelle, und die reaktionaren Militars erklarten, dass es darum gehe, "allezu toten". Die Familien wehrten sich gegen den Versuch, sie in einen Bus zusetzen, ohne sie uber ihr Ziel zu informieren, und wurden erneut geschlagen.Es wurden Blendgranaten geworfen und die Familien zogen sich zuruck, diesmalauf die Seite der Straße BR-364 (vor dem Bauernhof). Und sie blieben dort inder sengenden Sonne, ohne Zugang zu Wasser oder Nahrung. Ein Bauer wurde wegeneines Herzinfarkts in dasselbe Krankenhaus eingeliefert. Viele wurden durchGummigeschosse verletzt und hatten durch das Tranengas Atemnot. Frauen fielenin Ohnmacht und Kinder wurden ohne Nahrung zuruckgelassen.
 
-![7](Images/DEM VOLKE DIENEN/2023-02-04T20:04:12+00:00/7.jpg)
+![7](Images/DEM VOLKE DIENEN/2023-02-04T20-04-12-00-00/7.jpg)
 
 _Rodrigo Hawerroth w ahrend einer kollektiven Aktivitat Foto:Vervielfaltigung_
 
-![8](Images/DEM VOLKE DIENEN/2023-02-04T20:04:12+00:00/8.jpg)
+![8](Images/DEM VOLKE DIENEN/2023-02-04T20-04-12-00-00/8.jpg)
 
 _Rodrigo Hawerroth w ahrend einer kollektiven Aktivitat Foto:Vervielfaltigung_
 
@@ -486,15 +486,15 @@ _(Auch mehr Bildmaterial)_
 
 **ACHTUNG: SENSIBLE BILDER**
 
-![9](Images/DEM VOLKE DIENEN/2023-02-04T20:04:12+00:00/9.jpg)
+![9](Images/DEM VOLKE DIENEN/2023-02-04T20-04-12-00-00/9.jpg)
 
 _Der Leichnam von Rodrigo Hawerroth mit Folterspuren. Foto: Vervielf altigung_
 
-![10](Images/DEM VOLKE DIENEN/2023-02-04T20:04:12+00:00/10.jpg)
+![10](Images/DEM VOLKE DIENEN/2023-02-04T20-04-12-00-00/10.jpg)
 
 _Der Leichnam von Rodrigo Hawerroth mit Folterspuren. Foto: Vervielf altigung_
 
-![11](Images/DEM VOLKE DIENEN/2023-02-04T20:04:12+00:00/11.jpg)
+![11](Images/DEM VOLKE DIENEN/2023-02-04T20-04-12-00-00/11.jpg)
 
 _Folterspuren an den K orpern von Rodrigo und Raniel. Foto: Vervielfaltigung_
 
@@ -514,7 +514,7 @@ Categories: ['Yleinen']
 
 <!--METADATA-->
 
-![](Images/PUNALIPPU/2023-02-04T99:00:00-04:00/stalingrad1.png)
+![](Images/PUNALIPPU/2023-02-04T99-00-00-04-00/stalingrad1.png)
 
 Kommunistinen Internationaali ([ci-ic.org])(https://ci-ic.org/)) verkkosivustoon julkaissut kirjoituksen historiallisesta voitosta jonka Sosialististenneuvostotasavaltojen liiton (SNTL) työläisten ja talonpoikien punainen armeijasaavutti natsi-Saksasta ja sen liittolaisista Stalingradissa vuonna 1943.Stalingradin taistelun voitto oli historiallinen käännekohta toisessamaailmansodassa, mutta se oli myös merkittävä käännekohta koko ihmiskunnanhistoriassa, suurena etappina proletaarisen maailmanvallankumouksenprosessissa. Alkuperäinen kirjoitus on luettavissa englanniksi[täällä](https://ci-ic.org/blog/2023/01/31/on-the-80th-anniversary-of-the-victory-in-the-battle-of-stalingrad/) ja espanjaksi [täällä](https://ci-ic.org/es/2023/01/31/en-el-80o-aniversario-de-la-victoria-de-stalingrado/).
 
@@ -522,49 +522,49 @@ Kirjoituksessa toverit korostavat kuinka Kansainvälinen Kommunistien Liitto(KKL
 
 Kirjoituksessa myös todetaan, että puheenjohtaja Mao on määritellytStalingradin taistelun koko ihmiskunnan historian kannalta merkittäväksitaisteluksi. Hänen mukaansa tätä taistelua ei tule nähdä vain taisteluksiNeuvostoliiton ja natsi-Saksan välillä, sillä Neuvostoliitto kävi toveriStalinin suuren johtajuuden alla oikeutettua sotaa natsi-Saksaa ja senliittolaisia vastaan, koko kansainvälisen proletariaatin jamaailmanvallankumouksen puolesta. Kokonaisuudessaan toinen maailmansota maksoinoin 25 miljoonan neuvostokansalaisen hengen. Tämä suuri antifasistinen sotaoli erittäin tärkeä inspiraation lähde oikeutetuille vapaussodille monissasorretuissa kolmannen maailman maissa.
 
-![](Images/PUNALIPPU/2023-02-04T99:00:00-04:00/you.png)
+![](Images/PUNALIPPU/2023-02-04T99-00-00-04-00/you.png)
 
 Kuvassa toisen maailmansodan alussa Neuvostoliitossa jaettu juliste. Teksti:"Mennään eteenpäin, tuhotaan saksalaiset hyökkääjät ja heitetään heidät poisisänmaastamme!"
 
 Toverit lainaavat kirjoituksessa vuoden 1942, heinäkuun 28.päivä julkaistuatoveri Stalinin käskyä: "[Ei askeltakaantaaksepäin](https://marxismileninismi.wordpress.com/2021/01/01/stalin-ei-askeltakaan-taaksepain-1942/)". Käskyssä vaaditaan neuvostokansalta yhäkovempia ponnistuksia sosialistisen isänmaan puolustamiseksi. Käskyssäsanotaan muun muassa: ___"_ _Jokaisen komentajan, sotilaan ja poliittisenupseerin on ymmärrettävä, etteivät resurssimme ole rajattomat. Neuvostoliitonalue ei ole autiomaata, vaan ihmisiä – työläisiä, maanviljelijöitä, älymystöä,isiämme ja äitejämme, vaimoja, veljiä ja lapsia. Alue, jonka vihollinen onNeuvostoliitolta vallannut, ja se mitä vihollinen haluaa kaapata, on leipää jamuita resursseja armeijalle ja siviileille, rautaa ja polttoainettateollisuudelle, tehtaita ja laitteistoa jotka toimittavat armeijalle aseita jaammuksia; tämä tarkoittaa myös rautateitä. Menetettyämme Ukrainan, Valko-Venäjän, Baltian, Donetskin altaan ja muita laajoja alueita, olemmemenettäneet paljon ihmisiä, leipää, metalleja, tehtaita ja tuotantolaitoksia.Meillä ei ole enää ylivoimaa henkilöstön ja elintarvikkeiden suhteen.Perääntymisen jatkaminen tarkoittaa meidän ja kotimaamme tuhoutumista.Jokainen pala maata jonka jätämme vihollisen haltuun vahvistaa heitä,heikentää taas meitä, puolustustamme ja isänmaatamme… Tämän takia onlopetettava keskustelu päättymättömästä vetäytymisestä, että meillä on laajatmaa-alueet, että maamme on suuri ja rikas, että meillä on valtava väestö jaettä meillä tulee aina riittämään leipää. Nämä keskustelut ovat valheellisiaja haitallisia, sillä ne heikentävät meitä ja vahvistavat vihollista. Jos emmelopeta perääntymistä, jäämme ilman leipää, polttoainetta, metallia, raaka-aineita, tehtaita ja rautateitä… Tämä tarkoittaa sitä, että on aika lopettaaperääntyminen. Ei enää askeltakaa taaksepäin! Tämä on iskulauseemme tästäeteenpäin._ " Toveri Stalinin käskyä seuraten neuvostokansa alkoi pitämäänperääntymistä petturuutena, ja huomionarvoista on että käytännössä kokoStalingradiin jäänyt väestö saatiin mobilisoitua, tukemaan tai tekemäänaseellista vastarintaa natsi-Saksan ja sen liittolaisten sotavoimia vastaan.
 
-![](Images/PUNALIPPU/2023-02-04T99:00:00-04:00/stalingrad6.png)
+![](Images/PUNALIPPU/2023-02-04T99-00-00-04-00/stalingrad6.png)
 
 Stalingradin kaupunki liekeissä fasistien hyökkäyksen alussa.
 
 Natsi-Saksan sotavoimat liittolaisineen (Italia, Romania, Unkari sekäukrainalaiset Bandera-rotat ja espanjalaiset francolaiset "vapaaehtoiset")hyökkäsivät Stalingradin kaupunkiin 23.päivä elokuuta vuonna 1942. Kaupunginvalloituksella fasisit pyrkivät rakentamaan aseman, hyökätäkseen sieltä kohtiKaukasuksen öljykenttiä sekä katkaisemaan Volgan liikennereitit. Kaupunginvalloittaminen oli fasistien kannalta tärkeää myös siksi, että sen tahtaissavalmistettiin paljon Neuvostoliiton sotatarvikkeita sekä kaupungin kauttakulki lautoilla noin 70 prosenttia maan käyttämästä öljystä. Kaupungintärkeydestä kertoo sekin, että kaupunki oli nimetty toveri Stalinin mukaan.
 
-![](Images/PUNALIPPU/2023-02-04T99:00:00-04:00/stalingrad7.png)
+![](Images/PUNALIPPU/2023-02-04T99-00-00-04-00/stalingrad7.png)
 
 Kuvassa Stalingradin viimeisiin taisteluun käyviä puna-armeijan taistelijoitahelmikuussa 1943.
 
 Stalingradin taistelun alussa fasistien 6.armeija valloitti suuren pinta-alankaupungista, mutta toveri Stalinin sekä marsalkoiden Georgi Žukovin jaAleksandr Vasilevskin käynnistämässä operaatio Uranuksessa neuvostojoukotjärjestettiin uudelleen. Operaatio Uranus alkoi 19.päivä marraskuuta vuonna1942. Tuona päivänä Stalingradin pohjoispuolella hyökkäsivät puna-armeijan24.armeija ja 66.armeija tehtävänään sitoa fasistit asemiinsa siten, että neeivät voi vetäytyä Donin yli. Kaupungin luoteispuolella hyökkäsivät puna-armeijan 5.panssariarmeija ja 21.armeija romanialaisia fasistijoukkojavastaan, murskaten ne täydellisesti jo operaation ensimmäisen päivän iltaanmennessä. Samaten heti seuraavana päivänä (20.11) puna-armeija jyräsinäytösluonteisesti romanialaisten Stalingradin rintaman etelän puoleisetjoukot. Menestyksellisen operaatio Uranuksen johdosta satojatuhansia natsi-Saksan sotilaita jäi mottiin Stalingradin kaupunkiin, lähes vaillaminkäänlaisia huoltoyhteyksiä. Tästä eteenpäin neuvostokansa valloittikaupunkia takaisin anastajilta huoneisto huoneistolta, talo talolta ja katukadulta, vapauttaen kaupungin fasisteista 2.päivä helmikuuta vuonna 1943.Suomalaisille on myös historiallisesti merkittävää se, että fasistien tappioonpäättyneen Stalingradin taistelun jälkeen suomalainen taantumusporvaristoalkoi tajuamaan, että sen liittolaisena toisessa maailmansodassa ollut natsi-Saksa tulee häviämään sodan ja näin ollen Suomen eräät johtavat poliitikotalkoivat hakemaan neuvotteluyhteyksiä liittoutuneisiin, saadakseen aikaanrauhan SNTL:n kanssa.
 
-![](Images/PUNALIPPU/2023-02-04T99:00:00-04:00/stalingrad4.png)
+![](Images/PUNALIPPU/2023-02-04T99-00-00-04-00/stalingrad4.png)
 
 Punainen lippu liehuu Stalingradissa voiton merkiksi 2.2.1943
 
 Kirjoituksessa myös korostetaan sitä, että natsi-Saksan ja sen Stalingradintaisteluun osallistuneiden liittolaisten hyökkäys kaupunkiin oli jättimäinenmobilisaatio fasisteilta. Hyökkäkseen osallistui miljoonia sotilaita jaesimerkiksi 75 prosenttia Wehrmachtin lennoista kulki Stalingradin suunnallesyksystä 1942 vuoden 1943 talveen saakka. Tästä huolimatta puna-armeijaselvisi taistelusta voittajana toveri Stalinin suuren johtajuuden alla.Tovereiden artikkelin mukaan yksi iso tekijä taistelun voiton kannalta oliNeuvostoliiton äärettömän hyvin tehty tiedustelutyö, ja toinen oli toveriStalinin onnistunut diplomaattinen työ. Lisäksi neuvostokansa käyttistrtegisen puolustuksen vaiheessa poltetun maan taktiikkaa sekä organisoikaikkialle fasistien selustaan partisaanijoukkoja. Perääntyessään puna-armeijapoltti kaikki pellot ja räjäytti tehtaat sekä rakennukset, tällöin fasisteilleei jäänyt mitään muuta kuin rakennusten raunioita ja tyhjiä peltoja.Fasisteille oli täysin yllätys, että sosialismin hengen täyttämät joukotpystyivät moisiin ponnistuksiin. Toverit huomioivat kirjoituksessaanverkkosivustolla myös aivan oikein, että Stalingradin taistelu todistaatosiasiaksi sen, että sodassa ihmiset ratkaisevat eivät aseet.
 
-![](Images/PUNALIPPU/2023-02-04T99:00:00-04:00/stalingrad3.png)
+![](Images/PUNALIPPU/2023-02-04T99-00-00-04-00/stalingrad3.png)
 
 Kuvassa fasistien riveissä taistelleita puna-armeijalle antautuneitasotilaita. Natsi-Saksa ja sen liittolaiset menettivät Stalingradin taistelussaarviolta 850 000 sotilasta kaatuneina, haavoittuneina tai vangittuina, näistä400 000 saksalaisia, 200 000 romanialaisia, 130 000 italialaista ja 120 000unkarilaista.
 
 Toverit kirjoittavat että neuvostokansa tiedosti proletariaatin diktatuurinolevan vaakalaudalla, vallankumouksen olevan vaakalaudalla. Tämäkollektiivinen tietoisuus takasi sen, että fasistien selustaan saatiin suuriapartisaanijoukkoja aseinaan kiväärit, käsikranaatit ja räjähteet tuhoamaanmonilukuista vihollista sekä häiritsemään sen sodankäyntiä esimerkiksituhoamalla rautateitä. Tämä ei ollut mikään yksinkertainen valinta, silläpartisaaneja odotti aina kuolema, jos he jäivät fasistien kynsiin.
 
-![](Images/PUNALIPPU/2023-02-04T99:00:00-04:00/stalingrad2.png)
+![](Images/PUNALIPPU/2023-02-04T99-00-00-04-00/stalingrad2.png)
 
 Kuvassa nuoria neuvostokansalaisia, jotka toimivat aseiden ja ammustenkantajina kotikaupungissaan Stalingradissa. Aseet ja ammukset on saatusotasaaliina fasisteilta.
 
 Toveri Stalinin suurta johtajuutta tässä kaikessa ei voi olla unohtamatta kunmuistellaan toista maailmansotaa, sillä hän oli kansainvälisen proletariaatinjohtajana sillä historiallisella hetkellä jolloin natsi-Saksan hakaristiliputheitettiin sosialismin voiton merkiksi maahan Leninin mausoleumin eteen.Kirjoituksessa mainitaan myös kuinka brasilialaiset toverit ovat todenneet,että voitto fasismista toisessa maailmansodassa on yksi proletaarisenmaailmanvallankumouksen prosessin suurista tapahtumista. Kolme tärkeätäimperialistista valtaa Saksa, Japani ja Italia lyötiin polvilleen. Tätävoittoa tulisi kaikkien luokkatietoisten proletaarien juhlia.
 
-![](Images/PUNALIPPU/2023-02-04T99:00:00-04:00/you-1.png)
+![](Images/PUNALIPPU/2023-02-04T99-00-00-04-00/you-1.png)
 
 Kuvassa maalaus hetkestä jolloin natsi-Saksan hakaristiliput heitettiinsosialismin voiton merkiksi maahan Leninin mausoleumin eteen vuonna 1945
 
 Kirjoituksen lopussa toverit lainaavat Kiinan Kommunistista puoluetta (KKP) jaheidän tekemäänsä arviota siitä, että suuri antifasistinen sota osoittaasosialistisen järjestelmän elinvoimaisuuden, imperialismi on nykyään sotienlähde, ihmiset ratkaisevat eikä aseet ja imperialismi on paperitiikeri.Imperialististen hyökkääjien voittamiseksi on kansan vallankumouksellisetjoukot saatava yhtenäisiksi kaikissa maissa ja näin ne muodostavatmahdolisimman laajan kansainvälisen yhteisrintaman taistelussa maailmankansojen päävihollista vataan. Kirjoituksen toverit päättävät näihin sanoihin:"Kunniakkaan Punaisen Armeijan kivääreillä natsi-Saksa murskattiin, sosialismija proletariaatin diktatuuri pystytettiin Itä-Saksassa. Se tosiasia, ettäkommunistisen puolueen ja SNTL:n punainen lippu liehui Saksan pimeän jaraunioituneen Valtiopäivätalon (Reichstag) katolla, on kiistatta suuri hetkikansainväliselle proletariaatille. Tuo hetki symboloi koko ikimuistoistasankarillista ja kunniakasta taistelua fasismia vastaan, Neuvostoliitonpuolustamiseksi ja proletaarisen maailmanvallankumouksen kehittämiseksi.Toveri Dimitrovin sanat: 'Me luomme neuvosto-Saksan!', jotka hän lausuiLeipzigin oikeudenkäynnissä natsien tuomiosistuimen edessä, täyettiin suuressavoitossa."
 
-![](Images/PUNALIPPU/2023-02-04T99:00:00-04:00/jepberlin1.png)
+![](Images/PUNALIPPU/2023-02-04T99-00-00-04-00/jepberlin1.png)
 
 Punainen lippu liehuu Saksan Valtiopäivätalolla toukokuussa 1945.
 
@@ -588,7 +588,7 @@ Type: article
 
 <!--METADATA-->
 
-![](Images/Partido Communista Revolucionario/2023-02-04T99:00:00-04:00/Salta-acto-por-55-años-PCR.jpg)
+![](Images/Partido Communista Revolucionario/2023-02-04T99-00-00-04-00/Salta-acto-por-55-años-PCR.jpg)
 
 El PCR salteño conmemoró su aniversario n° 55. Con la presencia de Sergio«Oso» Leavy, Walter Wayar, Diego Arroyo, Fidel Puggioni y dirigentes sociales,sindicales y militantes, con un SUTIAGA colmado, los oradores denunciaron lacrisis que atraviesa la provincia, el avance de la derecha y coincidieron enconformar un amplio frente que logre la unidad del campo popular. Lamilitancia pidió por Veronica Caliva gobernadora y rechazó “los tres frentesde la derecha”: JxC, Avancemos y el oficialismo provincial.
 
@@ -620,7 +620,7 @@ Cabe destacar que también estuvieron presentes otros referentes y militantescom
 
 **“Tenemos que dar a nuestro pueblo una opción soberana, popular, feminista yrevolucionaria”**
 
-[![](Images/Partido Communista Revolucionario/2023-02-04T99:00:00-04:00/Acto-Salta-por-55-PCR-300x170.jpg)](http://pcr.org.ar/nota/en-salta-el-pcr-conmemoro-su-aniversario-55/acto-salta-por-55-pcr/)
+[![](Images/Partido Communista Revolucionario/2023-02-04T99-00-00-04-00/Acto-Salta-por-55-PCR-300x170.jpg)](http://pcr.org.ar/nota/en-salta-el-pcr-conmemoro-su-aniversario-55/acto-salta-por-55-pcr/)
 
 La diputada nacional Verónica Caliva fue quien cerró el acto y reflexionósobre el nacimiento del PCR en 1968 cuando se dividió del Partido Comunista deArgentina, en objeción a la mirada “reformista” de este último. A lo largo desu discurso, se refirió al feminismo, al movimiento indígena, al sindicalismoy la incidencia de estos actores en Salta.
 
@@ -664,7 +664,7 @@ Categories: ['Uncategorized']
 
 Vi har modtaget dokumentation af plakater, sat op af proletariskerevolutionære, i Aalborg midtby og det proletariske nabolag Grønlands Torv.Plakaterne har parolerne »Ned med den imperialistiske krig! Og denkrigsmageriske regering!«.
 
-![](Images/SOCIALISTISK REVOLUTION/2023-02-05T04:00:00+00:00/10.jpg)![](Images/SOCIALISTISK REVOLUTION/2023-02-05T04:00:00+00:00/11.jpg)![](Images/SOCIALISTISK REVOLUTION/2023-02-05T04:00:00+00:00/12.jpg)![](Images/SOCIALISTISK REVOLUTION/2023-02-05T04:00:00+00:00/13.jpg)![](Images/SOCIALISTISK REVOLUTION/2023-02-05T04:00:00+00:00/14.jpg)![](Images/SOCIALISTISK REVOLUTION/2023-02-05T04:00:00+00:00/15.jpg)![](Images/SOCIALISTISK REVOLUTION/2023-02-05T04:00:00+00:00/16.jpg)![](Images/SOCIALISTISK REVOLUTION/2023-02-05T04:00:00+00:00/17.jpg)![](Images/SOCIALISTISK REVOLUTION/2023-02-05T04:00:00+00:00/18.jpg)
+![](Images/SOCIALISTISK REVOLUTION/2023-02-05T04-00-00-00-00/10.jpg)![](Images/SOCIALISTISK REVOLUTION/2023-02-05T04-00-00-00-00/11.jpg)![](Images/SOCIALISTISK REVOLUTION/2023-02-05T04-00-00-00-00/12.jpg)![](Images/SOCIALISTISK REVOLUTION/2023-02-05T04-00-00-00-00/13.jpg)![](Images/SOCIALISTISK REVOLUTION/2023-02-05T04-00-00-00-00/14.jpg)![](Images/SOCIALISTISK REVOLUTION/2023-02-05T04-00-00-00-00/15.jpg)![](Images/SOCIALISTISK REVOLUTION/2023-02-05T04-00-00-00-00/16.jpg)![](Images/SOCIALISTISK REVOLUTION/2023-02-05T04-00-00-00-00/17.jpg)![](Images/SOCIALISTISK REVOLUTION/2023-02-05T04-00-00-00-00/18.jpg)
 
 Source: [https://socialistiskrevolution.wordpress.com/2023/02/05/aalborg-plakater-imod-den-imperialistiske-krig-og-regering/](https://socialistiskrevolution.wordpress.com/2023/02/05/aalborg-plakater-imod-den-imperialistiske-krig-og-regering/)
 
@@ -686,7 +686,7 @@ Categories: ['Imperialist States', "People's War", 'Philippines', 'USA']
 
 <!--METADATA-->
 
-![](Images/Redspark/2023-02-05T05:03:40+00:00/bulatlat-online-photo-junk-edca-february-2-2023-1024x683-1-800x445.jpg)
+![](Images/Redspark/2023-02-05T05-03-40-00-00/bulatlat-online-photo-junk-edca-february-2-2023-1024x683-1-800x445.jpg)
 
 **Marco Valbuena | Chief Information Officer | Communist Party Of ThePhilippines**
 
@@ -780,11 +780,11 @@ Al presidio a L'Aquila in una delle piazze più centrali hanno partecipatodecine
 
 Purtroppo il tempo, tirava un gran vento, non ci aiutato (abbiamo messo 20minuti solo per attaccare lo striscione e una mezz'ora prima della fine ilvento lo ha strappato). si sono susseguiti interventi dei presenti, diSoccorso rosso proletario (vedi il volantino sotto), poi è stata letta ladichiarazione di Cospito di sciopero della fame, e una poesia per lui.
 
-[![](Images/proletari comunisti/2023-02-05T11:15:00+01:00/IMG_20230204_192830434.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju4TWxGiuawpNF7UxPbYMuYrCdbJKIn44bsKYopzoqojE-qD6r6ILoBHcJ-9dE9e9f1GaZcZ0BiU7_9DrLhy6t4NqQMY6eoXr3BgAKDGinMMvFsPItDS6mafH9nH-jV6hu6e5pX79Fn63DXjFtrKperqODDQCopaaJ6YmwNoQ_Kh1ija9vdDApUc8uBA/s3781/IMG_20230204_192830434.jpg)
+[![](Images/proletari comunisti/2023-02-05T11-15-00-01-00/IMG_20230204_192830434.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju4TWxGiuawpNF7UxPbYMuYrCdbJKIn44bsKYopzoqojE-qD6r6ILoBHcJ-9dE9e9f1GaZcZ0BiU7_9DrLhy6t4NqQMY6eoXr3BgAKDGinMMvFsPItDS6mafH9nH-jV6hu6e5pX79Fn63DXjFtrKperqODDQCopaaJ6YmwNoQ_Kh1ija9vdDApUc8uBA/s3781/IMG_20230204_192830434.jpg)
 
 
 
-[![](Images/proletari comunisti/2023-02-05T11:15:00+01:00/IMG_20230204_192849946.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiURRptO9XdLbyNhMtMM0MbsydBXXDGWIH9BdjqmPmImDon4s7xRXuGPn1r0LGBh9dhtnZDGMH4beU9XSo7r3kCP-FSBTACXRdDNnPmJMwnzWX5Hx93GdgzaPRaMRACqsVeyp7wq9gqQpg7SRkhKSCBE-28PFSQ1y7C_RDoo9SFPbOnz-RMXNi47VXgWQ/s2319/IMG_20230204_192849946.jpg)
+[![](Images/proletari comunisti/2023-02-05T11-15-00-01-00/IMG_20230204_192849946.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiURRptO9XdLbyNhMtMM0MbsydBXXDGWIH9BdjqmPmImDon4s7xRXuGPn1r0LGBh9dhtnZDGMH4beU9XSo7r3kCP-FSBTACXRdDNnPmJMwnzWX5Hx93GdgzaPRaMRACqsVeyp7wq9gqQpg7SRkhKSCBE-28PFSQ1y7C_RDoo9SFPbOnz-RMXNi47VXgWQ/s2319/IMG_20230204_192849946.jpg)
 
 VOLANTINO DEL SOCCORSO ROSSO PROLETARIO**
 
@@ -852,7 +852,7 @@ Anche tante persone, donne, uomini hanno firmato, esprimendo solidarieta' eappog
 
 Alla fine del presidio decise due **nuove iniziative: presidio al carcere diTaranto martedì 7 alle 17 - presidio alla prefettura venerdì 10 alle ore 11.**
 
-[![](Images/proletari comunisti/2023-02-05T11:29:00+01:00/IMG_20230203_093741.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZLdYvKARTKJIQIKPn_JKUcb9PoW6SlPVoe3c8Yey2qCXlteMC_nRIK01y5NROQCJk0rZSPKgzIptt7A8GOyXkr-qdczM27-m2pURhLXDw7Aq7gInFbKYUMfDsmweqtgHn9BCZtyGo4YqIeE06-rJJuhtivB0GxzABwbsIq4aQ9KBeAMbyTp2wmtGV/s4000/IMG_20230203_093741.jpg)            [![](Images/proletari comunisti/2023-02-05T11:29:00+01:00/IMG_20230203_093757.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibddU1xcu333V0ISMeAjUrd9BzyuReQ6znAIGsoiczYVfAJWJIGh7SxQSK7hMRyi8rHVp0aFpuEda89DQep7IdG7JYpx_TkQawwq-eZbMCY5EHz9-UgN7DXFu0NIDFhsblKxMyZcp3sq5c-7fA02SuXmhAro0fkKu38UEXp-433Y9ZGYO6-m3kQkyl/s4000/IMG_20230203_093757.jpg)        [![](Images/proletari comunisti/2023-02-05T11:29:00+01:00/IMG_20230203_102830.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGlkOsyOwLDaBqIT81bE9oxd3lHgDr0RJP82Zby5Gk67YKkW8iKDuthRgwNbIxF9vlUYEak4IgUkPah5WlJpbD5BCTtWOFEZUjn2J32m1T_coup5Hm3HAClGaAd3WVdS_txWV085pnDAqGjK1I8rYCooSZ7ugb9OGBvXlbgSTCj0Bl36Yb6VP4f7c5/s2082/IMG_20230203_102830.jpg)                                                  [![](Images/proletari comunisti/2023-02-05T11:29:00+01:00/PHOTO-2023-02-03-12-02-21.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBYuutZrT4nH5aK7PZUYjVsG0jDCZm3ipwbBhkNpX1uQTKabkuINgeYQ8zr2Vqwbgs9wkToMTXbrutnwj7CxNhijZMwTxCiiOxEXiV1xc7CMmsQwiVTm5A-pobxRY66ql6aNIXKHeWKXAQN5tZrygdkXqYOJc2O7qbNL8LYbeKTOIi05lrmtbzeWiA/s1024/PHOTO-2023-02-03-12-02-21.jpg)            Per l'assemblea autoconvocata - slai cobas TA Wa 3519575628
+[![](Images/proletari comunisti/2023-02-05T11-29-00-01-00/IMG_20230203_093741.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZLdYvKARTKJIQIKPn_JKUcb9PoW6SlPVoe3c8Yey2qCXlteMC_nRIK01y5NROQCJk0rZSPKgzIptt7A8GOyXkr-qdczM27-m2pURhLXDw7Aq7gInFbKYUMfDsmweqtgHn9BCZtyGo4YqIeE06-rJJuhtivB0GxzABwbsIq4aQ9KBeAMbyTp2wmtGV/s4000/IMG_20230203_093741.jpg)            [![](Images/proletari comunisti/2023-02-05T11-29-00-01-00/IMG_20230203_093757.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibddU1xcu333V0ISMeAjUrd9BzyuReQ6znAIGsoiczYVfAJWJIGh7SxQSK7hMRyi8rHVp0aFpuEda89DQep7IdG7JYpx_TkQawwq-eZbMCY5EHz9-UgN7DXFu0NIDFhsblKxMyZcp3sq5c-7fA02SuXmhAro0fkKu38UEXp-433Y9ZGYO6-m3kQkyl/s4000/IMG_20230203_093757.jpg)        [![](Images/proletari comunisti/2023-02-05T11-29-00-01-00/IMG_20230203_102830.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGlkOsyOwLDaBqIT81bE9oxd3lHgDr0RJP82Zby5Gk67YKkW8iKDuthRgwNbIxF9vlUYEak4IgUkPah5WlJpbD5BCTtWOFEZUjn2J32m1T_coup5Hm3HAClGaAd3WVdS_txWV085pnDAqGjK1I8rYCooSZ7ugb9OGBvXlbgSTCj0Bl36Yb6VP4f7c5/s2082/IMG_20230203_102830.jpg)                                                  [![](Images/proletari comunisti/2023-02-05T11-29-00-01-00/PHOTO-2023-02-03-12-02-21.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBYuutZrT4nH5aK7PZUYjVsG0jDCZm3ipwbBhkNpX1uQTKabkuINgeYQ8zr2Vqwbgs9wkToMTXbrutnwj7CxNhijZMwTxCiiOxEXiV1xc7CMmsQwiVTm5A-pobxRY66ql6aNIXKHeWKXAQN5tZrygdkXqYOJc2O7qbNL8LYbeKTOIi05lrmtbzeWiA/s1024/PHOTO-2023-02-03-12-02-21.jpg)            Per l'assemblea autoconvocata - slai cobas TA Wa 3519575628
 
 Source: [https://proletaricomunisti.blogspot.com/2023/02/pc-5-febbraio-mobilitazioni-in-ogni_5.html](https://proletaricomunisti.blogspot.com/2023/02/pc-5-febbraio-mobilitazioni-in-ogni_5.html)
 
@@ -922,7 +922,7 @@ Images: ['[fullsizeoutput_303.jpeg](https://blogger.googleusercontent.com/img/b/
 
 __
 
-_[![](Images/proletari comunisti/2023-02-05T11:53:00+01:00/fullsizeoutput_303.jpeg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9NWenbwtUDtTwUNtcSec1T3XrlzMeNv4GgMEbVi0A1D9fDCBJjKYLfSHrRDcV4CGUaGpBuL0Qpbn3Ip2PUuPx16JDh7c0g2f2_ASHVxFgi620W9we3gUDKlcyHsD1pKCmxHys34lFIJ6j-o3oi6DTiFq-3qZmg3k78b35kMU-PIm-25Pyp3N_Im4rJQ/s700/fullsizeoutput_303.jpeg)_
+_[![](Images/proletari comunisti/2023-02-05T11-53-00-01-00/fullsizeoutput_303.jpeg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9NWenbwtUDtTwUNtcSec1T3XrlzMeNv4GgMEbVi0A1D9fDCBJjKYLfSHrRDcV4CGUaGpBuL0Qpbn3Ip2PUuPx16JDh7c0g2f2_ASHVxFgi620W9we3gUDKlcyHsD1pKCmxHys34lFIJ6j-o3oi6DTiFq-3qZmg3k78b35kMU-PIm-25Pyp3N_Im4rJQ/s700/fullsizeoutput_303.jpeg)_
 
 _"...questo è un evento che cambierà il mondo. Non solo perchè è terribiledal punto di vista umanitario, ma anche perchè mostra un mondo completamentediviso e in collisione in termini di valori tra Oriente e Occidente:autocrazia contro democrazia. E questo, in un certo senso, sta dividendo ilmondo tra le democrazie occidentali di Europa e Stati Uniti da un lato eRussia e Cina dall'altro" aprile 2022_
 
@@ -948,7 +948,7 @@ _globo è diviso tra questi "signori del capitale", o in forma di colonie omedia
 
 #### Un tema da approfondire  nell' Assemblea nazionale ProletariaAnticapitalista del 18 febbraio Roma. Contro il governo delle industrie dellaguerra Leonardo/ Fincantieri ecc e a servizio delle multinazionalidell'energia.
 
-[![](Images/proletari comunisti/2023-02-05T11:53:00+01:00/IMG-20230203-WA0011.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4V2uJKG0FmB2g_RvIGhAoBtUtvZSqHhyuCAE8A0EJb47ZWJKK-RfceP7PzPSKmr4CSayTuW5M81nOVwaiSET9YfSQ9anXpAu5TD3rVaVuU5y4k0v-hStLvv_NwBeVyzUAapl3W7ZwHQKXI_eX9n8_nbF1dIJYoewOYrIrxc1Eoo6NjC0sSu_KJTY27w/s1600/IMG-20230203-WA0011.jpg)
+[![](Images/proletari comunisti/2023-02-05T11-53-00-01-00/IMG-20230203-WA0011.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4V2uJKG0FmB2g_RvIGhAoBtUtvZSqHhyuCAE8A0EJb47ZWJKK-RfceP7PzPSKmr4CSayTuW5M81nOVwaiSET9YfSQ9anXpAu5TD3rVaVuU5y4k0v-hStLvv_NwBeVyzUAapl3W7ZwHQKXI_eX9n8_nbF1dIJYoewOYrIrxc1Eoo6NjC0sSu_KJTY27w/s1600/IMG-20230203-WA0011.jpg)
 
 ###
 
@@ -986,7 +986,7 @@ Gli operai coscienti non sono soldatini nelle mani dei padroni, ma una classeint
 
 La seconda Assemblea nazionale proletaria anticapitalista che si terrà il 18febbraio a Roma è lo strumento concreto per collegare ed elevare la lotta, dalparticolare al generale, per mettere al centro la difesa degli interessi dellaclasse operaia, contro il governo che manda le armi e taglia la spesa sociale,lotta nelle fabbriche per aumenti salariali in busta paga a fronte deiprofitti miliardari dei padroni come nel caso Rocca. Gli operai devono unirsiagli altri settori in lotta in un fronte unico di classe, contro il fronte dipadroni e governo, per cambiare i rapporti di forza, e avanzare nellacoscienza comune che è l'intero sistema dei padroni che genera, guerra,miseria e repressione che deve essere superato.
 
-[![](Images/proletari comunisti/2023-02-05T11:53:00+01:00/Documento%20\)(1\).jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ21ik1FWb5SZmjXCflUOVmOvxnqEz2inucWvBZRk-XXgNDZmwvC7johc9Y_Z9o-MOKk3idRUxmQL2UKzwFS383FzIPwyOfmfYMmoXS3R6jknlhBsmty-HKN0Wk_O-Vey8z1_2hqiD3s3jVoBAkrRinKhHU7lw486CrGB7iH5B9frMj_jVQdJs1zpbNg/s1754/Documento%20\)(1\).jpg)
+[![](Images/proletari comunisti/2023-02-05T11-53-00-01-00/Documento%20\(1\).jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ21ik1FWb5SZmjXCflUOVmOvxnqEz2inucWvBZRk-XXgNDZmwvC7johc9Y_Z9o-MOKk3idRUxmQL2UKzwFS383FzIPwyOfmfYMmoXS3R6jknlhBsmty-HKN0Wk_O-Vey8z1_2hqiD3s3jVoBAkrRinKhHU7lw486CrGB7iH5B9frMj_jVQdJs1zpbNg/s1754/Documento%20\(1\).jpg)
 
 ** _Slai Cobas per il sindacato di classe Proletari Comunisti_**
 
@@ -1034,7 +1034,7 @@ Images: ['[73n1o_hsVO29-N5z.jpg](https://pbs.twimg.com/ext_tw_video_thumb/162188
 
 [**https://www.open.online/2023/02/04/manifestazioni-anarchici-cospito-41-bis-roma-milano-4-feb-2023**]( https://www.open.online/2023/02/04/manifestazioni-anarchici-cospito-41-bis-roma-milano-4-feb-2023)
 
-![](Images/proletari comunisti/2023-02-05T12:56:00+01:00/73n1o_hsVO29-N5z.jpg)
+![](Images/proletari comunisti/2023-02-05T12-56-00-01-00/73n1o_hsVO29-N5z.jpg)
 
 [ 3:54 PM * 4 feb2023](https://twitter.com/localteamtv/status/1621884893759262722?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1621884893759262722%7Ctwgr%5Ed410776a61a503dd47e2c5baa31448296004dde4%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.open.online%2F2023%2F02%2F04%2Fmanifestazioni-anarchici-cospito-41-bis-roma-milano-4-feb-2023%2F)
 
@@ -1062,7 +1062,7 @@ Category: 'Asia'
 
 <!--METADATA-->
 
-![](Images/Tjen-Folket/2023-02-05T15:23:14+00:00/USA-og-Filippinene-militaere-baser-avtale-1160x749.png)
+![](Images/Tjen-Folket/2023-02-05T15-23-14-00-00/USA-og-Filippinene-militaere-baser-avtale-1160x749.png)
 
 * * *
 
@@ -1148,7 +1148,7 @@ Images: ['[download.jpg](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AV
 
 **===**
 
-[![](Images/femminismo proletario rivoluzionario/2023-02-05T17:04:00+01:00/download.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiqtpNlgpFpOnwo5Wss7jo5Sa_pG1gD9QsAJO9VsDJC6rI3Jl4yoTpyS2iGrD3UqP6P6u2Ck4PAJi4ExLHp2_OVCXo9gNuwpSKgHzRdkBmZDvMhGL8vzmqh4SBf7Ois8ZhklltuYna-p-2UW_b8lcle-hNAGhYd59kve5tmpV58RUDPwehKDv9UuBd/s267/download.jpg)  ---   _Si può richiedere in pdf a:  mfpr.naz@gmail.com_  "Un'assemblea importante e necessaria che si può considerare la primaassemblea specificatamente delle operaie che si sono prese la parola; operaieche già sono entrate in azione attraverso le lotte che fanno in fabbrica mache hanno posto con forza attraverso questa assemblea la necessità dirafforzare, estendere queste lotte collegandosi, unendosi ad altre operaie,lavoratrici che lottano o che ancora non lottano ma vorrebbero organizzarsiper farlo, contro gli attacchi che si subiscono da parte di padroni e deigoverni che li rappresentano e che si intrecciano inevitabilmente con lacondizione più generale di vita delle donne. Se lotta una lottano tutte, faredi ogni lotta la lotta di tutte, è questo il messaggio reale e concreto daTrezzo alle altre operaie e lavoratrici.
+[![](Images/femminismo proletario rivoluzionario/2023-02-05T17-04-00-01-00/download.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiqtpNlgpFpOnwo5Wss7jo5Sa_pG1gD9QsAJO9VsDJC6rI3Jl4yoTpyS2iGrD3UqP6P6u2Ck4PAJi4ExLHp2_OVCXo9gNuwpSKgHzRdkBmZDvMhGL8vzmqh4SBf7Ois8ZhklltuYna-p-2UW_b8lcle-hNAGhYd59kve5tmpV58RUDPwehKDv9UuBd/s267/download.jpg)  ---   _Si può richiedere in pdf a:  mfpr.naz@gmail.com_  "Un'assemblea importante e necessaria che si può considerare la primaassemblea specificatamente delle operaie che si sono prese la parola; operaieche già sono entrate in azione attraverso le lotte che fanno in fabbrica mache hanno posto con forza attraverso questa assemblea la necessità dirafforzare, estendere queste lotte collegandosi, unendosi ad altre operaie,lavoratrici che lottano o che ancora non lottano ma vorrebbero organizzarsiper farlo, contro gli attacchi che si subiscono da parte di padroni e deigoverni che li rappresentano e che si intrecciano inevitabilmente con lacondizione più generale di vita delle donne. Se lotta una lottano tutte, faredi ogni lotta la lotta di tutte, è questo il messaggio reale e concreto daTrezzo alle altre operaie e lavoratrici.
 
 **Questa assemblea delle operaie, che non delegano, che prendono nelle loromani la loro organizzazione come lavoratrici e come donne, che affermanol'autonomia delle donne perchè sia reale il loro protagonismo diretto,** èdavvero una novità nel panorama sindacale di classe e nel movimento delledonne, una tappa importante di un percorso iniziato da circa due anni con lapositiva esperienza dell'Assemblea donne /lavoratrici.
 
@@ -1180,7 +1180,7 @@ Images: ['[meloni-tajani-crosetto.JPG](https://blogger.googleusercontent.com/img
 
 <!--METADATA-->
 
-[![](Images/proletari comunisti/2023-02-05T19:44:00+01:00/meloni-tajani-crosetto.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfnNbrSVi2jWUgelphofdYnpeAfgicf_cdt8UycR8espAw08kiBxqN5T87nQZIJwJyvGKPl2gMhvCG9VoRkAMi5yNBZmdw4-35WpiBQ9vCxBFYh8qTB_MzEumNCSgVSMjWhJ8n2zRtNx5GobTBonbtQv3EiYPVjo8-vBdJKUGpAXvUBoQKpG891WGzWg/s697/meloni-tajani-crosetto.JPG)
+[![](Images/proletari comunisti/2023-02-05T19-44-00-01-00/meloni-tajani-crosetto.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfnNbrSVi2jWUgelphofdYnpeAfgicf_cdt8UycR8espAw08kiBxqN5T87nQZIJwJyvGKPl2gMhvCG9VoRkAMi5yNBZmdw4-35WpiBQ9vCxBFYh8qTB_MzEumNCSgVSMjWhJ8n2zRtNx5GobTBonbtQv3EiYPVjo8-vBdJKUGpAXvUBoQKpG891WGzWg/s697/meloni-tajani-crosetto.JPG)
 
 Venerdì si è tenuto a Roma il primo Tavolo Esteri-Difesa della XIX legislaturaper " un'azione coordinata e congiunta delle capacità della Difesa e delministero degli Affari esteri e della cooperazione internazionale.....
 
@@ -1210,7 +1210,7 @@ Type: article
 
 <!--METADATA-->
 
-![](Images/ΚΚΕ m-l/2023-02-05T99:00:00-04:00/antifa.jpg)
+![](Images/ΚΚΕ m-l/2023-02-05T99-00-00-04-00/antifa.jpg)
 
 Η κυβέρνηση της ΝΔ φέρνει για άμεση ψήφιση στη βουλή νομοθετική ρύθμιση(τροπολογία) για τον αποκλεισμό κομμάτων, συνασπισμών κομμάτων και προσώπωνπου έχουν καταδικαστεί για εγκληματική δράση. Όλο το προηγούμενο διάστημα έχειφουντώσει η συζήτηση γύρω από το εάν μπορεί και με ποιο τρόπο να αποκλειστεί ησυμμετοχή από τις εκλογές του νέου κόμματος του ναζιφασίστα Κασιδιάρη.
 
@@ -1246,7 +1246,7 @@ The Editorial Staff of AND
 
 ## AND Weekly Editorial - The mathematics of capitulation to the militaristicreactionaries
 
-![](Images/COMMUNIST INTERNATIONAL/2023-02-05T99:00:00-04:00/editorial-mathematics....jpg)
+![](Images/COMMUNIST INTERNATIONAL/2023-02-05T99-00-00-04-00/editorial-mathematics....jpg)
 
 Much noise was made when Luiz Inácio fired, on the 21st, some 80 militarypersonnel serving at the Planalto and the then Army Commander, Júlio César deArruda, replacing him with Tomás Miguel Ribeiro Paiva. Some, dizzy with theblind belief in the "stability" of bourgeois democracy and the country'srotten institutions, and that Yankee imperialism "will not permit a coup,"went so far as to proclaim that the effective "Lula government" was beinginaugurated, without the tutelage of the Armed Forces. Luiz Inácio proclaimedthat he distrusted the Armed Forces, that he wanted a Cabinet of InstitutionalSecurity (GSI) without military staff, and played games for the audience thathe would not accept military assistants (and soon after, would have them), ina staging that he would not submit to "military power," to try to restrict thegenerals' room for maneuver through isolation in public opinion.
 
