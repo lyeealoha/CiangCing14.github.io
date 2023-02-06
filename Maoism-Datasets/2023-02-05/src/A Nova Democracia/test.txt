@@ -1,0 +1,491 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pt-br" lang="pt-br" dir="ltr">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<base href="https://anovademocracia.com.br/noticias/18646-reino-unido-greve-geral-toma-o-pais-mobilizando-mais-de-meio-milhao-de-trabalhadores" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="greve geral, lei de greves, crise, reino unido" />
+<meta name="author" content="Ângelo de Carvalho" />
+<meta name="description" content="No dia 1° de fevereiro, mais de meio milhão de trabalhadores declararam greve e realizaram manifestações e piquetes em todo o  Reino Unido contra a crise e repudiando a lei que restringe o direito à greve. A greve mobilizou ao menos 300 mil professores de 23 mil escolas, 100 mil servidores públicos de mais de 100 departamentos, 100 mil ferroviários e 70 mil professores universitários, além de milhares de estudantes que apoiaram a mobilização.  " />
+<title>Reino Unido: Greve geral toma o país mobilizando mais de meio milhão de trabalhadores - A Nova Democracia</title>
+<link href="/images/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+<link href="/templates/shaper_helix3/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+<link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,700,700italic&amp;subset=latin-ext" rel="stylesheet" type="text/css" />
+<link href="//fonts.googleapis.com/css?family=Open+Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic&amp;subset=greek-ext" rel="stylesheet" type="text/css" />
+<link href="/cache/com_templates/templates/shaper_helix3/de1b07beaf1dcf8f03d592094b0b3941.css" rel="stylesheet" type="text/css" />
+<link href="/media/mod_social_slider/css/style.css" rel="stylesheet" type="text/css" />
+<link href="/media/syw/css/fonts-min.css" rel="stylesheet" type="text/css" />
+<link href="/cache/mod_latestnewsenhanced/style_197.css?8b03433a6d57d88d71b3827b81eb2601" rel="stylesheet" type="text/css" />
+<link href="/modules/mod_latestnewsenhanced/styles/common_styles-min.css?8b03433a6d57d88d71b3827b81eb2601" rel="stylesheet" type="text/css" />
+<link href="/media/mod_pwebbox/css/layout.css" rel="stylesheet" type="text/css" />
+<link href="/media/mod_pwebbox/css/animations.css" rel="stylesheet" type="text/css" />
+<link href="/media/mod_pwebbox/css/themes/magazine.css" rel="stylesheet" type="text/css" />
+<link href="/media/mod_pwebbox/cache/d6860febecc51468e3e31306fe52b9a2-220.css" rel="stylesheet" type="text/css" />
+<link href="/media/mod_pwebbox/css/ie8.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+body{font-family:PT Sans, sans-serif; font-weight:normal; }h1{font-family:PT Sans, sans-serif; font-size:36px; font-weight:normal; }h2{font-family:PT Sans, sans-serif; font-size:32px; font-weight:normal; }h3{font-family:PT Sans, sans-serif; font-size:26px; font-weight:normal; }h4{font-family:PT Sans, sans-serif; font-size:18px; font-weight:normal; }h5{font-family:PT Sans, sans-serif; font-size:10px; font-weight:normal; }h6{font-family:PT Sans, sans-serif; font-size:12px; font-weight:normal; }.sp-megamenu-parent{font-family:Open Sans, sans-serif; font-size:18px; font-weight:300; }.videos_youtube_homepage-container {
+    display: flex;
+    flex-direction: row;
+    /*flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;*/
+
+}
+
+.videos_youtube_homepage-children {
+    flex-basis: 25vw;
+    flex-grow: 1;
+    flex-shrink 1;
+}
+
+@media (max-width: 800px) {
+    .videos_youtube_homepage-container {
+      flex-direction: column;
+    }
+  } 
+#sp-top-bar{ background-color:#ed1c24;color:#999999;padding:10px 5px 10px 0; }#sp-top-bar a{color:#ffffff;}#sp-top-bar a:hover{color:#ffffff;}#sp-header{ background-color:#e41c23;color:#ffffff;padding:0 0 0 0 ;margin:0 0 0 0; }#sp-header a{color:#ffffff;}#sp-main-body{ padding:0 0 0 0;margin:30px 30px 30px 20px; }#sp-section-12{ background-color:#f3f3f3;padding:20px 10px 0 25px;margin:0 0 0 0; }#sp-edicao-impressa{ background-color:#f3f3f3;padding:30px 0 30px 20px;margin:0 ; }#sp-footer1{ color:#303030;margin:30px 10px 0 20px; }#sp-footer1 a{color:#303030;}#sp-footer1 a:hover{color:#ed1c24;}#sp-rodape{ background-color:#f3f3f3;padding:20px 10px 0 5px;margin:30px 0 0 0; }#sp-footer{ background-color:#f3f3f3;color:#303030;padding:0 0 0 0;margin:0 0 0 0; }#sp-footer a{color:#303030;}#sp-footer a:hover{color:#ed1c24;}.jj_sl_navigation li a {
+			background-color:#ff4953;
+			text-align:left;
+			color:#ffffff !important;
+		}
+		.jj_sl_navigation .jj_sprite {
+			background-image: url(https://anovademocracia.com.br/media/mod_social_slider/icons/sprite-white.png);
+		}@media screen and (max-width: 480px){
+				.jj_sl_navigation { display: none; }
+			}.jj_sl_navigation { top:210px;
+			}.jj_sl_navigation .jj_sl_custom1 a:hover{
+			background-color: #cc252c;
+		 }
+		 .jj_sl_navigation .jj_sl_custom2 a:hover{
+			background-color: #4099ff;
+		 }
+		 .jj_sl_navigation .jj_sl_custom3 a:hover{
+			background-color: #ff6600;
+		 }
+		 .jj_sl_navigation .jj_sl_custom4 a:hover{
+			background-color: #41b583;
+		 }
+		 .jj_sl_navigation .jj_sl_custom5 a:hover{
+			background-color: #000000;
+		 }
+				.jj_sl_navigation .jj_sprite_custom.jj_custom1 {
+					background-image: url(https://anovademocracia.com.br/media/mod_social_slider/icons/youtube.png);
+				}
+				.jj_sl_navigation .jj_sprite_custom.jj_custom2 {
+					background-image: url(https://anovademocracia.com.br/media/mod_social_slider/icons/twitter.png);
+				}
+				.jj_sl_navigation .jj_sprite_custom.jj_custom3 {
+					background-image: url(https://anovademocracia.com.br/media/mod_social_slider/icons/rss.png);
+				}
+				.jj_sl_navigation .jj_sprite_custom.jj_custom4 {
+					background-image: url(https://anovademocracia.com.br/media/mod_social_slider/icons/email.png);
+				}
+				.jj_sl_navigation .jj_sprite_custom.jj_custom5 {
+					background-image: url(https://anovademocracia.com.br/media/mod_social_slider/icons/icon.png);
+				}
+	</style>
+<script type="application/json" class="joomla-script-options new">{"csrf.token":"19649f8a41dca77ce9bc1c141caa5ba6","system.paths":{"root":"","base":""},"system.keepalive":{"interval":300000,"uri":"\/component\/ajax\/?format=json"}}</script>
+<script src="/cache/com_templates/templates/shaper_helix3/6201402f0ddb262a23584d50b28243da.js" type="text/javascript"></script>
+<script src="/media/syw/js/purepajinate/purePajinate.min.js?8b03433a6d57d88d71b3827b81eb2601" type="text/javascript"></script>
+<script src="/media/mod_pwebbox/js/jquery.pwebbox.min.js" type="text/javascript"></script>
+<!--[if lt IE 9]><script src="/media/system/js/polyfill.event.js?8b03433a6d57d88d71b3827b81eb2601" type="text/javascript"></script><![endif]-->
+<script src="/media/system/js/keepalive.js?8b03433a6d57d88d71b3827b81eb2601" type="text/javascript"></script>
+<script type="text/javascript">
+jQuery(function($){ initTooltips(); $("body").on("subform-row-add", initTooltips); function initTooltips (event, container) { container = container || document;$(container).find(".hasTooltip").tooltip({"html": true,"container": "body"});} });jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+var sp_preloader = '0';
+
+var sp_gotop = '1';
+
+var sp_offanimation = 'default';
+document.addEventListener("readystatechange", function(event) {if (event.target.readyState === "complete") {var pagination = new purePajinate({containerSelector: '#lnee_197 .latestnews-items',itemSelector: '#lnee_197 .latestnews-item',navigationSelector: '#lnee_197 .items_pagination',wrapAround: true,pageLinksToDisplay: 28,itemsPerPage: 4,onInit: function() {var news = document.querySelector("#lnee_197.newslist");if (news.classList) { news.classList.add("show"); } else { news.className += " " + className; }},navLabelPrev: "<span class='SYWicon-arrow-up2'></span>",navLabelNext: "<span class='SYWicon-arrow-down2'></span>"});}});
+	</script>
+<meta property="og:url" content="https://anovademocracia.com.br/noticias/18646-reino-unido-greve-geral-toma-o-pais-mobilizando-mais-de-meio-milhao-de-trabalhadores" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Reino Unido: Greve geral toma o país mobilizando mais de meio milhão de trabalhadores" />
+<meta property="og:description" content="Greve geral multitudinária sacudiu o Reino Unido contra a crise e a " lei de greves". Foto: Sean Smith The Guardian No dia 1° de fevereiro, mais de meio mil..." />
+<link rel="canonical" href="https://anovademocracia.com.br/noticias/18646-reino-unido-greve-geral-toma-o-pais-mobilizando-mais-de-meio-milhao-de-trabalhadores" />
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NDF9FD4');</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-3289832-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Greve geral multitudinária sacudiu o Reino Unido contra a crise e a &quot;lei de greves&quot;. Foto: Sean Smith/The Guardian
+No dia 1° de fevereiro, mais de meio milhão de trabalhadores declararam greve e real" />
+<meta name="twitter:image" content="https://anovademocracia.com.br/images/sean_smith_the_guardian.jpg" />
+<meta name="twitter:site" content="@jornaland" />
+<meta name="twitter:title" content="Reino Unido: Greve geral toma o país mobilizando mais de meio milhão d" />
+<meta property="fb:app_id" content="" />
+<meta property="og:description" content="Greve geral multitudinária sacudiu o Reino Unido contra a crise e a &quot;lei de greves&quot;. Foto: Sean Smith/The Guardian
+No dia 1° de fevereiro, mais de meio mi" />
+<meta property="og:image" content="https://anovademocracia.com.br/images/sean_smith_the_guardian.jpg" />
+<meta property="og:image:height" content="420" />
+<meta property="og:image:width" content="700" />
+<meta property="og:site_name" content="A Nova Democracia" />
+<meta property="og:title" content="Reino Unido: Greve geral toma o país mobilizando mais de meio milhão d" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://anovademocracia.com.br/noticias/18646-reino-unido-greve-geral-toma-o-pais-mobilizando-mais-de-meio-milhao-de-trabalhadores" />
+
+</head>
+<body class="site com-content view-article no-layout no-task itemid-100281 pt-br ltr  sticky-header layout-fluid off-canvas-menu-init">
+<div class="body-wrapper">
+<div class="body-innerwrapper">
+<section id="sp-top-bar" class=" hidden-xs hidden-sm"><div class="container"><div class="row"><div id="sp-top1" class="col-sm-6 col-md-6"><div class="sp-column "><div class="logo"><a href="/"><img class="sp-default-logo" src="/images/logo/logo2.png" alt="A Nova Democracia"></a></div><div class="sp-module "><div class="sp-module-content">
+<div class="custom">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NDF9FD4"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript></div>
+</div></div></div></div><div id="sp-top2" class="col-sm-3 col-md-3"><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
+<div class="custom">
+<div class="idioma"><a href="/english-editions">ENGLISH</a></div>
+<div class="idioma"><a href="/espanol">ESPAÑOL</a></div></div>
+</div></div></div></div><div id="sp-search" class="col-sm-3 col-md-3"><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
+<div class="pweb-modal pwebbox-plugin-any_module pweb-theme-magazine pweb-horizontal" dir="ltr">
+<div id="pwebbox220_toggler" class="pwebbox220_toggler pwebbox_toggler pweb-closed pweb-theme-magazine pweb-icon pweb-icon-icomoon"><span class="pweb-text">LOGIN</span><span class="pweb-icon"></span></div></div>
+<div id="pwebbox220" class="pwebbox pweb-static pweb-offset-right pweb-modal pwebbox-plugin-any_module pweb-theme-magazine pweb-horizontal" dir="ltr">
+<div id="pwebbox220_modal" class="pwebbox-modal modal fade" style="display:none">
+<div id="pwebbox220_box" class="pwebbox-box pweb-modal pwebbox-plugin-any_module pweb-theme-magazine pweb-horizontal " dir="ltr">
+<div class="pwebbox-container-outset">
+<div id="pwebbox220_container" class="pwebbox-container modal-dialog">
+<div class="pwebbox-container-inset">
+<button type="button" class="pwebbox220_toggler pweb-button-close" aria-hidden="true" data-role="none">&times;</button>
+<div class="pwebbox-content" id="pwebbox220_content">
+
+<div class="pwebbox-module-container">
+<div id="pwebbox_module_220">
+<form action="https://anovademocracia.com.br/noticias/18646-reino-unido-greve-geral-toma-o-pais-mobilizando-mais-de-meio-milhao-de-trabalhadores" method="post" id="login-form">
+<div id="form-login-username" class="form-group">
+<div class="input-group">
+<span class="input-group-addon">
+<i class="icon-user hasTooltip" title="E-mail"></i>
+</span>
+<input id="modlgn-username" type="text" name="username" class="form-control" tabindex="0" size="18" placeholder="E-mail" />
+</div>
+</div>
+<div id="form-login-password" class="form-group">
+<div class="controls">
+<div class="input-group">
+<span class="input-group-addon">
+<i class="icon-lock hasTooltip" title="Senha"></i>
+</span>
+<input id="modlgn-passwd" type="password" name="password" class="form-control" tabindex="0" size="18" placeholder="Senha" />
+</div>
+</div>
+</div>
+<div id="form-login-remember" class="form-group">
+<div class="checkbox">
+<label for="modlgn-remember"><input id="modlgn-remember" type="checkbox" name="remember" class="inputbox" value="yes">Lembrar de mim</label>
+</div>
+</div>
+<div id="form-login-submit" class="form-group">
+<button type="submit" tabindex="0" name="Submit" class="btn btn-primary">Entrar</button>
+</div>
+<ul class="form-links">
+<li>
+<a href="/nome-de-usuario">
+</a>
+</li>
+<li>
+<a href="/redefinir-senha">
+Esqueceu sua senha?</a>
+</li>
+</ul>
+<input type="hidden" name="option" value="com_users" />
+<input type="hidden" name="task" value="user.login" />
+<input type="hidden" name="return" value="aHR0cHM6Ly9hbm92YWRlbW9jcmFjaWEuY29tLmJyL25vdGljaWFzLzE4NjQ2LXJlaW5vLXVuaWRvLWdyZXZlLWdlcmFsLXRvbWEtby1wYWlzLW1vYmlsaXphbmRvLW1haXMtZGUtbWVpby1taWxoYW8tZGUtdHJhYmFsaGFkb3Jlcw==" />
+<input type="hidden" name="19649f8a41dca77ce9bc1c141caa5ba6" value="1" />
+</form>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+jQuery(document).ready(function($){pwebBox220=new pwebBox({id:220,bootstrap:3,theme:"magazine",layout:"modal",position:"static",offsetPosition:"right",togglerNameClose:"",closeOther:0,modalEffectDuration:100})});</script>
+
+</div></div><div class="sp-module "><div class="sp-module-content"><div class="search">
+<form action="/noticias" method="post">
+<input name="searchword" id="mod-search-searchword" maxlength="200" class="inputbox search-query" type="text" size="20" placeholder="pesquisar" /> <input type="hidden" name="task" value="search" />
+<input type="hidden" name="option" value="com_search" />
+<input type="hidden" name="Itemid" value="100281" />
+</form>
+</div>
+</div></div></div></div></div></div></section><header id="sp-header"><div class="container"><div class="row"><div id="sp-menu" class="col-sm-12 col-md-12"><div class="sp-column "> <div class='sp-megamenu-wrapper'>
+<a id="offcanvas-toggler" class="visible-sm visible-xs" aria-label="Helix Megamenu Options" href="#"><i class="fa fa-bars" aria-hidden="true" title="Helix Megamenu Options"></i></a>
+<ul class="sp-megamenu-parent hidden-sm hidden-xs"><li class="sp-menu-item"><a href="/">Início</a></li><li class="sp-menu-item sp-has-child"><a href="javascript:void(0);">Linha Editorial</a><div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 300px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a href="/editorial">Editorial</a></li><li class="sp-menu-item"><a href="/situacao-politica">Situação Política</a></li><li class="sp-menu-item"><a href="/linhaeditorial">Linha Editorial</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a href="javascript:void(0);">Nacional</a><div class="sp-dropdown sp-dropdown-main sp-dropdown-mega sp-menu-full container" style=""><div class="sp-dropdown-inner"><div class="row"><div class="col-sm-4"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a href="/nacional">Nacional</a></li><li class="sp-menu-item"><a href="/luta-pela-terra">Luta pela Terra</a></li><li class="sp-menu-item"><a href="/povos-indigenas">Povos Indígenas</a></li></ul></li></ul></div><div class="col-sm-4"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a href="/farsa-eleitoral">Farsa Eleitoral</a></li><li class="sp-menu-item"><a href="/crimes-contra-o-povo">Crimes contra o povo</a></li><li class="sp-menu-item"><a href="/intervencao-militar">Intervenção militar</a></li></ul></li></ul></div><div class="col-sm-4"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a href="/presos-politicos-do-brasil">Presos Políticos</a></li><li class="sp-menu-item"><a href="/herois-do-povo-brasileiro"> Heróis do Povo Brasileiro</a></li><li class="sp-menu-item"><a href="/luta-classista">Luta Classista</a></li></ul></li></ul></div></div></div></div></li><li class="sp-menu-item sp-has-child"><a href="javascript:void(0);">Internacional</a><div class="sp-dropdown sp-dropdown-main sp-dropdown-mega sp-menu-full container" style=""><div class="sp-dropdown-inner"><div class="row"><div class="col-sm-4"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a href="/internacional">Internacional</a></li><li class="sp-menu-item"><a href="/america-latina">América Latina</a></li><li class="sp-menu-item"><a href="/libertacao-nacional">Libertação Nacional</a></li></ul></li></ul></div><div class="col-sm-4"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a href="/presos-politicos">Presos Políticos</a></li><li class="sp-menu-item"><a href="/guerra-popular">Guerra Popular</a></li></ul></li></ul></div><div class="col-sm-4"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a href="/figuras-da-classe-operaria">Figuras da classe operária</a></li><li class="sp-menu-item"><a href="/datas-memoraveis-do-proletariado">Datas Memoráveis do Proletariado</a></li></ul></li></ul></div></div></div></div></li><li class="sp-menu-item sp-has-child"><a href="javascript:void(0);">Nova Cultura</a><div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 300px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a href="/nova-cultura">Nova Cultura</a></li><li class="sp-menu-item"><a href="/agenda-cultural">Agenda Cultural</a></li><li class="sp-menu-item"><a href="/realizacoes-socialistas">Realizações socialistas</a></li><li class="sp-menu-item"><a href="/100-anos-da-grande-revolucao-bolchevique-de-1917"> 100 anos da Grande Revolução Bolchevique de 1917</a></li><li class="sp-menu-item"><a href="/50-anos-da-grpc">50 Anos da GRPC</a></li></ul></div></div></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item sp-has-child"><a href="/anteriores">Edição impressa</a><div class="sp-dropdown sp-dropdown-main sp-dropdown-mega sp-menu-full container" style=""><div class="sp-dropdown-inner"><div class="row"><div class="col-sm-12"><div class="sp-module "><div class="sp-module-content">
+<div class="custom">
+<div class="anter">Nº 249<a href="/no-249"><img src="/images/0-2022/09/outros/and-249.jpg" alt="" width="146" height="207" /></a></div>
+<div class="anter">Nº 248<br /><a href="/no-248"><img src="/images/248/capap.jpg" alt="248" /></a></div>
+<div class="anter">Nº 247<br /><a href="/no-247"><img src="/images/247/capap.jpg" alt="247" /></a></div>
+<div class="anter">Nº 246<br /><a href="/no-246"><img src="/246/capaP.webp" alt="246" /></a></div>
+<div class="anter">Nº 245<br /><a href="/no-245"><img src="/245/capaP.webp" alt="245" /></a></div>
+<div class="anter">Nº 244<br /><a href="/no-244"><img src="/244/capaP.webp" alt="244" /></a></div>
+<div class="anter">Nº 243<br /><a href="/no-243"><img src="/243/capaP.webp" alt="243" /></a></div>
+<p></p>
+<p></p></div>
+</div></div><div class="sp-module "><div class="sp-module-content">
+<div class="custom">
+<p><a href="/anteriores" class="readon-button">Veja todas as edições</a></p></div>
+</div></div></div></div></div></div></li><li class="sp-menu-item"><a href="https://anovademocracia.lojavirtualnuvem.com.br/">Loja</a></li></ul> </div>
+</div></div></div></div></header><section id="sp-main-body"><div class="container"><div class="row"><div id="sp-component" class="col-xs-12 col-sm-12 col-md-7"><div class="sp-column "><div id="system-message-container">
+</div>
+<article class="item item-page" itemscope itemtype="http://schema.org/Article">
+<meta itemprop="inLanguage" content="pt-BR" />
+<div class="entry-header">
+<dl class="article-info">
+<dt class="article-info-term"></dt>
+<dd class="createdby" itemprop="author" itemscope itemtype="http://schema.org/Person">
+<i class="fa fa-user"></i>
+<span itemprop="name" data-toggle="tooltip" title="">Ângelo de Carvalho</span> </dd>
+<dd class="published">
+<i class="fa fa-calendar-o"></i>
+<time datetime="2023-02-03T19:20:50-03:00" itemprop="datePublished" data-toggle="tooltip" title="Data de Publicação">
+03 Fevereiro 2023	</time>
+</dd>
+</dl>
+<h2 itemprop="name">
+Reino Unido: Greve geral toma o país mobilizando mais de meio milhão de trabalhadores </h2>
+</div>
+<div itemprop="articleBody">
+<p><img src="/images/sean_smith_the_guardian.jpg" /></p>
+<p><span class="legenda">Greve geral multitudinária sacudiu o Reino Unido contra a crise e a "lei de greves". Foto: Sean Smith/The Guardian</span></p>
+<p><span style="font-weight: 400;">No dia 1° de fevereiro, mais de meio milhão de trabalhadores declararam greve e realizaram manifestações e piquetes em todo o  Reino Unido contra a crise e repudiando a lei que restringe o direito à greve. A greve mobilizou ao menos 300 mil professores de 23 mil escolas, 100 mil servidores públicos de mais de 100 departamentos, 100 mil ferroviários e 70 mil professores universitários, além de milhares de estudantes que apoiaram a mobilização.  </span></p>
+<p><span style="font-weight: 400;">Os trabalhadores exigiram um aumento salarial maior que a inflação, que atingiu 10% em 2022. Além disto, também denunciaram a piora constante das condições de vida do povo frente à escalada da crise no Reino Unido, que gerou uma perda no salário real entre 10% e 23% nos últimos dez anos. As manifestações também denunciaram a “lei das greves”, atualmente em trâmite no parlamento inglês. A nova legislação busca restringir o direito à greve de alguns setores dos trabalhadores do Reino Unido ao impor um “nível mínimo de serviços” que deve continuar em funcionamento durante a mobilização.</span></p>
+<p><span style="font-weight: 400;">Além disso, os trabalhadores da educação, estudantes e pais de alunos condenaram a precarização constante das instituições de ensino do Reino Unido, resultado de cortes orçamentários e medidas de austeridade que se intensificaram desde 2010.</span></p>
+<p><span class="entretitulo"><b>Protestos e piquetes por todo o Reino Unido</b></span></p>
+<p><span style="font-weight: 400;"><img src="/images/dan_kitwood_getty_images.jpg" /></span></p>
+<p><span style="font-weight: 400;" class="legenda">Manifestação no centro de Londres reúne milhares. Foto: Dan Kitwood/Getty Images</span></p>
+<p><span style="font-weight: 400;">As mobilizações começaram ainda na manhã da quarta-feira. Em Londres, capital da Inglaterra, servidores públicos, professores e estudantes realizaram piquetes em importantes escolas e prédios administrativos do país. O Escritório da Sua Majestade (departamento responsável pelo desenvolvimento das finanças e medidas econômicas do Reino Unido), o Departamento para Negócios, Energia e Estratégia Industrial e a escola </span><i><span style="font-weight: 400;">Bishop Thomas Grant</span></i><span style="font-weight: 400;"> foram alguns dos pontos de concentração e bloqueio pela mobilização dos trabalhadores. </span></p>
+<p><span style="font-weight: 400;">Também na capital, milhares marcharam de diferentes pontos da cidade, como </span><i><span style="font-weight: 400;">Portland Place </span></i><span style="font-weight: 400;">e o centro de Londres, até o Palácio de Westminster, onde denunciaram os efeitos da crise e cortes orçamentários sobre o povo. Protestos ocorreram ainda em Whitehall, uma outra área da cidade de Westminster, e no centro de lazer </span><i><span style="font-weight: 400;">Glass Mill</span></i><span style="font-weight: 400;">, no sudeste de Londres. </span></p>
+<p><span style="font-weight: 400;">Além da crise e da inflação, a precarização da educação foi um tema central nas manifestações. Funcionários da Empresa para Empréstimos Estudantis, do Escritório para os Estudantes e do Departamento para a Educação somaram-se aos professores e estudantes nas denúncias sobre o estado da educação e instituições de ensino no Reino Unido. “Temos que usar livros muito velhos que foram usados ao longo dos anos, estão se despedaçando e precisam ser colados com fita”, denunciou Lucy MacDonald, professora de inglês da escola </span><i><span style="font-weight: 400;">Bishop Thomas Grant</span></i><span style="font-weight: 400;">, ao monopólio de imprensa </span><i><span style="font-weight: 400;">The Guardian</span></i><span style="font-weight: 400;">. Outros manifestantes denunciaram que muitas escolas da região estão sem os aquecedores ligados, apesar das baixíssimas temperaturas do inverno.</span></p>
+<p><span style="font-weight: 400;">Em Birmingham, piquetes foram erguidos em múltiplos pontos da cidade a partir das 8h, como na entrada do Escritório das </span><i><span style="font-weight: 400;">Midlands </span></i><span style="font-weight: 400;">Ocidentais e do Escritório da Comissão de Apostas, onde receberam apoio de transeuntes na forma de buzinas e gestos. Uma manifestação no centro da cidade reuniu centenas de trabalhadores que denunciaram a crise, os cortes nas pensões e a precarização das universidades. Anne Buttner, secretária da Universidade de Birmingham, afirmou ao monopólio de imprensa </span><i><span style="font-weight: 400;">The Guardian</span></i><span style="font-weight: 400;"> que “as pessoas estão exaustas e esgotadas. Você pode ver, todos estão fora [na rua]. As enfermeiras estão fora, os ferroviários estão fora, os funcionários dos trilhos estão fora, os trabalhadores do serviço postal estão fora. É encorajador ver que não somos os únicos gritando no vazio. Existem muitos de nós”.  </span></p>
+<p><span style="font-weight: 400;">Ao longo da marcha, os trabalhadores entoaram a canção de protesto “Prefiro ser um ‘piqueteiro’ do que um fura-greve”, música que ficou famosa na década de 1980 durante a greve dos mineiros ingleses contra as medidas reacionárias de Margareth Thatcher.</span></p>
+<blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">‘I’d rather be a picket than a scab’ ? <a href="https://t.co/Hd52lxKHwE">pic.twitter.com/Hd52lxKHwE</a></p>
+— Bleu Ferret (@Ferretgrove) <a href="https://twitter.com/Ferretgrove/status/1538125122703335430?ref_src=twsrc%5Etfw">June 18, 2022</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<p><span style="font-weight: 400;">Os protestos e piquetes ocorreram ainda na escola </span><i><span style="font-weight: 400;">Myrton</span></i><span style="font-weight: 400;">, em Warwick, na </span><i><span style="font-weight: 400;">Harris Academy School</span></i><span style="font-weight: 400;">, em Luton e na Escola de Coral da Catedral de Bristol. Os estudantes e pais dos alunos se reuniram com os professores, ferroviários e servidores em marchas massivas na cidade de Manchester, Wokingham, Brighton e Bristol. “Nossas disputas podem estar separadas, mas nós temos um único objetivo”, afirmou Seb, piloto de trens de alta-velocidade que tomou parte na manifestação em Bristol, ao </span><i><span style="font-weight: 400;">The Guardian</span></i><span style="font-weight: 400;">l. Um professor da mesma cidade afirmou que a perda no salário real vem acompanhada de uma exploração cada vez maior. Segundo ele, os professores precisam lidar com um número de alunos maior a cada ano e uma carga de trabalho que os obriga a trabalhar nos finais de semana. </span></p>
+<p><span style="font-weight: 400;"><img src="/images/62TN3KGIBFIGFKHBDP3LJYF66I.jpg" /></span></p>
+<p><span style="font-weight: 400;" class="legenda">Manifestação reuniu centenas em Luton. Foto: Pete Cziborra/Reuters</span></p>
+<p><span style="font-weight: 400;">Fora da Inglaterra, a mobilização atingiu as cidades de Edimburgo e Glasgow, na Escócia, e as Universidades de Ulster e Universidade de Dublin, na Irlanda. Nesta última, professores denunciaram as condições precárias de trabalho de colegas de profissão que têm contratos menos estáveis. Cartazes erguidos por eles exclamavam denúncias como “Eu trabalhei gripado e com febre porque não tenho licença médica” e “A possibilidade de ter uma casa com estabilidade ou uma aposentadoria é um sonho distante”.</span></p>
+<p><span class="entretitulo"><b>Número de trabalhadores na miséria aumenta a cada ano</b></span></p>
+<p><span style="font-weight: 400;">A greve geral do dia 01/02 ocorreu em um contexto no qual as taxas de miséria no Reino Unido têm aumentado cada vez mais, resultado da inflação galopante e da recessão que, segundo o próprio Banco da Inglaterra, deve perdurar pelo menos até 2024. Um relatório de 2023 mostra que aproximadamente 13,4 milhões de pessoas no país estavam na pobreza entre 2020 e 2021. </span></p>
+<p><span style="font-weight: 400;">Além disso, ao menos 74.230 famílias ficaram sem casa ou estavam em risco iminente de perdê-la entre janeiro e março de 2022, um número que supera em 11% o trimestre anterior. Destas famílias, 10.560 possuíam pessoas empregadas em trabalhos de período integral e 25.610 eram famílias com crianças. Ellie Clark, uma trabalhadora entrevistada pelo </span><i><span style="font-weight: 400;">The Guardian </span></i><span style="font-weight: 400;">na manifestação do dia 01/02 denunciou que a situação está “muito, muito difícil”: “Eu estou sempre preocupada que estou há uma crise de distância de morar na rua. Que eu estou há um pagamento de virar sem-teto. Nós estamos simplesmente vivendo na pobreza”, afirmou a trabalhadora. </span></p>
+<p><span style="font-weight: 400;">Além da falta de moradia, a comida também tem se tornado cada vez menos acessível: a inflação sobre os alimentos atinge 16,7% no Reino Unido. Em setembro de 2022, ao menos 9,7 milhões de pessoas estavam em estado de “insegurança alimentar”. Cada vez mais, famílias do país relatam a necessidade de comprar comidas ultraprocessadas, como carnes de hambúrguer ou salsichas de cachorro quente, por serem mais baratas. Os bancos alimentares, que quase não existiam na região em 2010, agora se proliferam em todo o Reino Unido. A Trussell Trust, gestora de bancos alimentares, registrou 300 mil novos usuários somente na primeira metade de 2022, um quinto dos quais se tratavam de famílias que possuíam pelo menos uma pessoa com emprego.</span></p>
+<p><span style="font-weight: 400;">Frente a isso, tem crescido também a mobilização popular por melhores condições de vida, como se concretizou no dia 01/02. Em 2022, </span><a href="/noticias/17759-reino-unido-ferroviarios-realizam-maior-greve-dos-ultimos-30-anos"><span style="font-weight: 400;">os ferroviários realizaram a maior greve dos últimos dez anos</span></a><span style="font-weight: 400;">, no mesmo período que motoristas de ônibus e motoristas de aplicativo foram às ruas exigir seus direitos. Durante a </span><i><span style="font-weight: 400;">Black Friday</span></i><span style="font-weight: 400;">, </span><a href="/noticias/18402-black-friday-e-marcada-por-protestos-e-greves-de-trabalhadores-da-amazon"><span style="font-weight: 400;">trabalhadores da </span><i><span style="font-weight: 400;">Amazon</span></i><span style="font-weight: 400;"> do país paralisaram suas atividades</span></a><span style="font-weight: 400;"> contra a superexploração. Dois meses depois, dezenas de milhares de profissionais da enfermagem entraram em greve por melhores condições de trabalho. No dia 03/02, uma greve de motoristas de ambulância e enfermeiros no País de Gales garantiu um aumento salarial de 6% a 7,5%. Enfermeiros, socorristas, paramédicos e telefonistas de emergência da Inglaterra também prometeram se mobilizar nas próximas semanas. </span></p>
+<p><span style="font-weight: 400;"><img src="/images/aaaaa.jpg" /></span></p>
+<p><span style="font-weight: 400;" class="legenda">Trabalhadores erguem <em>outdoor </em>e cartazes com consigna <strong>Proteger o Direito à Greve</strong>. Foto: Kirsty O’connor - Pa Images/Getty Images</span></p>
+<p><span style="font-weight: 400;">Além disto, os trabalhadores têm denunciado a “lei anti-greve”. A medida em discussão é uma carta dos imperialistas ingleses para tornar ainda mais difícil a organização de greves e lutas. Contudo, a imensa mobilização que sacudiu todo o Reino Unido demonstra que os trabalhadores não vão abaixar a cabeça e estão dispostos a seguir na luta.</span></p> </div>
+<dl class="article-info">
+</dl>
+<ul class="pager pagenav">
+<li class="next">
+<a class="hasTooltip" title="VÍDEO: No RJ, trabalhadores protestam contra demissões e fraude das Lojas Americanas" aria-label="Next article: VÍDEO: No RJ, trabalhadores protestam contra demissões e fraude das Lojas Americanas" href="/noticias/18645-video-no-rj-trabalhadores-protestam-contra-demissoes-e-fraude-das-lojas-americanas" rel="next">
+<span aria-hidden="true">Próximo</span> <span class="icon-chevron-right" aria-hidden="true"></span> </a>
+</li>
+</ul>
+<div class="article-footer-wrap">
+<div class="article-footer-top">
+</div>
+</div>
+</article>
+<div class="custom">
+<p><span color="#c9211e" style="color: #c9211e;"><b>NÃO SAIA AINDA…</b></span><span> </span>O jornal<span> </span><b>A Nova Democracia</b>, nos seus mais de 18 anos de existência, manteve sua independência inalterada, denunciando e desmascarando o governo reacionário de FHC, oportunista do PT e agora, mais do que nunca, fazendo-o em meio à instauração do governo militar de fato surgido do golpe militar em curso, que através de uma análise científica prevíamos desde 2017.</p>
+<p>Em todo esse tempo lutamos e trouxemos às claras as entranhas e maquinações do velho Estado brasileiro e das suas classes dominantes lacaias do imperialismo, em particular a atuação vil do latifúndio em nosso país.</p>
+<p>Nunca recebemos um centavo de bancos ou partidos eleitoreiros. Todo nosso financiamento sempre partiu do apoio de nossos leitores, colaboradores e entusiastas da imprensa popular e democrática. Nesse contexto em que as lutas populares tendem a tomar novas proporções é mais do que nunca necessário e decisivo o seu apoio.</p>
+<p><b>Se você acredita na Revolução Brasileira, apoie a imprensa que a ela serve - <a href="https://www.catarse.me/apoieoand">Clique Aqui</a></b></p></div>
+</div></div><div id="sp-right" class="col-xs-12 col-sm-12 col-md-5"><div class="sp-column custom-class"><div class="sp-module "><div class="chamada1 mais">LEIA TAMBÉM</div><div class="sp-module-content"> <div id="lnee_197" class="lnee newslist vertical"> <div class="items_pagination up"></div> <div class="clearfix"></div> <ul class="latestnews-items"> <li class="latestnews-item id-3165 catid-135"> <div class="news odd head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/no-71/3165-economia-desnacionalizada-i"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_3165.webp"><img src="/images/thumbnails/lne/thumb_197_3165.jpg" alt="Economia desnacionalizada (I)" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">09/11/2010</span></span></dd></dl> <h4 class="newstitle"> <a href="/no-71/3165-economia-desnacionalizada-i"> <span>Economia desnacionalizada (I)</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-1891 catid-86"> <div class="news even head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/no-47/1891-crise-no-brasil-primeiro-os-ricos"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_1891.webp"><img src="/images/thumbnails/lne/thumb_197_1891.jpg" alt="Crise no Brasil: primeiro os ricos" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">20/10/2008</span></span></dd></dl> <h4 class="newstitle"> <a href="/no-47/1891-crise-no-brasil-primeiro-os-ricos"> <span>Crise no Brasil: primeiro os ricos</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-12056 catid-229"> <div class="news odd head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/12056-povo-equatoriano-se-levanta-em-poderosa-greve-geral-contra-imposicoes-do-fmi"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_12056.webp"><img src="/images/thumbnails/lne/thumb_197_12056.jpg" alt="Povo equatoriano se levanta em poderosa Greve Geral contra imposições do FMI" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">05/10/2019</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/12056-povo-equatoriano-se-levanta-em-poderosa-greve-geral-contra-imposicoes-do-fmi"> <span>Povo equatoriano se levanta em poderosa Greve Geral contra imposições do FMI</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-17610 catid-229"> <div class="news even head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/17610-sudao-massas-rechacam-onu-e-impoem-resistencia-incansavel-a-golpe-militar"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_17610.webp"><img src="/images/thumbnails/lne/thumb_197_17610.jpg" alt="Sudão: massas rechaçam ONU e impõem resistência incansável a golpe militar" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">03/06/2022</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/17610-sudao-massas-rechacam-onu-e-impoem-resistencia-incansavel-a-golpe-militar"> <span>Sudão: massas rechaçam ONU e impõem resistência incansável a golpe militar</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-16644 catid-229"> <div class="news odd head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/16644-italia-um-milhao-de-trabalhadores-se-levantam-em-enorme-greve-geral"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_16644.webp"><img src="/images/thumbnails/lne/thumb_197_16644.jpg" alt="Itália: Um milhão de trabalhadores se levantam em enorme Greve Geral" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">18/10/2021</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/16644-italia-um-milhao-de-trabalhadores-se-levantam-em-enorme-greve-geral"> <span>Itália: Um milhão de trabalhadores se levantam em enorme Greve Geral</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-17078 catid-229"> <div class="news even head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/17078-de"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_17078.webp"><img src="/images/thumbnails/lne/thumb_197_17078.jpg" alt="Líbano: Motoristas realizam greve e bloqueios contra os preços do combustível em ‘Dia de Fúria’" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">21/01/2022</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/17078-de"> <span>Líbano: Motoristas realizam greve e bloqueios contra os preços do combustível em ‘Dia de Fúria’</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-12989 catid-229"> <div class="news odd head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/12989-rj-trabalhadores-protestam-contra-precarizacao-da-atencao-basica-de-saude"> <img src="/images/thumbnails/lne/thumb_197_12989.webp" alt="RJ: Trabalhadores protestam contra precarização da atenção básica de saúde" width="160" height="80" loading="lazy" /> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">27/02/2020</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/12989-rj-trabalhadores-protestam-contra-precarizacao-da-atencao-basica-de-saude"> <span>RJ: Trabalhadores protestam contra precarização da atenção básica de saúde</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-2514 catid-109"> <div class="news even head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/no-59/2514-pais-ocupado"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_2514.webp"><img src="/images/thumbnails/lne/thumb_197_2514.jpg" alt="País ocupado" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">07/11/2009</span></span></dd></dl> <h4 class="newstitle"> <a href="/no-59/2514-pais-ocupado"> <span>País ocupado</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-14444 catid-229"> <div class="news odd head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/14444-india-pci-maoista-conclama-greve-geral-no-estado-de-telangana"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_14444.webp"><img src="/images/thumbnails/lne/thumb_197_14444.jpg" alt="Índia: PCI (Maoista) conclama Greve Geral no estado de Telangana" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">07/10/2020</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/14444-india-pci-maoista-conclama-greve-geral-no-estado-de-telangana"> <span>Índia: PCI (Maoista) conclama Greve Geral no estado de Telangana</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-16283 catid-229"> <div class="news even head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/16283-desfile-militar-e-marcado-nas-vesperas-da-definicao-sobre-voto-impresso"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_16283.webp"><img src="/images/thumbnails/lne/thumb_197_16283.jpg" alt="Desfile militar é marcado nas vésperas da definição sobre voto impresso" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">09/08/2021</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/16283-desfile-militar-e-marcado-nas-vesperas-da-definicao-sobre-voto-impresso"> <span>Desfile militar é marcado nas vésperas da definição sobre voto impresso</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-13058 catid-229"> <div class="news odd head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/13058-crise-do-capitalismo-burocratico-africa-do-sul-entra-na-segunda-recessao-em-dois-anos"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_13058.webp"><img src="/images/thumbnails/lne/thumb_197_13058.jpg" alt="Crise do capitalismo burocrático: África do Sul entra na segunda recessão em dois anos" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">11/03/2020</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/13058-crise-do-capitalismo-burocratico-africa-do-sul-entra-na-segunda-recessao-em-dois-anos"> <span>Crise do capitalismo burocrático: África do Sul entra na segunda recessão em dois anos</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-11346 catid-229"> <div class="news even head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/11346-pr-derrotar-as-reformas-anti-povo-o-peleguismo-e-a-conciliacao-de-classes-com-a-greve-geral-de-resistencia-nacional"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_11346.webp"><img src="/images/thumbnails/lne/thumb_197_11346.png" alt="Foz do Iguaçu: 'Derrotar as reformas antipovo, o peleguismo e a conciliação de classes com a Greve Geral de Resistência Nacional'" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">03/07/2019</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/11346-pr-derrotar-as-reformas-anti-povo-o-peleguismo-e-a-conciliacao-de-classes-com-a-greve-geral-de-resistencia-nacional"> <span>Foz do Iguaçu: 'Derrotar as reformas antipovo, o peleguismo e a conciliação de classes com a Greve Geral de Resistência Nacional'</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-12983 catid-229"> <div class="news odd head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/12983-economia-mundial-em-queda-coronavirus-esconde-a-crise-em-gestacao"> <img src="/images/thumbnails/lne/thumb_197_12983.webp" alt="Economia mundial em queda: coronavírus esconde a crise em gestação" width="160" height="80" loading="lazy" /> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">26/02/2020</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/12983-economia-mundial-em-queda-coronavirus-esconde-a-crise-em-gestacao"> <span>Economia mundial em queda: coronavírus esconde a crise em gestação</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-7122 catid-229"> <div class="news even head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/7122-greve-geral-contra-temer-quadrilha-que-destroem-os-direitos-trabalhistas"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_7122.webp"><img src="/images/thumbnails/lne/thumb_197_7122.jpg" alt="Nota da Liga Operária: Temer e quadrilha destroem direitos trabalhistas" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">17/07/2017</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/7122-greve-geral-contra-temer-quadrilha-que-destroem-os-direitos-trabalhistas"> <span>Nota da Liga Operária: Temer e quadrilha destroem direitos trabalhistas</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-3094 catid-130"> <div class="news odd head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/no-69-100111/3094-em-que-deu-a-globalizacao"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_3094.webp"><img src="/images/thumbnails/lne/thumb_197_3094.jpg" alt="Em que deu a globalização?" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">01/09/2010</span></span></dd></dl> <h4 class="newstitle"> <a href="/no-69-100111/3094-em-que-deu-a-globalizacao"> <span>Em que deu a globalização?</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-6075 catid-305"> <div class="news even head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/no-156/6075-cuidado-com-a-moralidade-fascista"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_6075.webp"><img src="/images/thumbnails/lne/thumb_197_6075.jpg" alt="Cuidado com a moralidade fascista" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">26/08/2015</span></span></dd></dl> <h4 class="newstitle"> <a href="/no-156/6075-cuidado-com-a-moralidade-fascista"> <span>Cuidado com a moralidade fascista</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-2093 catid-94"> <div class="news odd head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/no-51/2093-crise-mostra-estrago-que-capitalismo-causa-na-relacao-entre-a-cidade-e-o-campo"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_2093.webp"><img src="/images/thumbnails/lne/thumb_197_2093.jpg" alt="Crise mostra estrago que capitalismo causa na relação entre a cidade e o campo" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">21/03/2009</span></span></dd></dl> <h4 class="newstitle"> <a href="/no-51/2093-crise-mostra-estrago-que-capitalismo-causa-na-relacao-entre-a-cidade-e-o-campo"> <span>Crise mostra estrago que capitalismo causa na relação entre a cidade e o campo</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-18257 catid-229"> <div class="news even head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/noticias/18257-franca-trabalhadores-realizam-greve-geral-contra-crise-3"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_18257.webp"><img src="/images/thumbnails/lne/thumb_197_18257.jpg" alt="França: Trabalhadores realizam greve geral contra crise" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">19/10/2022</span></span></dd></dl> <h4 class="newstitle"> <a href="/noticias/18257-franca-trabalhadores-realizam-greve-geral-contra-crise-3"> <span>França: Trabalhadores realizam greve geral contra crise</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-7086 catid-379"> <div class="news odd head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/no-191/7086-campeoes-nacionais-do-capitalismo-burocratico"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_7086.webp"><img src="/images/thumbnails/lne/thumb_197_7086.jpg" alt="‘Campeões nacionais’ do capitalismo burocrático" width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">03/07/2017</span></span></dd></dl> <h4 class="newstitle"> <a href="/no-191/7086-campeoes-nacionais-do-capitalismo-burocratico"> <span>‘Campeões nacionais’ do capitalismo burocrático</span> </a> </h4> </div> </div> </div> </li> <li class="latestnews-item id-2576 catid-112"> <div class="news even head_left"> <div class="innernews"> <div class="newshead picturetype"> <div class="picture"> <div class="innerpicture"> <a href="/no-61/2576-segue-a-crise-dos-monopolios-e-do-grande-capital-financeiro"> <picture><source type="image/webp" srcset="/images/thumbnails/lne/thumb_197_2576.webp"><img src="/images/thumbnails/lne/thumb_197_2576.jpg" alt="Segue a crise dos monopólios e do grande capital financeiro " width="160" height="80" loading="lazy" /></picture> </a> </div> </div> </div> <div class="newsinfo"> <dl class="item_details before_title"><dt>Informação</dt><dd class="newsextra"><span class="detail detail_date"><span class="detail_data">24/12/2009</span></span></dd></dl> <h4 class="newstitle"> <a href="/no-61/2576-segue-a-crise-dos-monopolios-e-do-grande-capital-financeiro"> <span>Segue a crise dos monopólios e do grande capital financeiro </span> </a> </h4> </div> </div> </div> </li> </ul> <div class="clearfix"></div> <div class="items_pagination down"></div> </div> </div></div><div class="sp-module "><div class="sp-module-content"><div class="bannergroup">
+<div class="banneritem">
+<a href="/component/banners/click/13" target="_blank" rel="noopener noreferrer" title="Araguaia">
+<img src="https://anovademocracia.com.br/images/araguaia-anuncio.jpg" alt="Araguaia" />
+</a>
+<div class="clr"></div>
+</div>
+<div class="banneritem">
+<a href="/component/banners/click/14" target="_blank" rel="noopener noreferrer" title="Banner 2019">
+<img src="https://anovademocracia.com.br/images/promo_2019.jpg" alt="Apoie a imprensa popular e democrática" />
+</a>
+<div class="clr"></div>
+</div>
+<div class="banneritem">
+<a href="/component/banners/click/9" target="_blank" rel="noopener noreferrer" title="O que fazer">
+<img src="https://anovademocracia.com.br/images/00-oquefazer.jpg" alt="https://loja.anovademocracia.com.br/que-fazer/" />
+</a>
+<div class="clr"></div>
+</div>
+</div>
+</div></div></div></div></div></div></section><section id="sp-section-12"><div class="container"><div class="row"><div id="sp-edicao-tit" class="col-sm-12 col-md-12"><div class="sp-column "><div class="sp-module "><h2 class="assinaturas">Edição impressa</h2><div class="sp-module-content">
+<div class="custom">
+</div>
+</div></div></div></div></div></div></section><section id="sp-edicao-impressa"><div class="container"><div class="row"><div id="sp-capa" class="col-sm-3 col-md-3"><div class="sp-column "><div class="sp-module  chamadag7"><div class="sp-module-content">
+<div class="custom chamadag7">
+<div class="capa">
+<p> <a href="/no-249">Edição Nº 249 </a></p>
+<p><a href="/no-249">Setembro e Outubro de 2022</a></p>
+<p><a href="/no-249"><img src="/images/0-2022/09/outros/and-249.jpg" alt="" /></a></p>
+</div>
+<div><a href="/no-249" readon-button="">EDIÇÃO IMPRESSA</a></div>
+<p> </p></div>
+</div></div></div></div><div id="sp-edicao" class="col-sm-9 col-md-9"><div class="sp-column "><div class="sp-module feed-link"><div class="sp-module-content"><ul class="category-modulefeed-link mod-list">
+<li>
+<a class="mod-articles-category-title " href="/no-249/18142-campanha-internacional-denuncia-desaparecimento-do-dr-sernas">Campanha Internacional denuncia desaparecimento do Dr. Sernas</a>
+</li>
+<li>
+<a class="mod-articles-category-title " href="/no-249/18143-apoio-mundial-a-guerra-popular-na-india">Apoio mundial à Guerra Popular na Índia</a>
+</li>
+<li>
+<a class="mod-articles-category-title " href="/no-249/18140-falece-o-grande-jose-maria-galhasi">Falece o grande José Maria Galhasi</a>
+</li>
+<li>
+<a class="mod-articles-category-title " href="/no-249/18141-o-povo-aprende-a-governar">O povo aprende a governar</a>
+</li>
+<li>
+<a class="mod-articles-category-title " href="/no-249/18139-povo-nao-confia-em-militares-e-politicos">Povo não confia em militares e políticos</a>
+</li>
+<li>
+<a class="mod-articles-category-title " href="/no-249/18138-lula-acena-para-generais-golpistas">Lula acena para generais golpistas</a>
+</li>
+<li>
+<a class="mod-articles-category-title " href="/no-249/18137-nova-ou-velha-republica">Nova ou Velha República?</a>
+</li>
+<li>
+<a class="mod-articles-category-title " href="/no-249/18136-editorial-mudar-o-governo-para-que-nada-mude">Editorial - Mudar o governo, para que nada mude</a>
+</li>
+</ul>
+</div></div></div></div></div></div></section><section id="sp-footer1"><div class="container"><div class="row"><div id="sp-edi-maislidos" class="col-sm-4 col-md-4"><div class="sp-column "><div class="sp-module "><h3 class="chamadag3 estrela">Mais lidos desta edição</h3><div class="sp-module-content">
+<ol class="mostread">
+<li>
+<a href="/no-249/18141-o-povo-aprende-a-governar">
+O povo aprende a governar</a>
+</li>
+<li>
+<a href="/no-249/18138-lula-acena-para-generais-golpistas">
+Lula acena para generais golpistas</a>
+</li>
+<li>
+<a href="/no-249/18137-nova-ou-velha-republica">
+Nova ou Velha República?</a>
+</li>
+<li>
+<a href="/no-249/18140-falece-o-grande-jose-maria-galhasi">
+Falece o grande José Maria Galhasi</a>
+</li>
+<li>
+<a href="/no-249/18136-editorial-mudar-o-governo-para-que-nada-mude">
+Editorial - Mudar o governo, para que nada mude</a>
+</li>
+<li>
+<a href="/no-249/18139-povo-nao-confia-em-militares-e-politicos">
+Povo não confia em militares e políticos</a>
+</li>
+<li>
+<a href="/no-249/18143-apoio-mundial-a-guerra-popular-na-india">
+Apoio mundial à Guerra Popular na Índia</a>
+</li>
+<li>
+<a href="/no-249/18142-campanha-internacional-denuncia-desaparecimento-do-dr-sernas">
+Campanha Internacional denuncia desaparecimento do Dr. Sernas</a>
+</li>
+</ol>
+</div></div></div></div><div id="sp-especial" class="col-sm-8 col-md-8"><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
+<div class="custom">
+<p><a href="/200-anos-de-karl-marx"><img src="/images/karl-marx-selo-3.jpg" alt="200 anos de Karl Marx" /></a></p>
+<div class="vermelho">
+<h2><a href="/200-anos-de-karl-marx">Especial: 200 anos de Karl Marx</a></h2>
+<p><a href="/no-231/13144-de-karl-marx-ao-marxismo-luta-de-classes-luta-de-duas-linhas-e-linha-de-massas-parte-xi"> Luta de classes, luta de duas linhas e linha de massas (parte XI)</a><br /> <a href="/no-230/12868-de-karl-marx-ao-marxismo-luta-de-classes-luta-de-duas-linhas-e-linha-de-massas-parte-x"> Luta de classes, luta de duas linhas e linha de massas (parte X)</a><br /> <a href="/no-229/12574-de-karl-marx-ao-marxismo-luta-de-classes-luta-de-duas-linhas-e-linha-de-massas-parte-ix"> Luta de classes, luta de duas linhas e linha de massas (parte IX)</a> <br /> <a href="/no-228/12272-de-karl-marx-ao-marxismo-luta-de-classes-luta-de-duas-linhas-e-linha-de-massas-parte-viii"> Luta de classes, luta de duas linhas e linha de massas (parte VIII)</a><br /> <a href="/no-227/11968-de-karl-marx-ao-marxismo-luta-de-classes-luta-de-duas-linhas-e-linha-de-massas-parte-vii"> Luta de classes, luta de duas linhas e linha de massas (parte VII)</a> <br /> <a href="/no-226/11750-de-karl-marx-ao-marxismo-luta-de-classes-luta-de-duas-linhas-e-linha-de-massas-parte-vi"> Luta de classes, luta de duas linhas e linha de massas (parte VI)</a></p>
+</div></div>
+</div></div></div></div></div></div></section><section id="sp-rodape"><div class="container"><div class="row"><div id="sp-endereco" class="col-xs-12 col-sm-6 col-md-8"><div class="sp-column "><div class="sp-module "><h2 class="assinaturas">Endereços</h2><div class="sp-module-content">
+<div class="custom">
+<div class="ad1">
+<p><strong>Jornal A Nova Democracia <br />Editora Aimberê</strong><br />Avenida Rio Branco 257, SL 1308 <br />Centro - Rio de Janeiro - RJ <br />Tel.: (21) 2256-6303<br /> E-mail: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="badbd4d5ccdbdedfd7d5d9c8dbd9d3dbfaddd7dbd3d694d9d5d7">[email&#160;protected]</a></p>
+<p><strong>Comitê de Apoio em Belo Horizonte</strong><br /> Rua Tamoios nº 900 sala 7<br />Tel.: (31) 3656-0850<br /><br /></p>
+</div>
+<div class="ad1">
+<p><strong>Comitê de Apoio em São Paulo</strong> <br /> Rua Silveira Martins 133 conj. 22 - Centro</p>
+<p>E-mail: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="74171b191d0011101115041b1d1b0704341319151d185a17">[email&#160;protected]</a><span>om</span><br /> Reuniões semanais de apoiadores <br /> todo sábado, às 9h30</p>
+<p><strong>Seja um apoiador você também:</strong><br /> <a href="https://www.catarse.me/apoieoand">https://www.catarse.me/apoieoand</a></p>
+</div></div>
+</div></div><div class="sp-module "><div class="sp-module-content">
+<div class="custom">
+<div class="ad1"><a href="/onde-encontrar"><img src="/images/onde_encontrar.webp" /></a></div></div>
+</div></div></div></div><div id="sp-expediente" class="col-xs-12 col-sm-6 col-md-4"><div class="sp-column "><div class="sp-module "><h2 class="assinaturas">Expediente</h2><div class="sp-module-content">
+<div class="custom">
+<div class="exp">
+<p style="text-align: left;"><strong>Diretor Geral </strong><br /><a href="/fausto-arruda">Fausto Arruda</a> (licenciado)<br />Victor Costa Bellizia (provisório)</p>
+<p><strong>Editor-chefe </strong><br /><span>Victor Costa Bellizia<br /></span></p>
+<p style="text-align: left;"><strong>Conselho Editorial </strong><br /> Alípio de Freitas <span style="font-size: 10pt;">(<em>In memoriam</em>)</span><br /><a href="/fausto-arruda">Fausto Arruda </a><br /> José Maria Galhasi de Oliveira<br /> José Ramos Tinhorão <span style="font-size: 10pt;">(<em>In memoriam</em>)</span><br /><a href="/henrique-judice">Henrique Júdice</a><br />Paulo Amaral <br /><a href="/rosana-bond">Rosana Bond </a></p>
+<p style="text-align: left;"><b>Redação </b><br />Ana Lúcia Nunes<br />João Alves<br />Taís Souza<br />Gabriel Artur<br />Giovanna Maria<br />Victor Benjamin</p>
+<p><strong>Ilustração<br /></strong><span></span>Victor Benjamin</p>
+</div></div>
+</div></div><div class="sp-module "><div class="sp-module-content">
+<div class="custom">
+<div><a href="/publicidade" class="readon-button">Saiba como anunciar <br />nas páginas de AND</a></div></div>
+</div></div></div></div></div></div></section><footer id="sp-footer"><div class="container"><div class="row"><div id="sp-footer1" class="col-sm-12 col-md-12"><div class="sp-column "><span class="sp-copyright"><a herf="http://artimania.com.br"><img src="/artimania.png"></a></span></div></div></div></div></footer> </div> 
+</div> 
+
+<div class="offcanvas-menu">
+<a href="#" class="close-offcanvas" aria-label="Close"><i class="fa fa-remove" aria-hidden="true" title="HELIX_CLOSE_MENU"></i></a>
+<div class="offcanvas-inner">
+<div class="sp-module "><div class="sp-module-content"><ul class="nav menu">
+<li class="item-100915"> <a href="/"> Início</a></li><li class="item-100926"> <a href="https://anovademocracia.com.br/#pwebbox220:open"> Login</a></li><li class="item-100927"> <a href="/pesquisa"> Pesquisa</a></li><li class="item-100916  deeper parent"> <a href="/linhaeditorial"> Linha Editorial</a><span class="offcanvas-menu-toggler collapsed" data-toggle="collapse" data-target="#collapse-menu-100916"><i class="open-icon fa fa-angle-down"></i><i class="close-icon fa fa-angle-up"></i></span><ul class="collapse" id="collapse-menu-100916"><li class="item-100917"> <a href="/editorial"> Editorial</a></li><li class="item-100918"> <a href="/situacao-politica"> Situação política</a></li></ul></li><li class="item-100919  deeper parent"> <a href="/nacional"> Nacional</a><span class="offcanvas-menu-toggler collapsed" data-toggle="collapse" data-target="#collapse-menu-100919"><i class="open-icon fa fa-angle-down"></i><i class="close-icon fa fa-angle-up"></i></span><ul class="collapse" id="collapse-menu-100919"><li class="item-100960"> <a href="/crimes-contra-o-povo"> Crimes contra o povo</a></li><li class="item-100959"> <a href="/farsa-eleitoral"> Farsa eleitoral</a></li><li class="item-100964"> <a href="/herois-do-povo-brasileiro"> Heróis do povo brasileiro</a></li><li class="item-100962"> <a href="/intervencao-militar"> Intervenção militar</a></li><li class="item-100965"> <a href="/luta-classista"> Luta classista</a></li><li class="item-100958"> <a href="/luta-pela-terra"> Luta pela terra</a></li><li class="item-100961"> <a href="/povos-indigenas"> Povos indígenas</a></li><li class="item-100963"> <a href="/presos-politicos-do-brasil"> Presos políticos</a></li></ul></li><li class="item-100920  deeper parent"> <a href="/internacional"> Internacional</a><span class="offcanvas-menu-toggler collapsed" data-toggle="collapse" data-target="#collapse-menu-100920"><i class="open-icon fa fa-angle-down"></i><i class="close-icon fa fa-angle-up"></i></span><ul class="collapse" id="collapse-menu-100920"><li class="item-100966"> <a href="/america-latina"> América Latina</a></li><li class="item-100971"> <a href="/datas-memoraveis-do-proletariado"> Datas memoráveis do proletariado</a></li><li class="item-100970"> <a href="/figuras-da-classe-operaria"> Figuras da classe operária</a></li><li class="item-100969"> <a href="/guerra-popular"> Guerra popular</a></li><li class="item-100967"> <a href="/libertacao-nacional"> Libertação nacional</a></li><li class="item-100968"> <a href="/presos-politicos"> Presos políticos</a></li></ul></li><li class="item-100921  deeper parent"> <a href="/nova-cultura"> Nova cultura</a><span class="offcanvas-menu-toggler collapsed" data-toggle="collapse" data-target="#collapse-menu-100921"><i class="open-icon fa fa-angle-down"></i><i class="close-icon fa fa-angle-up"></i></span><ul class="collapse" id="collapse-menu-100921"><li class="item-100972"> <a href="/agenda-cultural"> Agenda cultural</a></li><li class="item-100973"> <a href="/realizacoes-socialistas"> Realizações socialistas</a></li><li class="item-100974"> <a href="/100-anos-da-grande-revolucao-bolchevique-de-1917"> 100 anos da Grande Revolução Bolchevique de 1917</a></li><li class="item-100975"> <a href="/50-anos-da-grpc"> 50 anos da GRPC</a></li></ul></li><li class="item-100922"> <a href="/espanol"> Español</a></li><li class="item-100923"> <a href="/english-editions"> English</a></li><li class="item-100924"> <a href="/anteriores"> Edição impressa</a></li><li class="item-100925"> <a href="https://lojadoand.com.br/"> Loja</a></li></ul>
+</div></div>
+</div> 
+</div> 
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+jQuery.noConflict();
+// smooth anchor scrolling
+  jQuery('a[href*="#"]').on('click', function (e) {
+        e.preventDefault();
+        if(this.hash !== '') {
+            if(this.hash !== '' && this.href.replace(this.hash, '') == window.location.href.replace(window.location.hash, '')) {
+                var target = jQuery(this.hash);
+                if(target.length && this.hash !== '#') {
+                    jQuery('html, body').stop().animate({
+                        'scrollTop': target.offset().top
+                    }, 1000, 'swing', function () {
+                        if(this.hash !== '#') {
+                            window.location.hash = target.selector;
+                        }
+                    });
+} else {
+                    if(this.hash !== '#') {
+                        window.location = jQuery(this).attr('href');
+                    }
+                }
+            } else {
+                if(this.hash !== '#') {
+                    window.location = jQuery(this).attr('href');
+                }
+            }
+        }
+    });
+
+</script>
+<ul class="jj_sl_navigation jj_transition left"><li class="jj_sl_custom1"><a href="https://www.youtube.com/channel/UC7G7saR0vFSMh-SdEyF3Utg"><span class="jj_social_text">Veja nossos vídeos</span><span class="jj_sprite_custom jj_custom1"></span></a></li><li class="jj_sl_custom2"><a href="https://twitter.com/jornaland"><span class="jj_social_text">Siga-nos no Twitter</span><span class="jj_sprite_custom jj_custom2"></span></a></li><li class="jj_sl_custom4"><a href="https://forms.gle/8izJHSSh28qowWdR9"><span class="jj_social_text">Fale conosco</span><span class="jj_sprite_custom jj_custom4"></span></a></li></ul>
+
+
+<a href="javascript:void(0)" class="scrollup" aria-label="Go To Top">&nbsp;</a>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon='{"rayId":"794f9051fdff9e2f","version":"2022.11.3","r":1,"token":"4f2e885d98bb44a29f9d0224829959b2","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>
