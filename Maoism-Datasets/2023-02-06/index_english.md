@@ -448,7 +448,7 @@ RIO GRANDE DO SUL
 
 ![](Images/A Nova Democracia/2023-02-06T11-19-00-03-00/DSC01147_1.jpg)Flag of LCI IADA IN SQUARE 29 de Março in Curitiba(PR). Foto: Banco deDados AND
 
-![](Images/A Nova Democracia/2023-02-06T11-19-00-03-00/DSC01144_1.jpg)LCI Flag in Viaduct Near Largo da Order, towards Aobairro Mercês, in Curitiba(PR). Foto: Banco de Dados AND
+![](Images/A Nova Democracia/2023-02-06T11-19-00-03-00/DSC01144_1.jpg)LCI Flag in Viaduct Near Largo da Order, in Aobairro Mercês, in Curitiba(PR). Foto: Banco de Dados AND
 
 ![](Images/A Nova Democracia/2023-02-06T11-19-00-03-00/DSC01128_2.jpg)Flag of LCI IADA IN LARGO DA ORDER, in Curitiba(PR). Foto: Banco deDados AND
 
@@ -798,7 +798,7 @@ RIO DE JANEIRO
 
 ![](Images/A Nova Democracia/2023-02-06T11-19-00-03-00/Passeio-pblico-pontos-de-onibus-RJ.jpg)Flag Iaded on the Public Ride, downtown Rio de Janeiro(RJ). Foto: Bancode Dados AND
 
-![](Images/A Nova Democracia/2023-02-06T11-19-00-03-00/Passarela-Radial-Oeste-RJ.jpg)Flag that was on the Radial West catwalk in Rio de Janeiro(RJ). Foto: Bancode Dados AND
+![](Images/A Nova Democracia/2023-02-06T11-19-00-03-00/Passarela-Radial-Oeste-RJ.jpg)Flag Iada on Radial West catwalk, in Rio de Janeiro(RJ). Foto: Bancode Dados AND
 
 ![](Images/A Nova Democracia/2023-02-06T11-19-00-03-00/Lapa-proximo-hospital-RJ.jpg)Lapa flag in Lapa, downtown Rio de Janeiro(RJ). Foto: Banco de DadosAND
 
@@ -976,7 +976,7 @@ Images: ['[alemania%20bien.jpg](https://blogger.googleusercontent.com/img/b/R29v
 
 ** **
 
-** Mexico. ** On March 4 and 5, the National Assembly of the Indigenous National Congress is convened, whose works will be carried out in Tehuacán, Puebla. According to the call launched by the CNI, the theme of discussion will be the growing violence of the narco -state, The imposition of megaprojects and collecting in collective What follows? Then we share a laconvocatory, give [click.](https://www.congresonacionalindigena.org/2023/02/04/convocatoria-asamblea-nacional-del-congreso-nacional-indigena-frente-a-la-creciente-violencia-del-narcoestado-y-la-imposicion-de-megaproyectos-y-para-contestarnos-en-colectivo-que-sigue-4-y-5-d/)
+** Mexico. The imposition of megaprojects and collecting in collective What follows? Then we share a laconvocatory, give [click.](https://www.congresonacionalindigena.org/2023/02/04/convocatoria-asamblea-nacional-del-congreso-nacional-indigena-frente-a-la-creciente-violencia-del-narcoestado-y-la-imposicion-de-megaproyectos-y-para-contestarnos-en-colectivo-que-sigue-4-y-5-d/)
 
 **[![](Images/SOL ROJO Mx/2023-02-06T12-29-00-08-00/asamblea.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc_lGlIyZQazZLTMOcou7ChQtR1b9725a8R8aGsaFUo8Grs0ZAy4wQt03H5IaGAPEjaCY2lgQsKxI9tQ_NkUmMqH26eZm3-UDrydId2Puo8Vqib12EG4bIKOeRZT6mwFxYVYjPuq1i7OunQVWhS4W7X-3TairRpjeRYJXfN_eh96RRTDcW7fiiOyxT/s2560/asamblea.jpg)**
 
@@ -1552,7 +1552,8 @@ _This report will be updated._
 
 Slogans were painted and banners were put up in distinct places in the city ofMedellin, Columbia.
 
-![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/26D-Col-2-min-1024x683.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/26D-Col-3-min-1024x683.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/26D-Col-5-min-1024x683.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/26D-Col-6-min-1024x683.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/26D-Col-8-min-1024x683.jpg)A banner and a flag was put up in Bogota, Colombia, to celebrate the foundation of ICL.![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/DSCN0466.limpio-1024x768.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/DSCN0471.limpio-1024x768.jpg)#### Ecuador
+![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/26D-Col-2-min-1024x683.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/26D-Col-3-min-1024x683.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/26D-Col-5-min-1024x683.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/26D-Col-6-min-1024x683.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/26D-Col-8-min-1024x683.jpg)A banner and a flag was put up in Bogota, Colombia, to celebrate the foundation of ICL.![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/DSCN0466.limpio-1024x768.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/DSCN0471.limpio-1024x768.jpg)
+####  Ecuador
 
 The campaign of the detachment of members of the Communist Party of Ecuador,Sol-Rojo, ranges from painting graffiti, pasting posters, handing out flyersto the placement of a large banner.
 
@@ -1582,13 +1583,15 @@ In the communities of the city of Chillán and the rural areas of the Ñubleregi
 
 Action carried out by a detachment in the city of Talca, Maule Region:
 
-![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/1.limpio-edited-2.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/2.limpio-edited-scaled.jpg)#### USA
+![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/1.limpio-edited-2.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/2.limpio-edited-scaled.jpg)
+####  USA
 
 In Austin, Texas, USA, on the morning of December 26, 2022, 10 flags of thenewly established International Communist League were seen hanging fromoverpasses above highway I-35 in English and Spanish.
 
 ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/ATX_USA_1-1024x683.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/ATX_USA_2-1-1024x683.jpg)A mural in Austin, Texas, was painted with the slogan: “Unite under Maoism!Down with Revisionism!”
 
-![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/ICL-propaganda-austin-texas-usa-1024x641.jpg)#### Finland
+![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/ICL-propaganda-austin-texas-usa-1024x641.jpg)
+####  Finland
 
 Flags of the International Communist League and a banner with the slogans ofthe campaign were put up in Tampere and Helsinki.
 
@@ -1614,15 +1617,18 @@ Flags of the International Communist League and a banner with the slogans ofthe 
 
 The slogan ”Unite under maoism!Down with revisionism!” was painted in DenHaag.
 
-![](ConvertedIMGs/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/thenetherlands.png)[Action regarding the 129th birthday of Chairman Mao](https://communistischehamer.wordpress.com/2022/12/26/actie-betreffende-de-129e-geboortedag-van-voorzitter-mao/)### Turkey
+![](ConvertedIMGs/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/thenetherlands.png)[Action regarding the 129th birthday of Chairman Mao](https://communistischehamer.wordpress.com/2022/12/26/actie-betreffende-de-129e-geboortedag-van-voorzitter-mao/)
+###  Turkey
 
 The Declaration Was Published in Turkish:
 
-> [International Communist Union was established](https://ikk-> online14.net/enternasyonal-komunist-birlik-kuruldu.html)### Norway
+> [International Communist Union was established](https://ikk-online14.net/enternasyonal-komunist-birlik-kuruldu.html)
+###  Norway
 
 Actions were carried out in Trondheim, Kristiansand, Tromsø, Oslo and Bergen.Banners and flags were put up and slogans were painted.
 
-![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/trondheim1-1024x768.jpg)Longlive the International Communist League!![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/Kristiansand1-1024x768.jpg) ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/kristiansand2-1024x768.jpg) ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/tromso-1024x741.jpg) ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/tromso2-1024x768.jpg) ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/tromso3-1024x768.jpg)Long live Maoism!Long liveChairman Gonzalo!![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/bergen-1024x749.jpg)Full report in Norwegian: [ https://tjen-folket.no/index.php/2022/12/27/aksjoner-for-internasjonalt-kommunistisk-forbund/](http://Full report in Norwegian: https://tjen-folket.no/index.php/2022/12/27/aksjoner-for-internasjonalt-kommunistisk-forbund/)### Germany
+![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/trondheim1-1024x768.jpg)Longlive the International Communist League!![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/Kristiansand1-1024x768.jpg) ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/kristiansand2-1024x768.jpg) ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/tromso-1024x741.jpg) ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/tromso2-1024x768.jpg) ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/tromso3-1024x768.jpg)Long live Maoism!Long liveChairman Gonzalo!![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/bergen-1024x749.jpg)Full report in Norwegian: [ https://tjen-folket.no/index.php/2022/12/27/aksjoner-for-internasjonalt-kommunistisk-forbund/](http://Full report in Norwegian: https://tjen-folket.no/index.php/2022/12/27/aksjoner-for-internasjonalt-kommunistisk-forbund/)
+###  Germany
 
 Dazibaos were put up and slogans were painted in the cities of Essen, Freiburgand Bremen.
 
@@ -1636,19 +1642,23 @@ Dazibaos were put up and slogans were painted in the cities of Essen, Freiburgan
 
 ### France
 
-Several Banners were deployed in different cities and paintings were carriedout within 24 hours, for the anniversary of the birth of Chairman Mao Tse-tungand the foundation of the ICL on 26th to 27th of December. In Paris, 19thdistrict; in Caen; Lyon; Toulouse; Limoges, on the Bishopry; in St. Etienne;and in Le Havre.In Brittany actions were done on the evening and days following New Year's Eve, a night of traditional riots and revolt in the suburbs of France.![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/Brittany1.png)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/Brittany3.png)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/Brittany4.png)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/Brittany6.png)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/Brittany7-1024x654.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/Brittany11-1024x683.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/Brittany12-1024x683.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/Brittany13-1024x683.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/Brittany14-1024x683.jpg)### Armenia
+Several Banners were deployed in different cities and paintings were carriedout within 24 hours, for the anniversary of the birth of Chairman Mao Tse-tungand the foundation of the ICL on 26th to 27th of December. In Paris, 19thdistrict; in Caen; Lyon; Toulouse; Limoges, on the Bishopry; in St. Etienne;and in Le Havre.In Brittany actions were done on the evening and days following New Year's Eve, a night of traditional riots and revolt in the suburbs of France.![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/Brittany1.png)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/Brittany3.png)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/Brittany4.png)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/Brittany6.png)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/Brittany7-1024x654.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/Brittany11-1024x683.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/Brittany12-1024x683.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/Brittany13-1024x683.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/Brittany14-1024x683.jpg)
+###  Armenia
 
 A banner reading “Long Live the International Communist League” and deployedin the hypercenter of Yerevan on the statue of Stepan Shahoumian erected in1931 by the Soviet government.
 
-![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/1_ICL_ARM-1024x471.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/2_ICL_ARM-677x1024.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/3_ICL_ARM-1024x575.jpg)### Russia
+![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/1_ICL_ARM-1024x471.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/2_ICL_ARM-677x1024.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/3_ICL_ARM-1024x575.jpg)
+###  Russia
 
 The Documents of the International Communist League Were Translate Intorussian.
 
-> [Historical news about the successful holding of a united Maoist> International Conference: the International Communist League was founded!](https://mlmkr.ru/%d0%b8%d1%81%d1%82%d0%be%d1%80%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b0%d1%8f-%d0%bd%d0%be%d0%b2%d0%be%d1%81%d1%82%d1%8c-%d0%be%d0%b1-%d1%83%d1%81%d0%bf%d0%b5%d1%88%d0%bd%d0%be%d0%bc-%d0%bf%d1%80%d0%be/)> [Decree on class congratulatory circulation of folk wars of the whole> world](https://mlmkr.ru/%d0%bf%d0%be%d1%81%d1%82%d0%b0%d0%bd%d0%be%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5-%d0%be-%d0%ba%d0%bb%d0%b0%d1%81%d1%81%d0%be%d0%b2%d0%be%d0%bc-%d0%bf%d0%be%d0%b7%d0%b4%d1%80%d0%b0%d0%b2%d0%b8%d1%82/)> [Decree of expression of special gratitude to the chairman Gonzalo and> checkpoint](https://mlmkr.ru/%d0%bf%d0%be%d1%81%d1%82%d0%b0%d0%bd%d0%be%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5-%d0%b2%d1%8b%d1%80%d0%b0%d0%b6%d0%b5%d0%bd%d0%b8%d1%8f-%d0%be%d1%81%d0%be%d0%b1%d0%be%d0%b9-%d0%bf%d1%80%d0%b8%d0%b7/)### Italy
+> [Historical news about the successful holding of a united Maoist> International Conference: the International Communist League was founded!](https://mlmkr.ru/%d0%b8%d1%81%d1%82%d0%be%d1%80%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b0%d1%8f-%d0%bd%d0%be%d0%b2%d0%be%d1%81%d1%82%d1%8c-%d0%be%d0%b1-%d1%83%d1%81%d0%bf%d0%b5%d1%88%d0%bd%d0%be%d0%bc-%d0%bf%d1%80%d0%be/)> [Decree on class congratulatory circulation of folk wars of the whole> world](https://mlmkr.ru/%d0%bf%d0%be%d1%81%d1%82%d0%b0%d0%bd%d0%be%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5-%d0%be-%d0%ba%d0%bb%d0%b0%d1%81%d1%81%d0%be%d0%b2%d0%be%d0%bc-%d0%bf%d0%be%d0%b7%d0%b4%d1%80%d0%b0%d0%b2%d0%b8%d1%82/)> [Decree of expression of special gratitude to the chairman Gonzalo and> checkpoint](https://mlmkr.ru/%d0%bf%d0%be%d1%81%d1%82%d0%b0%d0%bd%d0%be%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5-%d0%b2%d1%8b%d1%80%d0%b0%d0%b6%d0%b5%d0%bd%d0%b8%d1%8f-%d0%be%d1%81%d0%be%d0%b1%d0%be%d0%b9-%d0%bf%d1%80%d0%b8%d0%b7/)
+###  Italy
 
 The political declaration was translated into Italian:
 
-[Historical news on the success of the Maoistunified Internal Conference: the Communistainternament League was founded](https://nuovaegemonia.com/2023/01/05/notizia-storica-sulla-riuscita-della-conferenza-internzaionale-maoista-unificata-fondata-la-lega-comunista-internazionale/)### Spanish State
+[Historical news on the success of the Maoistunified Internal Conference: the Communistainternament League was founded](https://nuovaegemonia.com/2023/01/05/notizia-storica-sulla-riuscita-della-conferenza-internzaionale-maoista-unificata-fondata-la-lega-comunista-internazionale/)
+###  Spanish State
 
 Paintings, banners and flag-waving actions have been carried out in front ofthe energy monopolies Repsol and Iberdrola, the banks Caixabank and Santander,some diplomatic centers, such as the Brazilian embassy and the Colombianconsulate, and employers' and business organizations in Madrid, València,Elche and Albacete.
 
@@ -1662,15 +1672,18 @@ Paintings, banners and flag-waving actions have been carried out in front ofthe 
 
 ![](ConvertedIMGs/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/fa0976f79043340d08396ee216151eeabac2d2534c00f43ed31dc4a5abc82204.cleaned.png)
 
-![](ConvertedIMGs/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/santander2.cleaned.png)Full Report: [https://serviraralpuebloperiodico.wordpress.com/2022/12/30/aciones-por-la-fundacion-de-la-liga-comunista-internacional-en-el-estado-espanol/](https://serviralpuebloperiodico.wordpress.com/2022/12/30/acciones-por-la-fundacion-de-la-liga-comunista-internacional-en-el-estado-espanol/)### Austria
+![](ConvertedIMGs/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/santander2.cleaned.png)Full Report: [https://serviraralpuebloperiodico.wordpress.com/2022/12/30/aciones-por-la-fundacion-de-la-liga-comunista-internacional-en-el-estado-espanol/](https://serviralpuebloperiodico.wordpress.com/2022/12/30/acciones-por-la-fundacion-de-la-liga-comunista-internacional-en-el-estado-espanol/)
+###  Austria
 
 There have been first actions in Austria. At the beginning of the new year2023, shortly after midnight, in a busy place in Vienna, a banner was unfurledand a flag held high. "Long live the International Communist League - IKB!"was displayed with the banner in front of the eyes of hundreds of passers-bywho watched the action attentively in the first minutes of the new year.
 
-![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/4799266cb2ecd8209ac7aa921d5e5c04.png)### Denmark
+![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/4799266cb2ecd8209ac7aa921d5e5c04.png)
+###  Denmark
 
 The documents of the ICL were translated to Danish.[IKF: Resolution for Class Greetings to the People's War in the World](https://socialistiskrevolution.wordpress.com/2023/01/02/ikb-resolution-for-klassehilsener-til-folkekrigene-i-verden/)[IKF: Resolution of special recognition to President Gonzalo andpkp](https://socialistiskrevolution.wordpress.com/2023/01/04/ikf-resolution-af-saerlig-anerkendelse-til-formand-gonzalo-og-pkp/)Flyers were distributed in Copenhagen and Aalborg.
 
-![](ConvertedIMGs/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/1.png) ![](ConvertedIMGs/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/Aalborg2-2.png)### Ireland
+![](ConvertedIMGs/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/1.png) ![](ConvertedIMGs/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/Aalborg2-2.png)
+###  Ireland
 
 In Ireland, slogans were painted.
 
@@ -1682,7 +1695,8 @@ In Ireland, slogans were painted.
 
 ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/D61E09FD-D01C-42E0-BD49-4E7CB100F984-576x1024.jpg)
 
-![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/F6FA7948-A9F7-454B-A3E7-D30397AA6BC9-576x1024.jpg)### Sweden
+![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/F6FA7948-A9F7-454B-A3E7-D30397AA6BC9-576x1024.jpg)
+###  Sweden
 
 Documents of the ICL were published in Swedish:
 
@@ -1716,7 +1730,8 @@ Slogans were painted in the metropolitan region of Goiânia, State of Goiás,Bra
 
 ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/zona_sul-edited.jpg)
 
-![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/001MSDOURADOS_1.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/2MSDOURADOS_1.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/003MSDOURADOS.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/5adwawdawdawd.jpg)Full report: [https://www.anovademocracia.com.br/noticias/18567-acoes-celebram-fundacao-da-lci-no-brasil-atualizado-12-01](https://www.anovademocracia.com.br/noticias/18567-acoes-celebram-fundacao-da-lci-no-brasil-atualizado-12-01)### GERMANY
+![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/001MSDOURADOS_1.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/2MSDOURADOS_1.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/003MSDOURADOS.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/5adwawdawdawd.jpg)Full report: [https://www.anovademocracia.com.br/noticias/18567-acoes-celebram-fundacao-da-lci-no-brasil-atualizado-12-01](https://www.anovademocracia.com.br/noticias/18567-acoes-celebram-fundacao-da-lci-no-brasil-atualizado-12-01)
+###  GERMANY
 
 ### LLL 2023: "Long live the International Communist League!"
 
@@ -1744,7 +1759,8 @@ More actions were made in São Paulo in Campinas, Guarulhos and the West Zoneof 
 
 ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/saopaolo3.jpg)
 
-![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/guarulhos3.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/riodejaneiro.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/rj2.jpg) ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/rj4.jpg) ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/rj5.jpg)### Turkey
+![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/guarulhos3.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/riodejaneiro.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/rj2.jpg) ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/rj4.jpg) ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/rj5.jpg)
+###  Turkey
 
 TKP/ML militants greeted the martyrs of revolution and communism with bannersthey hung in Linz, Austria, and the establishment of the EKB they hung inBasel, Switzerland.
 
@@ -1752,7 +1768,8 @@ TKP/ML militants greeted the establishment of the International CommunistUnion(E
 
 ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/TKPML_Istanbul.cleaned-1024x464.png) ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/TKPML_Linz.cleaned.jpeg) ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/TKPML_Basel.cleaned.jpeg)The full articles:
 
-[TKP/ML militants greeted the establishment of the International Communist Union(including party-statement)](https://www.yenidemokrasi32.net/tkp-ml-militanlari-enternasyonal-komunist-birlikin-kurulusunu-selamladi.html)[TKP/ML militants of the party martyrs and Ekb’yellamiLiLi](https://www.yenidemokrasi32.net/tkp-ml-militanlari-parti-sehitlerini-ve-ekbyi-selamladi.html)### Germany
+[TKP/ML militants greeted the establishment of the International Communist Union(including party-statement)](https://www.yenidemokrasi32.net/tkp-ml-militanlari-enternasyonal-komunist-birlikin-kurulusunu-selamladi.html)[TKP/ML militants of the party martyrs and Ekb’yellamiLiLi](https://www.yenidemokrasi32.net/tkp-ml-militanlari-parti-sehitlerini-ve-ekbyi-selamladi.html)
+###  Germany
 
 A video was published of this year's LLL-demonstration:
 
@@ -1774,11 +1791,13 @@ More actions were made in the states of Minas Gerais, Paraná and Rio deJaneiro.
 
 Actions were made in the city of Medellin, at the University of Antioquia tocelebrate the founding of the ICL, as well as to commemorate comrade Sison andto express greetings to the Communist Party of the Philippines and thepeople's war it leads, and to join the Commemorative Week of the Martyrs ofthe Party and the Revolution called by the TKP/ML.
 
-![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/UdeA-3.cleaned-1024x576.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/UdeA-4.cleaned-1024x576.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/UdeA-7.cleaned-576x1024.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/UdeA-9.cleaned-1024x576.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/DSC_0015.limpio-1-1024x683.jpg) ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/DSC_0021.limpio-min-1024x683.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/DSC_0041.limpio-1024x683.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/DSC_0045.limpio-1024x683.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/DSC_0026.limpio-min-1024x683.jpg) ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/DSC_0034.limpio-min-1024x683.jpg)### USA
+![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/UdeA-3.cleaned-1024x576.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/UdeA-4.cleaned-1024x576.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/UdeA-7.cleaned-576x1024.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/UdeA-9.cleaned-1024x576.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/DSC_0015.limpio-1-1024x683.jpg) ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/DSC_0021.limpio-min-1024x683.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/DSC_0041.limpio-1024x683.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/DSC_0045.limpio-1024x683.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/DSC_0026.limpio-min-1024x683.jpg) ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/DSC_0034.limpio-min-1024x683.jpg)
+###  USA
 
 Revolutionaries in Eugene, Oregon gathered for a presentation and celebrationfor the founding of the ICL,  including speeches and discussion about the significance of the announcement.
 
-![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/eugene-action-1024x528.jpeg)### ChileActions released in the province of Curicó, in the peasant areas of the Maule Region, Chile:![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/chile-curico.jpg)
+![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/eugene-action-1024x528.jpeg)
+###  ChileActions released in the province of Curicó, in the peasant areas of the Maule Region, Chile:![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/chile-curico.jpg)
 
 ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/curico2.jpg)
 
@@ -1820,7 +1839,7 @@ Type: article
 
 <!--METADATA-->
 
-![](Images/Philippine Revolution Web Central/2023-02-07T00-16-58-00-00/2023020_Reused-Kurot-Poverty-929x1024.png)The people do not feel, especially the poor, the proud Noferdinand Marcos Jr.(GDP or local production)of the Philippines. According to the Kadamay group, the "Far Sasikura" of the Poor Filipino is the "Development" of Marcosjr's "Development". They do not expect the "President President" to meet their abdominal stomach.
+![](Images/Philippine Revolution Web Central/2023-02-07T00-16-58-00-00/2023020_reused-kurot-kahirapan-929x1024.png )The people do not feel, especially the poor, the proud Noferdinand Marcos Jr.(GDP or local production)of the Philippines. According to the Kadamay group, the "Far Sasikura" of the Poor Filipino is the "Development" of Marcosjr's "Development". They do not expect the "President President" to meet their abdominal stomach.
 
 The poor mocked Marcos Jr's reign as the "hungry era." According to State Statistics, grew up to 20 million(increased by 2.3million)The poor in 2022. Most of the hunger suffered between October and December last year due to the rising prices.
 
@@ -1870,7 +1889,7 @@ Type: article
 
 <!--METADATA-->
 
-![](Images/Philippine Revolution Web Central/2023-02-07T00-17-58-00-00/ilocos-norte-municipalities-1024x745.png)The National Democratic Front-Ilocos condemned the launch plan of 38 Balikatan Exercises by Filipino and American soldiers in Ilocosnorte this coming April 24-27. It is set for 16,000 soldiers, according to preliminary news.
+![](Images/Philippine Revolution Web Central/2023-02-07T00-17-58-00-00/ilocos-norte-municipalities-1024x745.png )The National Democratic Front-Ilocos condemned the launch plan of 38 Balikatan Exercises by Filipino and American soldiers in Ilocosnorte this coming April 24-27. It is set for 16,000 soldiers, according to preliminary news.
 
 According to NDF-Ilocos, it will be the second military exercise to launch in Ilocosnorte. The combined training of the Philippine Marines Atus Marines was first conducted in Currimao and Laoag City in June 2022.
 
@@ -1902,7 +1921,7 @@ Type: article
 
 <!--METADATA-->
 
-![](Images/Philippine Revolution Web Central/2023-02-07T00-18-01-00-00/northern-samar-armed-action-1024x502.jpeg)Reported by the New People's Army(BHB)-Southern The armed actions have been launched in recent months against plague police forces in the southern part of the island.
+![](Images/Philippine Revolution Web Central/2023-02-07T00-18-01-00-00/northern-samar-armed-action-1024x502.jpeg )Reported by the New People's Army(BHB)-Southern The armed actions have been launched in recent months against plague police forces in the southern part of the island.
 
 The NPA unit fired the detachment of the 2nd platoon, 1st Iloilo MobileCompany of police in Barangay Mayang, Tubungan, Iloilo on February 1. Bagonito, the People's Army fired the CAFGU detachment in Barangaytubudan, San Remegio, Antique on January 28.
 
@@ -1934,7 +1953,7 @@ Type: article
 
 <!--METADATA-->
 
-![](Images/Philippine Revolution Web Central/2023-02-07T00-19-01-00-00/20230207_editorial-cartoon-1024x724.png)It is clear to the Filipino people Ferdinand Marcos Jr., the current chief of the puppet state, is no different from his father-in-law: both puppet, fascist, corrupt and torture, and indifferent to the hunger and suffering of .
+![](Images/Philippine Revolution Web Central/2023-02-07T00-19-01-00-00/20230207_editorial-cartoon-1024x724.png )It is clear to the Filipino people Ferdinand Marcos Jr., the current chief of the puppet state, is no different from his father-in-law: both puppet, fascist, corrupt and torture, and indifferent to the hunger and suffering of .
 
 These reasons bind and pushed the people to revolt for more than three and a half decades later. It also binds them today to fight to advance and defend their own rights and well -being, and their desire for true proverbial and democracy. Like the father dictator, Marcos Jr. uses the decaying and most distorted ways of the ruling class in the construction of the crisis of the semicolonial and semifeudal system in the Philippines.
 
@@ -2012,6 +2031,6 @@ Type: article
 
 <!--METADATA-->
 
-![](Images/Philippine Revolution Web Central/2023-02-07T00-20-53-00-00/20230207pi-01-669x1024.png)_ ** Download Here ** _ Filipino: [PDF](http://philippinerevolution.nu/wp-content/uploads/2023/02/20230207pi.pdf)
+![](Images/Philippine Revolution Web Central/2023-02-07T00-20-53-00-00/20230207pi-01-669x1024.png )_ ** Download Here ** _ Filipino: [PDF](http://philippinerevolution.nu/wp-content/uploads/2023/02/20230207pi.pdf)
 
 News Source: [https://philippinerevolution.nu/2023/02/07/ang-bayan-february-7-2023/](https://philippinerevolution.nu/2023/02/07/ang-bayan-february-7-2023/)

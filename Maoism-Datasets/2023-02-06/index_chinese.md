@@ -150,7 +150,7 @@ News Source: [https://socialistiskrevolution.wordpress.com/2023/02/06/massive-st
 
 据总理达哈尔(Dahal)总理媒体专家Manaharitimilsina称，在会议期间，两位也是前同事的领导人就国家对全国所有毛主义部队的团聚的需求进行了讨论。
 
-两位领导人已同意形成社会主义力量的共同阵线，并在将来为团结准备基础。 蒂姆尔西纳(Timilsina)说，领导人对有效实施毛派力量团结的转型有效实施了相同的观点。
+两位领导人已同意形成社会主义力量的共同阵线，并为将来的团结准备基础。 蒂姆尔西纳(Timilsina)说，领导人对有效实施毛派力量团结的转型有效实施了相同的观点。
 
 有时，CPN领导人对与先前政府签署的戏剧进行了担忧。
 
@@ -534,7 +534,7 @@ Bandeiras在库里蒂巴市中心的帕迪尼奥帕迪尼广场上点燃(PR). Fo
 
 ![](Images/A Nova Democracia/2023-02-06T11-19-00-03-00/06_Linha_Verde_1_1.jpg)标志IADA NEX。 Fagundes Varela Station，AV。 绿线，库里蒂巴(PR). Foto: Banco de Dados AND
 
-![](Images/A Nova Democracia/2023-02-06T11-19-00-03-00/07_Rgis_bittencourt_atuba.jpg)我在库里蒂巴的阿塔巴附近的RégisBitencourtHighway上(PR). Foto:Banco de Dados AND
+![](Images/A Nova Democracia/2023-02-06T11-19-00-03-00/07_Rgis_bittencourt_atuba.jpg)我在库里蒂巴的阿塔巴附近的RégisBitencourtHighway上送来的国旗(PR). Foto:Banco de Dados AND
 
 ![](Images/A Nova Democracia/2023-02-06T11-19-00-03-00/08_Rgis_bittencourt_atuba_2_1.jpg)我在库里蒂巴的阿塔巴附近的RégisBitencourtHighway上(PR). Foto:Banco de Dados AND
 
@@ -872,7 +872,7 @@ Mato Grosso DO Sul
 
 ![](Images/A Nova Democracia/2023-02-06T11-19-00-03-00/015_Universidade_Federal_do_Ama.jpg)在亚马逊联邦大学放置的旗帜。 照片：数据库
 
-![](Images/A Nova Democracia/2023-02-06T11-19-00-03-00/IMG_8903limpo.jpg)涂鸦在州首府的马瑙斯发现。 照片：数据库和
+![](Images/A Nova Democracia/2023-02-06T11-19-00-03-00/IMG_8903limpo.jpg)涂鸦在州首府Manaus发现。 照片：数据库和
 
 ![](Images/A Nova Democracia/2023-02-06T11-19-00-03-00/009_Universidade_Estadual_do_Am.jpg)亚马逊州立大学的旗帜。 照片：数据库和
 
@@ -1552,7 +1552,8 @@ _该报告将进行更新。
 
 对口号进行了油漆，并在哥伦比亚市的梅德林市的不同地方放了标语。
 
-![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/26D-Col-2-min-1024x683.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/26D-Col-3-min-1024x683.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/26D-Col-5-min-1024x683.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/26D-Col-6-min-1024x683.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/26D-Col-8-min-1024x683.jpg)在哥伦比亚的波哥大举行旗帜和旗帜，以庆祝ICL的基础。  ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/DSCN0466.limpio-1024x768.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/DSCN0471.limpio-1024x768.jpg)####厄瓜多尔
+![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/26D-Col-2-min-1024x683.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/26D-Col-3-min-1024x683.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/26D-Col-5-min-1024x683.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/26D-Col-6-min-1024x683.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/26D-Col-8-min-1024x683.jpg)在哥伦比亚的波哥大举行旗帜和旗帜，以庆祝ICL的基础。  ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/DSCN0466.limpio-1024x768.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/DSCN0471.limpio-1024x768.jpg)
+#### 厄瓜多尔
 
 厄瓜多尔共产党成员Sol-Rojo分队的运动范围从涂漆，粘贴海报，分发Flyersto的位置。
 
@@ -1582,13 +1583,15 @@ _该报告将进行更新。
 
 由莫尔地区塔尔卡市的一支支队执行的行动：
 
-![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/1.limpio-edited-2.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/2.limpio-edited-scaled.jpg)#### 美国
+![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/1.limpio-edited-2.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/2.limpio-edited-scaled.jpg)
+####  美国
 
 在2022年12月26日上午，在美国德克萨斯州奥斯汀市，当时建立的国际共产主义联盟的10旗从I-35高速公路上方悬挂在英语和西班牙语中。
 
 ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/ATX_USA_1-1024x683.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/ATX_USA_2-1-1024x683.jpg)德克萨斯州奥斯丁的壁画上刻有口号：“在毛主义之下团结!以修正主义!”
 
-![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/ICL-propaganda-austin-texas-usa-1024x641.jpg)####芬兰
+![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/ICL-propaganda-austin-texas-usa-1024x641.jpg)
+#### 芬兰
 
 国际共产党联盟的旗帜和竞选口号的旗帜在坦佩雷和赫尔辛基举行。
 
@@ -1614,15 +1617,18 @@ _该报告将进行更新。
 
 口号”在毛主义下团结!与修正主义下来!” 在Denhaag绘画。
 
-![](ConvertedIMGs/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/thenetherlands.png)[关于毛主席董事长129岁生日的行动](https://communistischehamer.wordpress.com/2022/12/26/actie-betreffende-de-129e-geboortedag-van-voorzitter-mao/)### 火鸡
+![](ConvertedIMGs/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/thenetherlands.png)[关于毛主席董事长129岁生日的行动](https://communistischehamer.wordpress.com/2022/12/26/actie-betreffende-de-129e-geboortedag-van-voorzitter-mao/)
+###  火鸡
 
 该声明发表在土耳其语中：
 
-> [建立了国际共产党联盟](https://ikk-> online14.net/enternasyonal-komunist-birlik-kuruldu.html)### 挪威
+> [建立了国际共产党联盟](https://ikk-online14.net/enternasyonal-komunist-birlik-kuruldu.html)
+###  挪威
 
 在Trondheim，Kristiansand，Tromsø，Oslo和Bergen采取了行动。布置和旗帜被盖好，并绘制了口号。
 
-![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/trondheim1-1024x768.jpg)长期以来国际共产党联盟!![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/Kristiansand1-1024x768.jpg) ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/kristiansand2-1024x768.jpg) ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/tromso-1024x741.jpg) ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/tromso2-1024x768.jpg) ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/tromso3-1024x768.jpg)万岁的毛主义!长Livechairman Gonzalo!![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/bergen-1024x749.jpg)挪威语的完整报告：[https://tjen-folket.no/index.php/2022/12/27/aksjoner-for-internasjonalt-kommunistisk-forbund/](http://Full report in Norwegian: https://tjen-folket.no/index.php/2022/12/27/aksjoner-for-internasjonalt-kommunistisk-forbund/)### 德国
+![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/trondheim1-1024x768.jpg)长期以来国际共产党联盟!![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/Kristiansand1-1024x768.jpg) ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/kristiansand2-1024x768.jpg) ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/tromso-1024x741.jpg) ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/tromso2-1024x768.jpg) ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/tromso3-1024x768.jpg)万岁的毛主义!长Livechairman Gonzalo!![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/bergen-1024x749.jpg)挪威语的完整报告：[https://tjen-folket.no/index.php/2022/12/27/aksjoner-for-internasjonalt-kommunistisk-forbund/](http://Full report in Norwegian: https://tjen-folket.no/index.php/2022/12/27/aksjoner-for-internasjonalt-kommunistisk-forbund/)
+###  德国
 
 戴上了Dazibaos，并在埃森(Essen)，弗莱堡(Freiburgand Bremen)的城市绘制了口号。
 
@@ -1636,19 +1642,23 @@ _该报告将进行更新。
 
 ### 法国
 
-在24小时内，在24小时内将几条横幅部署在不同的城市中，这是在12月26日至27日至27日的ICL基础上诞生的周年纪念日。 在巴黎，第19区； 在凯恩； 里昂 图卢兹； Limoges，在主教上； 在圣埃蒂安(St. Etienne)和勒阿弗(Le Havre)。在布列塔尼(Brittany)的行动中，是在除夕之后的晚上和几天进行的，这是法国郊区的传统暴动和起义的夜晚。  ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/Brittany1.png)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/Brittany3.png)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/Brittany4.png)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/Brittany6.png)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/Brittany7-1024x654.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/Brittany11-1024x683.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/Brittany12-1024x683.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/Brittany13-1024x683.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/Brittany14-1024x683.jpg)###亚美尼亚
+在24小时内，在24小时内将几条横幅部署在不同的城市中，这是在12月26日至27日至27日的ICL基础上诞生的周年纪念日。 在巴黎，第19区； 在凯恩； 里昂 图卢兹； Limoges，在主教上； 在圣埃蒂安(St. Etienne)和勒阿弗(Le Havre)。在布列塔尼(Brittany)的行动中，是在除夕之后的晚上和几天进行的，这是法国郊区的传统暴动和起义的夜晚。  ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/Brittany1.png)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/Brittany3.png)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/Brittany4.png)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/Brittany6.png)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/Brittany7-1024x654.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/Brittany11-1024x683.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/Brittany12-1024x683.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/Brittany13-1024x683.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/Brittany14-1024x683.jpg)
+### 亚美尼亚
 
 著作《国际共产党联盟》(Live the International Communist League''，并在苏联政府于1991年建立的Stepan Shahoumian雕像上，Yerevan的超级中心部署了一条旗帜。
 
-![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/1_ICL_ARM-1024x471.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/2_ICL_ARM-677x1024.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/3_ICL_ARM-1024x575.jpg)### 俄罗斯
+![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/1_ICL_ARM-1024x471.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/2_ICL_ARM-677x1024.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/3_ICL_ARM-1024x575.jpg)
+###  俄罗斯
 
 国际共产党联盟的文件是翻译的。
 
-> [有关成功举行毛主义联合会>国际会议的历史新闻：国际共产党联盟建立了!](https://mlmkr.ru/%d0%b8%d1%81%d1%82%d0%be%d1%80%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b0%d1%8f-%d0%bd%d0%be%d0%b2%d0%be%d1%81%d1%82%d1%8c-%d0%be%d0%b1-%d1%83%d1%81%d0%bf%d0%b5%d1%88%d0%bd%d0%be%d0%bc-%d0%bf%d1%80%d0%be/)> [关于整个世界民间战争的课堂庆祝性循环法令](https://mlmkr.ru/%d0%bf%d0%be%d1%81%d1%82%d0%b0%d0%bd%d0%be%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5-%d0%be-%d0%ba%d0%bb%d0%b0%d1%81%d1%81%d0%be%d0%b2%d0%be%d0%bc-%d0%bf%d0%be%d0%b7%d0%b4%d1%80%d0%b0%d0%b2%d0%b8%d1%82/)> [对贡萨洛主席的特别感激法令和>检查点](https://mlmkr.ru/%d0%bf%d0%be%d1%81%d1%82%d0%b0%d0%bd%d0%be%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5-%d0%b2%d1%8b%d1%80%d0%b0%d0%b6%d0%b5%d0%bd%d0%b8%d1%8f-%d0%be%d1%81%d0%be%d0%b1%d0%be%d0%b9-%d0%bf%d1%80%d0%b8%d0%b7/)### 意大利
+> [有关成功举行毛主义联合会>国际会议的历史新闻：国际共产党联盟建立了!](https://mlmkr.ru/%d0%b8%d1%81%d1%82%d0%be%d1%80%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b0%d1%8f-%d0%bd%d0%be%d0%b2%d0%be%d1%81%d1%82%d1%8c-%d0%be%d0%b1-%d1%83%d1%81%d0%bf%d0%b5%d1%88%d0%bd%d0%be%d0%bc-%d0%bf%d1%80%d0%be/)> [关于整个世界民间战争的课堂庆祝性循环法令](https://mlmkr.ru/%d0%bf%d0%be%d1%81%d1%82%d0%b0%d0%bd%d0%be%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5-%d0%be-%d0%ba%d0%bb%d0%b0%d1%81%d1%81%d0%be%d0%b2%d0%be%d0%bc-%d0%bf%d0%be%d0%b7%d0%b4%d1%80%d0%b0%d0%b2%d0%b8%d1%82/)> [对贡萨洛主席的特别感激法令和>检查点](https://mlmkr.ru/%d0%bf%d0%be%d1%81%d1%82%d0%b0%d0%bd%d0%be%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5-%d0%b2%d1%8b%d1%80%d0%b0%d0%b6%d0%b5%d0%bd%d0%b8%d1%8f-%d0%be%d1%81%d0%be%d0%b1%d0%be%d0%b9-%d0%bf%d1%80%d0%b8%d0%b7/)
+###  意大利
 
 政治宣言被翻译成意大利语：
 
-[关于毛主义内部会议成功的历史新闻：共产党联盟成立](https://nuovaegemonia.com/2023/01/05/notizia-storica-sulla-riuscita-della-conferenza-internzaionale-maoista-unificata-fondata-la-lega-comunista-internazionale/)###西班牙国家
+[关于毛主义内部会议成功的历史新闻：共产党联盟成立](https://nuovaegemonia.com/2023/01/05/notizia-storica-sulla-riuscita-della-conferenza-internzaionale-maoista-unificata-fondata-la-lega-comunista-internazionale/)
+### 西班牙国家
 
 在能源垄断的前进和伊伯拉拉，银行Caixabank和Santander，一些外交中心，例如巴西大使馆和哥伦比亚大使馆，以及哥伦比亚式的一些外交中心，以及在马德里，马德里，瓦特里德，瓦莱德，瓦尔韦恩西亚，瓦尔德尼西亚和雇主和商业组织 ，Elche和Albacete。
 
@@ -1662,15 +1672,18 @@ _该报告将进行更新。
 
 ![](ConvertedIMGs/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/fa0976f79043340d08396ee216151eeabac2d2534c00f43ed31dc4a5abc82204.cleaned.png)
 
-![](ConvertedIMGs/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/santander2.cleaned.png)完整报告：[https：//serviralpuebloperiodico.wordpress.com/2022/12/12/12/aciones-por-la-fundacion-de-la-la-la-la-la-comunista-internacional-en-en-en-en-el-estado-estado-estado-espanol/](https://serviralpuebloperiodico.wordpress.com/2022/12/30/acciones-por-la-fundacion-de-la-liga-comunista-internacional-en-el-estado-espanol/)###奥地利
+![](ConvertedIMGs/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/santander2.cleaned.png)完整报告：[https：//serviraralpuebloperiodico.wordpress.com/2022/12/12/12/aciones-por-la-fundacion-de-la-la-la-la-la-comunista-internacional-en-en-en-en-el-estado-espanol/](https://serviralpuebloperiodico.wordpress.com/2022/12/30/acciones-por-la-fundacion-de-la-liga-comunista-internacional-en-el-estado-espanol/)
+### 奥地利
 
 奥地利已经采取了首次行动。 在午夜后不久，在新的2023年开始时，在维也纳的一个繁忙地方，横幅被放开，旗帜高。 “国际共产党联盟 -  IKB!”在新年的第一分钟内专心观看了数百名传球手的眼前，横幅展示了旗帜。
 
-![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/4799266cb2ecd8209ac7aa921d5e5c04.png)###丹麦
+![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/4799266cb2ecd8209ac7aa921d5e5c04.png)
+### 丹麦
 
 ICL的文件被转化为丹麦语。[IKF：向世界人民战争的课堂问候的决议](https://socialistiskrevolution.wordpress.com/2023/01/02/ikb-resolution-for-klassehilsener-til-folkekrigene-i-verden/)[IKF：贡萨洛总统和PKP总统的特殊认可](https://socialistiskrevolution.wordpress.com/2023/01/04/ikf-resolution-af-saerlig-anerkendelse-til-formand-gonzalo-og-pkp/)传单分布在哥本哈根和奥尔堡。
 
-![](ConvertedIMGs/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/1.png) ![](ConvertedIMGs/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/Aalborg2-2.png)###爱尔兰
+![](ConvertedIMGs/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/1.png) ![](ConvertedIMGs/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/Aalborg2-2.png)
+### 爱尔兰
 
 在爱尔兰，口号被画了。
 
@@ -1682,7 +1695,8 @@ ICL的文件被转化为丹麦语。[IKF：向世界人民战争的课堂问候�
 
 ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/D61E09FD-D01C-42E0-BD49-4E7CB100F984-576x1024.jpg)
 
-![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/F6FA7948-A9F7-454B-A3E7-D30397AA6BC9-576x1024.jpg)###瑞典
+![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/F6FA7948-A9F7-454B-A3E7-D30397AA6BC9-576x1024.jpg)
+### 瑞典
 
 ICL的文件发表在瑞典语中：
 
@@ -1716,7 +1730,8 @@ https://kommunisten.nu/?p=14149)在solna和uppsala中为ICL做出了动作。
 
 ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/zona_sul-edited.jpg)
 
-![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/001MSDOURADOS_1.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/2MSDOURADOS_1.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/003MSDOURADOS.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/5adwawdawdawd.jpg)完整报告：[https://www.anovademocracia.com.br/noticias/18567-acoes-celebram-fundacao-da-lci-no-brasil-brasil-atualizado-12-01](https://www.anovademocracia.com.br/noticias/18567-acoes-celebram-fundacao-da-lci-no-brasil-atualizado-12-01)### 德国
+![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/001MSDOURADOS_1.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/2MSDOURADOS_1.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/003MSDOURADOS.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/5adwawdawdawd.jpg)完整报告：[https://www.anovademocracia.com.br/noticias/18567-acoes-celebram-fundacao-da-lci-no-brasil-brasil-atualizado-12-01](https://www.anovademocracia.com.br/noticias/18567-acoes-celebram-fundacao-da-lci-no-brasil-atualizado-12-01)
+###  德国
 
 ### lll 2023：“国际共产党联盟万岁!”
 
@@ -1744,7 +1759,8 @@ https://kommunisten.nu/?p=14149)在solna和uppsala中为ICL做出了动作。
 
 ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/saopaolo3.jpg)
 
-![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/guarulhos3.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/riodejaneiro.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/rj2.jpg) ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/rj4.jpg) ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/rj5.jpg)### 火鸡
+![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/guarulhos3.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/riodejaneiro.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/rj2.jpg) ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/rj4.jpg) ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/rj5.jpg)
+###  火鸡
 
 TKP/ML武装分子向汉纳斯(Banners)悬挂在奥地利的林茨(Linz)，并建立了他们悬挂在瑞士inbasel的EKB的革命和共产主义的烈士。
 
@@ -1752,7 +1768,8 @@ TKP/ML武装分子向建立国际共产主义者致意(欧洲央行). They hung 
 
 ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/TKPML_Istanbul.cleaned-1024x464.png) ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/TKPML_Linz.cleaned.jpeg) ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/TKPML_Basel.cleaned.jpeg)完整文章：
 
-[TKP/ML武装分子致意建立国际共产党联盟(包括派对宣传)](https://www.yenidemokrasi32.net/tkp-ml-militanlari-enternasyonal-komunist-birlikin-kurulusunu-selamladi.html)[TKP/ML激进分子派对烈士和Ekb’yelimili](https://www.yenidemokrasi32.net/tkp-ml-militanlari-parti-sehitlerini-ve-ekbyi-selamladi.html)### 德国
+[TKP/ML武装分子致意建立国际共产党联盟(包括派对宣传)](https://www.yenidemokrasi32.net/tkp-ml-militanlari-enternasyonal-komunist-birlikin-kurulusunu-selamladi.html)[TKP/ML激进分子派对烈士和Ekb’yelimili](https://www.yenidemokrasi32.net/tkp-ml-militanlari-parti-sehitlerini-ve-ekbyi-selamladi.html)
+###  德国
 
 发布了今年LLL示范的视频：
 
@@ -1774,11 +1791,13 @@ TKP/ML武装分子向建立国际共产主义者致意(欧洲央行). They hung 
 
 在安提阿基亚大学的麦德林市采取了行动 TKP/ML召集的党的烈士和革命。
 
-![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/UdeA-3.cleaned-1024x576.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/UdeA-4.cleaned-1024x576.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/UdeA-7.cleaned-576x1024.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/UdeA-9.cleaned-1024x576.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/DSC_0015.limpio-1-1024x683.jpg) ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/DSC_0021.limpio-min-1024x683.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/DSC_0041.limpio-1024x683.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/DSC_0045.limpio-1024x683.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/DSC_0026.limpio-min-1024x683.jpg) ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/DSC_0034.limpio-min-1024x683.jpg)### 美国
+![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/UdeA-3.cleaned-1024x576.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/UdeA-4.cleaned-1024x576.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/UdeA-7.cleaned-576x1024.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/UdeA-9.cleaned-1024x576.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/DSC_0015.limpio-1-1024x683.jpg) ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/DSC_0021.limpio-min-1024x683.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/DSC_0041.limpio-1024x683.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/DSC_0045.limpio-1024x683.jpg)![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/DSC_0026.limpio-min-1024x683.jpg) ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/DSC_0034.limpio-min-1024x683.jpg)
+###  美国
 
 俄勒冈州尤金的革命者聚集在一起为ICL建立了演讲和庆祝活动，包括关于宣布的意义的演讲和讨论。
 
-![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/eugene-action-1024x528.jpeg)###智利  智利莫尔地区农民地区的Curicó省释放的行动：  ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/chile-curico.jpg)
+![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/eugene-action-1024x528.jpeg)
+### 智利  智利莫尔地区农民地区的Curicó省释放的行动：  ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/chile-curico.jpg)
 
 ![](Images/COMMUNIST INTERNATIONAL/2023-02-06T99-00-00-04-00/curico2.jpg)
 
@@ -1820,7 +1839,7 @@ News Source: [https://ci-ic.org/blog/2023/02/06/actions-carried-out-worldwide-on
 
 <!--METADATA-->
 
-![](图像/菲律宾革命网络中央/2023-02-07T00-16-58-00-00/2023020_REUSUSE-KUROT-POVERTY-929X1024.PNG)人民没有感到，尤其是穷人，骄傲的Nofinand Marcos Jr.(GDP或本地生产)菲律宾。 根据Kadamay集团的说法，可怜的菲律宾人的“远方”是马科斯耶(Marcosjr)的“发展”的“发展”。 他们不会期望“总统总统”能够遇到腹部的胃。
+![](Images/Philippine Revolution Web Central/2023-02-07T00-16-58-00-00/2023020_reused-kurot-kahirapan-929x1024.png )人民没有感到，尤其是穷人，骄傲的Nofinand Marcos Jr.(GDP或本地生产)菲律宾。 根据Kadamay集团的说法，可怜的菲律宾人的“远方”是马科斯耶(Marcosjr)的“发展”的“发展”。 他们不会期望“总统总统”能够遇到腹部的胃。
 
 可怜的人嘲笑马科斯(Marcos Jr)的统治为“饥饿时代”。 根据州统计，长达2000万(增加了230万)2022年的穷人。由于价格上涨，大部分饥饿感在去年10月至12月之间遭受了苦难。
 
@@ -1870,7 +1889,7 @@ News Source: [https://philippinerevolution.nu/2023/02/07/paglago-ng-gdp-malayo-s
 
 <!--METADATA-->
 
-![](图像/菲律宾革命网络中央/2023-02-07T00-17-58-00-00/iLocos-Norte-Municipalities-1024x745.png)全国民主党阵线伊洛洛科斯(Ilocos)谴责了菲律宾和美国士兵在伊洛克诺特(Ilocosnorte)的38次Balikatan练习的发射计划，于4月24日至27日。 根据初步新闻，它定为16,000名士兵。
+![](Images/Philippine Revolution Web Central/2023-02-07T00-17-58-00-00/ilocos-norte-municipalities-1024x745.png )全国民主党阵线伊洛洛科斯(Ilocos)谴责了菲律宾和美国士兵在伊洛克诺特(Ilocosnorte)的38次Balikatan练习的发射计划，于4月24日至27日。 根据初步新闻，它定为16,000名士兵。
 
 根据NDF-Ilocos的说法，这将是在Ilocosnorte发射的第二次军事演习。 菲律宾海军陆战队海军陆战队的联合训练于2022年6月在Currimao和Laoag City首次进行。
 
@@ -1902,7 +1921,7 @@ News Source: [https://philippinerevolution.nu/2023/02/07/planong-ehersisyong-mil
 
 <!--METADATA-->
 
-![](图像/菲律宾革命网络中央/2023-02-07T00-18-01-00-00/northern-samar-armed-action-action-1024x502.jpeg)由新人民报道(BHB) - 南方武装行动近几个月来针对该岛南部的瘟疫警察部队发起。
+![](Images/Philippine Revolution Web Central/2023-02-07T00-18-01-00-00/northern-samar-armed-action-1024x502.jpeg )由新人民报道(BHB) - 南方武装行动近几个月来针对该岛南部的瘟疫警察部队发起。
 
 NPA部门于2月1日在伊洛伊洛(Iloilo)的Barangay Mayang，伊洛伊(Iloilo Mobilecoman)的第二排，伊洛伊洛(Iloilo Mobilocompany)的警察部队发射。
 
@@ -1934,13 +1953,13 @@ News Source: [https://philippinerevolution.nu/2023/02/07/pulis-sa-southern-panay
 
 <!--METADATA-->
 
-![](图像/菲律宾革命网络中央/2023-02-07T00-19-01-00-00/20230207_EDOTORIAL-CARTOON-1024X724.PNG)对于现任木偶国家的负责人菲律宾人费迪南德·马科斯(Ferdinand Marcos Jr.
+![](Images/Philippine Revolution Web Central/2023-02-07T00-19-01-00-00/20230207_editorial-cartoon-1024x724.png )对于现任木偶国家的负责人菲律宾人费迪南德·马科斯(Ferdinand Marcos Jr.
 
 这些原因约束并促使人们起义超过三十年后。 今天，它也束缚了他们，以努力晋升和捍卫自己的权利和福祉，以及他们对真正谚语和民主的渴望。 像父亲独裁者一样，小马科斯(Marcos Jr.
 
 小马科斯(Marcos Jr.
 
-新自由主义政策由他的父亲始于1970年代马科斯(Marcos Jr.)。 他将Todo-largangliblelization推向投资和进口，代表“全开门”。 它给予外国资本家的所有优惠和承诺，尤其是对工人和非税收的低工资。 外国资本家还获得了农民和少数民族公民的土地以及山脉，河流和海洋的财富的最自由。
+新自由主义政策由他的父亲始于1970年代马科斯(Marcos Jr.)。 他将Todo-largangliblelization推向投资和进口，代表“全门开门”。 它给予外国资本家的所有优惠和承诺，尤其是对工人和非税收的低工资。 外国资本家还获得了农民和少数民族公民的土地以及山脉，河流和海洋的财富的最自由。
 
 几十年来，这些政策破坏了人民的生计，菲律宾的当地生产和经济。 代表进口自由化，该国的外国商品被允许堆积，尤其是在农业中。 由于进口大米，多样性，洋葱，大蒜甚至盐的量，农民群众不再能够呼吸。 资产阶级的组成部分代表放松管制，是大型组成部分和进口商Atismagler(通常是同一个人或家庭)使商品的价格过高。
 
@@ -2012,6 +2031,6 @@ News Source: [https://philippinerevolution.nu/2023/02/07/pagdiriwang-at-pagsasan
 
 <!--METADATA-->
 
-![](图像/菲律宾革命网络中央/2023-02-07T00-20-53-00-00/20230207PI-01-669X1024.PNG)_ **在这里下载** _菲律宾：[PDF](http://philippinerevolution.nu/wp-content/uploads/2023/02/20230207pi.pdf)
+![](Images/Philippine Revolution Web Central/2023-02-07T00-20-53-00-00/20230207pi-01-669x1024.png )_ **在这里下载** _菲律宾：[PDF](http://philippinerevolution.nu/wp-content/uploads/2023/02/20230207pi.pdf)
 
 News Source: [https://philippinerevolution.nu/2023/02/07/ang-bayan-february-7-2023/](https://philippinerevolution.nu/2023/02/07/ang-bayan-february-7-2023/)
